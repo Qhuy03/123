@@ -1,0 +1,2505 @@
+[
+    {
+        "product_shop": "46270",
+        "product_name": "Bộ quần áo bảo hộ lao động, đồng phục kỹ sư chất liệu thoáng mát",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ac/df/d1/e6ac4d3978c95595751da738d8743ca3.jpg",
+            "https://salt.tikicdn.com/ts/product/fa/44/68/bfc097cd0ce1984f6f23935e90023ca0.jpg",
+            "https://salt.tikicdn.com/ts/product/da/c2/7c/d6ee40a16b7ff09135d05e76ff246f6d.jpg",
+            "https://salt.tikicdn.com/ts/product/3f/bc/f8/8418b09c9976d5db453a539bbe93d0fc.jpg",
+            "https://salt.tikicdn.com/ts/product/4b/3d/2f/aec66a7267bc6633af3a26f31b0a2cdf.jpg"
+        ],
+        "product_description": "<p>- Tên sản phẩm: Quần áo bảo hộ lao động, đồng phục kỹ sư chất liệu thoáng mát </p>\n<p> </p>\n<p>- Size: 5, 6, 7, 8</p>\n<p> </p>\n<p>- Màu sắc: Xám phối ghi</p>\n<p> </p>\n<p>- Chất liệu vải: Rất bền, tương đối thoáng mát; đặc biệt với khả năng hút ẩm cao, chống nhăn, chống phai màu tốt ngay cả khi hoạt động nhiều.</p>\n<p> </p>\n<p>- Kiểu dáng, thiết kế:Các chi tiết áo đều được thiết kế khá đơn giản với 2 túi nhỏ trước ngực tiện lợi, 2 túi chéo ở 2 bên hông, và 1 túi nhỏ nằm trên cánh tay.</p>\n<p> </p>\n<p>- Công nghệ may:Đường chỉ và khuy áo đều được may chắc chắn. Các cúc áo được làm bằng nhựa tốt, có màu phù hợp.</p>\n<p> </p>\n<p>- Công dụng:Phù hợp cho người lao động thường phải làm việc trong môi trường nhiều bụi bẩn, dầu mỡ...</p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/d6/44/69/87bc2cb6df43f7aca3db8fee681e6eed.jpg_.webp\" alt=\"09ebf7ca14cafeac69841cfa488eb817.jpg_2200x2200q80.jpg_.webp\" /></p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 295000,
+        "product_quantity": 3716,
+        "product_category": [
+            "Bộ trang phục ngành nghề cho nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Linchido",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "3 Ngày"
+        },
+        "product_variations": [
+            {
+                "name": "sz",
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            },
+            {
+                "name": "Màu",
+                "options": [
+                    "AKS01",
+                    "AKS03",
+                    "AKS04"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 295000,
+                "sku_stock": 9390
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 295000,
+                "sku_stock": 4545
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 295000,
+                "sku_stock": 4915
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 295000,
+                "sku_stock": 4818
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 295000,
+                "sku_stock": 3269
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 295000,
+                "sku_stock": 3003
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 295000,
+                "sku_stock": 4319
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 295000,
+                "sku_stock": 7143
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 295000,
+                "sku_stock": 9536
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 295000,
+                "sku_stock": 3964
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 295000,
+                "sku_stock": 4103
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 295000,
+                "sku_stock": 5193
+            }
+        ]
+    },
+    {
+        "product_shop": "46270",
+        "product_name": "Áo phản quang lưới thun 2 bên thoáng mát, bền, đẹp - Mã THUN01",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/df/83/45/13d193022ef0d53b891a6fdc540ae985.jpg",
+            "https://salt.tikicdn.com/ts/product/0d/5b/5e/ed98c5f7c67a767c3f1eba06245051d2.jpg",
+            "https://salt.tikicdn.com/ts/product/11/3a/24/8983d41547e50db08483f0f977b95eb9.jpg",
+            "https://salt.tikicdn.com/ts/product/15/70/0f/9d183cdfb293637d51f471227af3ae9b.jpg",
+            "https://salt.tikicdn.com/ts/product/cd/f4/43/3552d7b1575e4082d210f0fbbcb212e8.jpg",
+            "https://salt.tikicdn.com/ts/product/b9/c1/40/02f0e7c932717d1cc05196130d1b45be.jpg",
+            "https://salt.tikicdn.com/ts/product/2f/94/43/1b43addf8806d46bccdd8c01f6da5cc0.jpg",
+            "https://salt.tikicdn.com/ts/product/80/97/ab/8a175dbbb273216ca092617e2de78282.jpg",
+            "https://salt.tikicdn.com/ts/product/1d/1f/72/fd6eaceafb168a3e56365021587c6da0.jpg"
+        ],
+        "product_description": "<ul>\n<li>\n<div>Chất liệu: 100% vải lưới polyester</div>\n</li>\n<li>\n<div>Màu sắc: Đa dạng màu sắc tuỳ theo nhu cầu đặt may của công ty</div>\n</li>\n<li>\n<div>Công nghệ nhuộm: Nhuộm lạnh, cầm màu tuyệt đối</div>\n</li>\n<li>\n<div>Chi tiết phản quang: Phản Quang được may tỉ mỉ hai sọc bụng.</div>\n</li>\n<li>\n<div>Thoát khí: Lưới X5 giúp thoáng mát và khô ráo ngày dài</div>\n</li>\n<li>\n<div>Sản xuất tại Việt Nam</div>\n</li>\n</ul>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/c2/28/44/8f0c8ba29bb6b88270c7ffe8d53fd969.jpg\" alt=\"\" width=\"750\" height=\"421\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 63000,
+        "product_quantity": 4857,
+        "product_category": [
+            "Bộ trang phục ngành nghề cho nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Linchido",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Số lượng",
+                "options": [
+                    "1 Áo",
+                    "10 Áo",
+                    "5 Áo",
+                    "50 Áo"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 63000,
+                "sku_stock": 3895
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 63000,
+                "sku_stock": 2113
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 63000,
+                "sku_stock": 4029
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 63000,
+                "sku_stock": 5985
+            }
+        ]
+    },
+    {
+        "product_shop": "46270",
+        "product_name": "Áo bảo hộ lao động, chất liệu thoáng mát, bền đẹp - Mã C09",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d7/03/7e/99d8d3cc1299a0bb0f540baa616fb943.jpg",
+            "https://salt.tikicdn.com/ts/product/b4/fb/ba/8f14af142f8be01f8537a6c94fa7775a.jpg",
+            "https://salt.tikicdn.com/ts/product/59/ed/e9/c1b2c47e100e4f165cfc175056b79ed2.jpg",
+            "https://salt.tikicdn.com/ts/product/2c/fa/e6/c2a0e7302f5bdff98c7fcb33249910e7.jpg",
+            "https://salt.tikicdn.com/ts/product/fc/c5/ff/6170cd52151c1da4f1bea5044e6fe1aa.jpg",
+            "https://salt.tikicdn.com/ts/product/1a/2a/2f/bbafd40727fa97804f17d4aadc3bd993.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/df/8c/52316b58471615bc60ee59a6c27d68f1.jpg",
+            "https://salt.tikicdn.com/ts/product/df/65/6b/993086550dfae0732415f731ed67c1fa.jpg",
+            "https://salt.tikicdn.com/ts/product/72/9e/bf/023dfb560455210a8770d115b6c994e4.jpg"
+        ],
+        "product_description": "<ul>\n<li>Chất liệu: Vải kaki chéo 2/1, không bị xù lông.</li>\n<li>Tính năng: Bảo vệ cơ thể người mặc trước các yếu tố môi trường tại nơi làm việc.</li>\n<li>Khả năng vệ sinh: Vải được làm từ chất liệu polyester cao cấp dễ vệ sinh vết bẩn như dầu mỡ, dầu nhớt, cà phê…</li>\n<li>Khả năng thấm hút tốt, mặc mát.</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 165000,
+        "product_quantity": 6209,
+        "product_category": [
+            "Bộ trang phục ngành nghề cho nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Linchido",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Số lượng",
+                "options": [
+                    "1 Áo",
+                    "10 Áo",
+                    "5 Áo",
+                    "50 Áo"
+                ]
+            },
+            {
+                "name": "size",
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 3426
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5058
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6763
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6131
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 3936
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 3092
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4904
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9739
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8143
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9543
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2252
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7742
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4300
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1072
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5465
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4613
+            }
+        ]
+    },
+    {
+        "product_shop": "46270",
+        "product_name": "Áo bảo hộ lao động, chất liệu thoáng mát, bền đẹp - Mã C16",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/de/15/c8/aca774c0c8da041c9447d2a632461064.jpg",
+            "https://salt.tikicdn.com/ts/product/cd/7c/bf/fa278cc04b70d0985c1dde55099fcee3.jpg",
+            "https://salt.tikicdn.com/ts/product/a4/fc/22/01a53224ffa7f31628a1e3d30398216f.jpg",
+            "https://salt.tikicdn.com/ts/product/85/49/7f/3dbdcc455f666fe3efbd7f7058050b06.jpg",
+            "https://salt.tikicdn.com/ts/product/6d/88/68/f9405e61968fa76fe66d0035f86bded8.jpg",
+            "https://salt.tikicdn.com/ts/product/f0/c8/6f/ed872f84575ce1f1c9d82ae2d4b703c6.jpg",
+            "https://salt.tikicdn.com/ts/product/c0/a4/bb/95b36c49d565a56a031db9049eb86139.jpg",
+            "https://salt.tikicdn.com/ts/product/ec/3f/e1/d551ee6d5bead89715cd4ae8875fc543.jpg",
+            "https://salt.tikicdn.com/ts/product/1f/01/81/22bab1a33754ce76264171fb4821a837.jpg"
+        ],
+        "product_description": "<ul>\n<li>Chất liệu: Vải kaki chéo 2/1, không bị xù lông.</li>\n<li>Tính năng: Bảo vệ cơ thể người mặc trước các yếu tố môi trường tại nơi làm việc.</li>\n<li>Khả năng vệ sinh: Vải được làm từ chất liệu polyester cao cấp dễ vệ sinh vết bẩn như dầu mỡ, dầu nhớt, cà phê…</li>\n<li>Khả năng thấm hút tốt, mặc mát.</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 165000,
+        "product_quantity": 9297,
+        "product_category": [
+            "Bộ trang phục ngành nghề cho nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Linchido",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "size",
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            },
+            {
+                "name": "Số lượng",
+                "options": [
+                    "1 Áo",
+                    "10 Áo",
+                    "5 Áo",
+                    "50 Áo"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6195
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6087
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8772
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9556
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7279
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2202
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5147
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6517
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1677
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7104
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8130
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1828
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6639
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1446
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6038
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2478
+            }
+        ]
+    },
+    {
+        "product_shop": "46270",
+        "product_name": "Áo bảo hộ lao động, chất liệu thoáng mát, bền đẹp - Mã C14",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/7c/12/ae/ac4aeeba925c193e779b8608811692f8.jpg",
+            "https://salt.tikicdn.com/ts/product/12/13/1c/34aedfbbf07025cfff95d6bd3978e9c5.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/f6/46/969d077d63e7d4cd146db0aec44ba582.jpg",
+            "https://salt.tikicdn.com/ts/product/10/fa/d4/4a6db70f39d7409a060a5354b9266eb4.jpg",
+            "https://salt.tikicdn.com/ts/product/98/59/8b/74a9f80e765f36038b41d4a2d206f83b.jpg",
+            "https://salt.tikicdn.com/ts/product/e8/75/c3/8a376cafe900b9cb87d2f6d34f61c77f.jpg",
+            "https://salt.tikicdn.com/ts/product/1c/6b/cf/eaf19b3e5eb329f3867dfc3d40c301b1.jpg",
+            "https://salt.tikicdn.com/ts/product/50/66/47/3f959fe7562b540b024b2f950c55c5f7.jpg",
+            "https://salt.tikicdn.com/ts/product/02/09/8a/e55f9e57b669a1fb3dce7949fd9b6b2d.jpg"
+        ],
+        "product_description": "<ul>\n<li>Chất liệu: Vải kaki chéo 2/1, không bị xù lông.</li>\n<li>Tính năng: Bảo vệ cơ thể người mặc trước các yếu tố môi trường tại nơi làm việc.</li>\n<li>Khả năng vệ sinh: Vải được làm từ chất liệu polyester cao cấp dễ vệ sinh vết bẩn như dầu mỡ, dầu nhớt, cà phê…</li>\n<li>Khả năng thấm hút tốt, mặc mát.</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 165000,
+        "product_quantity": 3568,
+        "product_category": [
+            "Bộ trang phục ngành nghề cho nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Linchido",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "size",
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            },
+            {
+                "name": "Số lượng",
+                "options": [
+                    "1 Áo",
+                    "10 Áo",
+                    "5 Áo",
+                    "50 Áo"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8433
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 3832
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5701
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8872
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4843
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5496
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2563
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9589
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8971
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8030
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7223
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7339
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4590
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5470
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9735
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 3658
+            }
+        ]
+    },
+    {
+        "product_shop": "46270",
+        "product_name": "Áo bảo hộ lao động, chất liệu thoáng mát, bền đẹp - Mã C02 ( Xám Trắng)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/dc/c5/7c/3e62c8824019b549381fb785504f939b.jpg",
+            "https://salt.tikicdn.com/ts/product/4b/17/99/b5be6859812e5cf3335c13f1229c7549.jpg",
+            "https://salt.tikicdn.com/ts/product/05/fc/f2/0e67475f2ed02ca2e581cf286dff5fbb.jpg",
+            "https://salt.tikicdn.com/ts/product/65/a6/53/1d2b3b20370c3250432ad60b7fe81cea.jpg",
+            "https://salt.tikicdn.com/ts/product/6c/77/bb/5581c3fdd89276c3d69a6dc798b57a50.jpg",
+            "https://salt.tikicdn.com/ts/product/c0/ae/17/7e486c6b7d81a9f8dd58a053550a48fa.jpg",
+            "https://salt.tikicdn.com/ts/product/e5/4e/e3/e109c00f29cfd49d8b2cb6f5c65f8dea.jpg",
+            "https://salt.tikicdn.com/ts/product/10/65/c8/7b7f5932e4770a3fbe6f1d52f0bc77ff.jpg",
+            "https://salt.tikicdn.com/ts/product/17/f1/b7/ec439a60891b74d9f20635398b795c14.jpg",
+            "https://salt.tikicdn.com/ts/product/24/de/71/cb94f61cd51e47e53fadf8fa386d00f7.jpg"
+        ],
+        "product_description": "<ul>\n<li>Chất liệu: Vải kaki chéo 2/1, không bị xù lông.</li>\n<li>Tính năng: Bảo vệ cơ thể người mặc trước các yếu tố môi trường tại nơi làm việc.</li>\n<li>Khả năng vệ sinh: Vải được làm từ chất liệu polyester cao cấp dễ vệ sinh vết bẩn như dầu mỡ, dầu nhớt, cà phê…</li>\n<li>Khả năng thấm hút tốt, mặc mát.</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 165000,
+        "product_quantity": 3742,
+        "product_category": [
+            "Bộ trang phục ngành nghề cho nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Linchido",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "size",
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            },
+            {
+                "name": "Số lượng",
+                "options": [
+                    "1 Áo",
+                    "10 Áo",
+                    "5 Áo",
+                    "50 Áo"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8384
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9745
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 3164
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1509
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9284
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2258
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9422
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2329
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 3186
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6243
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7715
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9871
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1482
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6108
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5029
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1746
+            }
+        ]
+    },
+    {
+        "product_shop": "46270",
+        "product_name": "Áo bảo hộ lao động, chất liệu thoáng mát, bền đẹp - Mã C16",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/de/15/c8/aca774c0c8da041c9447d2a632461064.jpg",
+            "https://salt.tikicdn.com/ts/product/cd/7c/bf/fa278cc04b70d0985c1dde55099fcee3.jpg",
+            "https://salt.tikicdn.com/ts/product/a4/fc/22/01a53224ffa7f31628a1e3d30398216f.jpg",
+            "https://salt.tikicdn.com/ts/product/85/49/7f/3dbdcc455f666fe3efbd7f7058050b06.jpg",
+            "https://salt.tikicdn.com/ts/product/6d/88/68/f9405e61968fa76fe66d0035f86bded8.jpg",
+            "https://salt.tikicdn.com/ts/product/f0/c8/6f/ed872f84575ce1f1c9d82ae2d4b703c6.jpg",
+            "https://salt.tikicdn.com/ts/product/c0/a4/bb/95b36c49d565a56a031db9049eb86139.jpg",
+            "https://salt.tikicdn.com/ts/product/ec/3f/e1/d551ee6d5bead89715cd4ae8875fc543.jpg",
+            "https://salt.tikicdn.com/ts/product/1f/01/81/22bab1a33754ce76264171fb4821a837.jpg"
+        ],
+        "product_description": "<ul>\n<li>Chất liệu: Vải kaki chéo 2/1, không bị xù lông.</li>\n<li>Tính năng: Bảo vệ cơ thể người mặc trước các yếu tố môi trường tại nơi làm việc.</li>\n<li>Khả năng vệ sinh: Vải được làm từ chất liệu polyester cao cấp dễ vệ sinh vết bẩn như dầu mỡ, dầu nhớt, cà phê…</li>\n<li>Khả năng thấm hút tốt, mặc mát.</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 165000,
+        "product_quantity": 2432,
+        "product_category": [
+            "Bộ trang phục ngành nghề cho nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Linchido",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "size",
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            },
+            {
+                "name": "Số lượng",
+                "options": [
+                    "1 Áo",
+                    "10 Áo",
+                    "5 Áo",
+                    "50 Áo"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2175
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7825
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 3323
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7816
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7173
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9735
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8777
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9557
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5972
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9141
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8728
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6850
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9790
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4435
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2590
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7831
+            }
+        ]
+    },
+    {
+        "product_shop": "46270",
+        "product_name": "Áo bảo hộ lao động, chất liệu thoáng mát, bền đẹp - Mã C09",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d7/03/7e/99d8d3cc1299a0bb0f540baa616fb943.jpg",
+            "https://salt.tikicdn.com/ts/product/b4/fb/ba/8f14af142f8be01f8537a6c94fa7775a.jpg",
+            "https://salt.tikicdn.com/ts/product/59/ed/e9/c1b2c47e100e4f165cfc175056b79ed2.jpg",
+            "https://salt.tikicdn.com/ts/product/2c/fa/e6/c2a0e7302f5bdff98c7fcb33249910e7.jpg",
+            "https://salt.tikicdn.com/ts/product/fc/c5/ff/6170cd52151c1da4f1bea5044e6fe1aa.jpg",
+            "https://salt.tikicdn.com/ts/product/1a/2a/2f/bbafd40727fa97804f17d4aadc3bd993.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/df/8c/52316b58471615bc60ee59a6c27d68f1.jpg",
+            "https://salt.tikicdn.com/ts/product/df/65/6b/993086550dfae0732415f731ed67c1fa.jpg",
+            "https://salt.tikicdn.com/ts/product/72/9e/bf/023dfb560455210a8770d115b6c994e4.jpg"
+        ],
+        "product_description": "<ul>\n<li>Chất liệu: Vải kaki chéo 2/1, không bị xù lông.</li>\n<li>Tính năng: Bảo vệ cơ thể người mặc trước các yếu tố môi trường tại nơi làm việc.</li>\n<li>Khả năng vệ sinh: Vải được làm từ chất liệu polyester cao cấp dễ vệ sinh vết bẩn như dầu mỡ, dầu nhớt, cà phê…</li>\n<li>Khả năng thấm hút tốt, mặc mát.</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 165000,
+        "product_quantity": 9275,
+        "product_category": [
+            "Bộ trang phục ngành nghề cho nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Linchido",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Số lượng",
+                "options": [
+                    "1 Áo",
+                    "10 Áo",
+                    "5 Áo",
+                    "50 Áo"
+                ]
+            },
+            {
+                "name": "size",
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6910
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4111
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5074
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6287
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9701
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8807
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4151
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1005
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7681
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1062
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4870
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6835
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9368
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 3633
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7462
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1298
+            }
+        ]
+    },
+    {
+        "product_shop": "46270",
+        "product_name": "Áo bảo hộ lao động, chất liệu thoáng mát, bền đẹp - Mã C14",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/7c/12/ae/ac4aeeba925c193e779b8608811692f8.jpg",
+            "https://salt.tikicdn.com/ts/product/12/13/1c/34aedfbbf07025cfff95d6bd3978e9c5.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/f6/46/969d077d63e7d4cd146db0aec44ba582.jpg",
+            "https://salt.tikicdn.com/ts/product/10/fa/d4/4a6db70f39d7409a060a5354b9266eb4.jpg",
+            "https://salt.tikicdn.com/ts/product/98/59/8b/74a9f80e765f36038b41d4a2d206f83b.jpg",
+            "https://salt.tikicdn.com/ts/product/e8/75/c3/8a376cafe900b9cb87d2f6d34f61c77f.jpg",
+            "https://salt.tikicdn.com/ts/product/1c/6b/cf/eaf19b3e5eb329f3867dfc3d40c301b1.jpg",
+            "https://salt.tikicdn.com/ts/product/50/66/47/3f959fe7562b540b024b2f950c55c5f7.jpg",
+            "https://salt.tikicdn.com/ts/product/02/09/8a/e55f9e57b669a1fb3dce7949fd9b6b2d.jpg"
+        ],
+        "product_description": "<ul>\n<li>Chất liệu: Vải kaki chéo 2/1, không bị xù lông.</li>\n<li>Tính năng: Bảo vệ cơ thể người mặc trước các yếu tố môi trường tại nơi làm việc.</li>\n<li>Khả năng vệ sinh: Vải được làm từ chất liệu polyester cao cấp dễ vệ sinh vết bẩn như dầu mỡ, dầu nhớt, cà phê…</li>\n<li>Khả năng thấm hút tốt, mặc mát.</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 165000,
+        "product_quantity": 5808,
+        "product_category": [
+            "Bộ trang phục ngành nghề cho nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Linchido",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "size",
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            },
+            {
+                "name": "Số lượng",
+                "options": [
+                    "1 Áo",
+                    "10 Áo",
+                    "5 Áo",
+                    "50 Áo"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7140
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6533
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5014
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1981
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6494
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2009
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7984
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1490
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5246
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5027
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8833
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8249
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2989
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2276
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5618
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1458
+            }
+        ]
+    },
+    {
+        "product_shop": "46270",
+        "product_name": "Áo phản quang lưới thun 2 bên thoáng mát, bền, đẹp - Mã THUN02",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/2d/78/19/226022405bae93152d95a8dbfd0c1e7b.jpg",
+            "https://salt.tikicdn.com/ts/product/74/4e/d0/e4698388bdf01d9f3720721d6563fe09.jpg",
+            "https://salt.tikicdn.com/ts/product/a4/47/da/7fc25baa5e67f6a02d0d491e6288d560.jpg",
+            "https://salt.tikicdn.com/ts/product/38/24/b2/5d51c58ec527fc7bd2ef44011feaa210.jpg",
+            "https://salt.tikicdn.com/ts/product/52/b5/01/060a859ff36e2aed1b12aa6a14602ec4.jpg",
+            "https://salt.tikicdn.com/ts/product/2e/0e/ac/c860d0ad14cd35160d7833d0394f00e5.jpg",
+            "https://salt.tikicdn.com/ts/product/c8/e4/04/d19e5d67504983d10f6be225125fa1cd.jpg",
+            "https://salt.tikicdn.com/ts/product/f9/d2/5f/fdf97414bb7795201227234f538cd4a3.jpg",
+            "https://salt.tikicdn.com/ts/product/73/f4/40/9405d248574f108988672a66c3cfcefd.jpg"
+        ],
+        "product_description": "<ul>\n<li>\n<div>Chất liệu: 100% vải lưới polyester</div>\n</li>\n<li>\n<div>Màu sắc: Đa dạng màu sắc tuỳ theo nhu cầu đặt may của công ty</div>\n</li>\n<li>\n<div>Công nghệ nhuộm: Nhuộm lạnh, cầm màu tuyệt đối</div>\n</li>\n<li>\n<div>Chi tiết phản quang: Phản Quang được may tỉ mỉ hai sọc bụng.</div>\n</li>\n<li>\n<div>Thoát khí: Lưới X5 giúp thoáng mát và khô ráo ngày dài</div>\n</li>\n<li>\n<div>Sản xuất tại Việt Nam</div>\n</li>\n</ul>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 63000,
+        "product_quantity": 6214,
+        "product_category": [
+            "Bộ trang phục truyền thống nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Linchido",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "3 Ngày"
+        },
+        "product_variations": [
+            {
+                "name": "Số Lượng",
+                "options": [
+                    "1 Áo",
+                    "10 Áo",
+                    "5 Áo",
+                    "50 Áo"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 63000,
+                "sku_stock": 1397
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 63000,
+                "sku_stock": 5568
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 63000,
+                "sku_stock": 6033
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 63000,
+                "sku_stock": 1267
+            }
+        ]
+    },
+    null,
+    {
+        "product_shop": "46270",
+        "product_name": "Áo phản quang lưới thun 2 bên thoáng mát, bền, đẹp - Mã THUN01",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/df/83/45/13d193022ef0d53b891a6fdc540ae985.jpg",
+            "https://salt.tikicdn.com/ts/product/0d/5b/5e/ed98c5f7c67a767c3f1eba06245051d2.jpg",
+            "https://salt.tikicdn.com/ts/product/11/3a/24/8983d41547e50db08483f0f977b95eb9.jpg",
+            "https://salt.tikicdn.com/ts/product/15/70/0f/9d183cdfb293637d51f471227af3ae9b.jpg",
+            "https://salt.tikicdn.com/ts/product/cd/f4/43/3552d7b1575e4082d210f0fbbcb212e8.jpg",
+            "https://salt.tikicdn.com/ts/product/b9/c1/40/02f0e7c932717d1cc05196130d1b45be.jpg",
+            "https://salt.tikicdn.com/ts/product/2f/94/43/1b43addf8806d46bccdd8c01f6da5cc0.jpg",
+            "https://salt.tikicdn.com/ts/product/80/97/ab/8a175dbbb273216ca092617e2de78282.jpg",
+            "https://salt.tikicdn.com/ts/product/1d/1f/72/fd6eaceafb168a3e56365021587c6da0.jpg"
+        ],
+        "product_description": "<ul>\n<li>\n<div>Chất liệu: 100% vải lưới polyester</div>\n</li>\n<li>\n<div>Màu sắc: Đa dạng màu sắc tuỳ theo nhu cầu đặt may của công ty</div>\n</li>\n<li>\n<div>Công nghệ nhuộm: Nhuộm lạnh, cầm màu tuyệt đối</div>\n</li>\n<li>\n<div>Chi tiết phản quang: Phản Quang được may tỉ mỉ hai sọc bụng.</div>\n</li>\n<li>\n<div>Thoát khí: Lưới X5 giúp thoáng mát và khô ráo ngày dài</div>\n</li>\n<li>\n<div>Sản xuất tại Việt Nam</div>\n</li>\n</ul>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/c2/28/44/8f0c8ba29bb6b88270c7ffe8d53fd969.jpg\" alt=\"\" width=\"750\" height=\"421\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 63000,
+        "product_quantity": 2013,
+        "product_category": [
+            "Bộ trang phục ngành nghề cho nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Linchido",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Số lượng",
+                "options": [
+                    "1 Áo",
+                    "10 Áo",
+                    "5 Áo",
+                    "50 Áo"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 63000,
+                "sku_stock": 8933
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 63000,
+                "sku_stock": 3768
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 63000,
+                "sku_stock": 6824
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 63000,
+                "sku_stock": 6694
+            }
+        ]
+    },
+    {
+        "product_shop": "93096",
+        "product_name": "Set bộ nam gồm áo sơ mi cổ trụ dài tay phối quần suông dài lưng thun basic vải Linen thoáng mát sang trọng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/5e/b0/73/ed6abbf5638f0750e6742e9ad64eead0.jpg",
+            "https://salt.tikicdn.com/ts/product/54/87/55/f4381736cf9ae91a309dcd3b88a0b01a.jpg",
+            "https://salt.tikicdn.com/ts/product/20/a5/22/de13a8032056effc052060485207fcbc.jpg",
+            "https://salt.tikicdn.com/ts/product/f5/df/58/e550372cd6dfc0b407d7b437ed5a21d4.jpg",
+            "https://salt.tikicdn.com/ts/product/a0/4b/b9/f33b910232a358dc7f3953d51bdf0d66.jpg",
+            "https://salt.tikicdn.com/ts/product/09/fb/0b/2b753b203d01552ff51b5ae98b22f77b.jpg",
+            "https://salt.tikicdn.com/ts/product/30/34/82/1e012cc80bae133d047b6f4cdb03acf5.jpg",
+            "https://salt.tikicdn.com/ts/product/8c/e9/16/aea58dd321ad6d3fd290f731d674ecc9.jpg",
+            "https://salt.tikicdn.com/ts/product/02/cf/2d/1694eefd9df08d6e16186370c7d40c96.jpg",
+            "https://salt.tikicdn.com/ts/product/03/84/dd/c66e229f511bf0885de5c2e4e1ddc832.jpg"
+        ],
+        "product_description": "<p>MÔ TẢ SẢN PHẨM<br />1. Tên sản phẩm: Áo Sơ Mi Nam + Quần dai suông<br />Dáng áo: form suông, dài tay<br />Dáng quần: suông,lưng thun<br />Màu sắc: màu trắng<br />Chất vải: Vải linen bột cao cấp<br />Họa Tiết: Trơn</p>\n<p>Hướng dẫn chọn size:<br />SIZE M: &lt; 60 Kg<br />SIZE L: 61Kg - 68 Kg<br />SIZE XL: 68 Kg - 73 Kg<br />SIZE XXL:73 kg - 80kg<br />✪ Size có thể thay đổi tùy vào chiều cao mỗi người. Các nàng tham khảo bảng size gợi ý nhé<br />✪ Các bạn khó chọn SIZE hoặc phân vân đừng ngại ngần cứ chat với Shop để tư vấn chọn size chuẩn và hướng dẫn các vấn đề sau khi mua hàng nhé<br />2. Hướng dẫn sử dụng:<br />Nên treo sản phẩm trong tủ khi không sử dụng<br />Có thể giặt tay hoặc giặt máy<br />Không giặt chung với những sản phẩm ra mầu<br />Không dùng chất tẩy rửa, không ngâm quá lâu ngày<br />Không phơi dưới nhiệt độ cao, nắng gắt<br />Nên là ủi thường xuyên<br />-----------------------------------<br />#setnam#aosominam #quanshort #formrong #unisex</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 550000,
+        "product_quantity": 1450,
+        "product_category": [
+            "Bộ trang phục truyền thống nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ĐŨI VIỆT",
+            "Xuất xứ (Made in)": "China / Vietnam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "M",
+                    "XL",
+                    "XXL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 550000,
+                "sku_stock": 8878
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 550000,
+                "sku_stock": 7198
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 550000,
+                "sku_stock": 4884
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 550000,
+                "sku_stock": 2931
+            }
+        ]
+    },
+    {
+        "product_shop": "121925",
+        "product_name": "Set bộ vest nam linen lịch lãm với áo khoác blazer dài tay có túi và quần dài cúc khóa có dây rút dễ mặc, thời trang công sở nam Bv11",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/1a/67/90/c6e21b297a9fda2e608f99dcde82c601.jpg"
+        ],
+        "product_description": "<p>MÔ TẢ SẢN PHẨM<br />1. Tên sản phẩm: Áo Blazer Nam + Quần dài suông<br />Dáng áo: form suông<br />Dáng quần: suông,ống rộng<br />Màu sắc: màu trắng, màu kem,màu xanh dương,xanh than<br />Chất vải: Vải linen bột cao cấp<br />Họa Tiết: Trơn</p>\n<p>Hướng dẫn chọn size:<br />SIZE S: 45Kg - 55 Kg<br />SIZE M: 56Kg - 60 Kg<br />SIZE L: 61Kg - 68 Kg<br />SIZE XL: 68 Kg - 73 Kg<br />size 2xl:73 kg - 80kg<br />✪ Size có thể thay đổi tùy vào chiều cao mỗi người. Các nàng tham khảo bảng size gợi ý nhé<br />✪ Các bạn khó chọn SIZE hoặc phân vân đừng ngại ngần cứ chat với Shop để tư vấn chọn size chuẩn và hướng dẫn các vấn đề sau khi mua hàng nhé<br />2. Hướng dẫn sử dụng:<br />Nên treo sản phẩm trong tủ khi không sử dụng<br />Có thể giặt tay hoặc giặt máy<br />Không giặt chung với những sản phẩm ra mầu<br />Không dùng chất tẩy rửa, không ngâm quá lâu ngày<br />Không phơi dưới nhiệt độ cao, nắng gắt<br />Nên là ủi thường xuyên<br />-----------------------------------<br />#setnam#aoblazer #quandaiongrong #formrong #unisex</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 570000,
+        "product_quantity": 4916,
+        "product_category": [
+            "Bộ trang phục ngành nghề cho nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ARCTIC HUNTER",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "Linen",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Be tiêu",
+                    "Trắng",
+                    "xanh dương",
+                    "xanh than",
+                    "đen"
+                ]
+            },
+            {
+                "name": "sz",
+                "options": [
+                    "2xl",
+                    "l",
+                    "m",
+                    "xl"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 570000,
+                "sku_stock": 2338
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 570000,
+                "sku_stock": 2082
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 570000,
+                "sku_stock": 5541
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 570000,
+                "sku_stock": 3377
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 570000,
+                "sku_stock": 7599
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 570000,
+                "sku_stock": 2340
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 570000,
+                "sku_stock": 5852
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 570000,
+                "sku_stock": 9432
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 570000,
+                "sku_stock": 4902
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 570000,
+                "sku_stock": 3919
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 570000,
+                "sku_stock": 4505
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 570000,
+                "sku_stock": 8514
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 570000,
+                "sku_stock": 8802
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 570000,
+                "sku_stock": 5305
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 570000,
+                "sku_stock": 4699
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 570000,
+                "sku_stock": 3283
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 570000,
+                "sku_stock": 1860
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 570000,
+                "sku_stock": 7709
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    2
+                ],
+                "sku_price": 570000,
+                "sku_stock": 6957
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    3
+                ],
+                "sku_price": 570000,
+                "sku_stock": 7434
+            }
+        ]
+    },
+    {
+        "product_shop": "46270",
+        "product_name": "Bộ quần áo bảo hộ lao động, đồng phục kỹ sư chất liệu thoáng mát",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ac/df/d1/e6ac4d3978c95595751da738d8743ca3.jpg",
+            "https://salt.tikicdn.com/ts/product/fa/44/68/bfc097cd0ce1984f6f23935e90023ca0.jpg",
+            "https://salt.tikicdn.com/ts/product/da/c2/7c/d6ee40a16b7ff09135d05e76ff246f6d.jpg",
+            "https://salt.tikicdn.com/ts/product/3f/bc/f8/8418b09c9976d5db453a539bbe93d0fc.jpg",
+            "https://salt.tikicdn.com/ts/product/4b/3d/2f/aec66a7267bc6633af3a26f31b0a2cdf.jpg"
+        ],
+        "product_description": "<p>- Tên sản phẩm: Quần áo bảo hộ lao động, đồng phục kỹ sư chất liệu thoáng mát </p>\n<p> </p>\n<p>- Size: 5, 6, 7, 8</p>\n<p> </p>\n<p>- Màu sắc: Xám phối ghi</p>\n<p> </p>\n<p>- Chất liệu vải: Rất bền, tương đối thoáng mát; đặc biệt với khả năng hút ẩm cao, chống nhăn, chống phai màu tốt ngay cả khi hoạt động nhiều.</p>\n<p> </p>\n<p>- Kiểu dáng, thiết kế:Các chi tiết áo đều được thiết kế khá đơn giản với 2 túi nhỏ trước ngực tiện lợi, 2 túi chéo ở 2 bên hông, và 1 túi nhỏ nằm trên cánh tay.</p>\n<p> </p>\n<p>- Công nghệ may:Đường chỉ và khuy áo đều được may chắc chắn. Các cúc áo được làm bằng nhựa tốt, có màu phù hợp.</p>\n<p> </p>\n<p>- Công dụng:Phù hợp cho người lao động thường phải làm việc trong môi trường nhiều bụi bẩn, dầu mỡ...</p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/d6/44/69/87bc2cb6df43f7aca3db8fee681e6eed.jpg_.webp\" alt=\"09ebf7ca14cafeac69841cfa488eb817.jpg_2200x2200q80.jpg_.webp\" /></p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 295000,
+        "product_quantity": 2890,
+        "product_category": [
+            "Bộ trang phục ngành nghề cho nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Linchido",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "3 Ngày"
+        },
+        "product_variations": [
+            {
+                "name": "sz",
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            },
+            {
+                "name": "Màu",
+                "options": [
+                    "AKS01",
+                    "AKS03",
+                    "AKS04"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 295000,
+                "sku_stock": 7192
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 295000,
+                "sku_stock": 7040
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 295000,
+                "sku_stock": 3074
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 295000,
+                "sku_stock": 6700
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 295000,
+                "sku_stock": 9737
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 295000,
+                "sku_stock": 6083
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 295000,
+                "sku_stock": 8046
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 295000,
+                "sku_stock": 6827
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 295000,
+                "sku_stock": 3844
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 295000,
+                "sku_stock": 1657
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 295000,
+                "sku_stock": 3756
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 295000,
+                "sku_stock": 3243
+            }
+        ]
+    },
+    {
+        "product_shop": "93096",
+        "product_name": "Đồ Bộ Linen Nam Gồm Áo Sơ Mi Dài Tay + Quần Short Cạp Chun Kèm Dây Rút Trẻ Trung, Năng Động",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a3/64/41/89b3d93f5766282ca569e93043b5bb7c.jpg"
+        ],
+        "product_description": "<p>MÔ TẢ SẢN PHẨM<br />1. Tên sản phẩm: Áo Sơ Mi Nam + Quần short<br />Dáng áo: form suông<br />Dáng quần: suông<br />Màu sắc: màu trắng, màu xám, màu đen, màu xanh than<br />Chất vải: Vải linen bột cao cấp<br />Họa Tiết: Trơn</p>\n<p>Hướng dẫn chọn size:<br />SIZE M: &lt; 60 Kg<br />SIZE L: 61Kg - 68 Kg<br />SIZE XL: 68 Kg - 73 Kg<br />SIZE XXL:73 kg - 80kg<br />✪ Size có thể thay đổi tùy vào chiều cao mỗi người. Các nàng tham khảo bảng size gợi ý nhé<br />✪ Các bạn khó chọn SIZE hoặc phân vân đừng ngại ngần cứ chat với Shop để tư vấn chọn size chuẩn và hướng dẫn các vấn đề sau khi mua hàng nhé<br />2. Hướng dẫn sử dụng:<br />Nên treo sản phẩm trong tủ khi không sử dụng<br />Có thể giặt tay hoặc giặt máy<br />Không giặt chung với những sản phẩm ra mầu<br />Không dùng chất tẩy rửa, không ngâm quá lâu ngày<br />Không phơi dưới nhiệt độ cao, nắng gắt<br />Nên là ủi thường xuyên<br />-----------------------------------<br />#setnam#aosominam #quanshort #formrong #unisex</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 560000,
+        "product_quantity": 9458,
+        "product_category": [
+            "Bộ trang phục truyền thống nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ĐŨI VIỆT",
+            "Xuất xứ (Made in)": "China / Vietnam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "màu sắc",
+                "options": [
+                    "Trắng",
+                    "Xanh Than",
+                    "Xám",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "M",
+                    "XL",
+                    "XXL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 560000,
+                "sku_stock": 8538
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 560000,
+                "sku_stock": 9292
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 560000,
+                "sku_stock": 3194
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 560000,
+                "sku_stock": 8944
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 560000,
+                "sku_stock": 7674
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 560000,
+                "sku_stock": 8948
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 560000,
+                "sku_stock": 3009
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 560000,
+                "sku_stock": 1830
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 560000,
+                "sku_stock": 5873
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 560000,
+                "sku_stock": 9023
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 560000,
+                "sku_stock": 9540
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 560000,
+                "sku_stock": 5940
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 560000,
+                "sku_stock": 2243
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 560000,
+                "sku_stock": 9359
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 560000,
+                "sku_stock": 3635
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 560000,
+                "sku_stock": 3052
+            }
+        ]
+    },
+    {
+        "product_shop": "165779",
+        "product_name": "Mặt nạ Cáo Nhật anime hóa trang Hallowen màu Đỏ và Đen",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c3/bb/f6/dcd1f2d00f6980e2c44192b9fca764d9.jpg",
+            "https://salt.tikicdn.com/ts/product/ee/f8/18/a5acf9ffc0ba94acf833d53573e3ca76.jpg",
+            "https://salt.tikicdn.com/ts/product/da/e6/59/9d50321aeab36de9efef8d17836c4f29.jpg",
+            "https://salt.tikicdn.com/ts/product/dc/89/9d/0c02f37246cf303fdfab3aee584dd303.jpg"
+        ],
+        "product_description": "<p>Chất Liệu: Nhựa</p>\n<p>Màu sắc: màu Đỏ và màu Đen</p>\n<p>Mặt nạ Cáo thường được sử dụng trong các dịp Lễ hội của người Nhật. Mặt nạ thường làm bằng từ chất liệu nhựa cao cấp an toàn, không độc hại</p>\n<p>Họa tiết hình được các nghệ nhân vẽ tỉ mỉ trong từng đường nét, tạo nên nét đẹp cổ điển truyền thống và bí ẩn</p>\n<p>Mặt nạ nửa mặt hóa trang cáo Anime phong cách Nhật Bản, thiết kế đơn giản sẽ làm cho bạn trông thanh lịch hơn.</p>\n<p>Chất liệu nhẹ đeo thoải mái, dây thun đeo phía sau co giản, có dây tua rua 2 bên rất dễ thương</p>\n<p>Mục đích sử dụng rộng rãi ,thích hợp sử dụng cho lễ hội Hóa trang, Halloween, biểu diễn, lễ hội...</p>\n<p>#mặtnạhóatrang #mặtnạcáo #mặtnạhalloween #mặtnạ #mặtnạ #cosplay #biểudiễn #lễhội #anime</p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/70/66/a1/b5eb22ba7b32094a46a39f24b08ba939.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/e4/68/8c/94664a115967ef2dbeb1486304a8c9e6.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/78/7e/be/f4ae3208b1c7573bcb9f48338b55aa78.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/46/e5/76/c2f48b432aba4b909a9740951aabbf67.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 39000,
+        "product_quantity": 7234,
+        "product_category": [
+            "Đồ hóa trang nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "odek",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "phân loại",
+                "options": [
+                    "Đen",
+                    "Đỏ"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 39000,
+                "sku_stock": 6839
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 39000,
+                "sku_stock": 4337
+            }
+        ]
+    },
+    {
+        "product_shop": "165779",
+        "product_name": "Mặt nạ hóa trang Hallowwen dự tiệc nhiều màu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/0a/f8/f2/78d9e9d11edfb09be5c833ca81f352f8.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/e9/a7/475018d58c1284a425de840d146af047.jpg",
+            "https://salt.tikicdn.com/ts/product/6b/35/1f/e59f63fe1a0f1fa31814f023d629dcfe.jpg",
+            "https://salt.tikicdn.com/ts/product/3e/42/cb/fa5dac5115de6d73d03d462e0509bb6d.jpg",
+            "https://salt.tikicdn.com/ts/product/81/b9/df/43fcc19ebdf8ed957541231ce9fea1cc.jpg"
+        ],
+        "product_description": "<p>Chất liệu: Nhựa an toàn cao cấp</p>\n<p>Kích thước: 18*8cm</p>\n<p>Kiểu dáng: người lớn</p>\n<p>Màu sắc: Đen, Trắng, Gold, Xám</p>\n<p>Mặt nạ kiểu dáng sang trong quý phái như các quý cô quý ông, phù hợp với các buổi hóa trang halloween và các buổi tiệc dạ hội, quán bar</p>\n<p>Phía sau mặt nạ có dây vải cột lại giúp bạn dễ dàng cố định mặt nạ, khi đeo đem lại cảm giác thoải mái và tránh gây cảm giác khó chịu cho khuôn mặt.</p>\n<p>Mặt nạ Freesize phù hợp cho tất cả các gương mặt nam và nữ, và có thể sử dụng nhiều lần</p>\n<p>Nhiều màu sắc để bạn chọn lựa, có thể chọn cho cập đôi, hay các nhóm đi chung, bạn có thể phối thêm đầm dạ tiệc, bộ vest sẽ giúp bạn tỏa sáng hơn trong buổi tiệc nhé</p>\n<p>#mặtnạhóatrang #mặtnạcáo #mặtnạhalloween #mặtnạ #mặtnạ #cosplay #biểudiễn #lễhội #anime</p>\n<p> </p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/d7/e9/a7/86b029fb4695c283fd76d54c8f66f062.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/6b/35/1f/1e32a539195d7edcdb580e5291dad439.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/3e/42/cb/3c9ce644260c225481b25dbefee45337.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/0a/f8/f2/4837c5e1285a8edebbce5ebefbfb471e.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/81/b9/df/dc885d97c04e5a96fb96cf4be23a18dc.jpg\" alt=\"\" width=\"750\" height=\"754\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/7b/cc/92/5a80464e7e69ff0613baa2c286c6c73c.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 35000,
+        "product_quantity": 2066,
+        "product_category": [
+            "Đồ hóa trang nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "odek",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "phân loại",
+                "options": [
+                    "Gold",
+                    "Trắng",
+                    "Xám"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 35000,
+                "sku_stock": 2132
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 35000,
+                "sku_stock": 6232
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 35000,
+                "sku_stock": 1047
+            }
+        ]
+    },
+    {
+        "product_shop": "7912",
+        "product_name": "Bộ comple Navy Aligro ALGCL94",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e4/88/c1/6c620d84f8279f387f7c5b54fabc50df.jpg",
+            "https://salt.tikicdn.com/ts/product/d1/09/47/ddf92ddec1255465e4acf29712dcaec7.png",
+            "https://salt.tikicdn.com/ts/product/31/10/c3/e495f2c0d18693fd78c66ff0d9402ac6.jpg",
+            "https://salt.tikicdn.com/ts/product/84/52/e5/755fa13694afeb93a04e204bcaddf926.jpg",
+            "https://salt.tikicdn.com/ts/product/f9/ab/c9/d5b4256ccbf2d6c1663d4108d479fef8.jpg"
+        ],
+        "product_description": "<p>GIỚI THIỆU THƯƠNG HIỆU</p>\n<p>Là thương hiệu thời trang thiết kế nam với những sản phẩm chất lượng cao, giá thành phù hợp, Aligro nâng tầm phong cách quý ông qua những thiết kế hiện đại lịch lãm, phong cách châu Âu trên nền tảng cảm hứng từ chính đất nước con người Việt.</p>\n<p> THÔNG TIN SẢN PHẨM</p>\n<p>- Chất liệu vải Tuytsi cao cấp, có độ co giãn tốt, nhẹ và có độ thấm hút rất cao.</p>\n<p>- Vải Tuytsi có chất liệu mát, mềm mịn, bóng và rất ít nhăn, dễ là ủi về đúng form áo.</p>\n<p>** Thiết kế:</p>\n<p>- Bộ suit phom dáng phù hợp mọi dáng người, luôn giữ được phần ve áo ổn định ngay cả khi mở cúc, và tạo được phần thắt eo tôn dáng người mặc.</p>\n<p>- Thiết kế cổ điển với 2 khuy cài, 4 khuy tay áo, 2 đường xẻ tà, độn vai vừa phải, cùng chất liệu cao cấp mang đến vẻ lịch lãm, sang trọng nhưng vẫn trẻ trung.</p>\n<p>- Quần thiết kế cơ bản với túi xẻ phía trước, kết hợp gấu chờ tiện lợi để may vừa vặn theo số đo và yêu cầu riêng của từng khách hàng.</p>\n<p>HƯỚNG DẪN CHỌN SIZE </p>\n<p>Full size từ số 4 đến số 6 ( Từ 60kg - 100kg )</p>\n<p>HƯỚNG DẪN GIẶT ỦI</p>\n<p>- Giặt máy với chu kỳ trung bình và vòng quay ngắn</p>\n<p>- Giặt với nhiệt độ tối đa 30 độ C</p>\n<p>- Sấy ở nhiệt độ thường</p>\n<p>- Là ủi ở nhiệt độ thấp</p>\n<p>️ QUYỀN LỢI CỦA KHÁCH HÀNG</p>\n<p>- Chính sách đổi trả hàng miễn phí khi sản phẩm kém chất lượng, không giống hình, nhầm size, số lượng mà quý khách đã đặt.</p>\n<p>- Sản phẩm chỉ được đổi/ trả khi còn nguyên tem mác. Quý khách vui lòng chụp toàn bộ bao bì, sản phẩm để shop xác nhận, gửi lại shop chậm nhất trong 7 ngày.</p>\n<p>- Khách hàng cũ : Liên tục được cập nhật những ưu đãi mới nhất.</p>\n<p>️ CAM KẾT CỦA ALIGRO</p>\n<p>- Sản phẩm 100% giống như mô tả</p>\n<p>- Màu sắc vải/ sản phẩm có thể sẽ chênh lệch thực tế một phần nhỏ, do ảnh hưởng về độ lệch màu của ánh sáng nhưng vẫn đảm bảo chất lượng.</p>\n<p>- Tư vấn hỗ trợ khách hàng nhiệt tình, chu đáo</p>\n<p>- Thời gian chuẩn bị hàng tối ưu nhất</p>\n<p>- Đổi trả hàng theo đúng quy định của Tiki</p>\n<p>- Shop hỗ trợ khi khách cần hãy nhắn tin cho shop</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3250000,
+        "product_quantity": 2451,
+        "product_category": [
+            "Bộ trang phục truyền thống nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Aligro",
+            "Chất liệu": "Tuytsi",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size bộ",
+                "options": [
+                    "4-L",
+                    "5-XL",
+                    "6-XXL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 3250000,
+                "sku_stock": 6529
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 3250000,
+                "sku_stock": 5086
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 3250000,
+                "sku_stock": 1714
+            }
+        ]
+    },
+    {
+        "product_shop": "7912",
+        "product_name": "Bộ comple Đen phẩy Aligro ALGCL91",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d1/09/47/6e0288f9d448c33302b7d4f32b139c99.png",
+            "https://salt.tikicdn.com/ts/product/44/37/a0/9419f873f079f1e6e6702e0c789947c7.jpg",
+            "https://salt.tikicdn.com/ts/product/cf/dc/14/1926c4e79e863c479bbd04c03b344b14.jpg",
+            "https://salt.tikicdn.com/ts/product/2a/9b/0c/1dc97308f33a09498c68b069dbab0ca6.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/20/ae/9c8779d47171db5108699483aa60f757.jpg"
+        ],
+        "product_description": "<p>GIỚI THIỆU THƯƠNG HIỆU</p>\n<p>Là thương hiệu thời trang thiết kế nam với những sản phẩm chất lượng cao, giá thành phù hợp, Aligro nâng tầm phong cách quý ông qua những thiết kế hiện đại lịch lãm, phong cách châu Âu trên nền tảng cảm hứng từ chính đất nước con người Việt.</p>\n<p> THÔNG TIN SẢN PHẨM</p>\n<p>- Chất liệu vải Tuytsi cao cấp, có độ co giãn tốt, nhẹ và có độ thấm hút rất cao.</p>\n<p>- Vải Tuytsi có chất liệu mát, mềm mịn, bóng và rất ít nhăn, dễ là ủi về đúng form áo.</p>\n<p>** Thiết kế:</p>\n<p>- Bộ suit phom dáng phù hợp mọi dáng người, luôn giữ được phần ve áo ổn định ngay cả khi mở cúc, và tạo được phần thắt eo tôn dáng người mặc.</p>\n<p>- Thiết kế cổ điển với 2 khuy cài, 4 khuy tay áo, 2 đường xẻ tà, độn vai vừa phải, cùng chất liệu cao cấp mang đến vẻ lịch lãm, sang trọng nhưng vẫn trẻ trung.</p>\n<p>- Quần thiết kế cơ bản với túi xẻ phía trước, kết hợp gấu chờ tiện lợi để may vừa vặn theo số đo và yêu cầu riêng của từng khách hàng.</p>\n<p>HƯỚNG DẪN CHỌN SIZE </p>\n<p>Full size từ số 4 đến số 6 ( Từ 60kg - 100kg )</p>\n<p>HƯỚNG DẪN GIẶT ỦI</p>\n<p>- Giặt máy với chu kỳ trung bình và vòng quay ngắn</p>\n<p>- Giặt với nhiệt độ tối đa 30 độ C</p>\n<p>- Sấy ở nhiệt độ thường</p>\n<p>- Là ủi ở nhiệt độ thấp</p>\n<p>️ QUYỀN LỢI CỦA KHÁCH HÀNG</p>\n<p>- Chính sách đổi trả hàng miễn phí khi sản phẩm kém chất lượng, không giống hình, nhầm size, số lượng mà quý khách đã đặt.</p>\n<p>- Sản phẩm chỉ được đổi/ trả khi còn nguyên tem mác. Quý khách vui lòng chụp toàn bộ bao bì, sản phẩm để shop xác nhận, gửi lại shop chậm nhất trong 7 ngày.</p>\n<p>- Khách hàng cũ : Liên tục được cập nhật những ưu đãi mới nhất.</p>\n<p>️ CAM KẾT CỦA ALIGRO</p>\n<p>- Sản phẩm 100% giống như mô tả</p>\n<p>- Màu sắc vải/ sản phẩm có thể sẽ chênh lệch thực tế một phần nhỏ, do ảnh hưởng về độ lệch màu của ánh sáng nhưng vẫn đảm bảo chất lượng.</p>\n<p>- Tư vấn hỗ trợ khách hàng nhiệt tình, chu đáo</p>\n<p>- Thời gian chuẩn bị hàng tối ưu nhất</p>\n<p>- Đổi trả hàng theo đúng quy định của Tiki</p>\n<p>- Shop hỗ trợ khi khách cần hãy nhắn tin cho shop</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3250000,
+        "product_quantity": 7208,
+        "product_category": [
+            "Bộ trang phục truyền thống nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Aligro",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "Tuytsi",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size bộ",
+                "options": [
+                    "4-L",
+                    "5-XL",
+                    "6-XXL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 3250000,
+                "sku_stock": 5065
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 3250000,
+                "sku_stock": 9303
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 3250000,
+                "sku_stock": 9544
+            }
+        ]
+    },
+    {
+        "product_shop": "7912",
+        "product_name": "Bộ vest màu Brown ALGCL53",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6a/6c/da/83ce8a824d623b54b66e5ebb9ffcd02b.png",
+            "https://salt.tikicdn.com/ts/product/28/f6/69/9e28902f88ba146e16f42e3b0684998d.JPG",
+            "https://salt.tikicdn.com/ts/product/86/7a/3d/5ba469c1818889d0f4670538e65ed438.JPG",
+            "https://salt.tikicdn.com/ts/product/93/ef/7e/372de7c398da666999f51cc0765a9d63.JPG"
+        ],
+        "product_description": "<p>GIỚI THIỆU THƯƠNG HIỆU</p>\n<p>Là thương hiệu thời trang thiết kế nam với những sản phẩm chất lượng cao, giá thành phù hợp, Aligro nâng tầm phong cách quý ông qua những thiết kế hiện đại lịch lãm, phong cách châu Âu trên nền tảng cảm hứng từ chính đất nước con người Việt.</p>\n<p> THÔNG TIN SẢN PHẨM</p>\n<p>- Chất liệu vải Polyester pha Cotton bền đẹp, giữ màu tốt</p>\n<p>- Chất vải có độ co giãn, nhẹ và có độ thấm hút rất cao.có chất liệu mát, mềm mịn, bóng và rất ít nhăn, dễ là ủi về đúng form áo.</p>\n<p>- Chất liệu vải cao cấp, luôn giữ được phom dáng chuẩn của sản phẩm</p>\n<p>** Thiết kế:</p>\n<p>- Bộ suit phom dáng phù hợp mọi dáng người, luôn giữ được phần ve áo ổn định ngay cả khi mở cúc, và tạo được phần thắt eo tôn dáng người mặc.</p>\n<p>- Thiết kế cổ điển với 2 khuy cài, 4 khuy tay áo, 2 đường xẻ tà, độn vai vừa phải, cùng chất liệu cao cấp mang đến vẻ lịch lãm, sang trọng nhưng vẫn trẻ trung.</p>\n<p>- Quần thiết kế cơ bản với túi xẻ phía trước, kết hợp gấu chờ tiện lợi để may vừa vặn theo số đo và yêu cầu riêng của từng khách hàng.</p>\n<p>HƯỚNG DẪN CHỌN SIZE </p>\n<p>Full size từ số 4 đến số 6 ( Từ 60kg - 100kg )</p>\n<p>HƯỚNG DẪN GIẶT ỦI</p>\n<p>- Giặt máy với chu kỳ trung bình và vòng quay ngắn</p>\n<p>- Giặt với nhiệt độ tối đa 30 độ C</p>\n<p>- Sấy ở nhiệt độ thường</p>\n<p>- Là ủi ở nhiệt độ thấp</p>\n<p>️ QUYỀN LỢI CỦA KHÁCH HÀNG</p>\n<p>- Chính sách đổi trả hàng miễn phí khi sản phẩm kém chất lượng, không giống hình, nhầm size, số lượng mà quý khách đã đặt.</p>\n<p>- Sản phẩm chỉ được đổi/ trả khi còn nguyên tem mác. Quý khách vui lòng chụp toàn bộ bao bì, sản phẩm để shop xác nhận, gửi lại shop chậm nhất trong 7 ngày.</p>\n<p>- Khách hàng cũ : Liên tục được cập nhật những ưu đãi mới nhất.</p>\n<p>️ CAM KẾT CỦA ALIGRO</p>\n<p>- Sản phẩm 100% giống như mô tả</p>\n<p>- Màu sắc vải/ sản phẩm có thể sẽ chênh lệch thực tế một phần nhỏ, do ảnh hưởng về độ lệch màu của ánh sáng nhưng vẫn đảm bảo chất lượng.</p>\n<p>- Tư vấn hỗ trợ khách hàng nhiệt tình, chu đáo</p>\n<p>- Thời gian chuẩn bị hàng tối ưu nhất</p>\n<p>- Đổi trả hàng theo đúng quy định của Tiki</p>\n<p>- Shop hỗ trợ khi khách cần hãy nhắn tin cho shop</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3905000,
+        "product_quantity": 9049,
+        "product_category": [
+            "Bộ trang phục truyền thống nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Aligro",
+            "Chất liệu": "cotton",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "3",
+                    "4"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 3905000,
+                "sku_stock": 5716
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 3905000,
+                "sku_stock": 9105
+            }
+        ]
+    },
+    {
+        "product_shop": "7912",
+        "product_name": "Bộ comple Blue ALGCL52",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ca/9f/a2/c0997160dee04fe96a2862bc5607a303.png",
+            "https://salt.tikicdn.com/ts/product/50/6c/58/45b5636324dc686ad531025f257374b0.JPG",
+            "https://salt.tikicdn.com/ts/product/f3/38/b5/9e18e3e1b2ee08f64f9fd03d0362c2c7.JPG",
+            "https://salt.tikicdn.com/ts/product/a1/b1/b2/9a4f283c8ad68a1343cfdbc9914069a6.JPG"
+        ],
+        "product_description": "<p>ALIGRO – THỜI TRANG ĐẲNG CẤP CHÂU ÂU !!!!!!</p>\n<p>ALIGRO là nhãn hiệu thời trang cao cấp được đăng ký bảo hộ tại Việt Nam. Tuy ra đời chưa lâu nhưng ALIGRO đang dần khẳng định ưu thế vượt trội bằng chất liệu sản phẩm, mẫu mã đa dạng, phong phú, là thương hiệu thời trang công sở nam cao cấp, tân thiện với môi trường, phù hợp với mọi khách hàng.</p>\n<p>Các sản phẩm ALIGRO mang đậm phong cách Italia nhưng lại rất phù hợp với vóc dáng của người Việt Nam. Các sản phẩm với chất vải mềm, mát, thấm hút mồ hồi, màu sắc và form dáng đa dạng, thiết kế tinh tế, sang trọng, mang lại vẻ đẹp nam tính, hiện đại cho phái manh, chắc chắn bộ trang phục sẽ tạo nên sự tự tin, góp phần cho những thắng lợi trong công việc và các cuộc giao thương.Đến với ALIGRO, bạn sẽ cảm nhận được nét đẹp tinh xảo, sự kết tinh từ nghệ thuật kiến trúc và hội hoạ Châu Âu, hoà cùng ý tưởng thiết kế sáng tạo và công nghệ thời trang hiện đại. ALIGRO còn là biểu tượng cho tinh thần “bắt kịp thời đại” không chỉ của doanh nhân, nhà quản lý, mà còn của cả những người thành đạt, người sành điệu… mà xã hội tôn vinh</p>\n<p>1/ Thông tin sản phẩm Bộ vest nam cap cấp ALIGRO:</p>\n<p>- Phân loại: Bộ vest nam</p>\n<p>- Màu: đen phẩy</p>\n<p>- Full size: 4 - 5 - 6</p>\n<p>- Thương hiệu: ALIGRO</p>\n<p>* Ưu điểm nổi bật:</p>\n<p>- Thiết kế:</p>\n<p>+ Bộ suit phom dáng phù hợp mọi dáng người, luôn giữ được phần ve áo ổn định ngay cả khi mở cúc, và tạo được phần thắt eo tôn dáng người mặc.</p>\n<p>+Thiết kế cổ điển với 2 khuy cài, 4 khuy tay áo, 2 đường xẻ tà, độn vai vừa phải, cùng chất liệu cao cấp mang đến vẻ lịch lãm, sang trọng nhưng vẫn trẻ trung.</p>\n<p>+ Quần thiết kế cơ bản với túi xẻ phía trước, kết hợp gấu chờ tiện lợi để may vừa vặn theo số đo và yêu cầu riêng của từng khách hàng.</p>\n<p>- Chất liệu: chất liệu vải Tuytsi cao cấp, có độ co giãn tốt, nhẹ và có độ thấm hút rất cao.</p>\n<p>2/ Bảng Size chi tiết cho sản phẩm Bộ vest nam cao cấp ALIGRO:</p>\n<p>Full size từ số 4 đến số 6 ( Từ 60kg - 100kg )</p>\n<p>3/ Hướng dẫn bảo quản phẩm Bộ vest nam cao cấp ALIGRO:</p>\n<p>- Giặt máy với chu kỳ trung bình và vòng quay ngắn</p>\n<p>- Giặt với nhiệt độ tối đa 30 độ C</p>\n<p>- Sấy ở nhiệt độ thường</p>\n<p>- Là ủi ở nhiệt độ thấp</p>\n<p>4/ Hướng dẫn cách đặt hàng sản phẩm Bộ vest nam cao cấp ALIGRO:</p>\n<p> Cách đặt hàng: Nếu bạn muốn mua 2 sản phẩm khác nhau hoặc 2 size khác nhau</p>\n<p>- Bạn chọn từng sản phẩm rồi thêm vào giỏ hàng</p>\n<p>- Khi giỏ hàng đã có đầy đủ các sản phẩm cần mua, bạn vào giỏ hàng tiến hành đặt hàng.</p>\n<p> Shop luôn sẵn sàng trả lời inbox để tư vấn.</p>\n<p>Khách hàng đặt hàng nhớ chọn ĐÚNG MÀU, ĐÚNG SIZE như shop đã phân loại, nếu đặt nhầm thì ĐẶT LẠI đơn mới, không ghi vào phần ghi chú để tránh bị giao nhầm sản phẩm.</p>\n<p>5/ Chính sách mua hàng tại thương hiệu thời trang ALIGRO:</p>\n<p>- Hỗ trợ đổi Size hoặc đổi mẫu trong vòng 7 ngày (nếu có lỗi từ NSX)</p>\n<p>- Khách hàng được đổi sang các sản phẩm ngang giá hoặc hơn giá</p>\n<p>- Mỗi sản phẩm chỉ được đổi hàng duy nhất 1 lần.</p>\n<p>- Không hỗ trợ đổi hàng với các sản phẩm đã qua sử dụng, sản phẩm có tình trạng bẩn,...</p>\n<p>ALIGRO sẽ không ngừng mở rộng thêm hệ thống showroom để phục vụ Quý khách được tốt hơn. Chúng tôi hiểu rằng, tất cả còn ở phía trước. Sẽ không ngừng nghiên cứu, học hỏi và lắng nghe để dòng sản phẩm cao cấp mang thương hiệu ALIGRO ngày một đẳng cấp hơn. Đáp ứng tối đa nhu cầu của Quý khách hàng và thị trường.</p>\n<p>Xin chân thành cảm ơn mọi sự đóng góp và ủng hộ của Quý khách hàng !</p>\n<p>#Aligro #thoitrangnam #thoitrang #aothudongnam #aoninam #aosominam #aosomidaitay #aokhoacnam #aokhoac #aogilenam #aolennam #quannam #quandai #aovest #congso #caocap #suit #vest #bovest</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3905000,
+        "product_quantity": 7108,
+        "product_category": [
+            "Bộ trang phục truyền thống nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Aligro",
+            "Chất liệu": "cotton",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "3"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 3905000,
+                "sku_stock": 3820
+            }
+        ]
+    },
+    {
+        "product_shop": "6044",
+        "product_name": "Bộ Veston Nam Novelty  2 nút NVTMMDMPRC1904932",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/05/b0/e3/f784097381b3c2033e5b94b1f817ac29.jpg",
+            "https://salt.tikicdn.com/ts/product/ad/f3/7f/98ce843d047c326a77f6242204506990.jpg",
+            "https://salt.tikicdn.com/ts/product/d5/38/91/bb96c83fc67cda2fbee4fb433aa75cc6.jpg",
+            "https://salt.tikicdn.com/ts/product/d5/51/64/8755ec33c7a4c2e2fb0cc63132cad775.jpg"
+        ],
+        "product_description": "<p>Bộ Veston Nam Novelty  2 nút NVTMMDMPRC1904932 được thiết kế từ chất liệu cao cấp, mềm mịn, không chỉ mang lại cảm giác thoải mái khi mặc, mà còn tạo phong cách trẻ trung, lịch lãm cho phái mạnh.</p>\n<p>Kiểu dáng Classic ôm vừa, phù hợp với mọi đối tượng yêu thích thời trang.</p>\n<p>Thành phần vải thoáng mát kết hợp tạo cảm giác thoải mái cho người mặc, dễ vận động.</p>\n<p>Tính năng vải: thoáng mát (Breathable), thân thiện môi trường (Eco - friendly).</p>\n<p>Sản phẩm được chứng nhận quốc gia về giới hạn hàm lượng formaldehyt và các amin thơm chuyển hóa từ thuốc nhuộm azo trong sản phẩm dệt may.</p>\n<p>Màu sắc trang nhã, thiết kế cổ điển sang trọng</p>\n<p>Dễ dàng kết hợp với nhiều trang phục công sở</p>\n<p>Đường may chắc chắn và tỉ mỉ</p>\n<p>Dễ giặt sạch, dễ ủi thẳng khi sử dụng</p>\n<p>Chất liệu: 80% Polyester; 20% Rayon</p>\n<p>Form dáng: Classic</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1990000,
+        "product_quantity": 4203,
+        "product_category": [
+            "Bộ trang phục truyền thống nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Novelty",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Kích thước": "<p>42/44/46/48/50/52/54</p>",
+            "Màu sắc": "Đen",
+            "Chất liệu": "80% Polyester; 20% Rayon",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "SIZE",
+                "options": [
+                    "48"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 1990000,
+                "sku_stock": 7556
+            }
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "product_shop": "1346",
+        "product_name": "Son Bambilipstick 2018 thỏi 6gr",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/51/ea/7e/b50d288f24112adf8d1d2480f8cab127.PNG",
+            "https://salt.tikicdn.com/ts/product/e0/f1/27/7493336972acd34f5c109ae5a607cade.jpg"
+        ],
+        "product_description": "<div><span>BAMBI LIPSTICK </span></div>\n<div> </div>\n<div><span>Số CBMP: 1269/19/CBMP-LA</span></div>\n<div> </div>\n<div><span>LỜI NGỎ </span></div>\n<div> </div>\n<div><span>Bimore cam kết bằng uy tín sẽ cung cấp những thỏi son vừa bền màu, vừa đẹp và quan trọng là chất lượng, dùng an toàn cho cả phụ nữ có thai và trẻ nhỏ.</span></div>\n<div> </div>\n<div><span>Ghi chú: Màu son quết tay và màu son khi lên môi sẽ lệch nhau một chút do pH của tay và của môi khác nhau. Màu son khi lên môi bạn rất có thể khác một chút so với ảnh chụp người mẫu của Bimore, đó là do màu môi đặc trưng của mỗi người: có người môi đậm, môi thâm, có người môi nhạt, có người môi hồng tự nhiên... Và do pH môi của mỗi người khác nhau nên sẽ lên các tone son không hoàn toàn giống nhau dù bôi cùng 1 thỏi. Đó còn chưa kể do chế độ màn hình điện thoại, máy tính của bạn nữa... Các bạn hãy hiểu những nguyên lý đó để chọn màu son riêng cho mình nhé.</span></div>\n<div> </div>\n<div> </div>\n<div><span>4 MÀU SON BAMBILIPSTICK </span></div>\n<div> </div>\n<div> </div>\n<div><span>Bambi 02: Cam đỏ gạch </span></div>\n<div> </div>\n<div><span>Bambi 08: Đỏ cam tươi nhũ </span></div>\n<div> </div>\n<div><span>Bambi 09: Đỏ san hô nhũ</span></div>\n<div> </div>\n<div><span>Bambi 12: Cam nâu sữa đất.</span></div>\n<div><br /><br /></div>\n<div><span>HSD: 12 tháng kể từ ngày sản xuất.</span></div>\n<div> </div>\n<div><span>~~ Mỹ phẩm xanh Bimore - since 2014 ~~</span></div>\n<div> </div>\n<div><span>#bimore #bambi #son #sonduong #songac #thiennhien #antoan #mypham</span></div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 220000,
+        "product_quantity": 1453,
+        "product_category": [
+            "Làm Đẹp - Sức Khỏe"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Bambi",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Hạn sử dụng": "12 tháng kể từ NSX"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "04: Cam đỏ đậm",
+                    "08: Đỏ cam tươi nhũ",
+                    "09: Đỏ san hô nhũ",
+                    "12: Cam nâu sữa đất"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 220000,
+                "sku_stock": 8626
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 220000,
+                "sku_stock": 8271
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 220000,
+                "sku_stock": 9693
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 220000,
+                "sku_stock": 9101
+            }
+        ]
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "product_shop": "104488",
+        "product_name": "COMBO 5 QUẦN SU SÓNG 1028",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/0a/13/53/f52c4e65834a73bb22ad990898f6ab90.jpg",
+            "https://salt.tikicdn.com/ts/product/a2/26/59/b605bc6c483d068b7977833079b68ba5.jpg",
+            "https://salt.tikicdn.com/ts/product/dc/fe/d9/6113e5b23b658c5d033ddb873480a414.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>COMBO 5 QUẦN SU SÓNG 1028</p>\n   <p>Nhiều màu như hình</p>\n   <p>Size M, L form lớn</p>\n   <p>Chất su đúc co giẫn thoải mái, không lộ viền khi mặc đồ ôm</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 120000,
+        "product_quantity": 6344,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "M"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 120000,
+                "sku_stock": 8206
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 120000,
+                "sku_stock": 5855
+            }
+        ]
+    },
+    {
+        "product_shop": "104488",
+        "product_name": "COMBO 5 QUẦN THUN TRƠN LOCUST 073",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/15/0e/89/3240b0b603c371dd293e2eacf661a34e.jpg",
+            "https://salt.tikicdn.com/ts/product/05/fd/cf/d5558549d939eac90febf95fff830d10.jpg",
+            "https://salt.tikicdn.com/ts/product/3e/16/17/f80ad3dba4c8153101001c1103a22166.jpg",
+            "https://salt.tikicdn.com/ts/product/51/d3/38/4e186ca3f1c45d8d8eaf31e21db82f5e.jpg",
+            "https://salt.tikicdn.com/ts/product/78/84/71/e0e3daa1584546b50fc9e428f474d825.jpg",
+            "https://salt.tikicdn.com/ts/product/7c/27/7c/4cd26c6b84e86a0d41b4ef9918270d24.jpg",
+            "https://salt.tikicdn.com/ts/product/c4/56/79/7e44c5c553f805f977ea9a2071e27f38.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Nhiều màu như hình</p>\n   <p>Combo giao ngẫu nhiên 5 màu</p>\n   <p>Form cơ bản cho người thích sự đơn giản</p>\n   <p>Nhiều size cho bạn lựa chọn</p>\n   <p>Made in Vietnam</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 125000,
+        "product_quantity": 3335,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Thun",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "3XL",
+                    "4XL",
+                    "L",
+                    "M",
+                    "XL",
+                    "XXL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 125000,
+                "sku_stock": 7854
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 125000,
+                "sku_stock": 3474
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 125000,
+                "sku_stock": 7389
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 125000,
+                "sku_stock": 7643
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 125000,
+                "sku_stock": 1353
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 125000,
+                "sku_stock": 7524
+            }
+        ]
+    },
+    {
+        "product_shop": "104488",
+        "product_name": "COMBO 5 QUẦN LÓT NỮ COTTON NHIỀU HỌA TIẾT",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b8/c4/22/24d0dff9bc90be9303d9813f5d0d2ee4.jpg",
+            "https://salt.tikicdn.com/ts/product/13/7c/a1/cce8d20fc0992411660fb2f0780636b4.jpg",
+            "https://salt.tikicdn.com/ts/product/ee/8d/81/929a7ea85748f1881936cc5539238928.jpg",
+            "https://salt.tikicdn.com/ts/product/7e/2c/1b/bf9e6530f8efec99979cbc9dba09b96e.jpg",
+            "https://salt.tikicdn.com/ts/product/5b/e0/dc/0dfbba3c6e69d28852340970c7ba4116.jpg",
+            "https://salt.tikicdn.com/ts/product/1a/c4/9b/871fc230e05bfd957beb521906bf3cc2.jpg",
+            "https://salt.tikicdn.com/ts/product/28/69/2e/c2e0d367bde50eada0fbc7d07f128e94.jpg",
+            "https://salt.tikicdn.com/ts/product/bd/83/33/8ad12ff751a6a07eca807cfa115e1d81.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>COMBO 5 QUẦN LÓT NỮ COTTON NHIỀU HỌA TIẾT</p>\n   <p>Nhiều màu lộn xộn tùy size - GIAO NGẪU NHIÊN</p>\n   <p>Màu sắc nhã nhặn, xinh xắn</p>\n   <p>Mỗi quần có túi zip riêng</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 145000,
+        "product_quantity": 2383,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "M"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 145000,
+                "sku_stock": 3960
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 145000,
+                "sku_stock": 2038
+            }
+        ]
+    },
+    {
+        "product_shop": "104488",
+        "product_name": "QUẦN TAM GIÁC LƯỚI VIỀN REN LMQ1169",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6d/32/13/054c8c759ac9be057f76e7d7204c66af.jpg",
+            "https://salt.tikicdn.com/ts/product/2c/69/31/460254b58ff803b195e272386bf2d651.jpg",
+            "https://salt.tikicdn.com/ts/product/a5/4e/72/0bae6a6bc396b36b2d7a5a8442bc9092.jpg",
+            "https://salt.tikicdn.com/ts/product/e7/fd/f7/5dd0b82e2c163a9778e7bce6b1afc308.jpg",
+            "https://salt.tikicdn.com/ts/product/f8/f0/9b/460ea49d84a62a694547392e7ada8d71.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>QUẦN TAM GIÁC LƯỚI VIỀN REN LMQ1169</p>\n   <p>Màu trắng phớt hồng</p>\n   <p>Size F</p>\n   <p>Chất liệu ren lưới điểm cái nơ nhỏ xinh siêu cute, nhìn cái quần là cưng hết nấc luôn à</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 121600,
+        "product_quantity": 8170,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Ren",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    }
+]

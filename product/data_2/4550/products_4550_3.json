@@ -1,0 +1,3500 @@
+[
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Nữ Da Bò Thật BIGGBEN Cao Cấp SDN114",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e9/1d/a8/411970be89c58d7fe346d780dd825a5c.jpg",
+            "https://salt.tikicdn.com/ts/product/ca/1a/4a/d46a7fe4d5bbe0b1e094779af686f719.jpg",
+            "https://salt.tikicdn.com/ts/product/ae/f1/b5/79feefc10fa37571f35dca9ae7e63992.jpg",
+            "https://salt.tikicdn.com/ts/product/77/93/42/aa4cdae5f0d4d80408f50d6c1482f14d.jpg",
+            "https://salt.tikicdn.com/ts/product/76/f2/f6/d03d4602c6a819d7a17a7a977cecaa48.jpg",
+            "https://salt.tikicdn.com/ts/product/98/78/88/716cc82978a6989c7346cd2b8436e07f.jpg"
+        ],
+        "product_description": "<ul>\n<li>Thương hiệu: BIGBEN</li>\n<li>\n<p>Chất Liệu :Da bò thật 100%</p>\n</li>\n<li>\n<p>Kích Thước :từ 35 đến 40</p>\n</li>\n<li>\n<p>Đế Cao :2cm</p>\n</li>\n<li>\n<p>Sản phẩm được bảo hành 1 năm</p>\n</li>\n<li>\n<p> HƯỚNG DẪN BẢO QUẢN</p>\n<p>Bảo quản nơi thoáng mát</p>\n<p>Tránh tiếp xúc hóa chất mạnh</p>\n<p>Giày bị ướt phơi khô nơi bóng râm thoáng mát, tránh phơi trực tiếp dưới ánh nắng mặt trời.</p>\n</li>\n<li><img src=\"https://salt.tikicdn.com/ts/tmp/3c/3a/f2/e3e395f75062db23d3e303e4a44debe5.jpg\" alt=\"\" width=\"750\" height=\"447\" /></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 500000,
+        "product_quantity": 9157,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDN114",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Màu:",
+                "options": [
+                    "Kem",
+                    "Nâu",
+                    "Vàng bò",
+                    "Đen",
+                    "Đỏ"
+                ]
+            },
+            {
+                "name": "Size.",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2074
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 500000,
+                "sku_stock": 5093
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8721
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 500000,
+                "sku_stock": 7480
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 500000,
+                "sku_stock": 3130
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2613
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2146
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 500000,
+                "sku_stock": 5372
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 500000,
+                "sku_stock": 1937
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 500000,
+                "sku_stock": 6375
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8144
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    5
+                ],
+                "sku_price": 500000,
+                "sku_stock": 1836
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2126
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2969
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 500000,
+                "sku_stock": 7511
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 500000,
+                "sku_stock": 9464
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    4
+                ],
+                "sku_price": 500000,
+                "sku_stock": 7217
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    5
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2162
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 500000,
+                "sku_stock": 6837
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2673
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 500000,
+                "sku_stock": 3411
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 500000,
+                "sku_stock": 7094
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    4
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8106
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    5
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8921
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 500000,
+                "sku_stock": 7431
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 500000,
+                "sku_stock": 1221
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    2
+                ],
+                "sku_price": 500000,
+                "sku_stock": 9157
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    3
+                ],
+                "sku_price": 500000,
+                "sku_stock": 4251
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    4
+                ],
+                "sku_price": 500000,
+                "sku_stock": 1892
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    5
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2374
+            }
+        ]
+    },
+    {
+        "product_shop": "161254",
+        "product_name": "Sandal Bitis thời trang nữ (35-39)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/9d/59/3d/76c71d61b10b676d8cfaa0b6e3252822.jpg",
+            "https://salt.tikicdn.com/ts/product/11/ae/b1/b8006e0a22b954bf3bcccdbf5b5cfd3d.jpg",
+            "https://salt.tikicdn.com/ts/product/b8/8d/a2/14ae4c52ac9f7c6582bd805ff59c47e4.jpg",
+            "https://salt.tikicdn.com/ts/product/00/ac/4f/386a85a2ad47aa4c054e034479f15b30.jpg",
+            "https://salt.tikicdn.com/ts/product/3d/3c/5d/525e3676ba8db1acab48492dfd354a23.jpg",
+            "https://salt.tikicdn.com/ts/product/5f/20/7e/cb306d3a3929067094cc077d9d5ce498.jpg",
+            "https://salt.tikicdn.com/ts/product/a6/db/2e/a8f85c1ddd2fc779d8f73f8d0164f6e1.jpg",
+            "https://salt.tikicdn.com/ts/product/4b/44/cc/74ad14fe19483c067fb4aecfce52e64d.jpg"
+        ],
+        "product_description": "<article class=\"4ever-article\">\n<p>Dành cho những tín đồ thời trang với gu thẩm mỹ tinh tế, đôi sandals không chỉ là một món phụ kiện đơn thuần mà còn là biểu tượng của sự hoàn hảo trong phong cách. Với thiết kế đẳng cấp, nổi bật ở phần đế  mang đến cảm giác vững chãi, tự tin trong từng bước đi. Sự sang trọng và thanh lịch mà đôi sandals này tỏa ra khiến chúng trở thành lựa chọn không thể thiếu cho những ai luôn tìm kiếm sự hiện đại, thời thượng và đẳng cấp trên mọi hành trình.</p>\n<p> </p>\n<p> </p>\n<p>Giới tính: Nữ</p>\n<p>Kiểu dáng: Giày sandals đế cao</p>\n<p>Màu sắc: Black, White</p>\n<p> </p>\n<p> </p>\n<p>Chiều cao đế: 4.5 (cm)</p>\n<p>Thiết kế:</p>\n<ul>\n<li>\n<div>Phom dáng ôm chân nữ tính</div>\n</li>\n<li>\n<div>Quai ngang bản vừa thời trang </div>\n</li>\n<li>\n<div>Đế cao su thiết kế các rãnh sâu, chống trơn trượt </div>\n</li>\n<li>\n<div>Chất da mềm mại, đường may tỉ mỉ, chắc chắn</div>\n</li>\n<li>\n<div>Màu sắc hiện đại, phù hợp với nhiều kiểu trang phục</div>\n</li>\n<li>\n<div><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/b7/b3/e3/3da6055de342c3d45be3fed38f4a1061.jpg\" alt=\"b7b3e38e00474eeb11a4ecbc11050349.jpg\" /></div>\n</li>\n</ul>\n<p> </p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 450000,
+        "product_quantity": 2516,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Biti's",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "36",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 1430
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 4142
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 450000,
+                "sku_stock": 3646
+            }
+        ]
+    },
+    {
+        "product_shop": "161254",
+        "product_name": "Sandal Bitis thời trang nữ (35-39)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/4e/6e/a7/aa337407205af1696fbaef15aac92baa.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/86/d1/341465044eba9eabd6301b18ac965b55.jpg",
+            "https://salt.tikicdn.com/ts/product/71/46/95/2c150cf872cac9fcfd37f9fb5d246ab6.jpg",
+            "https://salt.tikicdn.com/ts/product/cf/6e/30/bdf7497eeec3114626b8185d035fa2d4.jpg",
+            "https://salt.tikicdn.com/ts/product/d6/0b/cc/854e6475cb50906be631b11407cb18cd.jpg",
+            "https://salt.tikicdn.com/ts/product/a6/bd/7e/d4d7082c28754206898f10c23bc94bfe.jpg",
+            "https://salt.tikicdn.com/ts/product/80/14/35/4a8734a9355fe8a9fb9c42bd839f1467.jpg",
+            "https://salt.tikicdn.com/ts/product/57/9f/d3/e8583fd3050e2606da3926297b77480f.jpg",
+            "https://salt.tikicdn.com/ts/product/df/ef/e5/e5c24e91c9ac702b08a6bf490ea6b527.jpg"
+        ],
+        "product_description": "<article class=\"4ever-article\">\n<p>Dành cho những tín đồ thời trang với gu thẩm mỹ tinh tế, đôi sandals không chỉ là một món phụ kiện đơn thuần mà còn là biểu tượng của sự hoàn hảo trong phong cách. Với thiết kế đẳng cấp, nổi bật ở phần đế  mang đến cảm giác vững chãi, tự tin trong từng bước đi. Sự sang trọng và thanh lịch mà đôi sandals này tỏa ra khiến chúng trở thành lựa chọn không thể thiếu cho những ai luôn tìm kiếm sự hiện đại, thời thượng và đẳng cấp trên mọi hành trình.</p>\n<p> </p>\n<p> </p>\n<p>Giới tính: Nữ</p>\n<p>Kiểu dáng: Giày sandals đế cao</p>\n<p>Màu sắc: Black, White</p>\n<p> </p>\n<p> </p>\n<p>Chiều cao đế: 4.5 (cm)</p>\n<p>Thiết kế:</p>\n<ul>\n<li>\n<div>Phom dáng ôm chân nữ tính</div>\n</li>\n<li>\n<div>Quai ngang bản vừa thời trang </div>\n</li>\n<li>\n<div>Đế cao su thiết kế các rãnh sâu, chống trơn trượt </div>\n</li>\n<li>\n<div>Chất da mềm mại, đường may tỉ mỉ, chắc chắn</div>\n</li>\n<li>\n<div>Màu sắc hiện đại, phù hợp với nhiều kiểu trang phục</div>\n</li>\n<li>\n<div><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/b7/b3/e3/e20f8a1335bc0e17d5ea7c3140550a38.jpg\" alt=\"b7b3e38e00474eeb11a4ecbc11050349.jpg\" /></div>\n</li>\n</ul>\n<p> </p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 450000,
+        "product_quantity": 8563,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Biti's",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 9326
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 1162
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 450000,
+                "sku_stock": 8366
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 450000,
+                "sku_stock": 3422
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 450000,
+                "sku_stock": 2000
+            }
+        ]
+    },
+    {
+        "product_shop": "165555",
+        "product_name": "Sandal Nữ Biti’s Êmbrace BEW002000VAG (Vàng)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/19/67/46/92f7b079ac9ff39396899128b3571e8c.jpg",
+            "https://salt.tikicdn.com/ts/product/dc/59/d7/7e056beba0830f5dd96a32be59f3e988.JPG",
+            "https://salt.tikicdn.com/ts/product/2e/48/2a/128bb75369289e393d6fd76628772324.JPG",
+            "https://salt.tikicdn.com/ts/product/9d/fd/75/1ca31aa6e0a46ab20183b6629c641451.JPG",
+            "https://salt.tikicdn.com/ts/product/20/e5/50/74aa4188ae52fde2e96c517b0ecf5f5d.JPG",
+            "https://salt.tikicdn.com/ts/product/07/b1/38/d41c4dc4f3947ff11abdef93f056004b.JPG",
+            "https://salt.tikicdn.com/ts/product/e6/11/56/bede14719dd3a6cc95cb9a35477b529f.JPG",
+            "https://salt.tikicdn.com/ts/product/03/6d/7a/e9fea28531cffa273a0cda88c447df0c.JPG",
+            "https://salt.tikicdn.com/ts/product/04/41/7d/bb9b0e5988fbadac3e3dde42fc08ea34.JPG"
+        ],
+        "product_description": "<p class=\"QN2lPu\">Sandal Nữ Biti’s Êmbrace BEW002000</p>\n<p class=\"QN2lPu\">Màu sắc: Đen, Trắng, Vàng</p>\n<p class=\"QN2lPu\">Cở số: 35 - 40</p>\n<p class=\"QN2lPu\">Quai si pu mềm chống thấm nước, bền chắc</p>\n<p class=\"QN2lPu\">Đế PU nhẹ, ma sát tốt</p>\n<p class=\"QN2lPu\"><img src=\"https://salt.tikicdn.com/ts/tmp/dc/59/d7/10e612f28bcfd8b68fbca319d720278d.JPG\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p class=\"QN2lPu\"><img src=\"https://salt.tikicdn.com/ts/tmp/4f/36/4b/4cb4c5bc7315d6cdfe9a913e30a835ca.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 429000,
+        "product_quantity": 9672,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Biti's",
+            "Xuất xứ (Made in)": "Anh, Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 429000,
+                "sku_stock": 7907
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 429000,
+                "sku_stock": 6101
+            }
+        ]
+    },
+    {
+        "product_shop": "161254",
+        "product_name": "Sandal Bitis nữ (35-40)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/82/12/ba/8516496d21d0d42b2c05460233c43bc5.jpg",
+            "https://salt.tikicdn.com/ts/product/65/7e/6a/1c384841ba2847a534ee344ad614fff9.jpg",
+            "https://salt.tikicdn.com/ts/product/ec/d2/35/e295e2b69bc52d27378c94414b1211d0.jpg",
+            "https://salt.tikicdn.com/ts/product/9a/24/c1/7761d6abffcbc23302643d804ea10256.jpg",
+            "https://salt.tikicdn.com/ts/product/e6/c0/4b/bbc44df070bd9f9163ec852feecf0356.jpg",
+            "https://salt.tikicdn.com/ts/product/7b/d6/5f/b2a0d161136959546c09dcfed6c900fe.jpg",
+            "https://salt.tikicdn.com/ts/product/20/4f/ff/b199e55c9deb43a5d400a38da0fd3109.jpg"
+        ],
+        "product_description": "<article class=\"4ever-article\">\n<p>Mô tả sản phẩm:</p>\n<p>Sandal Biti's </p>\n<p>Màu sắc: Đen, XLC,HOG,Kem</p>\n<p>Cở số: 35 - 40</p>\n<p>MÔ TẢ SẢN PHẨM</p>\n<p> </p>\n<p>- Màu sắc trẻ trung và cá tính</p>\n<p> </p>\n<p>- Kiểu dáng đơn giản, dễ kết hợp với nhiều phong cách khác nhau</p>\n<p> </p>\n<p>- Dán xé cao cấp, độ bám dính cao, tăng giảm độ rộng dễ dàng</p>\n<p> </p>\n<p>- Phù hợp cho mọi đối tượng</p>\n<p>-Đế êm nhẹ</p>\n<p> </p>\n<p> </p>\n<p>HƯỚNG DẪN BẢO QUẢN</p>\n<p> </p>\n<p>- Lau chùi sản phẩm bằng khăn ướt để tránh bụi bẩn, mồ hôi</p>\n<p> </p>\n<p>- Bảo quản nơi khô thoáng để đạt độ bền cao nhất, tránh phơi trực tiếp dưới ánh nắng mặt trời</p>\n<p> </p>\n<p>- Có thể vệ sinh bằng bàn chải mềm và xà bông</p>\n<p> </p>\n<p>- Không giặt bằng máy giặt, không dùng chất tẩy rửa mạnh như xăng, dầu để vệ sinh sản phẩm<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/b7/b3/e3/84ac71a044e721ac4dfe58e9e7a68bf4.jpg\" alt=\"b7b3e38e00474eeb11a4ecbc11050349.jpg\" /></p>\n<p> </p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 395000,
+        "product_quantity": 4201,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Biti's",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "XLC"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 395000,
+                "sku_stock": 7790
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 395000,
+                "sku_stock": 6973
+            }
+        ]
+    },
+    {
+        "product_shop": "161254",
+        "product_name": "Sandal Bitis nữ (35-40)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c4/83/6e/0921d1c72fe3aae402ba70166f643eae.jpg",
+            "https://salt.tikicdn.com/ts/product/9e/23/58/a929f5ce9b1b79f220773a0c4951ee65.jpg",
+            "https://salt.tikicdn.com/ts/product/1a/da/fb/28e2e11264f34cb58910265335bb90e2.jpg",
+            "https://salt.tikicdn.com/ts/product/68/4f/18/299b718a3737d2e7c153fd20643f2056.jpg",
+            "https://salt.tikicdn.com/ts/product/c4/3e/84/201f5e40fb62868fcb80bab3ac440116.jpg",
+            "https://salt.tikicdn.com/ts/product/02/25/26/15d38700636bc67a12b0b7f838b682ee.jpg"
+        ],
+        "product_description": "<article class=\"4ever-article\">\n<p>MÔ TẢ SẢN PHẨM : </p>\n<ul>\n<li>\n<div>Thiết kế với kiểu dáng quai ngang bảng tròn phố cùng quai hậu có chun co giãn,giày sử dụng chất liệu da tổng hợp thời trang.</div>\n</li>\n<li>\n<div>Sandal đế bằng hiện đại cùng thiết kế thông thoáng,tiện lợi,tạo cảm giác cực kì dễ chịu khi mang trong thời gian dài.</div>\n</li>\n</ul>\n<ul>\n<li>\n<div>Phù hợp: đi tiệc, đi làm,đi học,đi chơi,...</div>\n</li>\n</ul>\n<p>CHI TIẾT SẢN PHẨM </p>\n<p> </p>\n<ul>\n<li>\n<div>Chiều cao : khoảng 3 cm</div>\n</li>\n<li>\n<div>Kiểu dáng : Sandal đế bằng</div>\n</li>\n<li>\n<div>Chất liệu : da tổng hợp</div>\n</li>\n<li>\n<div>Đế : xẻ rãnh chống trơn trượt</div>\n</li>\n<li>\n<div>Màu sắc :Đen - trắng-hồng</div>\n</li>\n<li>\n<div>Size : 35 - 36 - 37 - 38 - 39 - 40</div>\n</li>\n<li>\n<div>Xuất sứ thương hiệu : Việt Nam</div>\n</li>\n<li>\n<div>Chú ý : Kích thước so sánh một cách cẩn thận,vui lòng cho phép sai số 1-3 cm do đo lường thủ công</div>\n</li>\n<li>\n<div>Do màn hình hiển thị khác nhau và ánh sáng khác nhau, hình ảnh có thể chênh lệch 5-&gt;10% màu sắc thật của sản phẩm. </div>\n</li>\n<li>\n<div><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/b7/b3/e3/4c99bf7b8b42dd3057dd1f7b40302bc4.jpg\" alt=\"b7b3e38e00474eeb11a4ecbc11050349.jpg\" /></div>\n</li>\n</ul>\n<p> </p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 285000,
+        "product_quantity": 7203,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Biti's",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 285000,
+                "sku_stock": 1649
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 285000,
+                "sku_stock": 6353
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 285000,
+                "sku_stock": 7365
+            }
+        ]
+    },
+    {
+        "product_shop": "161254",
+        "product_name": "Sandal Bitis nữ (35-40)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/19/50/fc/4babaaf1f4daa603a2c67cf2fe582767.jpg",
+            "https://salt.tikicdn.com/ts/product/e3/c2/18/60fa12aa70c565936b116cf013dcc598.jpg",
+            "https://salt.tikicdn.com/ts/product/92/ba/26/e4268f561cd48d3323793890dd67e2be.jpg",
+            "https://salt.tikicdn.com/ts/product/ba/85/0f/0bb2bf2382e9d78e12ea2ecf695409ca.jpg",
+            "https://salt.tikicdn.com/ts/product/87/44/06/57546d5b822275b46e3bd30e7cc94e2a.jpg",
+            "https://salt.tikicdn.com/ts/product/cd/4b/99/3f8b2c7c1f0603051443ef5d7c54f80e.jpg"
+        ],
+        "product_description": "<article class=\"4ever-article\">\n<p>MÔ TẢ SẢN PHẨM : </p>\n<ul>\n<li>\n<div>Thiết kế với kiểu dáng quai ngang bảng tròn phố cùng quai hậu có chun co giãn,giày sử dụng chất liệu da tổng hợp thời trang.</div>\n</li>\n<li>\n<div>Sandal đế bằng hiện đại cùng thiết kế thông thoáng,tiện lợi,tạo cảm giác cực kì dễ chịu khi mang trong thời gian dài.</div>\n</li>\n</ul>\n<ul>\n<li>\n<div>Phù hợp: đi tiệc, đi làm,đi học,đi chơi,...</div>\n</li>\n</ul>\n<p>CHI TIẾT SẢN PHẨM </p>\n<p> </p>\n<ul>\n<li>\n<div>Chiều cao : khoảng 3 cm</div>\n</li>\n<li>\n<div>Kiểu dáng : Sandal đế bằng</div>\n</li>\n<li>\n<div>Chất liệu : da tổng hợp</div>\n</li>\n<li>\n<div>Đế : xẻ rãnh chống trơn trượt</div>\n</li>\n<li>\n<div>Màu sắc :Đen - trắng-hồng</div>\n</li>\n<li>\n<div>Size : 35 - 36 - 37 - 38 - 39 - 40</div>\n</li>\n<li>\n<div>Xuất sứ thương hiệu : Việt Nam</div>\n</li>\n<li>\n<div>Chú ý : Kích thước so sánh một cách cẩn thận,vui lòng cho phép sai số 1-3 cm do đo lường thủ công</div>\n</li>\n<li>\n<div>Do màn hình hiển thị khác nhau và ánh sáng khác nhau, hình ảnh có thể chênh lệch 5-&gt;10% màu sắc thật của sản phẩm. </div>\n</li>\n<li>\n<div><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/b7/b3/e3/d88aa3724f73444c9c3f41d194cca6d1.jpg\" alt=\"b7b3e38e00474eeb11a4ecbc11050349.jpg\" /></div>\n</li>\n</ul>\n<p> </p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 285000,
+        "product_quantity": 8496,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Biti's",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            },
+            {
+                "name": "Màu",
+                "options": [
+                    "Hồng",
+                    "MÀU TRẮNG"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 285000,
+                "sku_stock": 3633
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 285000,
+                "sku_stock": 2410
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 285000,
+                "sku_stock": 5828
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 285000,
+                "sku_stock": 2914
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 285000,
+                "sku_stock": 3548
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 285000,
+                "sku_stock": 2435
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 285000,
+                "sku_stock": 6307
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 285000,
+                "sku_stock": 4319
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 285000,
+                "sku_stock": 6430
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 285000,
+                "sku_stock": 9328
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    0
+                ],
+                "sku_price": 285000,
+                "sku_stock": 7286
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    1
+                ],
+                "sku_price": 285000,
+                "sku_stock": 3058
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Nữ Da Bò Thật BIGGBEN Cao 5 phân SDN102",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/2b/4b/39/99e709b3309f97e4889a238fdd6c64a9.jpg",
+            "https://salt.tikicdn.com/ts/product/72/1b/7a/7d9bedb93ed0799e693864d14448b83a.jpg",
+            "https://salt.tikicdn.com/ts/product/45/29/40/8589b807b8a074f32c937b8b1fa4c503.jpg",
+            "https://salt.tikicdn.com/ts/product/53/d7/2b/06a5aca17e91b6bad98ee4e96a7ff343.jpg"
+        ],
+        "product_description": "<ul>\n<li>Thương hiệu: BIGBEN</li>\n<li>\n<p>Chất Liệu :Da bò thật 100%</p>\n</li>\n<li>\n<p>Kích Thước :từ 35 đến 40</p>\n</li>\n<li>\n<p>Đế Cao :5 cm</p>\n</li>\n<li>\n<p>Sản phẩm được bảo hành 1 năm</p>\n</li>\n<li>\n<p> HƯỚNG DẪN BẢO QUẢN</p>\n<p>Bảo quản nơi thoáng mát</p>\n<p>Tránh tiếp xúc hóa chất mạnh</p>\n<p>Giày bị ướt phơi khô nơi bóng râm thoáng mát, tránh phơi trực tiếp dưới ánh nắng mặt trời.</p>\n</li>\n<li>\n<p>Hướng dẫn chọn size:</p>\n</li>\n<li>\n<p> </p>\n<img class=\"WebpImg__StyledImg-sc-h3ozu8-0 fWjUGo\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/87/95/5f/1fcd0aa90d203f672425b3f25f780d88.png\" alt=\"\" /></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 500000,
+        "product_quantity": 5013,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDN102",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Size.",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 500000,
+                "sku_stock": 9695
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 500000,
+                "sku_stock": 1131
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8683
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8709
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 500000,
+                "sku_stock": 4301
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 500000,
+                "sku_stock": 5084
+            }
+        ]
+    },
+    {
+        "product_shop": "268975",
+        "product_name": "Giày Sandals Nữ GEOX D Lisbona A",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d8/8f/56/a5470f24690daf4dc69327fe6b5c0f8c.jpg",
+            "https://salt.tikicdn.com/ts/product/59/a4/0e/7f8ce6fb2849925511760a807e62072e.jpg",
+            "https://salt.tikicdn.com/ts/product/f0/35/be/09f44c92df1215ed8e39361b99754c6c.jpg",
+            "https://salt.tikicdn.com/ts/product/be/c9/c8/9b9f8aeb3b2a466908f01b38400b9a57.jpg",
+            "https://salt.tikicdn.com/ts/product/2d/a3/20/93fe93f27034cb562e333ff5a55349fb.jpg",
+            "https://salt.tikicdn.com/ts/product/f1/4c/78/a59d91c7e674baa9aa16e690de6723db.jpg",
+            "https://salt.tikicdn.com/ts/product/45/7d/f9/2539df8039d459d5b8eb42eee5f9427c.jpg",
+            "https://salt.tikicdn.com/ts/product/c1/96/1a/c48b0c0b9875e79281e9f6b880ba56a9.jpg"
+        ],
+        "product_description": "<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/0f/65/40/362c4b5a2e00c4549ee755486ed71e29.jpg\" alt=\"362c4b5a2e00c4549ee755486ed71e29.jpg\" />\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/1c/2c/3a/19a39c1d8b4b90b79b4d0278be9e6b76.jpg\" alt=\"19a39c1d8b4b90b79b4d0278be9e6b76.jpg\" />\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/5c/62/95/0f0a66b69a543c9f89e971f9b8be45dd.jpg\" alt=\"0f0a66b69a543c9f89e971f9b8be45dd.jpg\" />\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/f3/f4/66/09c022eb68f7cc3617534c24373b70f5.jpg\" alt=\"09c022eb68f7cc3617534c24373b70f5.jpg\" />\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/71/96/bf/21a21f8ede24013f489b1cb8aea3ccc4.jpg\" alt=\"21a21f8ede24013f489b1cb8aea3ccc4.jpg\" />\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/be/84/db/63accb7a9fe4a698e791f448c29ba3f0.jpg\" alt=\"63accb7a9fe4a698e791f448c29ba3f0.jpg\" />\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/c4/a4/c5/a7c0c1f782634cde3a900be970479e0e.jpg\" alt=\"a7c0c1f782634cde3a900be970479e0e.jpg\" />\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/c1/96/1a/82ab6c2eb1390db10fe5d1836ffb1291.jpg\" alt=\"82ab6c2eb1390db10fe5d1836ffb1291.jpg\" />\n<p>Geox Lisbona A mang phong cách hiện đại với phần đế chunky cá tính. Giày được làm từ da thật có tông màu đen, kết hợp cùng quai dán tiện lợi. Đây sẽ là một sự lựa chọn lý tưởng cho những ngày hè nóng bức ở thành phố.<br />• Công nghệ do Geox phát minh giúp đảm bảo độ thoáng khí của đế giày.<br />• Giày nhẹ mang lại cảm giác thoải mái cho đôi chân.<br />• Quai dán giúp bạn dễ dàng điều chỉnh độ rộng phù hợp.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 4800000,
+        "product_quantity": 6779,
+        "product_category": [
+            "Giày sandals chiến binh"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "GEOX",
+            "Xuất xứ thương hiệu": "Ý",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "Cty CP Thời Trang Hạ Vàng",
+            "Xuất xứ (Made in)": "Việt Nam/Ấn Độ/Trung Quốc (Tùy từng đợt nhập hàng)",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "BLACK"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 4800000,
+                "sku_stock": 2430
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 4800000,
+                "sku_stock": 9272
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 4800000,
+                "sku_stock": 2491
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 4800000,
+                "sku_stock": 9457
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 4800000,
+                "sku_stock": 1348
+            }
+        ]
+    },
+    {
+        "product_shop": "82684",
+        "product_name": "Sandal quai ngang nữ Aldo LILIAN",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/16/ce/92/9589ee0b5725ca5cc4e4882d60938e18.jpg",
+            "https://salt.tikicdn.com/ts/product/f3/09/1e/c575e4d747e6e78abe2df8856c8d8030.jpg",
+            "https://salt.tikicdn.com/ts/product/9c/28/37/c7f83c6eea5dfc272554f75130cdb349.jpg",
+            "https://salt.tikicdn.com/ts/product/3e/c2/62/8bd6ee6facbb4bc9d581da7367d81839.jpg",
+            "https://salt.tikicdn.com/ts/product/f4/1b/94/b3c89be4a13aa15c198d0dbb63ef53f4.jpg",
+            "https://salt.tikicdn.com/ts/product/13/53/7a/42f984abd45757de758e789a26dcca02.jpg"
+        ],
+        "product_description": "<p>Thương hiệu thời trang ALDO là hãng thời trang Canada chuyên mang đến những thiết kế sang trọng và tinh tế về phụ kiện giầy dép và túi xách. ALDO được phân phối độc quyền tại Việt Nam bởi Công ty cổ phần Nhà Thái từ năm 2009. <br />Túi và phụ kiện Aldo không có hộp và túi vải. <br />Cần hỗ trợ tư vấn, vui lòng inbox nhân viên CSKH của ALDO.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1890000,
+        "product_quantity": 3278,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Aldo",
+            "Xuất xứ thương hiệu": "Canada",
+            "Xuất xứ (Made in)": "Trung Quốc"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "WHITE"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 3655
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 5534
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 5536
+            }
+        ]
+    },
+    {
+        "product_shop": "161254",
+        "product_name": "Sandan Bitis nữ thời trang",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c0/ea/3c/91fb6a93025703cd43e1d802b8b52d40.png",
+            "https://salt.tikicdn.com/ts/product/f6/ac/20/f6a1138c15633cfd380ec80bb678985e.png",
+            "https://salt.tikicdn.com/ts/product/61/33/4e/a99dc5a1ecf6934500ff48eac4195cab.png",
+            "https://salt.tikicdn.com/ts/product/0c/c9/3b/0b815ab0a607184e8373c7d9818c076e.png",
+            "https://salt.tikicdn.com/ts/product/85/37/0b/a0d1c608fd841a91d390d2e154a0b603.png",
+            "https://salt.tikicdn.com/ts/product/ce/0f/c9/fdf831b7fcd9c5fd6450f44e2ec527e9.png"
+        ],
+        "product_description": "<article class=\"4ever-article\">\n<p>Mùa hè đến, thời tiết oi nồng, nóng nực, tuy nhiên việc phải di chuyển ngoài trời nhiều hoặc ngồi cả ngày dài khi đi học, đi làm khiến các các bạn nữ mong muốn tìm kiếm một đôi giày sandal chất lượng cao, giá cả phải chăng nhưng đảm bảo thẩm mỹ. Vậy thì tin vui đây bạn ơi! Mẫu giày sandal Eva Phun Nữ Biti's Hunter  đích thị là dành cho bạn.</p>\n<p> </p>\n<p>Nơi bạn có thể lên chân một cách thoải mái và thông thoáng với 03 phối màu tươi trẻ nổi bật như những ánh đèn Neon. Sự kết hợp độc đáo  mang đến cho bạn trải nghiệm tuyệt vời trên mỗi bước chân.</p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/c0/ea/3c/d5dfb3126c497401c5c78be12f89f93b.png\" alt=\"c0ea3c3d9bf7ac6bc7c99fd2c2589c1f.png\" /></p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 469000,
+        "product_quantity": 7816,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Biti's",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "36"
+                ]
+            },
+            {
+                "name": "Màu",
+                "options": [
+                    "Xanh dương lợt"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 469000,
+                "sku_stock": 3179
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Đế Xuồng Nữ BIGGBEN Da Bò Thật Cao 5 Phân SDX58",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/fe/3d/e1/c3f1682442dd777d3cfc8794b44ba48c.jpg",
+            "https://salt.tikicdn.com/ts/product/da/24/78/b48cf717c425967b09fce04cee3d2d7d.jpg",
+            "https://salt.tikicdn.com/ts/product/94/08/27/d8be9695a585cc076bd43d2b8cf42f70.jpg",
+            "https://salt.tikicdn.com/ts/product/31/e1/43/57a93ca173272eb537add39b02961cec.jpg",
+            "https://salt.tikicdn.com/ts/product/47/3b/09/15f51823b190e2fc8138823008d38219.jpg",
+            "https://salt.tikicdn.com/ts/product/f1/a0/9d/87a8ecb8fb4940fd86d017bff6a7f164.jpg",
+            "https://salt.tikicdn.com/ts/product/8e/6b/e0/3a633f9055b4db180c49593a38d9c2a7.jpg"
+        ],
+        "product_description": "<ul>\n<li>Thường hiệu: BIGBEN</li>\n<li>\n<p>Được làm Bằng chất liệu Da Bò Thật 100% .</p>\n</li>\n<li>\n<p>Sandal Nữ được xử lý đặc biệt để tạo Phong cách trẻ trung và Nữ tính.</p>\n</li>\n<li>\n<p>Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</p>\n</li>\n<li>\n<p>Chất Liệu :Da bò thật 100%</p>\n</li>\n<li>\n<p>Kích Thước :từ 35 đến 40</p>\n</li>\n<li>\n<p>Đế Cao :5 cm</p>\n</li>\n<li>\n<p>Sản phẩm được bảo hành 1 năm</p>\n</li>\n<li>\n<p>Hướng dẫn chọn size:</p>\n</li>\n<li>\n<p> </p>\n<img class=\"WebpImg__StyledImg-sc-h3ozu8-0 fWjUGo\" src=\"https://salt.tikicdn.com/ts/tmp/87/95/5f/d4003a2b839c6c7be4f0bfc266d87e55.png\" alt=\"\" width=\"513\" height=\"503\" /></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 400000,
+        "product_quantity": 5900,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDX58",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Size:",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 400000,
+                "sku_stock": 2129
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 400000,
+                "sku_stock": 6296
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 400000,
+                "sku_stock": 5417
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 400000,
+                "sku_stock": 3502
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 400000,
+                "sku_stock": 2235
+            }
+        ]
+    },
+    {
+        "product_shop": "14904",
+        "product_name": "Sandal Nữ Da Bò Quai Ngang Pierre Cardin - PCWFWS 232",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/39/3d/5f/60a81b604fede4ee39aefd858c587dcc.jpg",
+            "https://salt.tikicdn.com/ts/product/a0/aa/01/d64c174e6cf45e61f098779c0d1ef821.jpg",
+            "https://salt.tikicdn.com/ts/product/24/5d/f9/e01a4114a7325ef8577932c1321dd6da.jpg",
+            "https://salt.tikicdn.com/ts/product/81/26/87/dc0e14b1e76405f1255fae2528cd8136.jpg",
+            "https://salt.tikicdn.com/ts/product/e3/87/17/0877a1f440a9e841d256cb460cd329d1.jpg"
+        ],
+        "product_description": "<p><strong>Sandal Nữ Pierre Cardin - PCWFWS232</strong></p>\n<ol>\n<li><strong>Thông Tin Về Sandal Nữ PCWFWS232</strong></li>\n</ol>\n<p>Sandal nữ Pierre Cardin PCWFWS232 là sự kết hợp hoàn hảo giữa thiết kế đơn giản và sự thoải mái. Với quai ngang ôm chặt bàn chân, đôi sandal này mang lại cảm giác an toàn và thoải mái khi đi lại. Việc sử dụng quai dán giúp bạn dễ dàng đeo và tháo sandal. Đế trong làm từ chất liệu da tổng hợp synthetic tạo cảm giác êm ái và nhẹ nhàng cho bất kỳ hoạt động nào. Đặc biệt, đế ngoài làm từ chất liệu polyester có độ cao 5,3cm, giúp tôn lên vẻ tự tin và quyến rũ của bạn.</p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/a0/aa/01/423100ff2799a5b0b6a91cbaf2829b76.jpg\" alt=\"sandal nữ pierre cardin\" width=\"750\" height=\"750\" /></p>\n<ol start=\"2\">\n<li><strong>Chất Liệu Sandal Nữ PCWFWS232</strong></li>\n</ol>\n<ul>\n<li>Chất liệu: Da tổng hợp synthetic và thun</li>\n<li>Độ cao: +5,3cm</li>\n<li>Màu sắc: Đen, Kem, Hồng Nhạt</li>\n</ul>\n<p>Điều đặc biệt ở đôi sandal này là đế PU bền bỉ, nhẹ nhàng và có khả năng bám dính xuất sắc. Chất liệu này không chỉ giúp đôi sandal trở nên năng động mà còn đảm bảo độ bền theo thời gian.</p>\n<ol start=\"3\">\n<li><strong>Cam Kết Về Sản Phẩm</strong></li>\n</ol>\n<p>Chúng tôi cam kết đem đến cho bạn sản phẩm chất lượng và dịch vụ tốt nhất:</p>\n<ul>\n<li>Bảo hành trong vòng 6 tháng cho tất cả sản phẩm, bao gồm cả trường hợp bong tróc da tự nhiên.</li>\n<li>Đổi trả trong vòng 7 ngày nếu sản phẩm có lỗi từ nhà sản xuất hoặc sai kích thước.</li>\n<li>Miễn phí vận chuyển toàn quốc cho tất cả đơn hàng.</li>\n<li>Chúng tôi cam kết sản phẩm có đúng chất liệu và màu sắc như mô tả.</li>\n</ul>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/d6/e4/53/33b1ecc07e2408ae5a368d7b56a79679.jpg\" alt=\"bảo hành pierre cardin\" width=\"750\" height=\"750\" /></p>\n<ol start=\"4\">\n<li><strong>Hướng Dẫn Sử Dụng</strong></li>\n</ol>\n<p>Để bảo quản và duy trì độ mới mẻ của đôi sandal nữ Pierre Cardin PCWFWS232, hãy tuân theo những hướng dẫn sau:</p>\n<ul>\n<li>Tránh tiếp xúc với nước và nhiệt độ cao.</li>\n<li>Vệ sinh sản phẩm bằng xi đánh giày, lotion dưỡng da, và sử dụng khăn ẩm để lau sạch.</li>\n<li>Không sử dụng xi đánh giày có màu khác, xi nước hoặc để sản phẩm tiếp xúc với nhiệt độ quá cao hoặc quá lạnh.</li>\n<li>Hạn chế đi mưa hoặc ngâm nước, và tránh để sandal ở nơi ẩm ướt có thể gây mốc cho da.</li>\n</ul>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/ac/7c/04/e09d50a478c605dea3cb91fcf26e6a62.jpg\" alt=\"hướng dẫn sử dụng pierre cardin\" width=\"750\" height=\"750\" /></p>\n<p>Với sandal nữ Pierre Cardin PCWFWS232, bạn sẽ tỏa sáng với sự tự tin và thoải mái trong mọi dịp. Đừng bỏ lỡ cơ hội sở hữu đôi sandal thời trang này để thêm phong cách vào tủ giày của bạn!</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1490000,
+        "product_quantity": 3571,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Pierre Cardin",
+            "Xuất xứ thương hiệu": "Pháp",
+            "Model": "PCWFWS232",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "441B Hai Bà Trưng, Phường Võ Thị Sáu, Quận 03, Tp. Hồ Chí Minh, Việt Nam.",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ EMALL",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "37"
+                ]
+            },
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Hồng"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 1490000,
+                "sku_stock": 8773
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 1490000,
+                "sku_stock": 1344
+            }
+        ]
+    },
+    {
+        "product_shop": "268975",
+        "product_name": "Giày Sandals Nữ GEOX D Spherica Ec5 D",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/04/39/b0/47012242db91094cc6911da2ed178172.jpg",
+            "https://salt.tikicdn.com/ts/product/83/9a/d7/27a1360d61903cbac4147c07d777449d.jpg",
+            "https://salt.tikicdn.com/ts/product/d1/6c/f4/452ce371ec0544ae08c837a48fae341b.jpg",
+            "https://salt.tikicdn.com/ts/product/a1/91/1d/9ddd5429345e675efed4fc8b26f98546.jpg",
+            "https://salt.tikicdn.com/ts/product/74/05/0c/4c49ef4caec078e77333a7a1c43d396c.jpg"
+        ],
+        "product_description": "<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/c1/96/1a/daf23ca342d7113e9c7c710627841a67.jpg\" alt=\"daf23ca342d7113e9c7c710627841a67.jpg\" />\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/04/39/b0/b3da20a6deb6df8869b837cb11cf7ba3.jpg\" alt=\"b3da20a6deb6df8869b837cb11cf7ba3.jpg\" />\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/83/9a/d7/1576366d0fe2c089479605bea2eaf358.jpg\" alt=\"1576366d0fe2c089479605bea2eaf358.jpg\" />\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/d1/6c/f4/474aa657c3fdf28bc72828155975008a.jpg\" alt=\"474aa657c3fdf28bc72828155975008a.jpg\" />\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/a1/91/1d/81420df3cda56bd789dbd3e967903d6f.jpg\" alt=\"81420df3cda56bd789dbd3e967903d6f.jpg\" />\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/74/05/0c/300153d73065293284866edd6b024fc8.jpg\" alt=\"300153d73065293284866edd6b024fc8.jpg\" />\n<table>\n <tbody>\n  <tr>\n   <td rowspan=\"5\"><span><span><span><span><span>• Đôi sandals siêu nhẹ dành cho phái nữ, có thiết kế mang tính đương đại. Sản phẩm xăng đan Spherica EC5 đầy cá tính và chắc chắn sẽ nâng tầm phong cách hàng ngày của bạn. Được chế tạo từ vải knit siêu nhẹ màu tím  kết hợp với đế trắng, thoáng khí và cực kỳ thoải mái, giúp bạn tận hưởng cảm giác êm ái suốt cả ngày dài<br />• ĐẶC TRƯNG<br />• Khả năng thoáng khí của đế ngoài và cảm giác thoải mái cho bàn chân được đảm bảo bởi các công nghệ được cấp bằng sáng chế của Geox.<br />• Sự thoải mái nhờ hệ thống Zero-Shock giúp tăng cường hiệu ứng đệm và tránh các va chạm khi hoạt động.<br />• Giày nhẹ để đi bộ thoải mái suốt cả ngày.<br />• Mang đến mức độ thoải mái vượt trội, dễ dàng mang vào, bước chân nhanh chóng và dễ dàng.</span></span></span></span></span></td>\n  </tr>\n  \n  \n  \n  \n </tbody>\n</table><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 4000000,
+        "product_quantity": 4910,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "GEOX",
+            "Xuất xứ thương hiệu": "Ý",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "Cty CP Thời Trang Hạ Vàng",
+            "Xuất xứ (Made in)": "Việt Nam/Ấn Độ/Trung Quốc (Tùy từng đợt nhập hàng)",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "LT VIOLET"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "36",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 4000000,
+                "sku_stock": 8843
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 4000000,
+                "sku_stock": 6686
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 4000000,
+                "sku_stock": 5052
+            }
+        ]
+    },
+    {
+        "product_shop": "265",
+        "product_name": "Sandal sức khoẻ nữ Aetrex Jillian Sport Black - Sandal quai dán nâng vòm, siêu mềm nhẹ, không thấm nước",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ac/d3/16/baffbcc036036ad318d8055ef4ac70dc.jpg",
+            "https://salt.tikicdn.com/ts/product/39/95/c6/6f7860231b9d920497a9cb5bae967218.jpg",
+            "https://salt.tikicdn.com/ts/product/6e/7b/e7/235f7000c89d97461049bea847e186dd.jpg",
+            "https://salt.tikicdn.com/ts/product/98/71/d4/2e3ace9a24cc1a3f7d487aff331d4b51.jpg",
+            "https://salt.tikicdn.com/ts/product/a1/b6/d2/0f9505ea57bbb2cdc0cbcc9d212a76ad.jpg",
+            "https://salt.tikicdn.com/ts/product/6c/1f/e1/d36843882796458a8b8d401479a7e266.jpg",
+            "https://salt.tikicdn.com/ts/product/52/76/3c/f78ed10022be42bc5a6db9b85e219463.jpg",
+            "https://salt.tikicdn.com/ts/product/1c/75/bd/d797a29639433f3d7faa8438891a6bc1.jpg",
+            "https://salt.tikicdn.com/ts/product/7f/06/e7/c2f12f0558ed32cdaf5dccb4d2ecf9e6.jpg",
+            "https://salt.tikicdn.com/ts/product/6d/5c/3a/73efeb9ea43ad2f815f4a1a3c603c6ff.jpg"
+        ],
+        "product_description": "<h1 style=\"text-align:justify;\"><strong>Sandal sức khoẻ nữ Aetrex Jillian Sport Black</strong></h1>\n<div><br />\n<div style=\"text-align:justify;\">Kiểu dáng năng động luôn được ưa chuộng. Thêm cải tiến mới với vật liệu bọt EVA UltraSky siêu mềm nhẹ sẽ cho bạn cảm giác như đang đi trên mây suốt cả ngày dài. </div>\n<div style=\"text-align:justify;\">Aetrex Jillian Sport là đôi sandal hoàn hảo cho những ngày mưa và cả những chuyến đi biển, hồ bơi của bạn</div>\n<div style=\"text-align:justify;\"> </div>\n<div style=\"text-align:justify;\">\n<p style=\"text-align:center;\"><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/f3/93/e9/6a820e2df56585df5090d47d88311c23.jpg\" alt=\"\" width=\"750\" height=\"562\" /></p>\n<p style=\"text-align:center;\"><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/de/3a/a1/c7dba98ae6f59b126e76a5c4d664b40e.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n</div>\n<div style=\"text-align:justify;\">\n<p> </p>\n</div>\n<div style=\"text-align:justify;\">Hệ thống chỉnh hình  Aetrex <strong>Aetrex Cobra Orthotic </strong>được tích hợp sẵn cho mỗi đôi: </div>\n<div style=\"text-align:justify;\">\n<p style=\"text-align:center;\"><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/74/de/bc/7c45b464a65fa503a88f6c8800be935c.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n</div>\n<ul style=\"text-align:justify;\">\n<li>Hỗ trợ vòm chân giúp ổn định trục cổ chân, gối, lưng và căn chỉnh bàn chân</li>\n<li>Giúp giảm hiệu quả các triệu chứng đau chân thường gặp viêm cân gan chân, gai gót chân</li>\n<li>Đệm hỗ trợ POD để giúp giảm áp lực bàn chân trước</li>\n<li>Bọt UltraSky EVA siêu mềm nhẹ: đệm êm và mang lại sự thoải mái vượt trội</li>\n<li>Gót chân với đường viền đế nâng gót và giảm áp lực ngay vị trí gót chân cần nhất</li>\n</ul>\n<div style=\"text-align:justify;\"><br />Thông tin chi tiết:</div>\n<ul style=\"text-align:justify;\">\n<li>Khoá dán: 2 Dây khoá dán điều chỉnh được để phù hợp với mọi bàn chân</li>\n<li>Chất liệu: Bọt UltraSky EVA trọng lượng nhẹ tạo sự thoải mái và độ bền cao</li>\n<li>Đệm đàn hồi và hấp thụ sốc để giúp ngăn ngừa chấn thương và cung cấp sự hỗ trợ chưa từng có</li>\n<li>Hoàn toàn không thấm nước</li>\n<li>Chiều cao gót: 3 cm</li>\n</ul>\n<p> </p>\n<p style=\"text-align:center;\"><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/e2/aa/45/2003ef9b560d2cdcb21561c13a324843.jpg\" alt=\"\" width=\"750\" height=\"999\" /></p>\n<div>\n<p style=\"text-align:center;\"><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/18/e5/de/0f062b4981a128ddcbc7b7e364d8c5b5.jpg\" alt=\"\" width=\"750\" height=\"251\" /></p>\n<p style=\"text-align:justify;\">Với mục tiêu thời trang, chức năng và chất lượng ở vị trí hàng đầu. Dòng đế Aetrex được thiết kế để giúp bạn cảm thấy tuyệt vời trên đôi chân của bạn và thúc đẩy một lối sống lành mạnh và năng động. Vì vậy Aetrex luôn được nhiều bác sĩ trên thế giới công nhận và khuyên dùng</p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/ts/tmp/2a/7f/68/76a59696ad0882f2823930e969c93c98.jpg\" alt=\"\" width=\"750\" height=\"450\" /></p>\n<p style=\"text-align:center;\"> </p>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 2495000,
+        "product_quantity": 3574,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Aetrex",
+            "Xuất xứ thương hiệu": "Mỹ",
+            "Màu sắc": "Đen",
+            "Model": "Giay dep suc khoe Aetrex",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 2495000,
+                "sku_stock": 4902
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 2495000,
+                "sku_stock": 8162
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 2495000,
+                "sku_stock": 6312
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 2495000,
+                "sku_stock": 3148
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 2495000,
+                "sku_stock": 4808
+            }
+        ]
+    },
+    {
+        "product_shop": "268975",
+        "product_name": "Giày Đế Xuồng Nữ GEOX D Panarea C",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/bd/74/a6/0601720f2069097c3f27c8644464c3b7.jpg",
+            "https://salt.tikicdn.com/ts/product/3d/c8/86/cd1d1adfe7b57b550795d65447e76ff5.jpg",
+            "https://salt.tikicdn.com/ts/product/0c/bc/2d/a8eded9306b46f9d4fdadf9dd4f0a3cf.jpg",
+            "https://salt.tikicdn.com/ts/product/f3/a7/6a/03c45ef4ab22604bedaac3ec15572905.jpg",
+            "https://salt.tikicdn.com/ts/product/a6/27/c2/917e49dacfb1b717c7d88cc33b3c8e4a.jpg",
+            "https://salt.tikicdn.com/ts/product/c5/de/e4/fa7f71a55b8e472b8658d8a35a661278.jpg"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/da/4c/ef/29815edb799b69a5bc082f38bf05e645.jpg\" alt=\"29815edb799b69a5bc082f38bf05e645.jpg\" /></p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/8f/cc/52/e011633b7d4e605f964e59292f87ad69.jpg\" alt=\"e011633b7d4e605f964e59292f87ad69.jpg\" /></p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/41/35/1b/50db2d75eb47075a11f2537eb3459a42.jpg\" alt=\"50db2d75eb47075a11f2537eb3459a42.jpg\" /></p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/a1/bf/df/d71db9fb3a19ad0d1078e81d04ebf31f.jpg\" alt=\"d71db9fb3a19ad0d1078e81d04ebf31f.jpg\" /></p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/d6/a1/af/8e887f9969d7737bdaad9c28bc000f47.jpg\" alt=\"8e887f9969d7737bdaad9c28bc000f47.jpg\" /></p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/ae/b6/e8/74b13754542339cb568de7e2efeb0b41.jpg\" alt=\"74b13754542339cb568de7e2efeb0b41.jpg\" /></p>• Giày sandal thoáng khí thoải mái dành cho nữ với đế xuồng có chiều cao vừa phải mang lại cảm giác giản dị hàng ngày. Được làm từ da lộn mềm, Thiết kế có tông màu nữ tính này, vai giày được làm bang khóa gài đơn giản ngay mắt cá chân. Panarea được thiết kế dành cho mùa hè và có các chi tiết tết hai tông màu giống như espadrille chắc chắn sẽ nâng tầm phong cách của người mang.\n<br />• ĐẶC TRƯNG\n<br />• Khả năng thoáng khí của đế ngoài và cảm giác thoải mái cho bàn chân được đảm bảo bởi các hệ thống được cấp bằng sáng chế của Geox.\n<br />• Khóa cài có thể điều chỉnh tùy thích.\n<br /><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 4600000,
+        "product_quantity": 2514,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "GEOX",
+            "Xuất xứ thương hiệu": "Ý",
+            "Xuất xứ (Made in)": "Việt Nam/Ấn Độ/Trung Quốc (Tùy từng đợt nhập hàng)",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Nude"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "37"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 4600000,
+                "sku_stock": 7028
+            }
+        ]
+    },
+    {
+        "product_shop": "82684",
+        "product_name": "Sandal đế bệt nữ Aldo  ALDO MARASSI",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ae/bf/74/25b64ad1cfb8e3bbdd77b2976778139c.jpg",
+            "https://salt.tikicdn.com/ts/product/1e/c1/7f/ba36e0eacf8ea8ebc4c40e9008574930.jpg",
+            "https://salt.tikicdn.com/ts/product/a4/d1/76/105c0d328d494e03af0000f533bc67e6.jpg",
+            "https://salt.tikicdn.com/ts/product/13/b4/e5/8a5fc3a8889d1633c6049407d0fcff1a.jpg",
+            "https://salt.tikicdn.com/ts/product/b9/1b/81/c327c9be965c2b181fcbcaf4ee528b53.jpg",
+            "https://salt.tikicdn.com/ts/product/82/47/23/8410e4d1606409677ded0ffd84616268.jpg"
+        ],
+        "product_description": "<p>Thương hiệu thời trang ALDO là hãng thời trang Canada chuyên mang đến những thiết kế sang trọng và tinh tế về phụ kiện giầy dép và túi xách. ALDO được phân phối độc quyền tại Việt Nam bởi Công ty cổ phần Nhà Thái từ năm 2009. <br />Túi và phụ kiện Aldo không có hộp và túi vải. <br />Cần hỗ trợ tư vấn, vui lòng inbox nhân viên CSKH của ALDO.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1650000,
+        "product_quantity": 7513,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Aldo",
+            "Xuất xứ thương hiệu": "Canada",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Other Pink",
+                    "Other White"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 1650000,
+                "sku_stock": 2562
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 1650000,
+                "sku_stock": 2403
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 1650000,
+                "sku_stock": 3739
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 1650000,
+                "sku_stock": 2062
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 1650000,
+                "sku_stock": 5148
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 1650000,
+                "sku_stock": 1410
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 1650000,
+                "sku_stock": 8131
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 1650000,
+                "sku_stock": 1852
+            }
+        ]
+    },
+    {
+        "product_shop": "280950",
+        "product_name": "Dép sandal nữ đế xuống Bitas SYN.238",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b8/84/89/a75a971cebca8fbf72a5221055dadbc8.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/62/de/533b162d698934e27c858330caebd91f.jpg",
+            "https://salt.tikicdn.com/ts/product/48/73/96/66e9ddcebbb6b99ee9eefa7407aeae6f.jpg",
+            "https://salt.tikicdn.com/ts/product/47/85/dd/8aafc1e17411b20ce23ec388f3ac3ad4.jpg"
+        ],
+        "product_description": "\n  <ul><li><p>Dép sandal nữ đế xuống Bitas SYN.238</p>\n   <p>Sandal gót cao nữ ngày càng có nhiều thiết kế độc đáo, sang trọng, SYN.238 cũng không ngoại lệ. Sản phẩm sở hữu 3 màu sắc từ sáng, trung bình, tối để phù hợp với sở thích, lựa chọn của từng cô gái. Với form ôm chân, gót cao tôn dáng giúp các nàng tự tin tỏa sáng.</p>\n  </li></ul>\n <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 295000,
+        "product_quantity": 2476,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Bita's",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "3 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Mầu sắc",
+                "options": [
+                    "Kem"
+                ]
+            },
+            {
+                "name": "Cỡ Số",
+                "options": [
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 295000,
+                "sku_stock": 1454
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 295000,
+                "sku_stock": 9588
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Đế Xuồng Nữ BIGGBEN Da Bò Thật Đế Cao 5 Phân SDX43",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/3a/95/06/3bf8948feca4c62b9d6bd24534a9b7d9.jpg",
+            "https://salt.tikicdn.com/ts/product/65/5d/2b/a530efa3fe3b9bb4328c84e9ad6c4e18.jpg",
+            "https://salt.tikicdn.com/ts/product/c5/3e/ab/23b9551c1f0582c3dc298ab65d956208.jpg",
+            "https://salt.tikicdn.com/ts/product/a9/4e/8f/b98679f6f07bc2978192ce5ff91387db.jpg",
+            "https://salt.tikicdn.com/ts/product/53/b9/58/d3adb5e3386c01d94749c1bdf48f8fce.jpg"
+        ],
+        "product_description": "<ul><li>\n<p>Được làm Bằng chất liệu Da Bò Thật 100% .</p>\n</li><li>\n<p>Sandal Nữ được xử lý đặc biệt để tạo Phong cách trẻ trung và Nữ tính.</p>\n</li><li>\n<p>Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</p>\n</li><li>\n<p>Chất Liệu :Da bò thật 100%</p>\n</li><li>\n<p>Kích Thước :từ 35 đến 40</p>\n</li><li>\n<p>Đế Cao : 5 cm</p>\n</li><li>\n<p>Sản phẩm được bảo hành 1 năm</p>\n</li><li>\n<p>Hướng dẫn chọn size:</p>\n</li><li>\n<p> </p>\n<img class=\"WebpImg__StyledImg-sc-h3ozu8-0 fWjUGo\" src=\"https://salt.tikicdn.com/ts/tmp/87/95/5f/d4003a2b839c6c7be4f0bfc266d87e55.png\" alt=\"\" width=\"513\" height=\"503\" /></li></ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 380000,
+        "product_quantity": 7320,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm",
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDX43",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "SIze",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 380000,
+                "sku_stock": 4514
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 380000,
+                "sku_stock": 2633
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 380000,
+                "sku_stock": 9675
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 380000,
+                "sku_stock": 7378
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 380000,
+                "sku_stock": 2426
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 380000,
+                "sku_stock": 9645
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Đế Xuồng Nữ Da Bò Thật BIGGBEN Đế Cao 5cm SDX41",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/8d/c7/4c/0c9f078746ef581e7c12e314b6682389.jpg",
+            "https://salt.tikicdn.com/ts/product/e5/47/bf/22ee1b3f679ba2ee45e4c226e4abb173.jpg",
+            "https://salt.tikicdn.com/ts/product/24/fe/8b/c45d733674c1afdd721baa2904083057.jpg",
+            "https://salt.tikicdn.com/ts/product/0b/ed/f1/b916b8e47bed6fe0ea6b3022169056da.jpg",
+            "https://salt.tikicdn.com/ts/product/3d/a2/d8/a5a242dd57bdb4a17fc9e77b55863a89.jpg",
+            "https://salt.tikicdn.com/ts/product/46/d2/47/4acb24f96e3aa53aca2b4915f73557f4.jpg"
+        ],
+        "product_description": "<ul><li>\n<p>Được làm Bằng chất liệu Da Bò Thật 100% .</p>\n</li>\n<li>\n<p>Sandal Nữ được xử lý đặc biệt để tạo Phong cách trẻ trung và Nữ tính.</p>\n</li>\n<li>\n<p>Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</p>\n</li>\n<li>LƯU Ý: FOM HƠI BÉ NẾU CÁC BẠN MUỐN ĐI THOẢI MÁI NÊN TĂNG THÊM 1 SIZE.</li>\n<li>\n<p>Chất Liệu :Da bò thật 100%</p>\n</li>\n<li>\n<p>Kích Thước :từ 35 đến 40</p>\n</li>\n<li>\n<p>Đế Cao :5 cm</p>\n</li>\n<li>\n<p>Sản phẩm được bảo hành 1 năm</p>\n</li>\n<li>\n<p>Hướng dẫn chọn size:</p>\n</li>\n<li>\n<p> </p>\n<img class=\"WebpImg__StyledImg-sc-h3ozu8-0 fWjUGo\" src=\"https://salt.tikicdn.com/ts/tmp/87/95/5f/d4003a2b839c6c7be4f0bfc266d87e55.png\" alt=\"\" width=\"513\" height=\"503\" /></li>\n<li><img src=\"https://salt.tikicdn.com/ts/tmp/8d/c7/4c/cccb80c3468fd13220306bcfc70bf95f.jpg\" alt=\"\" width=\"750\" height=\"750\" /></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 400000,
+        "product_quantity": 4772,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDX41",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Đen"
+                ]
+            },
+            {
+                "name": "SIze",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 400000,
+                "sku_stock": 7321
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 400000,
+                "sku_stock": 8822
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 400000,
+                "sku_stock": 5258
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 400000,
+                "sku_stock": 3969
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 400000,
+                "sku_stock": 8836
+            }
+        ]
+    },
+    {
+        "product_shop": "158533",
+        "product_name": "[ Chính Hãng ] Giày Sandals SHONDO F6 Sport đen full F6S301",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a5/5c/08/3f509ba0f99e25197f4f52a540b6b1fb.jpg",
+            "https://salt.tikicdn.com/ts/product/5b/3d/7f/fdc8a14548ab3fbc6ed35433ed65b8ee.jpg",
+            "https://salt.tikicdn.com/ts/product/a9/ba/a7/cc29b664fa08b7486f5d7fb1503e66ed.jpg",
+            "https://salt.tikicdn.com/ts/product/1c/ea/aa/5fdbf972b8f6479af2c61dcbe8a63ccc.jpg",
+            "https://salt.tikicdn.com/ts/product/9c/8f/1c/c5a1c93b58bf4d9d2849a5f87ce0fa2c.jpg",
+            "https://salt.tikicdn.com/ts/product/14/74/f1/07ce4a56404643680aefe08d30ded045.jpg",
+            "https://salt.tikicdn.com/ts/product/2b/34/13/540bd60f45599bf75c9a9b811b02bfc7.jpg",
+            "https://salt.tikicdn.com/ts/product/3f/e8/49/46b06033b577e52be755d7c863c08500.jpg"
+        ],
+        "product_description": "\n  <p>F6 SPORT ĐEN</p>\n   <p>- Siêu phẩm Sandals dành cho những bạn yêu thích vận động</p>\n   <p>- Đế trên nhiều rãnh thoáng khí, thiết kế lướt sóng giúp massage lòng bàn chân</p>\n   <p>- Đế phylon cao gấp 3 lần sandals thông thường, cải thiện độ cao tối ưu</p>\n   <p>- Mặt để dưới thiết kế tia chớp độc quyền 100% cao su nguyên chất, chống mài mòn,tăng cường độ bám dính</p>\n   <p>- Quai giày tăng giảm độ rộng dễ dàng, có thể tháo rời trở thành dép vô cùng tiện lợi</p>\n   <p>- Dán xé cao cấp, độ bám dính 20.000 lần</p>\n   <p>-Xuất xứ: Việt Nam 100%</p>\n   <p> Bảo hành 1 đổi 1 trong 7 ngày </p>\n   <p> Bảo hành keo,chỉ,dán xé 6 tháng </p>\n   <p> Hãy hành động nào gọi ngay cho chúng tôi để được tư vấn trực tiếp</p>\n   <p>***Chúng tôi sẽ trả lời thắc mắc của bạn trong vòng 24h.</p>\n   <p>***Khách có như cầu mua số lượng lớn inbox nhé.</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 399000,
+        "product_quantity": 4267,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Shondo",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Phiếu bảo hành",
+            "Thời gian bảo hành": "365 Ngày"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "36"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 399000,
+                "sku_stock": 2970
+            }
+        ]
+    },
+    {
+        "product_shop": "183745",
+        "product_name": "Giày Sandal Nữ The Bily 03W Quai Ngang - Màu Xám BL03WX ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/03/ed/ef/6a44c191c19c048fa2d8fadc1f3ddb31.png",
+            "https://salt.tikicdn.com/ts/product/eb/99/69/6466fa42d3d8d8406106ea2b82fddeea.JPG",
+            "https://salt.tikicdn.com/ts/product/5e/25/3c/4e4082a9f4995899a8ae1b74f40f056d.JPG",
+            "https://salt.tikicdn.com/ts/product/ca/d3/13/e8d4528f4c255397135a903976689943.JPG"
+        ],
+        "product_description": "<div style=\"text-align:justify;\">Giày Sandal The Bily  sản xuất theo công nghệ cao và hàng đầu tại Việt Nam, được thiết kế dành cho các bạn yêu thích sự tối giản, trẻ trung và tiện lợi.</div>\n<div style=\"text-align:justify;\"> </div>\n<div style=\"text-align:justify;\">Giày Sandal Nữ The Bily 03W Quai Ngang với thiết kế đơn giản nhưng không kém phần lịch thiệp, kiểu dáng và màu sắc trẻ trung, nhẹ nhàng giúp bạn dễ dàng phối với những outfits riêng của mình.</div>\n<div style=\"text-align:justify;\"> </div>\n<div style=\"text-align:justify;\">Size giày: 35-36-37-38-39</div>\n<div style=\"text-align:justify;\">Màu sắc: Màu Xám</div>\n<div style=\"text-align:justify;\">\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/fb/ab/48/50509af859be6945b0b4c34676547c55.JPG\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p> </p>\n<p> </p>\n</div>\n<div style=\"text-align:justify;\">\n<div style=\"text-align:justify;\"> </div>\n<div style=\"text-align:justify;\"> </div>\n<div style=\"text-align:justify;\">MÔ TẢ SẢN PHẨM:</div>\n<div style=\"text-align:justify;\">- Mặt đế nhiều rãnh, thoáng khí với công nghệ đế EVA cải tiến tạo cảm giác êm ái khi di chuyển và nhẹ. </div>\n<div style=\"text-align:justify;\">- Quai  sử dụng chất liệu dù và có khóa giúp dễ dàng điều chỉnh size.</div>\n<div style=\"text-align:justify;\"> </div>\n<div style=\"text-align:justify;\">HƯỚNG DẪN BẢO QUẢN:</div>\n<div style=\"text-align:justify;\">- Nên lau chùi sản phẩm bằng khăn ướt để tránh bụi bẩn, mồ hôi</div>\n<div style=\"text-align:justify;\">- Bảo quản nơi khô thoáng, tránh phơi trực tiếp dưới ánh nắng mặt trời</div>\n<div style=\"text-align:justify;\"> </div>\n<div style=\"text-align:justify;\">CAM KẾT </div>\n<div style=\"text-align:justify;\">- 7 ngày hỗ trợ đổi size, đổi kiểu trong trường hợp còn nguyên tem, nguyên hộp</div>\n<div style=\"text-align:justify;\">- 100 ngày bảo hành với các lỗi bong tróc keo và đứt chỉ</div>\n<div style=\"text-align:justify;\"> </div>\n<div>\n<div style=\"text-align:justify;\">GÓI HÀNG BAO GỒM:</div>\n<div style=\"text-align:justify;\">- 1 hộp carton đựng giày </div>\n<div style=\"text-align:justify;\">- 1 Thẻ bảo hành </div>\n<div style=\"text-align:justify;\">- Sản phẩm</div>\n<div style=\"text-align:justify;\"><img src=\"https://salt.tikicdn.com/ts/tmp/5c/65/70/d8a88b50dacfb1fad97967e3e8a840bd.png\" alt=\"\" width=\"750\" height=\"619\" /></div>\n<div style=\"text-align:justify;\"> </div>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 329000,
+        "product_quantity": 5378,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "THE BILY",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "BL03WX",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "6 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 329000,
+                "sku_stock": 1330
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 329000,
+                "sku_stock": 1115
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 329000,
+                "sku_stock": 5950
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 329000,
+                "sku_stock": 8723
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 329000,
+                "sku_stock": 6491
+            }
+        ]
+    },
+    {
+        "product_shop": "183745",
+        "product_name": "Giày Sandal Nữ The Bily 02W Quai Chéo Đôi - Màu Đen BL02WD",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/17/66/9d/630b8e54884a6855a8c1461220eeaa23.png",
+            "https://salt.tikicdn.com/ts/product/87/dc/ee/94460ec79e34693345f063d95737a1f7.JPG",
+            "https://salt.tikicdn.com/ts/product/33/62/f0/9cb9fc26cbea323a8fe107ec4ebf50fe.JPG",
+            "https://salt.tikicdn.com/ts/product/2a/fc/0a/c95209886e6229af5c7b6a917d9e96da.jpg",
+            "https://salt.tikicdn.com/ts/product/1e/f4/0a/ddafa6096bdcf93af1b44befff42316a.jpg",
+            "https://salt.tikicdn.com/ts/product/cb/1b/2a/953097ad98d1f7e974f4dc98478fbcd6.jpg",
+            "https://salt.tikicdn.com/ts/product/93/37/5c/17926d527fad4cecf911a53d4bb90284.jpg",
+            "https://salt.tikicdn.com/ts/product/75/22/d8/4b330ab71e705336a105b8f9a3a5186b.jpg",
+            "https://salt.tikicdn.com/ts/product/5d/6f/3a/a086a8653289fc145d3bc2bb8dce25a6.jpg",
+            "https://salt.tikicdn.com/ts/product/bb/d5/16/583cc26d024e0956cc32bc16621eb13d.jpg",
+            "https://salt.tikicdn.com/ts/product/6a/20/1c/3116432994fbe6ed9d2a0ab56edfa278.jpg",
+            "https://salt.tikicdn.com/ts/product/d3/7c/31/94cc761e6101c1e42acca2cc9ed2d328.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/ba/77/2636842735ce1d2303d0da450f817b1c.jpg"
+        ],
+        "product_description": "<div style=\"text-align:justify;\">Giày Sandal The Bily  sản xuất theo công nghệ cao và hàng đầu tại Việt Nam, được thiết kế dành cho các bạn yêu thích sự tối giản, trẻ trung và tiện lợi.</div>\n<div style=\"text-align:justify;\"> </div>\n<div style=\"text-align:justify;\">Giày Sandal Nữ The Bily 02W Quai Chéo Đôi với thiết kế đơn giản nhưng không kém phần lịch thiệp, kiểu dáng và màu sắc trẻ trung, nhẹ nhàng giúp bạn dễ dàng phối với những outfits riêng của mình.</div>\n<div style=\"text-align:justify;\"> </div>\n<div style=\"text-align:justify;\">Size giày: 35-36-37-38-39</div>\n<div style=\"text-align:justify;\">Màu sắc: Màu Đen</div>\n<div style=\"text-align:justify;\">\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/2a/fc/0a/d572505c59334ea312d744df1e741f80.jpg\" alt=\"\" width=\"750\" height=\"750\"></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/cb/1b/2a/e25b03cd53430ee2dccf89f87e2bc1b5.jpg\" alt=\"\" width=\"750\" height=\"750\"></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/75/22/d8/1be40a3d70bdca032197e9494613908a.jpg\" alt=\"\" width=\"750\" height=\"1000\"></p>\n</div>\n<div style=\"text-align:justify;\">\n<div style=\"text-align:justify;\"><img src=\"https://salt.tikicdn.com/ts/tmp/5d/6f/3a/5351e3893da1451c00e86dba7e6f24eb.jpg\" alt=\"\" width=\"750\" height=\"1000\"></div>\n<div style=\"text-align:justify;\"><img src=\"https://salt.tikicdn.com/ts/tmp/2a/fc/0a/5df0d89558880e635333d28609935312.jpg\" alt=\"\" width=\"750\" height=\"750\"></div>\n<div style=\"text-align:justify;\">MÔ TẢ SẢN PHẨM:</div>\n<div style=\"text-align:justify;\">- Mặt đế nhiều rãnh, thoáng khí với công nghệ đế EVA cải tiến tạo cảm giác êm ái khi di chuyển và nhẹ. </div>\n<div style=\"text-align:justify;\">- Quai  sử dụng chất liệu dù và có khóa giúp dễ dàng điều chỉnh size.</div>\n<div style=\"text-align:justify;\"> </div>\n<div style=\"text-align:justify;\">HƯỚNG DẪN BẢO QUẢN:</div>\n<div style=\"text-align:justify;\">- Nên lau chùi sản phẩm bằng khăn ướt để tránh bụi bẩn, mồ hôi</div>\n<div style=\"text-align:justify;\">- Bảo quản nơi khô thoáng, tránh phơi trực tiếp dưới ánh nắng mặt trời</div>\n<div style=\"text-align:justify;\"> </div>\n<div style=\"text-align:justify;\">CAM KẾT </div>\n<div style=\"text-align:justify;\">- 7 ngày hỗ trợ đổi size, đổi kiểu trong trường hợp còn nguyên tem, nguyên hộp</div>\n<div style=\"text-align:justify;\">- 100 ngày bảo hành với các lỗi bong tróc keo và đứt chỉ</div>\n<div style=\"text-align:justify;\"> </div>\n<div>\n<div style=\"text-align:justify;\">GÓI HÀNG BAO GỒM:</div>\n<div style=\"text-align:justify;\">- 1 hộp carton đựng giày </div>\n<div style=\"text-align:justify;\">- 1 Thẻ bảo hành </div>\n<div style=\"text-align:justify;\">- Sản phẩm</div>\n<div style=\"text-align:justify;\"><img src=\"https://salt.tikicdn.com/ts/tmp/5c/65/70/d8a88b50dacfb1fad97967e3e8a840bd.png\" alt=\"\" width=\"750\" height=\"619\"></div>\n<div style=\"text-align:justify;\"> </div>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 349000,
+        "product_quantity": 5200,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Phiếu bảo hành",
+            "Thời gian bảo hành": "6 Tháng",
+            "Thương hiệu": "THE BILY",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "BL02WD",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 349000,
+                "sku_stock": 4520
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 349000,
+                "sku_stock": 8483
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 349000,
+                "sku_stock": 3702
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 349000,
+                "sku_stock": 9711
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 349000,
+                "sku_stock": 8583
+            }
+        ]
+    },
+    {
+        "product_shop": "84313",
+        "product_name": "Giày sandal nữ Giavy quai kẹp",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/2e/00/df/eccba68ce32d793a261113c78641622b.jpg",
+            "https://salt.tikicdn.com/ts/product/c0/17/6c/6a9f2f7858e82f57034c332701e0f378.jpg",
+            "https://salt.tikicdn.com/ts/product/1d/63/73/c144d86ca6abf13df58d166f64e2f285.jpg",
+            "https://salt.tikicdn.com/ts/product/92/61/e5/b319199da429d807ee8aa7b55b80641e.jpg",
+            "https://salt.tikicdn.com/ts/product/2d/90/f9/4986ef46a500d677eb045f7629e64136.jpg",
+            "https://salt.tikicdn.com/ts/product/e8/1f/e5/00c1f186290c0cf64c2155661dd58cff.jpg",
+            "https://salt.tikicdn.com/ts/product/62/a5/81/4cba0044023bd8de032e26e5f8d306c4.jpg",
+            "https://salt.tikicdn.com/ts/product/5c/6b/de/16cf4c1a3082f4d50ce2a8e620b9d8b3.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>GIÀY SANDAL NỮ</p>\n   <p>Thương hiệu độc quyền : GIAVY.</p>\n   <p>Xuất xứ: Việt Nam.</p>\n   <p>Mã sản phẩm: SH136</p>\n   <p>Kiểu dáng: hậu thun, quai kẹp , họa tiết tren quai đính hột gỗ, đế bệt.</p>\n   <p>Chất liệu quai xi mềm êm chân, đường may tỉ mỉ.</p>\n   <p>Đế cao su, có rãnh chống trơn trượt, keo dán chắc chắn bền bỉ.</p>\n   <p>Màu sắc: Đen .</p>\n   <p>Kích cỡ : 36-37-38-39-40 .</p>\n   <p>Đóng gói bao gốm: số lượng đôi khách đặt + phiếu bảo hành + hộp Giavy.</p>\n   <p>Cam kết hàng chính hãng .</p>\n   <p>Cam kết giao đúng mẫu - màu - size khách đặt .</p>\n   <p>----------------------------------------------</p>\n   <p>GIAVY được thành lập năm 2001, uy chất lượng đạt danh hiệu \"HÀNG VIỆT NAM CHẤT LƯỢNG CAO\" năm 2007.</p>\n   <p> Lưu ý : chỉ nhận bảo hành khi khách mang trực tiếp lại Shop , không giải quyết bảo hành qua online)</p>\n   <p>---------------------------------------------</p>\n   <p>HƯỚNG DẪN BẢO QUẢN SẢN PHẨM :</p>\n   <p>Hạn chế tiếp xúc với nước thường xuyên.</p>\n   <p>Không dùng xà phòng, hoặc chất tẩy để rửa sản phẩm.</p>\n   <p>Nên dùng khăn ẩm sạch để lau chùi sản phẩm.</p>\n   <p>Không phơi dép dưới ánh nắng, nên dựng đứng sản phẩm và để nơi khô thoáng, có gió.</p>\n   <p>------------------------------------------------</p>\n   <p>THỜI GIAN GIAO HÀNG :</p>\n   <p>Giao hàng theo lịch dự kiến của nhà vận chuyển dự kiến giao hàng đã có hiện rõ trên đơn hàng khi quý khách tạo đơn. (Shop không thể can thiệp phần thời gian giao hàng của nhà vận chuyển. Vì vậy quý khách thông cảm đừng đánh giá thấp Shop về thời gian giao hàng ạ).</p>\n   <p> Lưu ý: Shop chỉ giải quyết đổi hàng trường hợp phát hiện sản phẩm bị lỗi hở keo hoặc tróc xi , hoặc giao sai đơn. Quý Khách vui lòng nhắn vào shop sẽ được hỗ trợ ạ!</p>\n   <p>Khi quý khách nhận được hàng, vui lòng xác nhận đã nhận hàng, và nếu hài lòng sản phẩm và chất lượng sản phẩm Giavy thì vui lòng đánh giá tích cực giúp shop 5 sao nhé!</p>\n   <p>Xin cảm ơn Quý Khách đã tin dùng! Xin chào và hẹn gặp lại đơn hàng tiếp theo !</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 230000,
+        "product_quantity": 8193,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "GIAVY",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 230000,
+                "sku_stock": 3060
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 230000,
+                "sku_stock": 6625
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 230000,
+                "sku_stock": 8769
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 230000,
+                "sku_stock": 6043
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 230000,
+                "sku_stock": 2677
+            }
+        ]
+    },
+    {
+        "product_shop": "84313",
+        "product_name": "Giày sandal nữ Giavy quai kẹp SH653",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/69/ff/c7/dc6ae7ef8e3da25d040a20925802169f.jpg",
+            "https://salt.tikicdn.com/ts/product/98/74/0f/c549dcad2d697a685b19784796d5d87a.jpg",
+            "https://salt.tikicdn.com/ts/product/6b/e0/f0/96ecfc9419f3f5bde77b8cb84c3c37f0.jpg",
+            "https://salt.tikicdn.com/ts/product/1c/78/e8/3d415008af554c20e50c8d1c6d572515.jpg",
+            "https://salt.tikicdn.com/ts/product/eb/44/a5/40f6de919ce2af9f40a0e15f0f3981fb.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>GIÀY SANDAL NỮ</p>\n   <p>Thương hiệu độc quyền : GIAVY.</p>\n   <p>Xuất xứ: Việt Nam.</p>\n   <p>Mã sản phẩm: SH653</p>\n   <p>Kiểu dáng: hậu thun, quai kẹp , họa tiết trên quai đính hột gỗ, đế bệt.</p>\n   <p>Chất liệu quai xi mềm êm chân, đường may tỉ mỉ.</p>\n   <p>Đế cao su, có rãnh chống trơn trượt, keo dán chắc chắn bền bỉ.</p>\n   <p>Màu sắc: Trắng .</p>\n   <p>Chiều cao đế: 2cm</p>\n   <p>Kích cỡ : 36-37-38-39-40 .</p>\n   <p>Đóng gói bao gốm: số lượng đôi khách đặt + phiếu bảo hành + hộp Giavy.</p>\n   <p>Cam kết hàng chính hãng .</p>\n   <p>Cam kết giao đúng mẫu - màu - size khách đặt .</p>\n   <p>----------------------------------------------</p>\n   <p>GIAVY được thành lập năm 2001, uy chất lượng đạt danh hiệu \"HÀNG VIỆT NAM CHẤT LƯỢNG CAO\" năm 2007.</p>\n   <p> Lưu ý : chỉ nhận bảo hành khi khách mang trực tiếp lại Shop , không giải quyết bảo hành qua online)</p>\n   <p>---------------------------------------------</p>\n   <p>HƯỚNG DẪN BẢO QUẢN SẢN PHẨM :</p>\n   <p>Hạn chế tiếp xúc với nước thường xuyên.</p>\n   <p>Không dùng xà phòng, hoặc chất tẩy để rửa sản phẩm.</p>\n   <p>Nên dùng khăn ẩm sạch để lau chùi sản phẩm.</p>\n   <p>Không phơi dép dưới ánh nắng, nên dựng đứng sản phẩm và để nơi khô thoáng, có gió.</p>\n   <p>------------------------------------------------</p>\n   <p>THỜI GIAN GIAO HÀNG :</p>\n   <p>Giao hàng theo lịch dự kiến của nhà vận chuyển dự kiến giao hàng đã có hiện rõ trên đơn hàng khi quý khách tạo đơn. (Shop không thể can thiệp phần thời gian giao hàng của nhà vận chuyển. Vì vậy quý khách thông cảm đừng đánh giá thấp Shop về thời gian giao hàng ạ).</p>\n   <p> Lưu ý: Shop chỉ giải quyết đổi hàng trường hợp phát hiện sản phẩm bị lỗi hở keo hoặc tróc xi , hoặc giao sai đơn. Quý Khách vui lòng nhắn vào shop sẽ được hỗ trợ ạ!</p>\n   <p>Khi quý khách nhận được hàng, vui lòng xác nhận đã nhận hàng, và nếu hài lòng sản phẩm và chất lượng sản phẩm Giavy thì vui lòng đánh giá tích cực giúp shop 5 sao nhé!</p>\n   <p>Xin cảm ơn Quý Khách đã tin dùng! Xin chào và hẹn gặp lại đơn hàng tiếp theo !</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 245000,
+        "product_quantity": 7721,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "GIAVY",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Trắng"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 245000,
+                "sku_stock": 9089
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 245000,
+                "sku_stock": 2539
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 245000,
+                "sku_stock": 5587
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 245000,
+                "sku_stock": 8012
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 245000,
+                "sku_stock": 5964
+            }
+        ]
+    },
+    {
+        "product_shop": "84313",
+        "product_name": "Giày sandal nữ dây Giavy SK109",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/12/e1/3c/e45004288b222d2dfa826471f2908c96.jpg",
+            "https://salt.tikicdn.com/ts/product/7c/75/b0/6315e8df1547165afd098d91c0d9eb8d.jpg",
+            "https://salt.tikicdn.com/ts/product/58/34/28/6d9a0d9232ec9c99f29342b5c1bc1231.jpg",
+            "https://salt.tikicdn.com/ts/product/89/5d/19/4e1c936f78523b88e59805bcbd59bbba.jpg",
+            "https://salt.tikicdn.com/ts/product/42/14/9d/6e2efba8452fdca153aa68b31a4c381c.jpg",
+            "https://salt.tikicdn.com/ts/product/68/ef/25/4be37bed26a123c1709192c5c5d2af5d.jpg",
+            "https://salt.tikicdn.com/ts/product/42/b3/c4/e3b95ca1b46ae50750aca2e21999684d.jpg",
+            "https://salt.tikicdn.com/ts/product/3f/48/f2/bd21fa9b40af393a5425e2052267ef2d.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>GIÀY QUAI HẬU NỮ</p>\n   <p>Thương hiệu độc quyền : GIAVY.</p>\n   <p>Xuất xứ: Việt Nam.</p>\n   <p>Mã sản phẩm: SK109</p>\n   <p>Kiểu dáng: sandal 1 dây ngang thắt bím, đế bệt .</p>\n   <p>Chất liệu quai dù mềm êm chân, đường may tỉ mỉ.</p>\n   <p>Đế cao su, có rãnh chống trơn trượt, keo dán chắc chắn bền bỉ.</p>\n   <p>Màu sắc: Nâu.</p>\n   <p>Chiều cao: 1.5 cm.</p>\n   <p>Kích cỡ : 36-37-38-39-40.</p>\n   <p>Đóng gói bao gốm: số lượng đôi khách đặt + phiếu bảo hành + hộp Giavy.</p>\n   <p>Cam kết hàng chính hãng .</p>\n   <p>Cam kết giao đúng mẫu - màu - size khách đặt .</p>\n   <p>----------------------------------------------</p>\n   <p>GIAVY được thành lập năm 2001, uy chất lượng đạt danh hiệu \"HÀNG VIỆT NAM CHẤT LƯỢNG CAO\" năm 2007.</p>\n   <p> Lưu ý : chỉ nhận bảo hành khi khách mang trực tiếp lại Shop , không giải quyết bảo hành qua online)</p>\n   <p>---------------------------------------------</p>\n   <p>HƯỚNG DẪN BẢO QUẢN SẢN PHẨM :</p>\n   <p>Hạn chế tiếp xúc với nước thường xuyên.</p>\n   <p>Không dùng xà phòng, hoặc chất tẩy để rửa sản phẩm.</p>\n   <p>Nên dùng khăn ẩm sạch để lau chùi sản phẩm.</p>\n   <p>Không phơi dép dưới ánh nắng, nên dựng đứng sản phẩm và để nơi khô thoáng, có gió.</p>\n   <p>------------------------------------------------</p>\n   <p>THỜI GIAN GIAO HÀNG :</p>\n   <p>Giao hàng theo lịch dự kiến của nhà vận chuyển dự kiến giao hàng đã có hiện rõ trên đơn hàng khi quý khách tạo đơn. (Shop không thể can thiệp phần thời gian giao hàng của nhà vận chuyển. Vì vậy quý khách thông cảm đừng đánh giá thấp Shop về thời gian giao hàng ạ).</p>\n   <p> Lưu ý: Shop chỉ giải quyết đổi hàng trường hợp phát hiện sản phẩm bị lỗi hở keo hoặc tróc xi , hoặc giao sai đơn. Quý Khách vui lòng nhắn vào shop sẽ được hỗ trợ ạ!</p>\n   <p>Khi quý khách nhận được hàng, vui lòng xác nhận đã nhận hàng, và nếu hài lòng sản phẩm và chất lượng sản phẩm Giavy thì vui lòng đánh giá tích cực giúp shop 5 sao nhé!</p>\n   <p>Xin cảm ơn Quý Khách đã tin dùng! Xin chào và hẹn gặp lại đơn hàng tiếp theo !</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 220000,
+        "product_quantity": 7091,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "GIAVY",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Nâu"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 220000,
+                "sku_stock": 5136
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 220000,
+                "sku_stock": 8464
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 220000,
+                "sku_stock": 3860
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 220000,
+                "sku_stock": 5252
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 220000,
+                "sku_stock": 7565
+            }
+        ]
+    },
+    {
+        "product_shop": "9511",
+        "product_name": "giầy sandal nữ thời trang sành điệu 21828",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/01/c7/75/ef15b5c5d86d724e73183e05e1f21800.jpg",
+            "https://salt.tikicdn.com/ts/product/cd/e2/ac/b98924ca67c5149f75e1951b380b16d7.jpg",
+            "https://salt.tikicdn.com/ts/product/f1/4f/df/2c0f021fbd9214f9a0667a1992e83ad1.jpg",
+            "https://salt.tikicdn.com/ts/product/b6/0b/62/4dec652c0eb88aca731de41027dcb7fb.jpg",
+            "https://salt.tikicdn.com/ts/product/bb/1a/07/23fc659ef0a2a601a362231eff619e92.jpg",
+            "https://salt.tikicdn.com/ts/product/2e/f9/c9/f51dd24fcf5fa038a611312697f6a2b7.jpg",
+            "https://salt.tikicdn.com/ts/product/cd/06/0b/e689bb3be998dff3f71f2f81084ae9e2.jpg",
+            "https://salt.tikicdn.com/ts/product/72/af/92/40e0a9d19a3b9704a488e0dfe5ce527c.jpg",
+            "https://salt.tikicdn.com/ts/product/37/55/d9/7610617408f55f82f1b8e4cc818ff04f.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>*) THÔNG TIN SẢN PHẨM</p>\n   <p>• ✦ Giày nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.</p>\n   <p>• ✧ Chất liệu : Da bò cao cấp - chất liệu lót mềm mại</p>\n   <p>• ✧ Chức năng: giảm sốc, thoáng khí êm chân.</p>\n   <p>• ★ Style: Hàn Quốc</p>\n   <p>• ✧ Thời trang:giày Đi làm, Đi chơi, Du lịch, Dự tiệc, Dạo phố....</p>\n   <p>• ★ Gợi ý phối đồ Style Cho các nàng Dịu dàng:</p>\n   <p>• =&gt; Giày / Chân váy ngắn / áo sơ mi / túi</p>\n   <p>• ✧ Gợi ý phối đồ Style Cho các nàng Cá Tính:</p>\n   <p>• =&gt; Giày / Quần Jeans ngắn / áo phông form dài / túi / Kính</p>\n   <p>• Đặc điểm sản phẩm</p>\n   <p>✧ Thoáng mát , êm ái thoái mái sử dụng</p>\n   <p>✧ Giày được thiết kế đẹp mắt , có tính thẩm mỹ cao , nhiều người yêu thích</p>\n   <p>✧ Đế có rãnh chống trơn trượt, đàn hồi tốt.</p>\n   <p>✧ Kiểu dáng hiện đai, trẻ trung, năng động</p>\n   <p>• -----------------------* HIỂU ĐƯỢC TÂM LÍ KHI MUA HÀNG ONLINE SHOP CAM KẾT-----------------------</p>\n   <p>• Cam kết sản phẩm giống ảnh 100%</p>\n   <p>• Tất cả hình ảnh đều là shop tự chụp nên khách hàng có thể hoàn toàn yên tâm chọn lựa</p>\n   <p>• Được kiểm tra hàng trước khi thanh toán</p>\n   <p>• Nhận hàng và thanh toán tại nhà</p>\n   <p>• Hỗ trợ đổi trả hàng nhanh chóng, thuận tiện nhất</p>\n   <p>• *LƯU Ý</p>\n   <p>• - Hướng dẫn đặt mua nhiều màu, mẫu, kích thước trong 1 đơn hàng: Bạn phải chọn màu, mẫu hoặc kích thước bạn muốn rồi cho vào giỏ hàng. Sau khi chọn đủ thì vào giỏ hàng để tiến hành mua hàng. Có thể điều chỉnh số lượng mua trong giỏ hàng nếu muốn.</p>\n   <p>• - Đối với những sản phẩm có nhiều mẫu, màu sắc, nhiều kích thước. Quý khách vui lòng đặt mua đúng mẫu, màu, kích thước của sản phẩm trên hệ thống để tránh nhầm lẫn. Do Shop chủ yếu sắp hàng theo phiếu in từ hệ thống chứ không nhìn được vào ghi chú hay tin nhắn</p>\n   <p>• Hướng dẫn bảo quản</p>\n   <p>★ Tránh mang sản phẩm khi trời mưa hoặc thời tiết xấu để chúng không bị ướt dẫn đến bong tróc.</p>\n   <p>✧ Bạn sử dụng các loại xà bông, nước rửa chén, kem cạo râu để giặt giày.</p>\n   <p>★ Chú ý là nên dùng bàn chải mềm hoặc khăn mềm để chà giặt sẽ tốt hơn.</p>\n   <p>✧ Nên phơitrong mát, không nên phơi trực tiếp dưới ánh nắng mặt trời.</p>\n   <p>★ Sau khi giặt xong để ráo nước sử dụng giấy mềm, thấm nước, cuốn 2-3 vòng phủ toàn đôi giày.</p>\n   <p>✧ Sau đó bạn có thể đem phơi trực tiếp dưới nắng mà không ảnh hưởng</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 150000,
+        "product_quantity": 7035,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ĐỒ DA THÀNH LONG TLG",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Nude",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 9179
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 150000,
+                "sku_stock": 8815
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 150000,
+                "sku_stock": 8374
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 150000,
+                "sku_stock": 3236
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 150000,
+                "sku_stock": 1671
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 7378
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 150000,
+                "sku_stock": 5656
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 150000,
+                "sku_stock": 9407
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 150000,
+                "sku_stock": 1127
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 150000,
+                "sku_stock": 9288
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Đế Xuồng Nữ Da Bò BIGGBEN Cao Cấp SDX31",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/30/85/d2/673c71c3fc5c9bb40419d0a4bda2dae5.jpg",
+            "https://salt.tikicdn.com/ts/product/2a/89/f9/48a49b99513a9f6d382027b80d60acaa.jpg",
+            "https://salt.tikicdn.com/ts/product/a2/0a/da/720f71e37bda2bb3e5b0542049e4e5e3.jpg",
+            "https://salt.tikicdn.com/ts/product/e1/3d/4a/46c2a764715f4f36a9080d064cb61c57.jpg",
+            "https://salt.tikicdn.com/ts/product/4a/f6/bf/bca11a87d327cb3d54ca37646fb9e3d0.jpg"
+        ],
+        "product_description": "<div class=\"left\">\n<div class=\"group\">\n<div class=\"content\">\n<div class=\"ToggleContent__Wrapper-sc-1hm81e2-1 iGyNLs\">\n<div class=\"ToggleContent__View-sc-1hm81e2-0 eIzUuC\">\n<div>\n<h3>Sandal Nữ sản phẩm được thiết kế bền đẹp kết hợp đế cao su êm nhẹ giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</h3>\n<ul>\n<li>\n<h3>Được làm Bằng chất liệu Da Bò Thật 100% </h3>\n</li>\n<li>\n<h3>Sandal Nữ được xử lý đặc biệt để tạo Phong cách trẻ trung và Nữ tính.</h3>\n</li>\n<li>\n<h3>Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</h3>\n</li>\n<li>\n<h3>Chất Liệu :Da bò thật 100%</h3>\n</li>\n<li>\n<h3>Kích Thước :từ 35 đến 40</h3>\n</li>\n<li>\n<h3>Đế Cao : 5 cm</h3>\n</li>\n<li>\n<h3>Sản phẩm được bảo hành 1 năm</h3>\n</li>\n<li>\n<h3>Hướng dẫn chọn size:</h3>\n</li>\n<li>\n<h3><img src=\"https://salt.tikicdn.com/ts/tmp/86/60/c0/8369522681bcccc1cbf3df7dee8834e3.jpg\" alt=\"\" width=\"550\" height=\"287\" /></h3>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 450000,
+        "product_quantity": 9764,
+        "product_category": [
+            "Giày - Dép nữ"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDX31",
+            "Chất liệu": "Da bò",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            },
+            {
+                "name": "Màu",
+                "options": [
+                    "nâu",
+                    "Đen"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 5079
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 7863
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 4088
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 9647
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 5642
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 8589
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 5110
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 6542
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 6288
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 6158
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Cao Gót Da Bò BIGGBEN SDCG67",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/98/ce/46/8cdae4a9eac4eb576bf766eae488bdb0.jpg",
+            "https://salt.tikicdn.com/ts/product/5f/45/c1/90acee720c3bfda43b83ae74572137ed.jpg",
+            "https://salt.tikicdn.com/ts/product/b6/c9/0c/5b45d5c65ce19d35b2f9551cd9fb425a.jpg",
+            "https://salt.tikicdn.com/ts/product/10/d6/54/03342e944199fe0988d251d78a7fe53b.jpg"
+        ],
+        "product_description": "<ul>\n<li>\n<h3>Sandal Nữ sản phẩm được thiết kế bền đẹp kết hợp đế cao su êm nhẹ giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</h3>\n</li>\n<li>\n<h3>Được làm Bằng chất liệu Da Bò Thật 100% </h3>\n</li>\n<li>\n<h3>Sandal Nữ được xử lý đặc biệt để tạo Phong cách trẻ trung và Nữ tính.</h3>\n</li>\n<li>\n<h3>Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</h3>\n</li>\n<li>\n<h3>Chất Liệu :Da bò thật 100%</h3>\n</li>\n<li>\n<h3>Kích Thước :từ 35 đến 39</h3>\n</li>\n<li>\n<h3>Đế Cao : 4 cm</h3>\n</li>\n<li>\n<h3>Sản phẩm được bảo hành 1 năm</h3>\n</li>\n<li>\n<h3>Hướng dẫn chọn size:</h3>\n</li>\n<li>\n<h3><img src=\"https://salt.tikicdn.com/ts/tmp/86/60/c0/8369522681bcccc1cbf3df7dee8834e3.jpg\" alt=\"\" width=\"550\" height=\"287\" /></h3>\n</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 450000,
+        "product_quantity": 8401,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDCG67",
+            "Chất liệu": "Da bò",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            },
+            {
+                "name": "Màu",
+                "options": [
+                    "vàng",
+                    "ĐEN"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 4028
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 3180
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 1136
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 3224
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 3780
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 8391
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 9791
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 8782
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 2102
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 5175
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 6912
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 1714
+            }
+        ]
+    },
+    {
+        "product_shop": "86443",
+        "product_name": "Giày Sandal Nữ Đế Xuồng HÀ NAM Da Bò Thật Cao Cấp 7cm DNU2060",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/90/dc/ef/9fbf1f8acafdd2a25ef41d27c93e90cb.png",
+            "https://salt.tikicdn.com/ts/product/3f/a2/71/d9a3182161e9a0ee9bf4fba1ebf24b4f.png",
+            "https://salt.tikicdn.com/ts/product/0a/f7/ae/98d3ca4ddfb464ae08f1ba77b14900c5.png",
+            "https://salt.tikicdn.com/ts/product/56/66/a3/0da6c5441bdb73af61f66c1486ee3e1a.png",
+            "https://salt.tikicdn.com/ts/product/23/65/28/1e8c5a3a75a1ed89597d91956f6a0d46.png",
+            "https://salt.tikicdn.com/ts/product/0a/f7/ae/ad06ed09e68e05f49bb739c47538badd.png"
+        ],
+        "product_description": "<p>Giày Sandal Nữ Đế Xuồng HÀ NAM Da Bò Thật Cao Cấp 7cm DNU2060</p>\n<ul>\n<li>Giày Dép Được Gia Công Tại Xưởng Shop</li>\n<li>Hoàn Trả Tiền 100% Hoặc 1 Đổi 1 Nếu Shop Giao Không Đúng Hàng, Không Đúng Như Mô Tả</li>\n<li><img src=\"https://salt.tikicdn.com/ts/tmp/f5/30/67/85d5bed7188d4c2cabc95d628f8590bc.png\" alt=\"\" width=\"750\" height=\"750\" /></li>\n</ul>\n<p> </p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/28/61/7d/03217c4fac7ed39a342cf48b28114bf4.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>+ THÔNG TIN SẢN PHẨM</p>\n<p>  Chất liệu: + DA BÒ thật 100%</p>\n<p>                       + Đế cao su êm nhẹ chống trơn</p>\n<ul>\n<li>Size: 35 – 40</li>\n<li>Cao 7cm</li>\n<li>Màu sắc : Đen</li>\n<li>Hình ảnh shop tự chụp sản phẩm thật 100%</li>\n<li>Màu sắc : như hình</li>\n<li>Sản phẩm được bảo hành 1 năm</li>\n<li>Giày dép đi nước thoải mái</li>\n<li>Xuất Xứ: Việt Nam</li>\n</ul>\n<p> </p>\n<p style=\"text-align:center;\"><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/3a/35/30/12603426cb9fee8aac2ecf5c1329d67b.png\" alt=\"\" width=\"750\" height=\"750\" /><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/17/15/89/501fb431a98d6acb163280a415e53365.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>Hướng dẫn bảo quản :</p>\n<p>1) Không nên để sản phẩm gần nơi có nhiệt độ cao để tránh sản phẩm bị khô, nứt và bị biến dạng.</p>\n<p>2) Không nên để sản phẩm bị thấm nước, ẩm ướ để tránh sản phẩm bị phai màu, khô cứng. Nếu bị ướt, nên dùng vải khô thấm nước, và đem để nơi thoáng mát cho sản phẩm khô.</p>\n<p>3) Không nên để sản phẩm tiếp xúc với bút màu, bút bi vì các vết này rất khó tẩy, làm ảnh hưởng đến vẻ đẹp của sản phẩm.</p>\n<p>4) Không nên dùng sức kéo mạnh hay đựng đồ quá nặng, tránh vật thô cứng nhọn làm trầy mặt sản phẩm.</p>\n<p>5) Nên thường xuyên dùng vải khô lau chùi các phần phụ kiện bằng kim loại để phần kim loại được bóng và không đổi màu.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 320000,
+        "product_quantity": 3532,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "HA NAM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "DNU2060",
+            "Chất liệu": "Da",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            },
+            {
+                "name": "Màu",
+                "options": [
+                    "ĐEN"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 320000,
+                "sku_stock": 6370
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 320000,
+                "sku_stock": 5533
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 320000,
+                "sku_stock": 7802
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 320000,
+                "sku_stock": 2200
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 320000,
+                "sku_stock": 6017
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    0
+                ],
+                "sku_price": 320000,
+                "sku_stock": 2615
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Đế Xuồng Nữ Da Bò BIGGBEN Cao Cấp SDX30",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/7b/29/72/870262c250fa3549c9ac6beb12072c7e.jpg",
+            "https://salt.tikicdn.com/ts/product/d4/c5/11/a70715a9a0709033ebb16f0d0287fac1.jpg",
+            "https://salt.tikicdn.com/ts/product/38/ab/d5/19816a59f5b0d8053add33833e117812.jpg",
+            "https://salt.tikicdn.com/ts/product/95/e2/ec/04a72d468f57e2102c8571d95fb58296.jpg",
+            "https://salt.tikicdn.com/ts/product/4b/dc/53/f7f986fc65f74ef32f1012abe64fcbf9.jpg"
+        ],
+        "product_description": "<ul>\n<li>\n<p>Giày Đế Xuồng Nữ với chất liệu Da Bò bền đẹp kết hợp đế êm nhẹ chống trơn trượt giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</p>\n</li>\n<li>\n<p>Đế cao: 5 cm</p>\n</li>\n<li>\n<p>Chất liệu quai: Da bò thật 100%</p>\n</li>\n<li>\n<p>Chất liệu đế: Đế cao su chống trơn</p>\n</li>\n<li>\n<p>Đế cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</p>\n</li>\n<li>\n<p>Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</p>\n</li>\n<li>\n<p>Hướng dẫn chọn size:</p>\n</li>\n<li><img src=\"https://salt.tikicdn.com/ts/tmp/86/60/c0/ea18ad22845bad5fb7ca012f563dee03.jpg\" alt=\"\" width=\"550\" height=\"287\" /></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 450000,
+        "product_quantity": 3000,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDX30",
+            "Chất liệu": "Da bò",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 3002
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 5602
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 450000,
+                "sku_stock": 5609
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 450000,
+                "sku_stock": 6279
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 450000,
+                "sku_stock": 7108
+            }
+        ]
+    },
+    {
+        "product_shop": "86443",
+        "product_name": "Giày sandal nữ da bò thật HÀ NAM đế xuồng gót cao 5cm DNU2021",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/7f/09/ee/b89147c97c91094317cd0e00e0f5a2a0.png",
+            "https://salt.tikicdn.com/ts/product/1c/8a/24/ff0842d1d98d8cda056000ac8ceedc52.png",
+            "https://salt.tikicdn.com/ts/product/5a/c6/07/64cc4269b82ebf9bae4e2c95575a32ff.png",
+            "https://salt.tikicdn.com/ts/product/3d/5d/cf/3cfd812c582d1933355359595200b94d.png",
+            "https://salt.tikicdn.com/ts/product/4b/0d/af/635c8453a0c166c0c0144a3016945e4c.png",
+            "https://salt.tikicdn.com/ts/product/fd/31/93/dc7f542c6e79862860cdbb7b0cb1eef7.png"
+        ],
+        "product_description": "<p>Giày sandal nữ da bò thật HÀ NAM đế xuồng gót cao 5cm DNU2021</p>\n<ul>\n<li>Giày Dép Được Gia Công Tại Xưởng Shop</li>\n<li>Hoàn Trả Tiền 100% Hoặc 1 Đổi 1 Nếu Shop Giao Không Đúng Hàng, Không Đúng Như Mô Tả</li>\n</ul>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/b0/9b/19/10d82b425c9a39a15ab2c8b957001f22.png\" alt=\"\" width=\"750\" height=\"750\" /><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/8a/14/76/a1e27613862e99b070401e318ec14299.png\" alt=\"\" width=\"750\" height=\"750\" /><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/a8/ed/15/ff717b47b4627250f7554f7bf1f69ec3.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>+ THÔNG TIN SẢN PHẨM</p>\n<p>  Chất liệu: + DA BÒ thật 100%</p>\n<p>                       + Đế cao su êm nhẹ chống trơn</p>\n<ul>\n<li> Size: 35– 40</li>\n<li> Cao 5cm</li>\n<li> Màu sắc : Đen</li>\n<li> Hình ảnh shop tự chụp sản phẩm thật 100%</li>\n<li> Màu sắc : như hình</li>\n<li> Sản phẩm được bảo hành 1 năm</li>\n<li> Giày dép đi nước thoải mái</li>\n</ul>\n<p> Xuất Xứ: Việt Nam</p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/42/50/94/2bde214a8a282eb2ae918d48fcaf3a7b.png\" alt=\"\" width=\"750\" height=\"750\" /><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/76/a1/20/625105165346998b4d0cba0898e43e3e.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>Hướng dẫn bảo quản :</p>\n<p>1) Không nên để sản phẩm gần nơi có nhiệt độ cao để tránh sản phẩm bị khô, nứt và bị biến dạng.</p>\n<p>2) Không nên để sản phẩm bị thấm nước, ẩm ướ để tránh sản phẩm bị phai màu, khô cứng. Nếu bị ướt, nên dùng vải khô thấm nước, và đem để nơi thoáng mát cho sản phẩm khô.</p>\n<p>3) Không nên để sản phẩm tiếp xúc với bút màu, bút bi vì các vết này rất khó tẩy, làm ảnh hưởng đến vẻ đẹp của sản phẩm.</p>\n<p>4) Không nên dùng sức kéo mạnh hay đựng đồ quá nặng, tránh vật thô cứng nhọn làm trầy mặt sản phẩm.</p>\n<p>5) Nên thường xuyên dùng vải khô lau chùi các phần phụ kiện bằng kim loại để phần kim loại được bóng và không đổi màu.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 346000,
+        "product_quantity": 8259,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "12 Tháng",
+            "Thương hiệu": "HA NAM",
+            "Model": "DNU2021",
+            "Chất liệu": "Da bò thật",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            },
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Đen"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 346000,
+                "sku_stock": 4713
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 346000,
+                "sku_stock": 2167
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 346000,
+                "sku_stock": 1087
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 346000,
+                "sku_stock": 8201
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 346000,
+                "sku_stock": 3660
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    0
+                ],
+                "sku_price": 346000,
+                "sku_stock": 3236
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Nữ Đế Xuồng BIGGBEN Da Bò Thật SDX16",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/56/a8/e5/970f79bce42202de7b517823439e87d5.jpg",
+            "https://salt.tikicdn.com/ts/product/f2/5b/ec/b950d260c9785d2414cf216477be4608.jpg",
+            "https://salt.tikicdn.com/ts/product/38/c2/24/9a35a88576c5d8e9bb7a850e1da3ccba.jpg",
+            "https://salt.tikicdn.com/ts/product/12/10/e1/7152d2e807de22081e37490b2a6a5158.jpg"
+        ],
+        "product_description": "<ul>\n<li>Size 35 - 40 Đế Cao 9 Cm</li>\n<li>Giày Sandal Nữ với chất liệu Da Bò Thật bền đẹp kết hợp đế êm nhẹ chống trơn trượt giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</li>\n<li>Sandal Nữ được xử lý đặc biệt để tạo độ bóng mờ, Phong cách trẻ trung và Nữ tính.</li>\n<li>Đế cao Su cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</li>\n<li>Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</li>\n<li>Hướng dẫn chọn size:</li>\n<li><img src=\"https://salt.tikicdn.com/ts/tmp/86/60/c0/16f51ccf57eb417f405a80aa75b51a53.jpg\" alt=\"\" width=\"550\" height=\"285\" />\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/65/5b/23/590c870c94d45e0d9724911f54507c9b.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/65/5b/23/590c870c94d45e0d9724911f54507c9b.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/ff/70/a0/26a3c1fb66481dca7d1ca32953b315e0.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/ff/70/a0/26a3c1fb66481dca7d1ca32953b315e0.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/80/8f/3a/8981e7cca8ab15b0366bd63e87acbac5.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/80/8f/3a/8981e7cca8ab15b0366bd63e87acbac5.jpg\" alt=\"\" width=\"643\" height=\"900\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/82/29/f7/9f26d80ad288578f2ff52b3ea9d62d42.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/82/29/f7/9f26d80ad288578f2ff52b3ea9d62d42.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 450000,
+        "product_quantity": 5341,
+        "product_category": [
+            "Giày sandals đế bằng"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDX16",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Kích Thước",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 9807
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 6889
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 450000,
+                "sku_stock": 8896
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 450000,
+                "sku_stock": 7723
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 450000,
+                "sku_stock": 2341
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Nữ BIGGBEN Da Bò Thật SDN51",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/07/ba/2b/db637a555bef5b7be027356087672174.jpg",
+            "https://salt.tikicdn.com/ts/product/04/0d/8a/88bbac189b8ddf85cb8bd6291f37421c.jpg",
+            "https://salt.tikicdn.com/ts/product/46/08/79/73a7e750c4e05e126c521c79179d61b5.jpg",
+            "https://salt.tikicdn.com/ts/product/39/b5/c1/c477937227bd3f55a31a29292f1930fa.jpg",
+            "https://salt.tikicdn.com/ts/product/03/bb/69/ef0320af1c85f7a8e54fd64870dd3162.jpg"
+        ],
+        "product_description": "<p style=\"text-align: center;\">Sandal Nữ với chất liệu da bò bền đẹp kết hợp đế êm nhẹ giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.<br />Sandal Nữ được xử lý đặc biệt để tạo độ bóng mờ, Phong cách trẻ trung và Nữ tính.<br />Quai Da cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.<br />Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình<br />Hướng dẫn chọn size</p>\n<p style=\"text-align: center;\"><img src=\"https://salt.tikicdn.com/ts/tmp/86/60/c0/3f7bb5facd7d602f3ff1432e7e44b21d.jpg\" alt=\"\" width=\"550\" height=\"285\" /></p>\n<p style=\"text-align: center;\"><img id=\"https://salt.tikicdn.com/ts/tmp/ab/8d/88/63051bfe5a558f16a0634017bce10e2f.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/ab/8d/88/63051bfe5a558f16a0634017bce10e2f.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p style=\"text-align: center;\"><img id=\"https://salt.tikicdn.com/ts/tmp/ce/5b/79/78a8620ea0a492a26e68f43f742f9506.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/ce/5b/79/78a8620ea0a492a26e68f43f742f9506.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p style=\"text-align: center;\"><img id=\"https://salt.tikicdn.com/ts/tmp/67/54/87/d822e38b7ebf519e0f987a16f00a12d6.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/67/54/87/d822e38b7ebf519e0f987a16f00a12d6.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p style=\"text-align: center;\"><img id=\"https://salt.tikicdn.com/ts/tmp/b2/45/49/d50a0ed106513cae41c215b35a0710b9.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/b2/45/49/d50a0ed106513cae41c215b35a0710b9.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/5c/da/b9/16201f43cbab2af3c454a373286f351f.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/5c/da/b9/16201f43cbab2af3c454a373286f351f.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 400000,
+        "product_quantity": 4192,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDN51",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Kích Thước",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 400000,
+                "sku_stock": 1780
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 400000,
+                "sku_stock": 5470
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 400000,
+                "sku_stock": 8522
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 400000,
+                "sku_stock": 2088
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 400000,
+                "sku_stock": 5571
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 400000,
+                "sku_stock": 3502
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Nữ BIGGBEN Da Bò Thật SDN35",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6e/a0/a9/3af1b5024b2dc8efa4e4f0f43cd445d5.jpg",
+            "https://salt.tikicdn.com/ts/product/7a/5b/4f/e266c65ef0213e659a48a08bfd22221c.jpg",
+            "https://salt.tikicdn.com/ts/product/a2/80/33/9533e214699beda0dc25658cbf9fc960.jpg",
+            "https://salt.tikicdn.com/ts/product/a3/b6/61/f62cd99e2524666cf0e9c3a159cc8585."
+        ],
+        "product_description": "Sandal Nữ với chất liệu da bò bền đẹp kết hợp đế  êm nhẹ  giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.<br />\nSandal Nữ được xử lý đặc biệt để tạo độ bóng mờ, Phong cách trẻ trung và Nữ tính.<br />\nQuai Da cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.<br />\nBạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình<br />\nHướng dẫn chọn size<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 350000,
+        "product_quantity": 4257,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDN35",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "Size 35",
+                    "Size 36",
+                    "Size 37",
+                    "Size 38",
+                    "Size 39",
+                    "Size 40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 350000,
+                "sku_stock": 4213
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 350000,
+                "sku_stock": 9909
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 350000,
+                "sku_stock": 2782
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 350000,
+                "sku_stock": 1802
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 350000,
+                "sku_stock": 2730
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 350000,
+                "sku_stock": 5276
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Kẹp Nữ BIGGBEN Da Bò Thật SDN31",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/75/5f/c6/1d8f8a77df7dc260ebdce0ae37047cc3.jpg",
+            "https://salt.tikicdn.com/ts/product/c7/85/34/3260afeb4152f092467dfbff8d922fed.jpg",
+            "https://salt.tikicdn.com/ts/product/d0/9a/3e/0ad8f3a7513ad447cb58c67f023cd216.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/4b/71/3edd017110aace9b201eb9eee6ef3bac.jpg"
+        ],
+        "product_description": "<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Sandal Nữ với chất liệu da bò bền đẹp kết hợp đế cao su êm nhẹ chống trơn trượt giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Sandal Nữ được xử lý đặc biệt để tạo độ bóng mờ, </span><span style=\"font-family: Roboto-Regular, 'Helvetica Neue', Helvetica, Tahoma, Arial, sans-serif;\">Phong cách trẻ trung và Nữ tính.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Đế cao Su cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Hướng dẫn chọn size:</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><img src=\"https://salt.tikicdn.com/ts/tmp/86/60/c0/16f51ccf57eb417f405a80aa75b51a53.jpg\" alt=\"\" width=\"550\" height=\"285\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 400000,
+        "product_quantity": 2587,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDN31"
+        },
+        "product_variations": [
+            {
+                "name": "Kích Thước",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 400000,
+                "sku_stock": 4464
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 400000,
+                "sku_stock": 8038
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 400000,
+                "sku_stock": 1565
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 400000,
+                "sku_stock": 6749
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 400000,
+                "sku_stock": 3073
+            }
+        ]
+    },
+    {
+        "product_shop": "7355",
+        "product_name": "Dép sandan nữ 2 quai ngang Pa01220",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/96/be/a8/b16f1746d7a7242c0b92aa4b5c9fa43b.jpg",
+            "https://salt.tikicdn.com/ts/product/43/19/fe/2a3310aa2fa5a9583cb7874fd84be451.jpg",
+            "https://salt.tikicdn.com/ts/product/ad/ce/52/d673121bafbbb9535e9625e9bd73c04d.jpg",
+            "https://salt.tikicdn.com/ts/product/a9/ec/ed/912784cafef7f2f504c3085640ee8392.jpg"
+        ],
+        "product_description": "<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 13px; text-align: justify;\">Giày sandan nữ quai da pu siêu xinh</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 13px; text-align: justify;\"> Sản phẩm có 04 màu đen, kem, nâu và trắng  dễ dàng kết hợp nhiều loại trang phục</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 13px; text-align: justify;\">Giày đi êm cực kỳ thoải mái năng động</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 13px; text-align: justify;\"><img style=\"box-sizing: border-box; vertical-align: middle; border: 0px; display: block; max-width: 100%; height: auto; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/b7/6e/df/84e2a6be67bb26063421eb4430cee50c.JPG\" alt=\"\" width=\"517\" height=\"141\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 200000,
+        "product_quantity": 7840,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "phananh.4man's",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "2019"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Kem",
+                    "Trắng",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "size",
+                "options": [
+                    "size 35",
+                    "size 36",
+                    "size 37",
+                    "size 38",
+                    "size 39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 200000,
+                "sku_stock": 6919
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 200000,
+                "sku_stock": 9952
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 200000,
+                "sku_stock": 4267
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 200000,
+                "sku_stock": 8454
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 200000,
+                "sku_stock": 3720
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 200000,
+                "sku_stock": 4488
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 200000,
+                "sku_stock": 8918
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 200000,
+                "sku_stock": 7128
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 200000,
+                "sku_stock": 5254
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 200000,
+                "sku_stock": 3143
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 200000,
+                "sku_stock": 3425
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 200000,
+                "sku_stock": 9012
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 200000,
+                "sku_stock": 2239
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 200000,
+                "sku_stock": 2278
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    4
+                ],
+                "sku_price": 200000,
+                "sku_stock": 8718
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Nữ BIGGBEN Da Bò Thật SDN19",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/45/dc/ec/9d24186521643984c7e79a3b885042e9.jpg",
+            "https://salt.tikicdn.com/ts/product/50/96/5a/26f8821706609803e0e6641537c62d81.jpg",
+            "https://salt.tikicdn.com/ts/product/c3/8b/a1/cb884e93a2609d2e7d7cc69496dfe991.jpg",
+            "https://salt.tikicdn.com/ts/product/3c/f9/e5/0a5427e4e85836ddf550638fd0be0a74.jpg"
+        ],
+        "product_description": "<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Sandal Nữ với chất liệu da bò bền đẹp kết hợp đế cao su êm nhẹ chống trơn trượt giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Sandal Nữ được xử lý đặc biệt để tạo độ bóng mờ, </span><span style=\"font-family: Roboto-Regular, 'Helvetica Neue', Helvetica, Tahoma, Arial, sans-serif;\">Phong cách trẻ trung và Nữ tính.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Đế cao Su cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Hướng dẫn chọn size:</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><img src=\"https://salt.tikicdn.com/ts/tmp/86/60/c0/16f51ccf57eb417f405a80aa75b51a53.jpg\" alt=\"\" width=\"550\" height=\"287\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 500000,
+        "product_quantity": 4605,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDN19",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Kích Thước",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 500000,
+                "sku_stock": 3268
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 500000,
+                "sku_stock": 6608
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8677
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8380
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 500000,
+                "sku_stock": 1050
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Nữ BIGGBEN Da Bò Thật SDN06",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/5a/48/5f/ac8775aa79af7dd3dc7bf0491e51d2c9.jpg",
+            "https://salt.tikicdn.com/ts/product/6a/b5/0a/516cd5f9f3ed3de752a13dd36945fb3a.jpg",
+            "https://salt.tikicdn.com/ts/product/0b/8a/11/b3c66d25b25df62b7b20a35fdac77cd5.jpg",
+            "https://salt.tikicdn.com/ts/product/33/08/f8/0288c80158a67d7443c533c93229154c.jpg",
+            "https://salt.tikicdn.com/ts/product/88/02/b0/c96067438e61e55e0b6c9a858ea0d099.jpg"
+        ],
+        "product_description": "<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Sandal Nữ với chất liệu da bò bền đẹp kết hợp đế cao su êm nhẹ chống trơn trượt giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Sandal Nữ được xử lý đặc biệt để tạo độ bóng mờ, </span><span style=\"font-family: Roboto-Regular, 'Helvetica Neue', Helvetica, Tahoma, Arial, sans-serif;\">Phong cách trẻ trung và Nữ tính.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Đế cao Su cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Hướng dẫn chọn size:</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\"><img style=\"font-family: Verdana, Arial, Helvetica, sans-serif;\" src=\"https://vcdn.tikicdn.com/ts/tmp/c0/e7/a9/e3b6ab1eb9c6bda92ddc02fdb18f4358.JPG\" alt=\"\" width=\"620\" height=\"152\" /></span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 450000,
+        "product_quantity": 5628,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDN06"
+        },
+        "product_variations": [
+            {
+                "name": "Kích Thước",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 450000,
+                "sku_stock": 5186
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 450000,
+                "sku_stock": 3719
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 450000,
+                "sku_stock": 8735
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 450000,
+                "sku_stock": 2108
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 450000,
+                "sku_stock": 2464
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Sandal Nữ Xỏ Ngón BIGGBEN Da Bò Thật SDXN01",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b3/72/97/a9c4963e8e92d23858857565203d89d2.jpg",
+            "https://salt.tikicdn.com/ts/product/73/b9/a6/018a82e2d4402536efdae91aa0e69f3f.jpg",
+            "https://salt.tikicdn.com/ts/product/97/4a/02/702a16773f8ca1effae8d23605bdad2d.jpg",
+            "https://salt.tikicdn.com/ts/product/21/d0/5a/1784f9c6a4553d523738e149d0cfc460.jpg"
+        ],
+        "product_description": "<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Sandal Nữ với chất liệu da bò bền đẹp kết hợp đế cao su êm nhẹ chống trơn trượt giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Sandal Nữ được xử lý đặc biệt để tạo độ bóng mờ Nữ tính thích hợp cho mọi lứa tuổi.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Đế cao Su cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Hướng dẫn chọn size:</span></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/86/60/c0/fd737e6534c577d0b067bb8490e69cfc.jpg\" alt=\"\" width=\"750\" height=\"391\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 380000,
+        "product_quantity": 2914,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDXN01"
+        },
+        "product_variations": [
+            {
+                "name": "Kích Thước",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 380000,
+                "sku_stock": 4189
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 380000,
+                "sku_stock": 9465
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 380000,
+                "sku_stock": 5977
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 380000,
+                "sku_stock": 4978
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 380000,
+                "sku_stock": 5235
+            }
+        ]
+    }
+]

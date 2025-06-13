@@ -1,0 +1,46 @@
+[
+    {
+        "product_shop": "40395",
+        "product_name": "Vớ Yoga Adidas ADYG-30101GR",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/13/f7/93/332532b37ba46ea95a62ef410eb14fa3.jpg"
+        ],
+        "product_description": "<ul>\n<li><strong>Vớ Yoga Adidas ADYG-30101GR</strong> được thiết kế thông minh giúp hỗ trợ tối đa trong quá trình tập luyện cho người sử dụng.</li>\n<li>Chất liệu vải polyester cao cấp, co giãn tốt, độ bền cao, thoáng mát, thấm hút mồ hôi.</li>\n<li>Đính hạt PVC ở dưới dưới lòng bàn chân chống trơn trượt, giúp massage.</li>\n<li>Giúp cho thảm của bạn luôn luôn sạch sẽ.</li>\n</ul>\n<p><strong>Hướng dẫn chọn size:</strong></p>\n<ul>\n<li>Size S/M (24 - 26 cm) - Kích thước: 18.5 x 8.8 x 2cm</li>\n<li>Size M/L (27-30CM) - Kích thước: 20.5 x 10 x 2cm</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 288000,
+        "product_quantity": 3509,
+        "product_category": [
+            "Trang phục thể dục dụng cụ"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Adidas",
+            "Chất liệu": "<p>Vải polyester</p>",
+            "Model": "ADYG-30102GR",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "ADYG-30101GR Size S/M",
+                    "ADYG-30102GR Size M/L"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 288000,
+                "sku_stock": 5840
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 288000,
+                "sku_stock": 4041
+            }
+        ]
+    }
+]

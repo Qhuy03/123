@@ -1,0 +1,2859 @@
+[
+    {
+        "product_shop": "40060",
+        "product_name": "Giày chơi cầu lông, giày bóng chuyền chuyên dụng Lefus L028 - Đế kếp",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/62/61/fb/7eac4270a5e0c72ed4ef70ea5018f8f3.jpg",
+            "https://salt.tikicdn.com/ts/product/98/d5/de/cb8ad42988c04833f4e28b8b310d6281.jpg",
+            "https://salt.tikicdn.com/ts/product/a9/31/f9/4421d2037aba9ab0902cd257bb59ed44.jpg",
+            "https://salt.tikicdn.com/ts/product/23/a3/87/2ca0686fcca637f58d8b0a2c653cc612.jpg",
+            "https://salt.tikicdn.com/ts/product/3f/33/8c/32fbe970ecd7fd5204c1527f8879eada.jpg"
+        ],
+        "product_description": "<p>Thông tin cơ bản:</p>\n<p>- Tên sản phẩm: Giày cầu lông Lefus L028, mẫu bền bỉ, nhẹ, êm chân</p>\n<p>- Đối tượng sử dụng: nam, nữ</p>\n<p>- Chất liệu:</p>\n<p>+ Thân giày được làm từ da PU kết hợp phối lưới, chất liệu da tổng hợp cực bền và chắc chắn, độ bóng của da tốt giúp người sử dụng dễ dàng lau chùi. Phần má trong giày (da sần và có lớp mài) giúp tăng độ bền, tăng khả năng chống mài mòn của giày khi sử dụng.</p>\n<p>+ Đế giữa được làm từ EVA đàn hồi cao, TPU chống xoắn phẳng, sợi carbon ổn định.</p>\n<p>+ Bên ngoài ngoài cấu tạo cao su mặc kháng.</p>\n<p>+ Bên trong thiết kế mặt lưới thoáng khí nhiều lớp kết hợp vải mềm.</p>\n<p>- Thiết kế hình lục giác trên đế cao su non giúp đôi giày cầu lông Lefus L026 có độ bám sân cao hơn và nhẹ hơn so với vật liệu đế tiêu chuẩn.</p>\n<p>- Giữa đế giày đánh cầu lông được chèn một tấm Carbon tăng cường độ ổn định tối đa trong mọi bước di chuyển.</p>\n<p>- Form giày cứng cáp, chất liệu dễ dàng vệ sinh khi bụi bẩn, có thiết kế ôm chân và phù hợp với nhưng người có phần chân dài hơn cho với chiều ngang.</p>\n<p>- Nhiều màu sắc và kích cỡ mang đến sự lựa chọn đa dạng cho người sử dụng.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/7c/7f/41/9a1566902c7a69d78a7b0f83f10052b3.jpg\" alt=\"\" width=\"750\" height=\"414\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 790000,
+        "product_quantity": 4111,
+        "product_category": [
+            "Giày bóng chuyền nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Nagaki",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "2 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Xanh Dương",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43",
+                    "44"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 790000,
+                "sku_stock": 3539
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 790000,
+                "sku_stock": 9923
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 790000,
+                "sku_stock": 3926
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 790000,
+                "sku_stock": 3526
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 790000,
+                "sku_stock": 9584
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 790000,
+                "sku_stock": 8856
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 790000,
+                "sku_stock": 6455
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 790000,
+                "sku_stock": 9139
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 790000,
+                "sku_stock": 9768
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 790000,
+                "sku_stock": 1328
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 790000,
+                "sku_stock": 7469
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    5
+                ],
+                "sku_price": 790000,
+                "sku_stock": 7522
+            }
+        ]
+    },
+    {
+        "product_shop": "64538",
+        "product_name": "Giày đá bóng vải chính hãng wika ULTRA 3 ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/8f/12/1e/df6c215d34484d79bcc76ce5e3a83cc2.jpg",
+            "https://salt.tikicdn.com/ts/product/ed/ab/e7/2fbfabd8b1ee729e8570f2f4064eff1d.jpg",
+            "https://salt.tikicdn.com/ts/product/f3/7e/f8/0023f020441089e43e75f5ab20595c2c.jpg",
+            "https://salt.tikicdn.com/ts/product/45/60/cd/74041810822b1ce287a1e81bd6541446.jpg"
+        ],
+        "product_description": "<p>GIÀY ĐÁ BÓNG VẢI CHÍNH HÃNG WIKA ULTRA 3, THƯƠNG HIỆU NGƯỜI VIỆT</p>\n<p>️ Giày đá bóng vải wika ultral 3 loại 1 ưu điểm nổi bật nhất là giúp các cầu thủ tăng khả năng cảm giác với trái bóng, cảm giác thật chân, vê bóng, giật bóng rất cảm giác</p>\n<p>️ Ngài ra giày vải wika ultral 3 còn dùng trong các môn thể thao như: chạy bộ, cầu lông, đi du lịch, leo nú</p>\n<p>️ Giày đá bóng vải wika loại 1 chất liệu vải bao bố chắc chắn, đế giày mềm dẻo bền đẹp.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/89/b4/01/32b3545a8ddcfa0c9423d055539573b4.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>️ Size 38-43</p>\n<p>️ Chuẩn từ form đến đế.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/23/b5/39/bf4181855c9446ef2dd0f1ea2665c82f.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>️ BẢO QUẢN GIÀY BẰNG 6 MẸO NHỎ SAU:</p>\n<p>1. Định kỳ vệ sinh giày. Khi giày bẩn nên dùng vải sạch thấm nước xà bông lau nhẹ nhàng, không dùng bàn chải để chà, không sử dụng thuốc tẩy để giặt.</p>\n<p>2. Tránh nhét tất (vớ) vào trong giày. Vì sẽ để lại mùi hôi cho đôi giày. Mùi hôi đó sẽ thấm vào đôi tất (vớ) mới đồng thời làm giày cũ hơn so với bình thường.</p>\n<p>3. Tránh để nước thấm vào giày. Nếu giày bị thấm nước nên nhét giấy báo vào trong giày để nước thấm vào trong giấy.</p>\n<p>4. Phơi giày nơi khô ráo và thoáng mát. Không phơi giày dưới ánh nắng trực tiếp.</p>\n<p>5. Khi sử dụng, tránh tiếp xúc đế giày với dầu khí và các loại chất dễ gây thoái hóa, khi bị dính nên rửa ngay bằng nước sạch. Tránh để giày tiếp xúc với hóa chất và vật nhọn. Dây giày không nên thắt quá chặt.</p>\n<p>6. Trong thời gian dài không mang, nên vệ sinh giày sạch sẽ, lấy miếng lót giày ra, phơi nơi khô thoáng và gói giày lại bằng giấy.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 119000,
+        "product_quantity": 6850,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "<p>Chất liệu vải bao bố chắc chắn, đế giày mềm dẻo bền đẹp.</p>",
+            "Xuất xứ (Made in)": "Anh, Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Trắng Xanh",
+                    "Trắng Đỏ"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "38",
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 119000,
+                "sku_stock": 8640
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 119000,
+                "sku_stock": 6605
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 119000,
+                "sku_stock": 9525
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 119000,
+                "sku_stock": 7057
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 119000,
+                "sku_stock": 7458
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 119000,
+                "sku_stock": 9946
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 119000,
+                "sku_stock": 8927
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 119000,
+                "sku_stock": 9398
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 119000,
+                "sku_stock": 8510
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 119000,
+                "sku_stock": 3573
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 119000,
+                "sku_stock": 3775
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    5
+                ],
+                "sku_price": 119000,
+                "sku_stock": 6190
+            }
+        ]
+    },
+    {
+        "product_shop": "292233",
+        "product_name": "3 Sọc Đen mẫu giày đá banh thể thao Hot chưa từng Hot",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b0/11/d2/c869ebc4b9cae93c7a7a1a1374c003ce.jpg",
+            "https://salt.tikicdn.com/ts/product/36/30/fc/8b40dc819a4d79ad307f633a6cc4a8a6.jpg",
+            "https://salt.tikicdn.com/ts/product/a8/3a/ee/88c0705f1c69d6e255ee2696bee6d39a.jpg",
+            "https://salt.tikicdn.com/ts/product/25/3e/de/a0cbc595ffebff310c694c4d9261329b.jpg",
+            "https://salt.tikicdn.com/ts/product/fc/cc/c8/726ab43e327565b35215f59368d18dfa.jpg",
+            "https://salt.tikicdn.com/ts/product/65/bd/45/c2dc1e0a92bfa783b9702c518380bdad.jpg",
+            "https://salt.tikicdn.com/ts/product/7f/21/45/da4bfc433e82dfd1c9c8bc4e85099d10.jpg"
+        ],
+        "product_description": "\n  <p>️Giày đã khâu toàn bộ đế cực kỳ chắc chắn</p>\n   <p>️ Đinh dăm bám sân tránh trơn trượt ngay cả khi trời mưa</p>\n   <p>️ Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>️ Chất liệu da công nhiệp</p>\n   <p>️Đường kim mũi chỉ sắc nét</p>\n   <p>️ Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>️ Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>️ Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 165000,
+        "product_quantity": 5590,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5579
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4457
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 3534
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8737
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6381
+            }
+        ]
+    },
+    {
+        "product_shop": "292233",
+        "product_name": "Giày bóng đá phủi thể thaoWWWika Flash cổ thun Xanh Sieeu phẩm đá sân cỏ nhân tạo 7 người",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/69/58/21/2b7f4bb6a863d84bbd67b6cf6c544e32.jpg",
+            "https://salt.tikicdn.com/ts/product/62/18/81/fd5758b9cad89f84a3dbf20021a2cad2.jpg",
+            "https://salt.tikicdn.com/ts/product/73/db/79/13a6bd1fa14de6cef828157c3fd22ced.jpg",
+            "https://salt.tikicdn.com/ts/product/bc/3c/9f/4088b2da5aa7dbf74ab6b033c54c5dd0.jpg",
+            "https://salt.tikicdn.com/ts/product/7d/1d/a2/0d024bc0828b83311ecad2997cb0704e.jpg",
+            "https://salt.tikicdn.com/ts/product/77/87/f8/32a4283c8cd0a5ebe074624612212c39.jpg"
+        ],
+        "product_description": "\n  <p> Chất liệu giày đá bóng: làm từ da tăng cường khả năng chống thấm, thoáng khí Phần đế giày đá bóng bằng chất liệu 100% cao su, mềm mại khi sử dụng, đế có rãnh chống trơn, tạo ra khả năng bám mặt sân, kiểm soát bóng tốt.</p>\n   <p> Thân giày đá banh làm bằng chất liệu da nhân tạo mềm mại, siêu bền, nên khi tiếp xúc giữa giày với bóng giúp bạn cảm thấy thoải mái khi sử dụng.</p>\n   <p> Giày đá banh có thêm lớp lót tăng độ cố định chân, giảm sốc khi di chuyển và có khả năng thấm mồ hôi giúp giữ bàn chân khô thoáng và thoải mái.</p>\n   <p> Giầy đá bóng với thiết kế thiên hướng tốc độ cho phép di chuyển ôm chân và nhanh hơn,thoải mái hơn Giày bóng đá cổ thun cao cấp Wika Flash hàng Việt Nam sản xuất,đảm bảo tiêu chuẩn về chất lượng</p>\n   <p> Giày đá bóng Wika Flash cao cổ,đây là mẫu giày đá bóng được các cầu thủ đá phủi yêu thích, thiết kế phù hợp với đôi chân người Việt Nam,được các cầu thủ chơi bóng chuyên nghiệp tư vấn về thiết kế kỹ thuật.</p>\n   <p> Đặc biệt phía ngoài giày đá bóng phủ lớp bảo vệ chống thấm nước.</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n   <p> Sản phẩm có nhiều màu</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 385000,
+        "product_quantity": 1417,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 385000,
+                "sku_stock": 9511
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 385000,
+                "sku_stock": 1899
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 385000,
+                "sku_stock": 2255
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 385000,
+                "sku_stock": 5432
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 385000,
+                "sku_stock": 8650
+            }
+        ]
+    },
+    {
+        "product_shop": "292233",
+        "product_name": "Giày bóng đá phủi wwWika Flash Xám cao cấp 2022",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/75/40/4c/d63b03446796d4b71d2ff518862e76a4.jpg",
+            "https://salt.tikicdn.com/ts/product/64/2c/1f/a9bd17f01ca42119d1dc1dfb5f0f7868.jpg",
+            "https://salt.tikicdn.com/ts/product/b8/98/bf/f5938807e666a9ff368ea7bdf640f1f3.jpg",
+            "https://salt.tikicdn.com/ts/product/e7/e9/5b/83735eb882f04e9e4d50ae49fc21a0b8.jpg",
+            "https://salt.tikicdn.com/ts/product/36/22/d3/6ed5041cb421e6775c46811b8944d37b.jpg",
+            "https://salt.tikicdn.com/ts/product/9f/21/16/0462960a3f67077093d29741e849022a.jpg",
+            "https://salt.tikicdn.com/ts/product/b7/71/a0/f8fd74122adceebd932fbc16bfced632.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/b0/b1/ac23e3d45eba026443ccd6572850801d.jpg"
+        ],
+        "product_description": "<p> </p>\n<p>Chất liệu giày đá bóng: làm từ da tăng cường khả năng chống thấm, thoáng khí Phần đế giày đá bóng bằng chất liệu 100% cao su, mềm mại khi sử dụng, đế có rãnh chống trơn, tạo ra khả năng bám mặt sân, kiểm soát bóng tốt.</p>\n<p>Thân giày đá banh làm bằng chất liệu da nhân tạo mềm mại, siêu bền, nên khi tiếp xúc giữa giày với bóng giúp bạn cảm thấy thoải mái khi sử dụng.</p>\n<p>Giày đá banh có thêm lớp lót tăng độ cố định chân, giảm sốc khi di chuyển và có khả năng thấm mồ hôi giúp giữ bàn chân khô thoáng và thoải mái.</p>\n<p>Giầy đá bóng với thiết kế thiên hướng tốc độ cho phép di chuyển ôm chân và nhanh hơn,thoải mái hơn Giày bóng đá cổ thun cao cấp Wika Flash hàng Việt Nam sản xuất,đảm bảo tiêu chuẩn về chất lượng</p>\n<p>Giày đá bóng  cao cổ,đây là mẫu giày đá bóng được các cầu thủ đá phủi yêu thích, thiết kế phù hợp với đôi chân người Việt Nam,được các cầu thủ chơi bóng chuyên nghiệp tư vấn về thiết kế kỹ thuật.</p>\n<p>Đặc biệt phía ngoài giày đá bóng phủ lớp bảo vệ chống thấm nước.</p>\n<p>Không cần bàn nhiều, đủ size từ 39 - 43</p>\n<p>Sản phẩm có nhiều màu</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 385000,
+        "product_quantity": 1615,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 385000,
+                "sku_stock": 6046
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 385000,
+                "sku_stock": 6522
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 385000,
+                "sku_stock": 1717
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 385000,
+                "sku_stock": 2020
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 385000,
+                "sku_stock": 4849
+            }
+        ]
+    },
+    {
+        "product_shop": "292233",
+        "product_name": "Siêu phẩm giày bóng đá cao cấp nhất năm đôi giày vải đá sân cỏ nhân tạo",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/5b/67/05/17ade896fe856ba6a81b8e2872515ad2.jpg",
+            "https://salt.tikicdn.com/ts/product/f8/33/d0/78cd552b2bf3c00e7a68a4940e3aa44d.jpg",
+            "https://salt.tikicdn.com/ts/product/42/f2/57/4f32b9e7f35d4649487fd4673c0b2a23.jpg",
+            "https://salt.tikicdn.com/ts/product/c2/9c/64/2730416c54e58ae504eac89f08b2973e.jpg"
+        ],
+        "product_description": "\n  <p>- Chất liệu vải xịn công nhiệp - Đường kim mũi chỉ sắc nét - Tiếp xúc bóng tốt - Đã được khâu đế, độ bền cao - Giày ôm sát chân, đi lại, chạy đá thoải mái nhẹ nhà </p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 145000,
+        "product_quantity": 6341,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 145000,
+                "sku_stock": 4960
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 145000,
+                "sku_stock": 5663
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 145000,
+                "sku_stock": 6024
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 145000,
+                "sku_stock": 5075
+            }
+        ]
+    },
+    {
+        "product_shop": "292233",
+        "product_name": "Đôi giày bóng đá phủi  WWika FlLash Xanh",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ff/54/ab/8297b54533c6490d340682e37e98c921.jpg",
+            "https://salt.tikicdn.com/ts/product/79/99/7f/322aa333c4b276930c23068577f1c416.jpg",
+            "https://salt.tikicdn.com/ts/product/87/49/f9/709c93ca94a5178f35d94df16003dae2.jpg",
+            "https://salt.tikicdn.com/ts/product/f8/de/21/3eb3c6fb7e55adf4db8127a3df572317.jpg",
+            "https://salt.tikicdn.com/ts/product/e6/33/dc/202a86c1458c6469b1b9315f7b40d7d1.jpg"
+        ],
+        "product_description": "\n  <p>Giày đã khâu toàn bộ đế cực kỳ chắc chắn Da độ bền cao, da mềm, chống bẩn Bề mặt da có vân nổi 3D, các chi tiết trên giày in sắc nét, màu sắc bắt mắt Cổ giày dạng cổ chun, linh hoạ</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 365000,
+        "product_quantity": 1043,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 365000,
+                "sku_stock": 8427
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 365000,
+                "sku_stock": 6078
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 365000,
+                "sku_stock": 3473
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 365000,
+                "sku_stock": 2475
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 365000,
+                "sku_stock": 7136
+            }
+        ]
+    },
+    {
+        "product_shop": "292233",
+        "product_name": "Mẫu giày đá bóng 2022-2023",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d9/bd/cc/57fdd925dad4ae576e8bc9155d100e2c.jpg",
+            "https://salt.tikicdn.com/ts/product/79/a8/a0/574af8b404ffab8d79144157e264cf32.jpg",
+            "https://salt.tikicdn.com/ts/product/40/bf/ea/1d506cb50655114efdf0bc279643bad3.jpg",
+            "https://salt.tikicdn.com/ts/product/86/c2/6e/8af835f70a242a5670fbca592769d442.jpg",
+            "https://salt.tikicdn.com/ts/product/35/35/c4/18ac1153ae5806022f9d387628b59783.jpg",
+            "https://salt.tikicdn.com/ts/product/87/98/e2/e95f49e9687ebc88285ac2acddfd48d2.jpg"
+        ],
+        "product_description": "\n  <p> Chất liệu da Công nghiệp xịn</p>\n   <p> Siêu nhẹ, ôm chân</p>\n   <p> Cảm giác bóng tốt</p>\n   <p> Đã khâu full đế</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 165000,
+        "product_quantity": 2412,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1700
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7067
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8982
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1906
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4327
+            }
+        ]
+    },
+    {
+        "product_shop": "292233",
+        "product_name": "Giày bóng đá chính hãng wwwWika Flash cổ thun xanh cao cấp",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a6/56/5e/c96882962d4f46ac0720838b55bf06bb.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/aa/f1/60c8051ffea21445ff1e93808f3fb3c4.jpg",
+            "https://salt.tikicdn.com/ts/product/23/b2/2a/1738079a33bf1a60c20a1e46fbec61a6.jpg",
+            "https://salt.tikicdn.com/ts/product/5b/07/98/700c4136047d07abd115b888e608e606.jpg"
+        ],
+        "product_description": "<p> </p>\n<p>Chất liệu giày đá bóng: làm từ da tăng cường khả năng chống thấm, thoáng khí Phần đế giày đá bóng bằng chất liệu 100% cao su, mềm mại khi sử dụng, đế có rãnh chống trơn, tạo ra khả năng bám mặt sân, kiểm soát bóng tốt.</p>\n<p>Thân giày đá banh làm bằng chất liệu da nhân tạo mềm mại, siêu bền, nên khi tiếp xúc giữa giày với bóng giúp bạn cảm thấy thoải mái khi sử dụng.</p>\n<p>Giày đá banh có thêm lớp lót tăng độ cố định chân, giảm sốc khi di chuyển và có khả năng thấm mồ hôi giúp giữ bàn chân khô thoáng và thoải mái.</p>\n<p>Giầy đá bóng với thiết kế thiên hướng tốc độ cho phép di chuyển ôm chân và nhanh hơn,thoải mái hơn Giày bóng đá cổ thun cao cấp Wika Flash hàng Việt Nam sản xuất,đảm bảo tiêu chuẩn về chất lượng</p>\n<p>cao cổ,đây là mẫu giày đá bóng được các cầu thủ đá phủi yêu thích, thiết kế phù hợp với đôi chân người Việt Nam,được các cầu thủ chơi bóng chuyên nghiệp tư vấn về thiết kế kỹ thuật.</p>\n<p>Đặc biệt phía ngoài giày đá bóng phủ lớp bảo vệ chống thấm nước.</p>\n<p>Không cần bàn nhiều, đủ size từ 39 - 43</p>\n<p>Sản phẩm có nhiều màu</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 373000,
+        "product_quantity": 2364,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 373000,
+                "sku_stock": 8663
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 373000,
+                "sku_stock": 8982
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 373000,
+                "sku_stock": 6383
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 373000,
+                "sku_stock": 2022
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 373000,
+                "sku_stock": 5468
+            }
+        ]
+    },
+    {
+        "product_shop": "292181",
+        "product_name": "Giày bóng đá nam Wika Flash Xanh Biển cổ thun,Giày đá banh sân cỏ nhân tạo_ NamNam Sport",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e8/9e/9d/b095222d5bd7fb89f9e44f78f7d8b398.jpg",
+            "https://salt.tikicdn.com/ts/product/72/d2/0c/8629d0e02a4e2300b43d485ababbf052.jpg",
+            "https://salt.tikicdn.com/ts/product/f0/15/2b/c88d3555b9131cac541f8c12fecdbf0d.jpg",
+            "https://salt.tikicdn.com/ts/product/79/a6/f3/c5eb93241afa7015224ef75995c52697.jpg",
+            "https://salt.tikicdn.com/ts/product/96/f3/a1/e9663653e0934ccf63eeb18ab3a84301.jpg"
+        ],
+        "product_description": "\n  <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công nghiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Đã khâu full đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 390000,
+        "product_quantity": 4640,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 390000,
+                "sku_stock": 6633
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 390000,
+                "sku_stock": 1069
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 390000,
+                "sku_stock": 9448
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 390000,
+                "sku_stock": 1334
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 390000,
+                "sku_stock": 6153
+            }
+        ]
+    },
+    {
+        "product_shop": "292181",
+        "product_name": "Giày đá bóng sân cỏ nhân tạo Flash Xanh chuối 2022-2023",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a6/56/5e/b875a3bdbabc600a7fd2e7a308e9f9b2.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/aa/f1/4de03725736b9b7577fcf9336a934744.jpg",
+            "https://salt.tikicdn.com/ts/product/23/b2/2a/bfe17f04f76d0c9c30d54770ac34ec4f.jpg",
+            "https://salt.tikicdn.com/ts/product/5b/07/98/8695df159c2a6f1ab7b401a26a4a57fa.jpg"
+        ],
+        "product_description": "\n  <p>- Chất liệu da công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 375000,
+        "product_quantity": 6633,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 375000,
+                "sku_stock": 2571
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 375000,
+                "sku_stock": 4774
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 375000,
+                "sku_stock": 5168
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 375000,
+                "sku_stock": 8662
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 375000,
+                "sku_stock": 1040
+            }
+        ]
+    },
+    {
+        "product_shop": "292181",
+        "product_name": "Giày bóng đá thể thao phủi Wika Army Xám 2022",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/25/5b/0d/87df018cdba9c3ae45fb94c7297a4093.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/0d/bd/ae2bd0b997347fb3b777ae861b5b94bd.jpg",
+            "https://salt.tikicdn.com/ts/product/75/e1/c5/9dcb29f224c281e94e8c3ccd8dbece56.jpg",
+            "https://salt.tikicdn.com/ts/product/7f/7d/f4/7ae6ff616885778211224f3bd245e35e.jpg",
+            "https://salt.tikicdn.com/ts/product/a6/38/a9/fbf6ac02d62dfabfa252a4ea1563c9e4.jpg",
+            "https://salt.tikicdn.com/ts/product/b0/18/5f/3d24b3b910c02aec6d5f3838eb0da066.jpg",
+            "https://salt.tikicdn.com/ts/product/b3/5e/9d/2435bff11b66f701fbf62cae09afba23.jpg"
+        ],
+        "product_description": "\n  <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công nghiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Đã khâu full đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 7375,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 9378
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 4117
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 9032
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 2738
+            }
+        ]
+    },
+    {
+        "product_shop": "292181",
+        "product_name": "Đôi giày vải siêu phủi sân cỏ nhân tạo",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/21/a1/0a/1c21208a4a6c4941dddfeee235e5619b.jpg",
+            "https://salt.tikicdn.com/ts/product/93/12/54/dd2901ac8d4e2758e6ac4b34ff251543.jpg",
+            "https://salt.tikicdn.com/ts/product/18/81/14/4abdc75d24fd8ecde411732beda0e4d9.jpg",
+            "https://salt.tikicdn.com/ts/product/48/23/9d/695ee099b114e4e6a610db0a8965358b.jpg"
+        ],
+        "product_description": "\n  <p>- Đinh dăm bám sân tránh trơn trượt ngay cả khi trời mưa</p>\n   <p>- Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu vải công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 150000,
+        "product_quantity": 4846,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 2635
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 150000,
+                "sku_stock": 9082
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 150000,
+                "sku_stock": 1402
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 150000,
+                "sku_stock": 9437
+            }
+        ]
+    },
+    {
+        "product_shop": "292181",
+        "product_name": "Siêu phẩm mẫu giày vải đá banh chạy bộ chính hãng cao cấp đôi giày Wika",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/18/81/14/d7775ab6f7b310b03962503ea3465308.jpg",
+            "https://salt.tikicdn.com/ts/product/93/12/54/d5f3959f37b5282f60d5804a40d92201.jpg",
+            "https://salt.tikicdn.com/ts/product/21/a1/0a/b42a51a017a5136da9be00519975d2e2.jpg",
+            "https://salt.tikicdn.com/ts/product/48/23/9d/eefa0df78c1956c101c0e3a58825d60b.jpg",
+            "https://salt.tikicdn.com/ts/product/17/7f/f1/86d4ef7d68675d5d3b5269ec33a7ea23.jpg"
+        ],
+        "product_description": "\n  <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu vải công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Đã khâu full đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 145000,
+        "product_quantity": 3480,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 145000,
+                "sku_stock": 1585
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 145000,
+                "sku_stock": 9671
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 145000,
+                "sku_stock": 3124
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 145000,
+                "sku_stock": 5377
+            }
+        ]
+    },
+    {
+        "product_shop": "292181",
+        "product_name": "Giày đá banh thể thao phủi chính hãng Wika Army Xanh",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/63/e5/5a/324de61988569b872cc1521c18870cf8.jpg",
+            "https://salt.tikicdn.com/ts/product/39/09/67/daac2b480bf6affd721d4f1449fd5fa2.jpg",
+            "https://salt.tikicdn.com/ts/product/bc/f1/47/4975a4bfeb7f6b35ac8a1ad161bcd8ab.jpg",
+            "https://salt.tikicdn.com/ts/product/3c/10/a0/aa072cdf5f2f7c5801dddf40db087da6.jpg"
+        ],
+        "product_description": "\n  <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công nghiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Đã khâu full đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 3386,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 7222
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 9066
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 5014
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 3391
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Giày bóng đá nam Wika Army Nâu,Giày đá banh sân cỏ nhân tạo_ NamNam Sport",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/0c/6d/12/fa16d55ca7877e53542c85fed53a4e35.jpg",
+            "https://salt.tikicdn.com/ts/product/e9/43/15/e67cc83194226c6dd0e5fcfe58dad51f.jpg",
+            "https://salt.tikicdn.com/ts/product/40/fd/b7/88a2f3fe0a3a582612f1a2f8c71b48c3.jpg",
+            "https://salt.tikicdn.com/ts/product/bd/f5/dc/59eec9d11f32455d0f72d48dadf94dd8.jpg",
+            "https://salt.tikicdn.com/ts/product/0b/0d/3c/ea2991654656935fc6c4f61b4fc60ba6.jpg",
+            "https://salt.tikicdn.com/ts/product/e8/8c/67/862fc6a04e88f33b6dc583766bc10d23.jpg"
+        ],
+        "product_description": "\n  <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công nghiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Đã khâu full đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 2730,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 1630
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 4869
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 2222
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 1614
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Giày bóng đá chính hãng Wika 3 sọc 2022 đỏ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/3d/ff/fe/be2f6ef339c3f8eb66be4b6f5b47dd0f.jpg",
+            "https://salt.tikicdn.com/ts/product/6a/47/68/0983450ab3b90d70829adde6a6692e1c.jpg",
+            "https://salt.tikicdn.com/ts/product/32/95/dd/61396f888e6ce7d4db5c0f6162b24f61.jpg",
+            "https://salt.tikicdn.com/ts/product/f2/fb/2e/5c434da0776c9312ee14001045fe5ef6.jpg",
+            "https://salt.tikicdn.com/ts/product/79/a8/a0/c20402219bedb711c98899a722f7e445.jpg"
+        ],
+        "product_description": "\n  <p>Giày bóng đá chính hãng Wika 3 sọc 2022 đỏ</p>\n   <p> Chất liệu da Công nghiệp xịn</p>\n   <p> Siêu nhẹ, ôm chân</p>\n   <p> Cảm giác bóng tốt</p>\n   <p> Đã khâu full đế</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 145000,
+        "product_quantity": 9217,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 145000,
+                "sku_stock": 8032
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 145000,
+                "sku_stock": 8858
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 145000,
+                "sku_stock": 1206
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Mẫu giày kiệt tác Wika Army cao cấp giày đá sân cỏ nhân tạo, đá đá banh được khâu Full đế mẫu mới",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c7/de/59/6798c636c4899129c1bd776ec05c6306.jpg",
+            "https://salt.tikicdn.com/ts/product/c0/77/d1/33cc247e38909d7ed70cfaa2a99f166b.jpg",
+            "https://salt.tikicdn.com/ts/product/84/fd/c0/3186ca4ecac389683554a8d452f089de.jpg",
+            "https://salt.tikicdn.com/ts/product/8a/0c/dd/520ee9c836d02a547df25ca248a69737.jpg",
+            "https://salt.tikicdn.com/ts/product/95/fc/d7/63e9a09c7ed5a98f4ce1da47e8dd593f.jpg",
+            "https://salt.tikicdn.com/ts/product/72/96/67/6c1ac7b514fd31c4162d07a6c32a9eab.jpg"
+        ],
+        "product_description": "\n  <p>- Form Việt dành riêng cho người Việt ôm chân, cảm giác bóng cực tốt thích hợp đá bóng trên mặt cỏ sân nhân tạo, và cũng có thể đá trên sân cỏ tự nhiện</p>\n   <p>- Đế chống trượt siêu tốt</p>\n   <p>- Mẫu giày phổ thông dễ tiếp cận với mọi đối tượng khách hàng</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ ,bền bỉ, sản phấm được nhiều khách hàng tin dùng.</p>\n   <p>- Đã khâu full đế</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 289000,
+        "product_quantity": 5424,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 289000,
+                "sku_stock": 9151
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 289000,
+                "sku_stock": 3838
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 289000,
+                "sku_stock": 8015
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 289000,
+                "sku_stock": 1790
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Hãng giày đá bóng sản xuất tại Việt Nam Wika Army 2022 Xám",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/20/bc/1b/8487710c7c78923a4ba109a2dabe8289.jpg",
+            "https://salt.tikicdn.com/ts/product/f3/68/7c/3800a445b4b0d47ef193885b176dd130.jpg",
+            "https://salt.tikicdn.com/ts/product/7c/e4/a1/6c3ba7590a112f70e9e2d177e2761ede.jpg",
+            "https://salt.tikicdn.com/ts/product/c8/31/86/9ab6e667e77d8226aa15ea369133efef.jpg"
+        ],
+        "product_description": "\n  <p>Giày bóng đá chính hãng Wika Army</p>\n   <p> Không cần bàn nhiều về em nó </p>\n   <p> Tiếp xúc bóng tốt</p>\n   <p> Nhẹ, ôm chân</p>\n   <p> Đế chống trượt siêu tốt</p>\n   <p> Đã khâu full đế</p>\n   <p> Đủ size từ 39 - 42</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 6682,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 8211
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 5044
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 5494
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 8954
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Giày bóng đá phủi chính hãng Wika Flash xanh chuối",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/05/32/a0/017efb0e6713cbd266246e5346394f9d.jpg",
+            "https://salt.tikicdn.com/ts/product/a6/56/5e/6a4fac7c1ec55c2050d9d35ce68426e5.jpg",
+            "https://salt.tikicdn.com/ts/product/23/b2/2a/821834e2fac5c52c95b54b96b31421db.jpg",
+            "https://salt.tikicdn.com/ts/product/5b/07/98/eebed32ec74c8727156ebb99a0a410d3.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/aa/f1/55ee5de5ed5854a01f968759c21657d8.jpg"
+        ],
+        "product_description": "\n  <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Đã khâu full đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 376000,
+        "product_quantity": 2901,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 376000,
+                "sku_stock": 3563
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Bộ đôi giày có đinh cao cấp  Wika Flash cổ thun xanh_ giày đá banh cao cấp nhất năm 2022",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/05/32/a0/f73db897b288e9a6a2ba6f1d9b9054d4.jpg",
+            "https://salt.tikicdn.com/ts/product/0d/a0/a8/7b576f32cf799d4fa3535fa052d90f43.jpg",
+            "https://salt.tikicdn.com/ts/product/e4/91/6b/ea750fc0f01669e9fba9eb87fad9223a.jpg",
+            "https://salt.tikicdn.com/ts/product/5c/a9/ac/5737b640d4a36e56ef8c6bd8709f2c0d.jpg",
+            "https://salt.tikicdn.com/ts/product/96/da/b9/4fd45c7ba50c69a89c49087ca44364bf.jpg",
+            "https://salt.tikicdn.com/ts/product/ba/c5/20/860e1096d3f114eabd8f0dd1c6e603a5.jpg",
+            "https://salt.tikicdn.com/ts/product/c8/99/16/dfcc573587f461243d0e5b27c3618192.jpg"
+        ],
+        "product_description": "\n  <p> Chất liệu giày đá bóng: làm từ da tăng cường khả năng chống thấm, thoáng khí Phần đế giày đá bóng bằng chất liệu 100% cao su, mềm mại khi sử dụng, đế có rãnh chống trơn, tạo ra khả năng bám mặt sân, kiểm soát bóng tốt.</p>\n   <p> Thân giày đá banh làm bằng chất liệu da nhân tạo mềm mại, siêu bền, nên khi tiếp xúc giữa giày với bóng giúp bạn cảm thấy thoải mái khi sử dụng.</p>\n   <p> Giày đá banh có thêm lớp lót tăng độ cố định chân, giảm sốc khi di chuyển và có khả năng thấm mồ hôi giúp giữ bàn chân khô thoáng và thoải mái.</p>\n   <p> Giầy đá bóng với thiết kế thiên hướng tốc độ cho phép di chuyển ôm chân và nhanh hơn,thoải mái hơn Giày bóng đá cổ thun cao cấp Wika Flash hàng Việt Nam sản xuất,đảm bảo tiêu chuẩn về chất lượng</p>\n   <p> Giày đá bóng Wika Flash cao cổ,đây là mẫu giày đá bóng được các cầu thủ đá phủi yêu thích, thiết kế phù hợp với đôi chân người Việt Nam,được các cầu thủ chơi bóng chuyên nghiệp tư vấn về thiết kế kỹ thuật.</p>\n   <p> Đặc biệt phía ngoài giày đá bóng phủ lớp bảo vệ chống thấm nước.</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n   <p> Sản phẩm có nhiều màu</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 385000,
+        "product_quantity": 5796,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 385000,
+                "sku_stock": 8393
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 385000,
+                "sku_stock": 9945
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 385000,
+                "sku_stock": 1337
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 385000,
+                "sku_stock": 6118
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 385000,
+                "sku_stock": 5171
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Hãng giày Wika 3 Sọc Trắng, Giày thể thao bóng đá, đá banh sân nhân tạo",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/4a/72/92/de02f47679fcc8e6616d34d7ad88b5a8.jpg",
+            "https://salt.tikicdn.com/ts/product/cf/f0/b2/68a030d5cfe4c5aa8c9e8d8f3f34841b.jpg",
+            "https://salt.tikicdn.com/ts/product/2b/e7/8f/f1326c75e944380ddaaa0dde6d195493.jpg",
+            "https://salt.tikicdn.com/ts/product/40/47/5e/c1dad3a84adef2632efe3b085b25e0e6.jpg",
+            "https://salt.tikicdn.com/ts/product/1e/83/75/7836d886bdd48c5616f3f5dc2b99c0e7.jpg",
+            "https://salt.tikicdn.com/ts/product/17/12/4c/ce87b51846d3adb764af0f83f5c06d85.jpg"
+        ],
+        "product_description": "\n  <p>️Giày đã khâu toàn bộ đế cực kỳ chắc chắn</p>\n   <p>️ Đinh dăm bám sân tránh trơn trượt ngay cả khi trời mưa</p>\n   <p>️ Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>️ Chất liệu da công nhiệp</p>\n   <p>️Đường kim mũi chỉ sắc nét</p>\n   <p>️ Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>️ Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>️ Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 165000,
+        "product_quantity": 6216,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7923
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6061
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1610
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6167
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Wika Army Xám mẫu giày đá banh thể thao Hot chưa từng Hot",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/81/27/b7/2259309ffa53c8b276ec39344345bba4.jpg",
+            "https://salt.tikicdn.com/ts/product/52/f1/0f/cae1cacdc2cf61ae12c5faef53247825.jpg",
+            "https://salt.tikicdn.com/ts/product/1f/42/2f/36f8ce072c375b29158de1006814b660.jpg",
+            "https://salt.tikicdn.com/ts/product/2d/c4/d7/ca35559f13d7d617dc3a37e3bf8b6950.jpg",
+            "https://salt.tikicdn.com/ts/product/ff/49/4f/1ce96237e5cc8ea2043842444f96b7a6.jpg",
+            "https://salt.tikicdn.com/ts/product/cf/ec/e7/6bfed5fa8936282f973e87d2bb55a557.jpg"
+        ],
+        "product_description": "\n  <p>️Giày đã khâu toàn bộ đế cực kỳ chắc chắn</p>\n   <p>️ Đinh dăm bám sân tránh trơn trượt ngay cả khi trời mưa</p>\n   <p>️ Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>️ Chất liệu da công nhiệp</p>\n   <p>️Đường kim mũi chỉ sắc nét</p>\n   <p>️ Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>️ Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>️ Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 4483,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 4083
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 2124
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 9836
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Mẫu giày thể thao đá bóng cao cấp chính hãng Wika 3 sọc đen 2022",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d2/ae/54/11cf0b19873a486d53d1332ee4a9be2a.jpg",
+            "https://salt.tikicdn.com/ts/product/17/5e/85/17c7bea5943b8d4110c81a8b74980d5c.jpg",
+            "https://salt.tikicdn.com/ts/product/a8/3a/ee/2bcf45d2169d8da655e1de4198d5db08.jpg",
+            "https://salt.tikicdn.com/ts/product/b0/11/d2/54d6431af0c178db038c7ca304aca1b4.jpg",
+            "https://salt.tikicdn.com/ts/product/7f/21/45/30ab83963273efafd99acf680b354c4f.jpg"
+        ],
+        "product_description": "\n  <p> Chất liệu da Công nghiệp xịn</p>\n   <p> Siêu nhẹ, ôm chân</p>\n   <p> Cảm giác bóng tốt</p>\n   <p> Đã khâu full đế</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 165000,
+        "product_quantity": 5566,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2126
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5253
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7244
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8764
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5968
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Mẫu giày đá bóng cao cấp hiệu Wika Army năm 2022 đỏ ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/16/f4/c9/19b5b71fe17cd42aa9d84878152dcdd4.jpg",
+            "https://salt.tikicdn.com/ts/product/f5/c9/c7/19568934e3597760c74ec70cd07103da.jpg",
+            "https://salt.tikicdn.com/ts/product/3b/ca/26/0714a8fa81ba19d5e940b71cd5c3849c.jpg",
+            "https://salt.tikicdn.com/ts/product/7c/2e/9c/5b1f35bc35ca9ba7d3434d3d753695ea.jpg"
+        ],
+        "product_description": "\n  <p>- Chất liệu da công nghiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Đã khâu full đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 310000,
+        "product_quantity": 3756,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 310000,
+                "sku_stock": 9401
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 310000,
+                "sku_stock": 5970
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 310000,
+                "sku_stock": 5052
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 310000,
+                "sku_stock": 8246
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Giày bóng đá thể thao phủi chính hãng Wika Army Xám 2022",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/25/5b/0d/7b9c4f35d5c8ace9ba38842cb8537d5c.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/0d/bd/53760573233f02386100cba30a6f9384.jpg",
+            "https://salt.tikicdn.com/ts/product/75/e1/c5/f871da8d8576faba4e90fc8b18fbb3cc.jpg",
+            "https://salt.tikicdn.com/ts/product/7f/7d/f4/c2c5bf2c299af3a20bef7104ea543a04.jpg",
+            "https://salt.tikicdn.com/ts/product/a6/38/a9/7564594a10da3c2cf50fb856ac09bc2a.jpg",
+            "https://salt.tikicdn.com/ts/product/b0/18/5f/5c67462adb53dcee12da6a9acd0a2adf.jpg",
+            "https://salt.tikicdn.com/ts/product/b3/5e/9d/0593acff82d74cbaa58958b03da0f89c.jpg"
+        ],
+        "product_description": "\n  <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công nghiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Đã khâu full đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 2177,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 8756
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 7247
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 2830
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 5603
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Mẫu giày cổ thun đá banh 4 mùa hiệu Wika FL năm 2022-2023 xanh biển",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/62/90/46/313bbb109151cdb4b90750eca4c3b360.jpg",
+            "https://salt.tikicdn.com/ts/product/b2/60/6d/f2e1c56b1016ab4ee6a1243208d5120d.jpg",
+            "https://salt.tikicdn.com/ts/product/83/4d/f6/310f9865ee1108bddb26770922a667e0.jpg",
+            "https://salt.tikicdn.com/ts/product/53/e0/0e/dfaadd612e70980f2b5ba4e2a8ea3e82.jpg"
+        ],
+        "product_description": "\n  <p>Giày bóng đá chính hãng Wika Flash cổ thun xanh lá</p>\n   <p> Chất liệu giày đá bóng: làm từ da tăng cường khả năng chống thấm, thoáng khí Phần đế giày đá bóng bằng chất liệu 100% cao su, mềm mại khi sử dụng, đế có rãnh chống trơn, tạo ra khả năng bám mặt sân, kiểm soát bóng tốt.</p>\n   <p> Thân giày đá banh làm bằng chất liệu da nhân tạo mềm mại, siêu bền, nên khi tiếp xúc giữa giày với bóng giúp bạn cảm thấy thoải mái khi sử dụng.</p>\n   <p> Giày đá banh có thêm lớp lót tăng độ cố định chân, giảm sốc khi di chuyển và có khả năng thấm mồ hôi giúp giữ bàn chân khô thoáng và thoải mái.</p>\n   <p> Giầy đá bóng với thiết kế thiên hướng tốc độ cho phép di chuyển ôm chân và nhanh hơn,thoải mái hơn Giày bóng đá cổ thun cao cấp Wika Flash hàng Việt Nam sản xuất,đảm bảo tiêu chuẩn về chất lượng</p>\n   <p> Giày đá bóng Wika Flash cao cổ,đây là mẫu giày đá bóng được các cầu thủ đá phủi yêu thích, thiết kế phù hợp với đôi chân người Việt Nam,được các cầu thủ chơi bóng chuyên nghiệp tư vấn về thiết kế kỹ thuật.</p>\n   <p> Đặc biệt phía ngoài giày đá bóng phủ lớp bảo vệ chống thấm nước.</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n   <p> Sản phẩm có nhiều màu</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 385000,
+        "product_quantity": 1850,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 385000,
+                "sku_stock": 6021
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 385000,
+                "sku_stock": 7076
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 385000,
+                "sku_stock": 2791
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 385000,
+                "sku_stock": 6489
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 385000,
+                "sku_stock": 8044
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Bộ đôi giày đá sân cỏ nhân tạo Wika Flash Cam , Đôi giày đá banh, đá bóng ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/8e/57/5d/aada38abeb2b8f1b8766cdf28107d777.jpg",
+            "https://salt.tikicdn.com/ts/product/44/39/88/aa101ea1db4719f5f3bacbdc1e4d23c7.jpg",
+            "https://salt.tikicdn.com/ts/product/ac/79/c1/b7a010e822950936a61f39a04ba49cf3.jpg",
+            "https://salt.tikicdn.com/ts/product/cb/5a/d1/9891107f714653f3bd4b9ed993fa9102.jpg",
+            "https://salt.tikicdn.com/ts/product/26/53/eb/93602ded9102f2829a21719cd6d56728.jpg"
+        ],
+        "product_description": "\n  <p>- Chất liệu da công nghiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Đã khâu full đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 389000,
+        "product_quantity": 3729,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 389000,
+                "sku_stock": 3155
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 389000,
+                "sku_stock": 5783
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 389000,
+                "sku_stock": 5084
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 389000,
+                "sku_stock": 6112
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 389000,
+                "sku_stock": 9159
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Giày đế nhựa cứng có đinh được khâu full đế hãng cao cấp  Wika 3 Sọc Trắng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/1e/83/75/c16cbcfbd963d8dd1e787cdf2eeab7e7.jpg",
+            "https://salt.tikicdn.com/ts/product/4a/72/92/04bca10b3a2fc51694390ec39a4301b4.jpg",
+            "https://salt.tikicdn.com/ts/product/51/9d/e6/48c89f76150189c6200bbadfbbab94a8.jpg",
+            "https://salt.tikicdn.com/ts/product/cf/f0/b2/b7df36337cd235fa3f2c2bf03cd70b30.jpg",
+            "https://salt.tikicdn.com/ts/product/04/57/46/6ca0646a099a3ee5fd84ccb59597994e.jpg",
+            "https://salt.tikicdn.com/ts/product/15/54/9d/591b49935f50a7e2da4af9064cdf1f31.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/5c/d3/a5a6fe28f08907fb505ebebe0333f47d.jpg"
+        ],
+        "product_description": "\n  <p> Chất liệu da Công nghiệp xịn</p>\n   <p> Siêu nhẹ, ôm chân</p>\n   <p> Cảm giác bóng tốt</p>\n   <p> Đã khâu full đế</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 165000,
+        "product_quantity": 4231,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1870
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9989
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9038
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4798
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9492
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Đôi giày đá banh được sản xuất tại Việt Nam hàng chính hãng cao cấp hãng Wika 3 Sọc Đen",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a9/bf/06/5869a517babf0e209e1d7665072a1085.jpg",
+            "https://salt.tikicdn.com/ts/product/b2/25/56/c3da31f215148986604e1663275d482d.jpg",
+            "https://salt.tikicdn.com/ts/product/17/d6/b2/03e263c655114ebbd25e3a005cdc6ee1.jpg",
+            "https://salt.tikicdn.com/ts/product/36/30/fc/7caaa50d99a559ef90fffbc1b41094db.jpg",
+            "https://salt.tikicdn.com/ts/product/21/51/34/8dc21891b8b0003fd074fafef433c422.jpg"
+        ],
+        "product_description": "\n  <p>️Giày đã khâu toàn bộ đế cực kỳ chắc chắn</p>\n   <p>️ Đinh dăm bám sân tránh trơn trượt ngay cả khi trời mưa</p>\n   <p>️ Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>️ Chất liệu da công nhiệp</p>\n   <p>️Đường kim mũi chỉ sắc nét</p>\n   <p>️ Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>️ Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>️ Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 165000,
+        "product_quantity": 1235,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4897
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4375
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7641
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 3984
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9148
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Mẫu giày có đinh cao cấp đế nhựa cứng hàng Việt đôi giày đá banh Wika 3 SỌc",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a8/3a/ee/2b8651f33af222ebda43403b408b1e6c.jpg",
+            "https://salt.tikicdn.com/ts/product/b0/11/d2/d814e8d32dfd50c2864341d34c8cc607.jpg",
+            "https://salt.tikicdn.com/ts/product/17/5e/85/3fb8cb9f9ebf126e7601fc6f7635711a.jpg",
+            "https://salt.tikicdn.com/ts/product/36/30/fc/210cf3ba578da137a55a23ec8570ea05.jpg",
+            "https://salt.tikicdn.com/ts/product/65/bd/45/1827d87875385873e9b64fd02eb79f59.jpg",
+            "https://salt.tikicdn.com/ts/product/25/3e/de/53e3b0288907aedcf606e08996953aaf.jpg"
+        ],
+        "product_description": "\n  <p> Chất liệu da Công nghiệp xịn</p>\n   <p> Siêu nhẹ, ôm chân</p>\n   <p> Cảm giác bóng tốt</p>\n   <p> Đã khâu full đế</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 165000,
+        "product_quantity": 2385,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8909
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1106
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7729
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 9496
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6814
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Mẫu giày thể thao đá bóng cao cấp chính hãng Wika 3 sọc Đỏ 2022",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/79/a8/a0/f84ea2e0fe5b9d59063f5b827713d409.jpg",
+            "https://salt.tikicdn.com/ts/product/d9/bd/cc/65beb4833e742875de0f04f42dbe07c8.jpg",
+            "https://salt.tikicdn.com/ts/product/40/bf/ea/99dca930e1ca3b62ff1fcd219bd4913f.jpg",
+            "https://salt.tikicdn.com/ts/product/86/c2/6e/cea86aed92ad7edae1628dfe99c2d9b0.jpg",
+            "https://salt.tikicdn.com/ts/product/35/35/c4/88bfe87b23f04c8d9e564865f99b947d.jpg",
+            "https://salt.tikicdn.com/ts/product/87/98/e2/aa01ddc117a258857fe67a46d0f337d6.jpg"
+        ],
+        "product_description": "\n  <p> Chất liệu da Công nghiệp xịn</p>\n   <p> Siêu nhẹ, ôm chân</p>\n   <p> Cảm giác bóng tốt</p>\n   <p> Đã khâu full đế</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 165000,
+        "product_quantity": 7660,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1037
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8290
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 8656
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 1977
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5406
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Giày bóng đá phủi chính hãng Wika 3 Sọc Trắng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d9/2d/17/6641534e676dfebfbdabdcfa9d282bc3.jpg",
+            "https://salt.tikicdn.com/ts/product/1a/49/ca/aa4a06072f44717825b1dd5656e662bb.jpg",
+            "https://salt.tikicdn.com/ts/product/0a/30/fc/c09d53a594addb4ddc1be3ac22bc8fae.jpg",
+            "https://salt.tikicdn.com/ts/product/4a/72/92/450540045dcde17d3c9a7030e6494691.jpg",
+            "https://salt.tikicdn.com/ts/product/cf/f0/b2/6ae625ff428a45dee84545eec63cba61.jpg",
+            "https://salt.tikicdn.com/ts/product/d2/9a/4f/f42a6041c06af1ac714e7d5a26997a43.jpg",
+            "https://salt.tikicdn.com/ts/product/ff/8f/8c/de28c3a5ecbd15c77e5189503dd93ba4.jpg"
+        ],
+        "product_description": "\n  <p>- Da mỏng êm mềm</p>\n   <p>- Cổ giày vừa, ôm chân</p>\n   <p>- From giày thon gọn hỗ trợ di chuyển, xoay xở tốt</p>\n   <p>- Độ bền rất cao</p>\n   <p>- Phù hợp với mọi lứa tuổi, thi đấu trên nhiều loại sân bóng khác nhau.</p>\n   <p>- Phần mũi giày được gia cố thêm một lớp vật liệu dày dặn hơn mà vẫn không làm mất đi sự mềm mại và thoải mái. Mũi giày được khâu chắc chắn giúp bạn thoải mái thể hiện những cú chích bóng đầy uy lực mà không sợ bị bong mũi.</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 165000,
+        "product_quantity": 4745,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6607
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5985
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 6205
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4780
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Siêu phẩm giày đá bóng có đinh  Wika Flash Cam _ đôi giày đá sân cỏ nhân tạo",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b2/9e/ed/342c31781de18ba27e60e526decb5aef.jpg",
+            "https://salt.tikicdn.com/ts/product/5d/67/2d/cea2cc7a296a6874a7616c1f8a3cb406.jpg",
+            "https://salt.tikicdn.com/ts/product/d9/44/b8/26fd028d976b4ea8845ac4b7550543aa.jpg",
+            "https://salt.tikicdn.com/ts/product/d6/a5/44/884327017c5b9598e2166cb4a52e1f1c.jpg",
+            "https://salt.tikicdn.com/ts/product/f6/a8/04/f9d84c2c630cd46d4d9262294358c351.jpg",
+            "https://salt.tikicdn.com/ts/product/94/0b/bd/97b54691307a02cd31ad968a7a87e52b.jpg",
+            "https://salt.tikicdn.com/ts/product/c9/e5/4e/6dee2d43f0bc032e86bff75f06ff87e2.jpg"
+        ],
+        "product_description": "\n  <p>Giày bóng đá chính hãng Wika Flash cổ thun xanh lá</p>\n   <p> Chất liệu giày đá bóng: làm từ da tăng cường khả năng chống thấm, thoáng khí Phần đế giày đá bóng bằng chất liệu 100% cao su, mềm mại khi sử dụng, đế có rãnh chống trơn, tạo ra khả năng bám mặt sân, kiểm soát bóng tốt.</p>\n   <p> Thân giày đá banh làm bằng chất liệu da nhân tạo mềm mại, siêu bền, nên khi tiếp xúc giữa giày với bóng giúp bạn cảm thấy thoải mái khi sử dụng.</p>\n   <p> Giày đá banh có thêm lớp lót tăng độ cố định chân, giảm sốc khi di chuyển và có khả năng thấm mồ hôi giúp giữ bàn chân khô thoáng và thoải mái.</p>\n   <p> Giầy đá bóng với thiết kế thiên hướng tốc độ cho phép di chuyển ôm chân và nhanh hơn,thoải mái hơn Giày bóng đá cổ thun cao cấp Wika Flash hàng Việt Nam sản xuất,đảm bảo tiêu chuẩn về chất lượng</p>\n   <p> Giày đá bóng Wika Flash cao cổ,đây là mẫu giày đá bóng được các cầu thủ đá phủi yêu thích, thiết kế phù hợp với đôi chân người Việt Nam,được các cầu thủ chơi bóng chuyên nghiệp tư vấn về thiết kế kỹ thuật.</p>\n   <p> Đặc biệt phía ngoài giày đá bóng phủ lớp bảo vệ chống thấm nước.</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n   <p> Sản phẩm có nhiều màu</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 385000,
+        "product_quantity": 6589,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 385000,
+                "sku_stock": 5269
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 385000,
+                "sku_stock": 6207
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 385000,
+                "sku_stock": 8972
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 385000,
+                "sku_stock": 5467
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 385000,
+                "sku_stock": 9595
+            }
+        ]
+    },
+    {
+        "product_shop": "227606",
+        "product_name": "Giày bóng đá thể thao chính hãng Wika 3 sọc Đỏ 2022",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/40/bf/ea/2acdd730f180e96fa418b3b77d6fd5eb.jpg",
+            "https://salt.tikicdn.com/ts/product/86/c2/6e/55aac7eb535f9103cd8e36939397eda5.jpg",
+            "https://salt.tikicdn.com/ts/product/d9/bd/cc/ae6439ed64ac76ca2609477044980f36.jpg",
+            "https://salt.tikicdn.com/ts/product/35/35/c4/ebdea0bb91d5890c4fbfd117ff1a1d91.jpg",
+            "https://salt.tikicdn.com/ts/product/87/98/e2/7f51ece988a89eb3b08bb260352ce011.jpg"
+        ],
+        "product_description": "\n  <p>* Đế bằng được phủ 1 lớp cao su giúp bám sân, chống trơn trượt.</p>\n   <p>* Lớp vải vừa đủ dày tạo cảm giác chắc chắn khi chạy và thật chân khi đỡ bóng</p>\n   <p>* Giày được thiết kế ôm chân, đặc biệt rất nhẹ, giúp di chuyển linh hoạt</p>\n   <p>* Độ bền cao, không ngại mọi điều kiện thời tiết</p>\n   <p>* Không gây hôi chân, dễ dàng vệ sinh .</p>\n   <p>* Được nhiều người tin dùng</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 186000,
+        "product_quantity": 8118,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 186000,
+                "sku_stock": 9860
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 186000,
+                "sku_stock": 7428
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 186000,
+                "sku_stock": 3444
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 186000,
+                "sku_stock": 4345
+            }
+        ]
+    },
+    {
+        "product_shop": "227606",
+        "product_name": "Giày phủi CT3 đá banh cao cấp đen 2022 cao cấp ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/36/30/fc/234515ccade52b948ef6ef861d42f49b.jpg",
+            "https://salt.tikicdn.com/ts/product/d2/ae/54/74b7d84f8cd806d12564bf284e47ceb7.jpg",
+            "https://salt.tikicdn.com/ts/product/a8/3a/ee/2faeb36bf603edcd6f6015a0c95b59c9.jpg",
+            "https://salt.tikicdn.com/ts/product/25/3e/de/266b8bd31964453d4291e3dc4ec3fd66.jpg",
+            "https://salt.tikicdn.com/ts/product/65/bd/45/cf31329859f88950f7471e6fd5f65e6b.jpg",
+            "https://salt.tikicdn.com/ts/product/fc/cc/c8/7820e45365a93e660982031233cc0b46.jpg",
+            "https://salt.tikicdn.com/ts/product/b0/11/d2/8d6e04ceeebb3c367cf21bfd09648782.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 182000,
+        "product_quantity": 4024,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 182000,
+                "sku_stock": 1982
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 182000,
+                "sku_stock": 4969
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 182000,
+                "sku_stock": 6449
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 182000,
+                "sku_stock": 4735
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 182000,
+                "sku_stock": 8501
+            }
+        ]
+    },
+    {
+        "product_shop": "227606",
+        "product_name": "Giày thể thao siêu phủ đá bóng chính hãng Wika Army nâu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/cb/d8/f2/31ca56a556528fed46374be477919fda.jpg",
+            "https://salt.tikicdn.com/ts/product/54/c2/29/2ad96312e2b396dfcd9185d0f98d8d65.jpg",
+            "https://salt.tikicdn.com/ts/product/6f/a4/3a/442d1918e6718301efa2f4ac4f09963c.jpg",
+            "https://salt.tikicdn.com/ts/product/70/2d/69/ba3d86b20c17353c8d018537d8f256ef.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>- Chất liệu da công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt</p>\n   <p>- Đã được khâu đế, độ bền cao</p>\n   <p>- Giày ôm sát chân, đi lại, chạy đá thoải mái nhẹ nhà</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 319000,
+        "product_quantity": 9355,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 319000,
+                "sku_stock": 1620
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 319000,
+                "sku_stock": 1295
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 319000,
+                "sku_stock": 4967
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 319000,
+                "sku_stock": 3369
+            }
+        ]
+    },
+    {
+        "product_shop": "227606",
+        "product_name": "Giày đá bóng thể thao sân cỏ nhân tạo Wika Ultra Vải",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/21/a1/0a/cd0b790f9d794b1d737db68d77cf3f12.jpg",
+            "https://salt.tikicdn.com/ts/product/18/81/14/c507d897b9aea791dae35a48e58b53d9.jpg",
+            "https://salt.tikicdn.com/ts/product/93/12/54/3ee0b1ed4ec8f8d876bd6cb1ed3af97c.jpg",
+            "https://salt.tikicdn.com/ts/product/48/23/9d/947050710a7ef739f92334d3ce2cc67e.jpg",
+            "https://salt.tikicdn.com/ts/product/17/7f/f1/4d5cead109f2e83fcf290e31d2af5d06.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>- Giày đá bóng vải wika ultral 3 loại 1 ưu điểm nổi bật nhất là giúp các cầu thủ tăng khả năng cảm giác với trái bóng, cảm giác thật chân, vê bóng, giật bóng rất cảm giác</p>\n   <p>- Ngài ra giày vải wika ultral 3 còn dùng trong các môn thể thao như: bóng đá, chạy bộ, cầu lông, đi du lịch, leo nú</p>\n   <p>- Giày đá bóng vải wika loại 1 chất liệu vải bao bố chắc chắn, đế giày mềm dẻo bền đẹp.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 160000,
+        "product_quantity": 6706,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 160000,
+                "sku_stock": 6431
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 160000,
+                "sku_stock": 4053
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 160000,
+                "sku_stock": 2927
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 160000,
+                "sku_stock": 4782
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 160000,
+                "sku_stock": 3456
+            }
+        ]
+    },
+    {
+        "product_shop": "227606",
+        "product_name": "Giày đá banh phủi cổ lửng WIKA Flash Cam 2022",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b2/9e/ed/a0b4a68bbf225af2b664e1ca1cdaa7b5.jpg",
+            "https://salt.tikicdn.com/ts/product/5d/67/2d/8faa57961fb1570137cd71f2cb0d9238.jpg",
+            "https://salt.tikicdn.com/ts/product/85/6b/57/6da84bf068eae4a87b9e0f39c9420514.jpg",
+            "https://salt.tikicdn.com/ts/product/d6/a5/44/6a8f754a3578e2818efd743342052dd2.jpg",
+            "https://salt.tikicdn.com/ts/product/f6/a8/04/a61129ff677e42a0b6ad83e72c4541f0.jpg",
+            "https://salt.tikicdn.com/ts/product/d9/44/b8/af245eea87c60d42d8cdb73c139bc754.jpg",
+            "https://salt.tikicdn.com/ts/product/c9/e5/4e/c6ff30a5bd8076a7f5a5ea5d08d598bd.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công ngiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 413000,
+        "product_quantity": 9287,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 413000,
+                "sku_stock": 7159
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 413000,
+                "sku_stock": 8231
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 413000,
+                "sku_stock": 2493
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 413000,
+                "sku_stock": 8570
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 413000,
+                "sku_stock": 2138
+            }
+        ]
+    },
+    {
+        "product_shop": "227606",
+        "product_name": "Giày đá banh sân cỏ nhân tạo chính hãng Wika Army Xanh",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/66/4d/a2/a0eae4182420d71aec570b62f1e96009.jpg",
+            "https://salt.tikicdn.com/ts/product/2e/50/b0/a797c7b1e45505d3daf7be8c731acabe.jpg",
+            "https://salt.tikicdn.com/ts/product/6a/a0/ab/c289e6762f63c4b927233c92b2de961b.jpg",
+            "https://salt.tikicdn.com/ts/product/2f/7c/ae/2674c3de4e36e1ecdfb4b9d8cbbd4f30.jpg",
+            "https://salt.tikicdn.com/ts/product/30/de/68/c630bda45a88340bd5043027d7c27134.jpg",
+            "https://salt.tikicdn.com/ts/product/d3/53/09/ba91be5f9e336486c3ed854e3f1e77cc.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>- Chất liệu da công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 9066,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 9806
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 7869
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 8940
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 5535
+            }
+        ]
+    }
+]

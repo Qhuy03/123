@@ -1,0 +1,4158 @@
+[
+    {
+        "product_shop": "12651",
+        "product_name": "Giày cầu lông, bóng chuyền trẻ em Lefus L1087 - Hàng công ty",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/35/00/ff/fe026829a88cb9f4d6bd527d9c663413.jpg",
+            "https://salt.tikicdn.com/ts/product/3a/a5/b5/4ee4c4877a99bf7552b4c1325029654b.jpg",
+            "https://salt.tikicdn.com/ts/product/e8/c5/0c/f0d97c02b7de9942453d3115edd4cf7e.jpg",
+            "https://salt.tikicdn.com/ts/product/3e/d4/df/02780b16fe44a9bb19b3c276cefb0891.jpg"
+        ],
+        "product_description": "<p>Giày cầu lông, bóng chuyền trẻ em Lefus L1087 - là sản phẩm giày cầu lông chính hãng dành cho trẻ em. Với kiểu dáng đơn giản, sản phẩm này sẽ là trợ thủ đắc lực cho các em khi tham gia các hoạt động thể thao.</p>\n<p>- Đế giữa được làm từ các chất liệu: Cao EVA, TPU, sợi carbon. Chất liệu EVA trong giày có tác dụng tạo độ đàn hồi cao và có độ bền khá tốt, góp phần tăng thêm tuổi thọ sử dụng của giày,</p>\n<p>-Da TPU trên thân giày có tác dụng chống xước, sợi carbon cũng góp phần giảm trọng lượng giày và gia tăng độ bền cho giày.</p>\n<p>-Bật nhảy hiệu quả với đế cao su kép, cực kỳ bám sân, thoải mái di chuyển, giảm chấn, an toàn khi bật nhảy và tiếp đất.</p>\n<p>-Được thiết kế giúp hỗ trợ các em khi chơi tốt ở nhiều loại sân khác nhau như: sân gỗ, sân thảm, sân bê tông và sân gạch. Đây là điểm mạnh của sản phẩm này.</p>\n<p>-Với loại buộc khóa dán tiện lợi và phù hợp với cả nam và nữ (unisex), chiếc giày này được làm từ chất liệu tổng hợp cao cấp để mang lại tính thoải mái trong suốt quá trình di chuyển của người mang.</p>\n<p>-Giày đủ size từ 33-36</p>\n<p>Nếu bạn muốn cho con bạn có những khoảnh khắc thoải mái và có ích khi hoạt động thể dục theo phong cách Badminton hay Bóng Chuyền, Giày Cầu Lông Trẻ Em lefus - Model L1087 đã qua kiểm soát Chất lượng rất tiện ích để bạn có cái nhìn toàn diện!</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/e6/a6/ee/c52bae62c4757cc94195f0e58f37bb61.jpg\" alt=\"\" width=\"655\" height=\"510\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 580000,
+        "product_quantity": 8646,
+        "product_category": [
+            "Giày cầu lông nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "HAMISHU",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "2 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Màu Sắc",
+                "options": [
+                    "Trắng xanh",
+                    "Đen Đỏ"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "33",
+                    "34",
+                    "35",
+                    "36"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 580000,
+                "sku_stock": 5494
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 580000,
+                "sku_stock": 2437
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 580000,
+                "sku_stock": 7709
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 580000,
+                "sku_stock": 2246
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 580000,
+                "sku_stock": 5101
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 580000,
+                "sku_stock": 6856
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 580000,
+                "sku_stock": 2814
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 580000,
+                "sku_stock": 1093
+            }
+        ]
+    },
+    {
+        "product_shop": "60433",
+        "product_name": "Giày Bóng Bàn Speed Art 28013 Trắng Xanh Mint - Khoáng Khí Tối Đa, Êm Ái, Di Chuyển Linh Hoạt, SIêu Bền Bỉ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/08/58/a4/7b3581f43c38d08d4f317b03eb9b53c3.jpg",
+            "https://salt.tikicdn.com/ts/product/40/e6/ab/25a273ad22bbeef1bbec9076204e1884.jpg",
+            "https://salt.tikicdn.com/ts/product/92/aa/8a/50fb7e12866ec829d323345204ed4d9c.jpg",
+            "https://salt.tikicdn.com/ts/product/d9/fe/26/e9eebce6ad4e783dff270199a74f74a5.jpg",
+            "https://salt.tikicdn.com/ts/product/1a/eb/f9/92b2d91c6e006c9b831f1ae7211e9443.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/03/bf/0dfe2d23a9358155aab941e32c2ac0b5.jpg",
+            "https://salt.tikicdn.com/ts/product/6c/37/19/0e535f44cc24e216697ff72974e04a56.jpg",
+            "https://salt.tikicdn.com/ts/product/6b/9c/97/4e0fa38dafe906a2199c8934ad0a891d.jpg",
+            "https://salt.tikicdn.com/ts/product/d1/15/0c/472fcfc49c0767e54293e382839c5196.jpg",
+            "https://salt.tikicdn.com/ts/product/be/85/e6/ce89b25cee75ff50fd36c53b78d77d5a.jpg"
+        ],
+        "product_description": "<p>GIÀY SPEED ART BLACK PANTHER - SỰ LỰA CHỌN HOÀN HẢO TRONG TẦM GIÁ 1 TRIỆU ĐỒNG</p>\n<p>GIỚI THIỆU GIÀY SPEED ART 28013 </p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/d7/03/bf/1f64ea92a69f519c7bfd87b0870d8e2c.jpg\" alt=\"\" width=\"750\" height=\"562\" /></p>\n<p>️Speed Art là thương hiệu giày nội địa Trung có tuổi đời hơn 25 năm và đang được huyền thoại MALIN phát triển, thương hiệu này đã có mặt trên các đất nước châu âu như Mỹ, Hong Kong, Đài Loan, Trung Quốc.</p>\n<p>️Speed Art nổi tiếng chuyên sản xuất các sản phẩm thể thao chất lượng cao, đặc biệt là trong lĩnh vực giày thể thao và phụ kiện bóng bàn. Với sứ mệnh mang đến những sản phẩm tốt nhất, Speed Art luôn tập trung vào việc nghiên cứu và phát triển công nghệ mới, kết hợp với thiết kế hiện đại để đáp ứng nhu cầu ngày càng cao của người tiêu dùng.</p>\n<p>️Giày bóng bàn Speed Art 28013 là lựa chọn hoàn hảo cho những ai đam mê bộ môn bóng bàn, đặc biệt là những người chơi chuyên nghiệp và bán chuyên. Sản phẩm này không chỉ gây ấn tượng bởi thiết kế hiện đại, mà còn bởi những tính năng vượt trội mang lại hiệu suất tối ưu trên sân</p>\n<p> </p>\n<p>CÔNG NGHÊ CÓ TRONG GIÀY SPEED ART 28013 </p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/6b/9c/97/49f0b3f37bd739c07de15a6288c48958.jpg\" alt=\"\" width=\"750\" height=\"562\" /></p>\n<p>️Đế cao su Phylon: Đế giày cực bền, độ bám tuyệt vời trên mọi bề mặt từ sân nhựa, sân gỗ, sân gạch cho đến sân bê tông, luôn đảm bảo hiệu suất tối đa.</p>\n<p>️Chất liệu Upper: Sử dụng TPU chống xoắn, giúp giày ổn định, không lo lật sơ mi khi di chuyển mạnh.</p>\n<p>️Thân giày: Kết hợp lưới Nylon 3 lớp, đảm bảo độ thoáng khí tối đa, tăng cảm giác êm mềm và thoải mái khi mang, đồng thời giảm trọng lượng của giày đáng kể.</p>\n<p>️Khả năng truyền động: Thiết kế giúp truyền động từ gót sang hai bên, duy trì sự cân bằng và giảm nguy cơ chấn thương cao.</p>\n<p>️Đế giữa: Sử dụng vật liệu xốp nén Nylon, khả năng hấp thụ lực cực tốt và giảm chấn, chống sốc hiệu quả. Công nghệ này không chỉ bảo vệ đôi chân khỏi những tác động mạnh mà còn giúp duy trì phong độ và sự thoải mái cho người chơi trong suốt trận đấu.</p>\n<p>️Cấu trúc đế 3 lớp: Lót giày, đế giữa và đế cao su ở cuối. Thiết kế này mang lại độ bền vượt trội, độ đàn hồi cao và sự thoải mái tối ưu. Người mang sẽ cảm nhận được sự chắc chắn và ổn định trong từng bước di chuyển.️Vật liệu dẻo: Tăng cường khả năng chống biến dạng bàn chân, mang đến cảm giác chắc chắn và bảo vệ chân khỏi tổn thương khi di chuyển nặng.</p>\n<p> </p>\n<p>KẾT LUẬN<br /><img src=\"https://salt.tikicdn.com/ts/tmp/d1/15/0c/e9d49bfb77325f6211baaa62e33a11e1.jpg\" alt=\"\" width=\"750\" height=\"562\" /></p>\n<p>️Giày bóng bàn Speed Art 28013 không chỉ nổi bật bởi thiết kế tinh tế và hiện đại, mà còn bởi những tính năng vượt trội đáp ứng nhu cầu thi đấu chuyên nghiệp.</p>\n<p>️Với đế cao su Phylon bền bỉ, chất liệu TPU chống xoắn, lưới Nylon thoáng khí, đế giữa xốp nén Nylon giảm chấn và cấu trúc đế 3 lớp chắc chắn, sản phẩm này chắc chắn sẽ làm hài lòng cả những người chơi khó tính nhất. </p>\n<p>️Speed Art 28013 chính là sự lựa chọn hoàn hảo cho những ai muốn nâng cao hiệu suất thi đấu và trải nghiệm sự thoải mái tối đa trên sân bóng bàn.</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1100000,
+        "product_quantity": 2593,
+        "product_category": [
+            "Giày thể thao nam khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "SPEED ART",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Kích thước",
+                "options": [
+                    "37",
+                    "38",
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            },
+            {
+                "name": "Màu",
+                "options": [
+                    "Trắng Xanh",
+                    "Đen"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 1214
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 4868
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 6559
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 4452
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 1293
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 8208
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 6248
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 8489
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 3416
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 3360
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    0
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 8849
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    1
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 4572
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    0
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 3987
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    1
+                ],
+                "sku_price": 1100000,
+                "sku_stock": 5094
+            }
+        ]
+    },
+    {
+        "product_shop": "279905",
+        "product_name": "Giày thể thao chạy bộ - Giày Run Together mẫu new2024",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/51/b0/1e/f2877eca433de307f0c62e2a9280410b.jpeg"
+        ],
+        "product_description": "<p>Giày thể thao Run Together là phiên bản mới nhất của Run Together Việt Nam về giày chạy bộ với thiết kế hiện đại vô cùng thời trang, năng động.<br />￼</p>\n<p>Đặc điểm nổi bật giày thể thao chạy bộ chính hãng Run Together: Giày công nghệ bọt khí Eva mang lại cảm giác thoải mái và êm ái khi sử dụng. Chất liệu chắc chắn và bền bỉ, giày thể thao Run Together đảm bảo sự an toàn và độ bền cao. Thiết kế hiện đại và thời trang, giày thể thao Run Together phù hợp với nhiều phong cách và hoạt động thể thao khác nhau.</p>\n<p>Giày thể thao cực kì nhẹ nhân, êm ái:<br />‍ Thiết kế theo động học Meta-Rocker giúp sản sinh nhiều lực và gia tăng tốc độ chạy của bạn.<br />‍ Giày thể thao làm từ vật liệu Mesh: nhẹ và thông thoáng, khi mang vào giúp giảm hiện tượng phồng rộp chân, thoải mái khi chạy bộ.<br />‍ Bọt khí Eva giúp giày có tính đàn hồi cao, mang lại cảm giác êm ái cho bàn chân mà vẫn giữ được trọng lượng nhẹ cần thiết.<br />‍ Đế giày được làm từ cao su nguyên khối với chiều cao đế đạt tới 5cm. Độ đàn hồi tốt &gt;40%, trải nghiệm bước đi nhẹ như bay.<br />‍ Tích hợp chip NFC cho phép kết nối với ứng dụng Run Together trên điện thoại, giúp người chạy có thể dễ dàng đo bước chân, số kilomet, ghi lại tuyến đường, thống kê, tích điểm và phân tích quá trình tập luyện.<br />‍ Thiết kế hiện đại, màu sắc trẻ trung, dễ dàng kết hợp với nhiều trang phục khác nhau.</p>\n<p>Liên hệ ngay để chúng tôi hỗ trợ tư vấn đến bạn</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1890000,
+        "product_quantity": 4598,
+        "product_category": [
+            "Giày chạy bộ nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Run Together",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43",
+                    "44"
+                ]
+            },
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Cam",
+                    "Cam Vàng",
+                    "Màu xanh",
+                    "xanh hồng",
+                    "Đen phối xanh chuối"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 5176
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 3326
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 5577
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 9291
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 4460
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 6299
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 7379
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 9068
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 4937
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 5951
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 1375
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 7437
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 1243
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 7102
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    4
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 1089
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 4093
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 7627
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 6645
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 3249
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    4
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 3806
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 7899
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 4697
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    2
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 8306
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    3
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 8460
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    4
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 1089
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    0
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 8189
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    1
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 2631
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    2
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 5422
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    3
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 3772
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    4
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 9638
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    0
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 8394
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    1
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 8348
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    2
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 4294
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    3
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 4771
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    4
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 9940
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    0
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 5478
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    1
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 7338
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    2
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 6546
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    3
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 3823
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    4
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 8578
+            },
+            {
+                "sku_tier_idx": [
+                    8,
+                    0
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 1230
+            },
+            {
+                "sku_tier_idx": [
+                    8,
+                    1
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 4469
+            },
+            {
+                "sku_tier_idx": [
+                    8,
+                    2
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 1836
+            },
+            {
+                "sku_tier_idx": [
+                    8,
+                    3
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 6311
+            },
+            {
+                "sku_tier_idx": [
+                    8,
+                    4
+                ],
+                "sku_price": 1890000,
+                "sku_stock": 5018
+            }
+        ]
+    },
+    {
+        "product_shop": "234899",
+        "product_name": "Giầy cầu lông bóng chuyền Chí Phèo CP005 giày thể dục thể thao đa năng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/39/db/15/6ab6c338650eadf70217d45801f01520.jpg",
+            "https://salt.tikicdn.com/ts/product/04/e7/f1/79a16773de9f679d4a1d53cd6cac7c27.jpg",
+            "https://salt.tikicdn.com/ts/product/55/07/2d/e2b4a09c4ca253d263b375c04cf3ea3e.jpg",
+            "https://salt.tikicdn.com/ts/product/8b/f5/94/46a0d3b02b82fe6ba830bdb2f4708af0.jpg",
+            "https://salt.tikicdn.com/ts/product/59/41/4d/0a8d15038af8aff23c9ed74b9232a631.jpg",
+            "https://salt.tikicdn.com/ts/product/d9/e5/ea/7d529b8fe6a68c78bd677475a762a16d.jpg",
+            "https://salt.tikicdn.com/ts/product/66/32/99/ffbe54533a523a8176464f933fc4341a.jpg",
+            "https://salt.tikicdn.com/ts/product/54/6c/d1/d7268cdf034bd07d8ed63997b9f59282.jpg",
+            "https://salt.tikicdn.com/ts/product/fe/87/14/8a653be2b53691df966b55dd2da3f6ce.jpg",
+            "https://salt.tikicdn.com/ts/product/b5/65/ee/a093bbfab8d790b2da2d9f82f832d59a.jpg"
+        ],
+        "product_description": "<p>Giày cầu lông nam nữ Chí Phèo mã 005 hàng y hình, đủ màu cho khách hàng lựa chọn. Form chuẩn size hoặc inbox shop để được tư vấn size chuẩn theo số đo chân nhé. Giầy đi rất êm chân, giá quá rẻ so với chất lượng 5 sao của sản phẩm. Tất cả khách hàng đã trải nghiệm đều hài lòng. Đây đang là mẫu giày chơi cầu lông quốc dân đấy ạ.</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 338000,
+        "product_quantity": 4795,
+        "product_category": [
+            "Giày cầu lông nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Chí Phèo",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Trắng viền rêu",
+                    "Trắng viền xanh",
+                    "Trắng viền đen",
+                    "Xanh chuối",
+                    "Đen",
+                    "Đỏ cờ Việt Nam"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "Size 38",
+                    "Size 39",
+                    "Size 40",
+                    "Size 41",
+                    "Size 42",
+                    "Size 43",
+                    "Size 45"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 338000,
+                "sku_stock": 6551
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 338000,
+                "sku_stock": 5737
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 338000,
+                "sku_stock": 4715
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 338000,
+                "sku_stock": 4492
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 338000,
+                "sku_stock": 3567
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 338000,
+                "sku_stock": 6695
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    6
+                ],
+                "sku_price": 338000,
+                "sku_stock": 6182
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 338000,
+                "sku_stock": 4536
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 338000,
+                "sku_stock": 9366
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 338000,
+                "sku_stock": 6301
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 338000,
+                "sku_stock": 3588
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 338000,
+                "sku_stock": 9900
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    5
+                ],
+                "sku_price": 338000,
+                "sku_stock": 2541
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    6
+                ],
+                "sku_price": 338000,
+                "sku_stock": 9192
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 338000,
+                "sku_stock": 9671
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 338000,
+                "sku_stock": 7955
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 338000,
+                "sku_stock": 5452
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 338000,
+                "sku_stock": 5593
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    4
+                ],
+                "sku_price": 338000,
+                "sku_stock": 8507
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    5
+                ],
+                "sku_price": 338000,
+                "sku_stock": 3256
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    6
+                ],
+                "sku_price": 338000,
+                "sku_stock": 5177
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 338000,
+                "sku_stock": 1583
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 338000,
+                "sku_stock": 7193
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 338000,
+                "sku_stock": 9910
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 338000,
+                "sku_stock": 7008
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    4
+                ],
+                "sku_price": 338000,
+                "sku_stock": 9967
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    5
+                ],
+                "sku_price": 338000,
+                "sku_stock": 5826
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    6
+                ],
+                "sku_price": 338000,
+                "sku_stock": 5507
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 338000,
+                "sku_stock": 9382
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 338000,
+                "sku_stock": 7170
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    2
+                ],
+                "sku_price": 338000,
+                "sku_stock": 7176
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    3
+                ],
+                "sku_price": 338000,
+                "sku_stock": 5480
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    4
+                ],
+                "sku_price": 338000,
+                "sku_stock": 2748
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    5
+                ],
+                "sku_price": 338000,
+                "sku_stock": 1541
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    6
+                ],
+                "sku_price": 338000,
+                "sku_stock": 3999
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    0
+                ],
+                "sku_price": 338000,
+                "sku_stock": 7749
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    1
+                ],
+                "sku_price": 338000,
+                "sku_stock": 3632
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    2
+                ],
+                "sku_price": 338000,
+                "sku_stock": 7181
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    3
+                ],
+                "sku_price": 338000,
+                "sku_stock": 2849
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    4
+                ],
+                "sku_price": 338000,
+                "sku_stock": 7705
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    5
+                ],
+                "sku_price": 338000,
+                "sku_stock": 1146
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    6
+                ],
+                "sku_price": 338000,
+                "sku_stock": 6760
+            }
+        ]
+    },
+    {
+        "product_shop": "234899",
+        "product_name": "Xả hàng giầy đá banh futsal đế IC đá bóng trong nhà chơi bóng sân đất giá siêu rẻ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/70/ef/f3/5462ac7043f8d9694c4a8ff26077197e.jpg",
+            "https://salt.tikicdn.com/ts/product/37/74/06/74646746b54740da472b854537353bb2.jpg",
+            "https://salt.tikicdn.com/ts/product/7a/c2/50/2a9e9ccf1864d595617649fa0e1fe3dc.jpg",
+            "https://salt.tikicdn.com/ts/product/58/88/03/b128346ca53540411b9474338fabff03.jpg",
+            "https://salt.tikicdn.com/ts/product/b4/48/c6/38bd9b148ccecbdf4a33ffea98b1c42b.jpg",
+            "https://salt.tikicdn.com/ts/product/30/2c/1a/ef8c4d2422d3be30e0d532194c5dba04.jpg"
+        ],
+        "product_description": "\n  <p>Giầy đá bóng futsal chơi bóng trong nhà hoặc sân đất. shop còn ít lẻ màu lẻ size nên thanh lý dọn kho</p>\n   <p>Đế cao su độ đàn hồi cao, bám sân chống trơn, chịu mài mòn tốt.</p>\n   <p>Đế khâu 100%</p>\n   <p>Keo dán đế chắc chắn, đế khâu toàn bộ chống bong.</p>\n   <p>Form ôm chân thoải mái và an toàn cho cầu thủ đá bóng.</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 250000,
+        "product_quantity": 8436,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Chí Phèo",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Màu ghi",
+                    "Màu tím than",
+                    "Màu xanh biển",
+                    "Màu đỏ"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "Size 36",
+                    "Size 37",
+                    "Size 38",
+                    "Size 40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 250000,
+                "sku_stock": 1325
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 250000,
+                "sku_stock": 2249
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 250000,
+                "sku_stock": 4544
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 250000,
+                "sku_stock": 6426
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 250000,
+                "sku_stock": 6001
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 250000,
+                "sku_stock": 4409
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 250000,
+                "sku_stock": 4405
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 250000,
+                "sku_stock": 5633
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 250000,
+                "sku_stock": 9223
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 250000,
+                "sku_stock": 6306
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 250000,
+                "sku_stock": 6817
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 250000,
+                "sku_stock": 1436
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 250000,
+                "sku_stock": 9654
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 250000,
+                "sku_stock": 4368
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 250000,
+                "sku_stock": 1838
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 250000,
+                "sku_stock": 5841
+            }
+        ]
+    },
+    {
+        "product_shop": "292233",
+        "product_name": "Mẫu giày thể thao đá banh cao cấp sân cỏ nhân tạo Wikaaa Flaaaash Cam",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/44/39/88/6de58e5aa832bb5143c13efb39877335.jpg",
+            "https://salt.tikicdn.com/ts/product/8e/57/5d/f6fc14ff4e9fa86f45872905a6c15a1e.jpg",
+            "https://salt.tikicdn.com/ts/product/ac/79/c1/a9b490c9fff51e27397996ab92d56192.jpg",
+            "https://salt.tikicdn.com/ts/product/cb/5a/d1/aa83e9abf6b9c04b6922a9498c6e56fb.jpg",
+            "https://salt.tikicdn.com/ts/product/6c/cc/2a/235e9c0af96a921682a95a06a6fe9b38.jpg",
+            "https://salt.tikicdn.com/ts/product/8e/41/1b/ea081de7e499cd8366b843e11bf40beb.jpg",
+            "https://salt.tikicdn.com/ts/product/f3/3a/0b/aeb1a978b6d9c83aa442cf89e6d3218e.jpg",
+            "https://salt.tikicdn.com/ts/product/26/53/eb/3423e9eccc282c100c6c357ad91c5ce8.jpg"
+        ],
+        "product_description": "\n  <p>- Chất liệu da công nghiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 390000,
+        "product_quantity": 1482,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 390000,
+                "sku_stock": 9404
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 390000,
+                "sku_stock": 1955
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 390000,
+                "sku_stock": 4135
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 390000,
+                "sku_stock": 2597
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 390000,
+                "sku_stock": 4815
+            }
+        ]
+    },
+    {
+        "product_shop": "292233",
+        "product_name": "Mẫu giày thể thao đá banh Wkia Army Xanh",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6b/6b/26/89dd64747467ea9c6729b52a49eeae1a.jpg",
+            "https://salt.tikicdn.com/ts/product/33/51/76/8817981cace796db0b208c2bee97685e.jpg",
+            "https://salt.tikicdn.com/ts/product/75/9b/20/bbed6018d1a5cf21637e43cb72027ad0.jpg",
+            "https://salt.tikicdn.com/ts/product/ab/20/8b/deb4be91a6a1bd01260069eb2b4404a3.jpg",
+            "https://salt.tikicdn.com/ts/product/b1/67/e6/7be9e826382facc2dfc1b8e99bea3ea6.jpg"
+        ],
+        "product_description": "\n  <p>Form Việt dành riêng cho người Việt ôm chân, cảm giác bóng cực tốt thích hợp đá bóng trên mặt cỏ sân nhân tạo, và cũng có thể đá trên sân cỏ tự nhiện</p>\n   <p>- Đế chống trượt siêu tốt</p>\n   <p>- Mẫu giày phổ thông dễ tiếp cận với mọi đối tượng khách hàng</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ ,bền bỉ, sản phấm được nhiều khách hàng tin dùng.</p>\n   <p>- Đã khâu full đế</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 6389,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 7290
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 6917
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 1203
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 7940
+            }
+        ]
+    },
+    {
+        "product_shop": "292233",
+        "product_name": "Wika Flash hãng giày đá bóng,đá banh cao cấp ,đôi giày bóng đá sân phủi hót nhất năm bộ đôi giày đá sân cỏ nhân tạo",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/1f/a7/e2/b1ab11a84e22451d67168c28232cebc9.jpg",
+            "https://salt.tikicdn.com/ts/product/83/0d/d4/20f870548ba3e9f17830a67222c4f745.jpg",
+            "https://salt.tikicdn.com/ts/product/d4/cb/19/924d3b3c213beb61c9352afa5fb163da.jpg",
+            "https://salt.tikicdn.com/ts/product/b5/e8/ce/bc526372cefb312a3b5272ba584eda85.jpg",
+            "https://salt.tikicdn.com/ts/product/d8/8f/3d/5ea4092fcb77b8b7d58439d07b77cd1d.jpg"
+        ],
+        "product_description": "\n  <p>Chất liệu giày làm từ da tăng cường khả năng chống thấm, thoáng khí Phần đế giày đá bóng bằng chất liệu 100% cao su, mềm mại khi sử dụng, đế có rãnh chống trơn, tạo ra khả năng bám mặt sân, kiểm </p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 365000,
+        "product_quantity": 2845,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 365000,
+                "sku_stock": 4500
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 365000,
+                "sku_stock": 9069
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 365000,
+                "sku_stock": 7737
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 365000,
+                "sku_stock": 1304
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 365000,
+                "sku_stock": 9984
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Mẫu giày thể dục thể thao đá banh cao cấp nhất năm Wika Army Xám",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/52/f1/0f/f43eeb3f3907729dba4519359fcf81d1.jpg",
+            "https://salt.tikicdn.com/ts/product/1f/42/2f/26adbe294008dd77db679a9f4c2629db.jpg",
+            "https://salt.tikicdn.com/ts/product/81/27/b7/3cf78b59b9d762f8d2c762263a11c076.jpg",
+            "https://salt.tikicdn.com/ts/product/2d/c4/d7/769fe3bb767ac943d064b759e3f6359f.jpg",
+            "https://salt.tikicdn.com/ts/product/ff/49/4f/d7bfb3bbef37fe2179b190167c3e1f3f.jpg",
+            "https://salt.tikicdn.com/ts/product/cf/ec/e7/65412ea996583771e2a4019a0f111af5.jpg"
+        ],
+        "product_description": "\n  <p>- Chất liệu da công nghiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 3408,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 9540
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 7265
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 8900
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 9865
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "giày thể thao đá banh chất lượng cao đôi giày đá banh được sẩn xuất tại Vn mẫu giày mới nhất năm",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a6/56/5e/9dae60ac89a52b029346d3fb9647d9bf.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/aa/f1/c63bd729e00280270f70060a9186e7f7.jpg",
+            "https://salt.tikicdn.com/ts/product/5b/07/98/6a356f5249a4cf391beb1d3f50c95ba1.jpg",
+            "https://salt.tikicdn.com/ts/product/23/b2/2a/c8876571ffa3fa2f5b14ec6b539aeab6.jpg"
+        ],
+        "product_description": "\n  <p>- Đinh dăm bám sân tránh trơn trượt ngay cả khi trời mưa</p>\n   <p>- Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 375000,
+        "product_quantity": 2023,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 375000,
+                "sku_stock": 9461
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 375000,
+                "sku_stock": 5350
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 375000,
+                "sku_stock": 8766
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 375000,
+                "sku_stock": 9384
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "wk 3 sọc Đen giày bóng đá thể thao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/15/54/9d/ead9ed71566bc8fbaa7bc13d0856c9cd.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/5c/d3/d44411ad2a89025733a7ea56b78cce96.jpg",
+            "https://salt.tikicdn.com/ts/product/04/57/46/444a9a005d01aee3b9c6569362531b60.jpg",
+            "https://salt.tikicdn.com/ts/product/08/e8/01/3bdbf6f51871d75571a6e1e90eb36cf0.jpg",
+            "https://salt.tikicdn.com/ts/product/4e/e1/0f/50b19f7e79fe635691f092de2c9ab763.jpg"
+        ],
+        "product_description": "\n  <p> Chất liệu da Công nghiệp xịn</p>\n   <p> Siêu nhẹ, ôm chân</p>\n   <p> Cảm giác bóng tốt</p>\n   <p> Đã khâu full đế</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 150000,
+        "product_quantity": 7980,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 7401
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 150000,
+                "sku_stock": 5369
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 150000,
+                "sku_stock": 4637
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 150000,
+                "sku_stock": 9070
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Mẫu giày đá banh, đá bóng Wika Ultra Vải cao cấp",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/91/a3/ca/ebb64587d18b277ec3e58aacbb832a66.jpg",
+            "https://salt.tikicdn.com/ts/product/1b/13/51/2364d35361203a4cd876b061b739670c.jpg",
+            "https://salt.tikicdn.com/ts/product/95/60/fb/a8db87ea6b1c33a8370b277a794fe407.jpg",
+            "https://salt.tikicdn.com/ts/product/b8/05/b7/8d65132952cc000c62c5fed495f110c0.jpg",
+            "https://salt.tikicdn.com/ts/product/94/cd/fc/d21995786d0a73dbacf2956b54ed4654.jpg"
+        ],
+        "product_description": "\n  <p>Giày đá bóng Wika Ultra 3 vải</p>\n   <p> Chất liệu vải Công nghiệp</p>\n   <p> Siêu nhẹ, ôm chân</p>\n   <p> Tiếp xúc bóng tốt</p>\n   <p> Đã khâu full đế</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 145000,
+        "product_quantity": 1772,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 145000,
+                "sku_stock": 7892
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 145000,
+                "sku_stock": 4591
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 145000,
+                "sku_stock": 7334
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 145000,
+                "sku_stock": 8462
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 145000,
+                "sku_stock": 6507
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Giày bóng đá thể thao 3 sọc trắng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d9/2d/17/3ee5e5a8daa3efd1458b86ce639279ec.jpg",
+            "https://salt.tikicdn.com/ts/product/ff/8f/8c/201c766d92a0099160643c5729bf9198.jpg",
+            "https://salt.tikicdn.com/ts/product/1a/49/ca/c7873f2061ff92c065aa690a783edc82.jpg",
+            "https://salt.tikicdn.com/ts/product/0a/30/fc/70d7f96903475577bd56e0cc58f748a6.jpg"
+        ],
+        "product_description": "\n  <p>- Đinh dăm bám sân tránh trơn trượt ngay cả khi trời mưa</p>\n   <p>- Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 145000,
+        "product_quantity": 7587,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 145000,
+                "sku_stock": 5242
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 145000,
+                "sku_stock": 3779
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 145000,
+                "sku_stock": 4153
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Giày bóng đá thể thao phủi Wika Army Xám 2022",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/25/5b/0d/669fb077e18051591bbc65c775ce7498.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/0d/bd/001a5e9657185ce9766be1f3b8ddf5f8.jpg",
+            "https://salt.tikicdn.com/ts/product/75/e1/c5/41d36ea347edba8c1f7a511078c3caa2.jpg",
+            "https://salt.tikicdn.com/ts/product/7f/7d/f4/096aafd0508869d71aa78d2c7974d138.jpg",
+            "https://salt.tikicdn.com/ts/product/a6/38/a9/0d67f72312b781566ab90ad8a644fe26.jpg",
+            "https://salt.tikicdn.com/ts/product/b0/18/5f/43ca8a72d644c4f926d7a7bf939f34b7.jpg",
+            "https://salt.tikicdn.com/ts/product/b3/5e/9d/976a5a8967d59c3e5c52a7274f17f591.jpg"
+        ],
+        "product_description": "\n  <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công nghiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Đã khâu full đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 4075,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 7446
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 3549
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 2572
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 8265
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": " Wika Army Nâu,Giày đá banh sân cỏ nhân tạo_ NamNam Sport",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/0c/6d/12/c89bc6ee2aaab9334dcc9d5f49dd077e.jpg",
+            "https://salt.tikicdn.com/ts/product/e9/43/15/5278a27659d39d7b596078d343052af4.jpg",
+            "https://salt.tikicdn.com/ts/product/40/fd/b7/1dff3dce574b206a023ace38d61b3fca.jpg",
+            "https://salt.tikicdn.com/ts/product/bd/f5/dc/2035de1c442e00019a789655755dcefa.jpg",
+            "https://salt.tikicdn.com/ts/product/0b/0d/3c/901467ceca3e7e9e0bb3e7196ec9b81f.jpg",
+            "https://salt.tikicdn.com/ts/product/e8/8c/67/be0571a803f9a4559a408fa595590034.jpg"
+        ],
+        "product_description": "\n  <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công nghiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Đã khâu full đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 7937,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 2901
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 5086
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 4559
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 3287
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Ultra Đôi giày Vải phù hợp chơi thê thao , mẫu giày thiết kế đẹp mắt  nhất năm 2022_2023",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/bf/9d/bb/d4e19c37b999284134a96fa9b5056218.jpg",
+            "https://salt.tikicdn.com/ts/product/48/23/9d/90f9b1f79fa31fc292cae84990bd4769.jpg",
+            "https://salt.tikicdn.com/ts/product/21/a1/0a/0ad1f973053f3f6f6fca7827400d8827.jpg",
+            "https://salt.tikicdn.com/ts/product/18/81/14/af11ff77ba5599769184eb23a99da767.jpg",
+            "https://salt.tikicdn.com/ts/product/93/12/54/63322db2c619c870090d53e1a2deb2c5.jpg",
+            "https://salt.tikicdn.com/ts/product/17/7f/f1/126be1e3e89a6ab6a7292821b57f8be2.jpg"
+        ],
+        "product_description": "\n  <p>️Giày đã khâu toàn bộ đế cực kỳ chắc chắn</p>\n   <p>️ Đinh dăm bám sân tránh trơn trượt ngay cả khi trời mưa</p>\n   <p>️ Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>️Đường kim mũi chỉ sắc nét</p>\n   <p>️ Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>️ Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>️ Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 140000,
+        "product_quantity": 8051,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 140000,
+                "sku_stock": 2402
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 140000,
+                "sku_stock": 8406
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 140000,
+                "sku_stock": 8850
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 140000,
+                "sku_stock": 8614
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 140000,
+                "sku_stock": 4211
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Sản phẩm thể thao, Mẫu giày vải Ultra 3 thể thao đá banh cao cấp",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/21/a1/0a/909878ea3cba261ccbfa303cd508b39f.jpg",
+            "https://salt.tikicdn.com/ts/product/48/23/9d/e9314f643d478ff1e21e028a28b21f5d.jpg",
+            "https://salt.tikicdn.com/ts/product/18/81/14/8ffab63862f8f2ec7e21033107ae57bf.jpg",
+            "https://salt.tikicdn.com/ts/product/93/12/54/2c2624feafedc371a641198526abb265.jpg",
+            "https://salt.tikicdn.com/ts/product/17/7f/f1/c8195868d593f421d59101cbe9fdef06.jpg"
+        ],
+        "product_description": "\n  <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu vải công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Đã khâu full đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 152000,
+        "product_quantity": 5343,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 152000,
+                "sku_stock": 1666
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 152000,
+                "sku_stock": 5534
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 152000,
+                "sku_stock": 1753
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 152000,
+                "sku_stock": 5694
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Phụ kiện Sport, Giày đá bóng sân cỏ nhân tạo Wika Army Bạc",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/1f/42/2f/95e7f7d338233e93e0435f0fe6b6aff2.jpg",
+            "https://salt.tikicdn.com/ts/product/81/27/b7/fedbb626fd9c28fb2eae40f4330c11b4.jpg",
+            "https://salt.tikicdn.com/ts/product/52/f1/0f/4cd749fc2bc41cc77356e94dcf70d239.jpg",
+            "https://salt.tikicdn.com/ts/product/ff/49/4f/d29b41d67b5bac93564f144202f7f6ca.jpg",
+            "https://salt.tikicdn.com/ts/product/2d/c4/d7/47e401e6b4766c4a3f8d5b585eaf331a.jpg",
+            "https://salt.tikicdn.com/ts/product/cf/ec/e7/ac03d30ca9f2148daad84203ab29d88f.jpg"
+        ],
+        "product_description": "\n  <p>- Chất liệu da công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 2607,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 9637
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 9586
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 3934
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 3999
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Giày bóng đá phủi chính hãng Wika Army Nâu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/0c/6d/12/afe161112fddc9f074c277136231f2dd.jpg",
+            "https://salt.tikicdn.com/ts/product/e9/43/15/97c347553005017dfe71f8558e70fbea.jpg",
+            "https://salt.tikicdn.com/ts/product/40/fd/b7/a8cc193b3bd731c85d1988bd14c6f151.jpg",
+            "https://salt.tikicdn.com/ts/product/17/3a/b5/2cf5232a39988b3d6f248258f8910a77.jpg",
+            "https://salt.tikicdn.com/ts/product/bd/f5/dc/6efe23842d11ef241c26380f2227502a.jpg",
+            "https://salt.tikicdn.com/ts/product/e8/8c/67/fff1f283aa66f66a02d3ab5c008e0131.jpg"
+        ],
+        "product_description": "\n  <p>- Giày Bóng Đá Wika Army</p>\n   <p>- Sản phẩm được sản xuất với công nghệ tiên tiến hiện đại, chất liệu chất lượng, mang đến cho anh em dòng sản phẩm mới ngầu</p>\n   <p>- Chất liệu da, chống thấm nước, form giầy ôm chân tạo cảm giác bóng tốt</p>\n   <p>- Đế giầy đinh thấp giúp tăng khả năng bám trụ</p>\n   <p>- Họa tiết logo sắc nét, thiết kế đẹp mắt</p>\n   <p>- Khâu full đế, chắc chắn, bền bỉ</p>\n   <p>- Được nhiều người việt ưa dùng</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 2686,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 6354
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 8131
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 4158
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 8046
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 300000,
+                "sku_stock": 4521
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Giày bóng đá phủi WIKA Army Nâu 2022",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/0c/6d/12/0c92cb8b0e33d1bcebf40babe420a9c7.jpg",
+            "https://salt.tikicdn.com/ts/product/e9/43/15/b23aaef321abd9dcfa4b01adefb95ab8.jpg",
+            "https://salt.tikicdn.com/ts/product/40/fd/b7/49333bfc6f7a1f55e6f78eaf86a544bd.jpg",
+            "https://salt.tikicdn.com/ts/product/bd/f5/dc/0bd4bf6a50df158cef93edc92c58ba9e.jpg",
+            "https://salt.tikicdn.com/ts/product/e8/8c/67/8db05501f2db2a3b94673a549cd06844.jpg"
+        ],
+        "product_description": "\n  <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 1459,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 1481
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 8871
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 8850
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 2424
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Giày thể thao bóng đá cao cấp nhất năm Wika Ultra 3 Vải",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/bf/9d/bb/5f3019d7865cd599746edb07e4eccf3f.jpg",
+            "https://salt.tikicdn.com/ts/product/18/81/14/21095cfd203f2094d638159806081735.jpg",
+            "https://salt.tikicdn.com/ts/product/21/a1/0a/f05c27e35271ab0075928990de747bdb.jpg",
+            "https://salt.tikicdn.com/ts/product/93/12/54/7c36a74043f440817d7b9e9f863396f0.jpg",
+            "https://salt.tikicdn.com/ts/product/48/23/9d/de0435226f202447fc2ae9585ce16aef.jpg",
+            "https://salt.tikicdn.com/ts/product/17/7f/f1/faeaa619e925a0013fd63a754b227d1b.jpg"
+        ],
+        "product_description": "\n  <p>Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu vải công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Đã khâu full đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 155000,
+        "product_quantity": 8677,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 155000,
+                "sku_stock": 9519
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 155000,
+                "sku_stock": 5573
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 155000,
+                "sku_stock": 4595
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 155000,
+                "sku_stock": 8722
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 155000,
+                "sku_stock": 4707
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Đôi giày đinh đá banh siêu bền siêu đẹp Wika 3 sọc _ giày cao cấp đá sân cỏ nhân tạo",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/eb/14/89/bd02b6b560418a140418418e0ba02d2d.jpg",
+            "https://salt.tikicdn.com/ts/product/08/e8/01/b32b4d4c1fa32cca7c7798b88da0aeb7.jpg",
+            "https://salt.tikicdn.com/ts/product/d2/9a/4f/da712f5f39f4c81c2e0c6bf8248a02f6.jpg",
+            "https://salt.tikicdn.com/ts/product/04/57/46/41c9f99792448d82063db85e747cfca0.jpg",
+            "https://salt.tikicdn.com/ts/product/4e/e1/0f/4014abbd5f98c0bc241d894d8d94e4b8.jpg",
+            "https://salt.tikicdn.com/ts/product/15/54/9d/9918aa71e39146d382a0c84b800f2f9f.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/5c/d3/1d24000bd306b07f578fb75933ec7972.jpg"
+        ],
+        "product_description": "\n  <p> Chất liệu da Công nghiệp xịn</p>\n   <p> Siêu nhẹ, ôm chân</p>\n   <p> Cảm giác bóng tốt</p>\n   <p> Đã khâu full đế</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 165000,
+        "product_quantity": 6509,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 165000,
+                "sku_stock": 4303
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 165000,
+                "sku_stock": 5496
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2551
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 165000,
+                "sku_stock": 2953
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 165000,
+                "sku_stock": 7369
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Giầy bóng đá phủi WIKA 3 sọc_ đế nhựa cứng cao cấp",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/36/5c/1b/2d62d8be64b9b78620ba73229732452c.jpg",
+            "https://salt.tikicdn.com/ts/product/6f/28/fd/77834f6c3d4ba6e8799f6570459ab650.jpg",
+            "https://salt.tikicdn.com/ts/product/4c/ea/fb/bec1cc1b2fda8a9e09e231e4e818aa20.jpg",
+            "https://salt.tikicdn.com/ts/product/5a/81/89/52ed0ab76d04022bafca6d7f11311db4.jpg",
+            "https://salt.tikicdn.com/ts/product/31/cd/11/fb4d4226320a356ed7b2b30692f32897.jpg"
+        ],
+        "product_description": "\n  <p>️Thông số kĩ thuật:</p>\n   <p> Size: 39-40-41-42-43.</p>\n   <p> Chất liệu da PU, chống thấm nước.</p>\n   <p>■ Đế giầy cao TF giúp tăng khả năng bám trụ.</p>\n   <p>✸ Họa tiết logo sắc nét</p>\n   <p> Full khâu đế , chắc chắn , bền bỉ</p>\n   <p>️ Chất liệu đế: đế nhựa wk.</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 190000,
+        "product_quantity": 6198,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "SIZE",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            },
+            {
+                "name": "Màu",
+                "options": [
+                    "Trắng",
+                    "Xanh nhạt",
+                    "Xanh đậm",
+                    "Đen",
+                    "Đỏ"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 190000,
+                "sku_stock": 2450
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 190000,
+                "sku_stock": 4033
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 190000,
+                "sku_stock": 3287
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 190000,
+                "sku_stock": 3819
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 190000,
+                "sku_stock": 7832
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 190000,
+                "sku_stock": 5415
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 190000,
+                "sku_stock": 6004
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 190000,
+                "sku_stock": 1503
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 190000,
+                "sku_stock": 2738
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 190000,
+                "sku_stock": 5636
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 190000,
+                "sku_stock": 8408
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 190000,
+                "sku_stock": 2442
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 190000,
+                "sku_stock": 9462
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 190000,
+                "sku_stock": 2187
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    4
+                ],
+                "sku_price": 190000,
+                "sku_stock": 1938
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 190000,
+                "sku_stock": 3386
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 190000,
+                "sku_stock": 7762
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 190000,
+                "sku_stock": 9163
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 190000,
+                "sku_stock": 6899
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    4
+                ],
+                "sku_price": 190000,
+                "sku_stock": 1278
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 190000,
+                "sku_stock": 8399
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 190000,
+                "sku_stock": 7376
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    2
+                ],
+                "sku_price": 190000,
+                "sku_stock": 2141
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    3
+                ],
+                "sku_price": 190000,
+                "sku_stock": 7676
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    4
+                ],
+                "sku_price": 190000,
+                "sku_stock": 8416
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Giày bóng đá chính hãng Wika Army xám",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ea/44/f4/25fef1f16831682b6b7719a2535bb537.jpg",
+            "https://salt.tikicdn.com/ts/product/0d/02/7e/f0b2e5b5f0c7107bc0df27f2c662719f.jpg",
+            "https://salt.tikicdn.com/ts/product/cc/09/ff/c655a1dafb7c6e07b387ee53dbff28f2.jpg",
+            "https://salt.tikicdn.com/ts/product/34/b8/51/5f0101d1a3fd4b1355e2dd9c00730731.jpg"
+        ],
+        "product_description": "\n  <p>- Chất liệu da công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt</p>\n   <p>- Đã được khâu đế, độ bền cao</p>\n   <p>- Giày ôm sát chân, đi lại, chạy đá thoải mái nhẹ nhà</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 6356,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Sezi",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 8214
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 6301
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 3073
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 300000,
+                "sku_stock": 1853
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Wika Army Nâu mẫu giày đá banh thể thao Hot chưa từng Hot",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/5b/85/13/46379e6f1452cecf170d0ddb33bcc5b1.jpg",
+            "https://salt.tikicdn.com/ts/product/50/5a/dd/7e4d6a4b0a4cd2032940c1250a22ea59.jpg",
+            "https://salt.tikicdn.com/ts/product/1f/5b/a1/6202e61c036a281bdd17a5530cf5b930.jpg",
+            "https://salt.tikicdn.com/ts/product/3a/de/77/eef4ff46da2e577fa15f900827ba62dd.jpg",
+            "https://salt.tikicdn.com/ts/product/22/96/74/23d32613ff6bc5b42bd55a50ac4d9912.jpg"
+        ],
+        "product_description": "\n  <p>️Giày đã khâu toàn bộ đế cực kỳ chắc chắn</p>\n   <p>️ Đinh dăm bám sân tránh trơn trượt ngay cả khi trời mưa</p>\n   <p>️ Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>️ Chất liệu da công nghiệp</p>\n   <p>️Đường kim mũi chỉ sắc nét</p>\n   <p>️ Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>️ Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 2510,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 9266
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 300000,
+                "sku_stock": 5868
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 300000,
+                "sku_stock": 5285
+            }
+        ]
+    },
+    {
+        "product_shop": "227606",
+        "product_name": "Giày bóng đá thể thao Wika Hunter 2 đẳng cấp phủi chính hãng 2022",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/04/03/f9/6fc671569d4ed94e4fd5cf50e1aba776.jpg",
+            "https://salt.tikicdn.com/ts/product/a0/c0/8c/5378b1a87fa2705db11a99b7f903c616.jpg",
+            "https://salt.tikicdn.com/ts/product/35/b2/e8/fe1789e4eb4527cd043a2fcd655dded4.jpg",
+            "https://salt.tikicdn.com/ts/product/1b/9f/50/72f272272991b006d093483b096d6de2.jpg",
+            "https://salt.tikicdn.com/ts/product/37/2c/47/d951bb787fae788d94f1933af885e4d8.jpg",
+            "https://salt.tikicdn.com/ts/product/a4/6c/d0/b50afcf7a957d9d2492de5ea31a0ed6b.jpg",
+            "https://salt.tikicdn.com/ts/product/d0/c1/99/78a78dbfffd8873d75c9ebb45c497120.jpg",
+            "https://salt.tikicdn.com/ts/product/83/6d/2b/fc9cfa9d1e71061adc0e5accbf0adade.jpg",
+            "https://salt.tikicdn.com/ts/product/4e/2a/15/cb5c53516f86125c4770f9eb13967e2e.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Giày bóng đá phủi chính hãng Wika Hunter II 2022</p>\n   <p>- Thân giày chất liệu da Microfiber cao cấp, độ bền cao.</p>\n   <p>- Đế TF chất liệu cao su cao cấp với độ bám tốt và chống trơn trượt trên sân.</p>\n   <p>- Phần lưỡi gà liền có độ mỏng vừa phải giúp tăng cảm giác bóng, hỗ trợ xử lý bóng tốt hơn.</p>\n   <p>- Cổ giày thấp cố định cổ chân. Trọng lượng giày được giảm thiểu hơn so với phiên bản tiền nhiệm.</p>\n   <p>ĐIỂM NỔI BẬT CỦA HUNTER II</p>\n   <p>- Họa tiết và các đường vân sắc nét, mềm mại. In phủ theo công nghệ độc quyền từ Wika mang đến tổng thể màu sắc tinh tế, bắt mắt.</p>\n   <p>- Vân nổi dọc theo thân giày giúp tăng khả năng kiểm soát bóng.</p>\n   <p>- Form giày thiết kế riêng phù hợp với bàn chân người Việt</p>\n   <p>- Size : 39 - 43</p>\n   <p>- Sản phẩm có nhiều màu</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 528000,
+        "product_quantity": 5050,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Cam",
+                    "Trắng",
+                    "Xanh",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 528000,
+                "sku_stock": 3638
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 528000,
+                "sku_stock": 2210
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 528000,
+                "sku_stock": 3416
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 528000,
+                "sku_stock": 9459
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 528000,
+                "sku_stock": 9604
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 528000,
+                "sku_stock": 2697
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 528000,
+                "sku_stock": 1926
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 528000,
+                "sku_stock": 8818
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 528000,
+                "sku_stock": 8591
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 528000,
+                "sku_stock": 4491
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 528000,
+                "sku_stock": 3024
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 528000,
+                "sku_stock": 2310
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 528000,
+                "sku_stock": 9133
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 528000,
+                "sku_stock": 2803
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    4
+                ],
+                "sku_price": 528000,
+                "sku_stock": 7275
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 528000,
+                "sku_stock": 3074
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 528000,
+                "sku_stock": 1454
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 528000,
+                "sku_stock": 1495
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 528000,
+                "sku_stock": 3792
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    4
+                ],
+                "sku_price": 528000,
+                "sku_stock": 7352
+            }
+        ]
+    },
+    {
+        "product_shop": "227606",
+        "product_name": "Mẫu giày đá banh 3 sọc Wika sân phủi, sân cỏ tự nhiên siêu rẻ (trắng)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/15/54/9d/a36a33d8959a1d3246d8a0090b4f051a.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/5c/d3/1ff7ffe5fa36070ce78a4dbc24c5c1f4.jpg",
+            "https://salt.tikicdn.com/ts/product/04/57/46/8bb32bcbb90ebe3960338a2068863ea8.jpg",
+            "https://salt.tikicdn.com/ts/product/08/e8/01/35165ec6492bd33dea9bc5d459e51c75.jpg",
+            "https://salt.tikicdn.com/ts/product/4e/e1/0f/4b7a73734191ecf261ce0173ee9ff5c7.jpg"
+        ],
+        "product_description": "\n  <p> Chất liệu da Công nghiệp xịn</p>\n   <p> Siêu nhẹ, ôm chân</p>\n   <p> Cảm giác bóng tốt</p>\n   <p> Đã khâu full đế</p>\n   <p> Không cần bàn nhiều, đủ size từ 39 - 43</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 187000,
+        "product_quantity": 3106,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 187000,
+                "sku_stock": 8468
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 187000,
+                "sku_stock": 7201
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 187000,
+                "sku_stock": 7603
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 187000,
+                "sku_stock": 9997
+            }
+        ]
+    },
+    {
+        "product_shop": "227606",
+        "product_name": "Giày thể thao đá banh chất lượng cao chính hãng Wika Army 2022 đỏ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/f5/c9/c7/ea03748dbeeed06aa1fe8efd2d7c7ee6.jpg",
+            "https://salt.tikicdn.com/ts/product/3b/ca/26/fa722acb4a19cb95a3c722a5ea44b90a.jpg",
+            "https://salt.tikicdn.com/ts/product/16/f4/c9/d8bb5aaefa3115dc21a7da0af610a807.jpg",
+            "https://salt.tikicdn.com/ts/product/7c/2e/9c/d1dd77adbd37832835458bed148e33e0.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Đinh dăm bám sân tránh trơn trượt ngay cả khi trời mưa</p>\n   <p>- Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>- Chất liệu da công nhiệp</p>\n   <p>- Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>- Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n   <p>- Chất liệu nhẹ,đi lại, chạy đá thoải mái nhẹ nhà</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 325000,
+        "product_quantity": 2924,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 325000,
+                "sku_stock": 2693
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 325000,
+                "sku_stock": 1532
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 325000,
+                "sku_stock": 5567
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 325000,
+                "sku_stock": 8623
+            }
+        ]
+    },
+    {
+        "product_shop": "227606",
+        "product_name": "Giày đá banh Wika Army thiết kế mới cổ chun êm mền độ co dãn cao giúp ôm sát cổ chân",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6b/6b/26/293df3de02bb4db9783b265545ccbb94.jpg",
+            "https://salt.tikicdn.com/ts/product/33/51/76/b2592074d919577555ae6078d43da886.jpg",
+            "https://salt.tikicdn.com/ts/product/75/9b/20/6591f9ea89cb63c5bb0250c119fd1bd3.jpg",
+            "https://salt.tikicdn.com/ts/product/ab/20/8b/371b9d5c0f6390948fe262936cf5b9e9.jpg",
+            "https://salt.tikicdn.com/ts/product/06/20/54/1ac61072284e408a43062d7a2ab364a6.jpg",
+            "https://salt.tikicdn.com/ts/product/dc/5f/46/78680213a2ae35f7cd7e8a12219d7dd9.jpg",
+            "https://salt.tikicdn.com/ts/product/b1/67/e6/d212065c9a644a7ed6bbea77444e0663.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Thiết kế hiện đại, nhiều màu sắc</p>\n   <p>Chất liệu da PU mềm, cao cấp chống nước</p>\n   <p>Vãi lót nhung êm thấm hút tốt không để lại mùi hôi</p>\n   <p>Kiểu dáng thể thao năng động, mạnh mẽ</p>\n   <p>Có trọng lượng nhẹ, gọn gàng, ôm chân, tạo cảm giác tốt</p>\n   <p>Thiết kế ôm sát chân với mũi giày, form dáng phù hợp với mọi loại chân</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 330000,
+        "product_quantity": 7312,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 330000,
+                "sku_stock": 5114
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 330000,
+                "sku_stock": 4419
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 330000,
+                "sku_stock": 5778
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 330000,
+                "sku_stock": 5710
+            }
+        ]
+    },
+    {
+        "product_shop": "266541",
+        "product_name": "Cặp giày đá bóng sân cỏ nhân tạo 3 sọc chính hãng Wika Đen",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a9/bf/06/52e814538ba31cc4028c911e77f6a64f.jpg",
+            "https://salt.tikicdn.com/ts/product/17/d6/b2/cfb9feb6015731d4462e31cff35f0d6b.jpg",
+            "https://salt.tikicdn.com/ts/product/b2/25/56/743f2a765896f2c335d6f4d7f1de64a2.jpg",
+            "https://salt.tikicdn.com/ts/product/21/51/34/206adf0c97e2f9bf32ec0e4deabddbc0.jpg"
+        ],
+        "product_description": "\n  <p>Mẫu 3 sọc mang lại cảm giác bóng thực chân nhất, bám sân tốt và ôm chân</p>\n   <p>️Khâu Full Đế Có Hộp</p>\n   <p>️Khâu chìm chống va chạm đứt chỉ bung đế</p>\n   <p>️Form chân bè, thon đều dùng được</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 145000,
+        "product_quantity": 2197,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 145000,
+                "sku_stock": 5336
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 145000,
+                "sku_stock": 7601
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 145000,
+                "sku_stock": 1241
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 145000,
+                "sku_stock": 2443
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 145000,
+                "sku_stock": 7503
+            }
+        ]
+    },
+    {
+        "product_shop": "227606",
+        "product_name": "- Giày Wika Army bóng đá chính hãng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/63/e5/5a/d5862496ab7f56f70dcd673e0796c39d.jpg",
+            "https://salt.tikicdn.com/ts/product/bc/f1/47/173c6ea5285dce254551161a245efcd7.jpg",
+            "https://salt.tikicdn.com/ts/product/39/09/67/9bf2f3e3100bf5004fe4350de5e1997d.jpg",
+            "https://salt.tikicdn.com/ts/product/3c/10/a0/4a10302a86d4a9969fb26b3885c38d0b.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>- Chất liệu da công nhiệp</p>\n   <p>- Đường kim mũi chỉ sắc nét</p>\n   <p>- Tiếp xúc bóng tốt</p>\n   <p>- Đã được khâu đế, độ bền cao</p>\n   <p>- Giày ôm sát chân, đi lại, chạy đá thoải mái nhẹ nhà</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 330000,
+        "product_quantity": 5774,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 330000,
+                "sku_stock": 4144
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 330000,
+                "sku_stock": 1615
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 330000,
+                "sku_stock": 1025
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 330000,
+                "sku_stock": 2483
+            }
+        ]
+    },
+    {
+        "product_shop": "227606",
+        "product_name": "Giày bóng đá thể thao Wika Army xanh",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/63/e5/5a/fafe4a8e17b5a808bbaa8ac9914c20a8.jpg",
+            "https://salt.tikicdn.com/ts/product/39/09/67/9324a8493f6535d8ba78c237b10925f3.jpg",
+            "https://salt.tikicdn.com/ts/product/bc/f1/47/83d081ccbd3f4177414f02f3f53f5040.jpg",
+            "https://salt.tikicdn.com/ts/product/3c/10/a0/1551939f91b82f7812b66e60b5a01c4e.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>️Giày đã khâu toàn bộ đế cực kỳ chắc chắn</p>\n   <p>️Cổ giày dạng cổ chun, linh hoạt, ôm sát phía sau gót chân, tạo cảm giác thoải mái, ko đa</p>\n   <p>️ Đinh dăm bám sân tránh trơn trượt ngay cả khi trời mưa</p>\n   <p>️ Lót giầy êm ái giúp cố định chân tốt</p>\n   <p>️ Chất liệu da công nhiệp</p>\n   <p>️Đường kim mũi chỉ sắc nét</p>\n   <p>️ Tiếp xúc bóng tốt, đã được khâu đế</p>\n   <p>️ Form ôm chân, độ bền cao, đế mềm - dẻo - đinh dăm bám sân giúp bé thoải mái vận động.</p>\n   <p>️ Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 330000,
+        "product_quantity": 2490,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Wika",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 330000,
+                "sku_stock": 6532
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 330000,
+                "sku_stock": 1394
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 330000,
+                "sku_stock": 5495
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 330000,
+                "sku_stock": 3695
+            }
+        ]
+    },
+    {
+        "product_shop": "107100",
+        "product_name": "Giày Cầu Lông CL005",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/cc/5e/99/e7e75d4fad004fe634b8fe2595087363.png",
+            "https://salt.tikicdn.com/ts/product/78/90/10/17e8f3ed28650fe06546a8a340aaa530.png",
+            "https://salt.tikicdn.com/ts/product/5e/1c/92/5abe91533a37df2479fd4faeb431ccba.jpg"
+        ],
+        "product_description": "<ul>\n<li><span style=\"color: #0000ff;\">Đế cao su tổng hợp bền và bám sàn tốt</span></li>\n<li><span style=\"color: #0000ff;\">Đế giữa chất liệu Phylon êm chân và bảo vệ chân</span></li>\n<li><span style=\"color: #0000ff;\">Da PU và vải mesh giúp giày nhẹ và thoáng khí</span></li>\n<li><span style=\"color: #0000ff;\">Cực nhẹ, êm và khớp bàn chân dưới giúp thoải mái di chuyển</span></li>\n<li><span style=\"color: #0000ff;\">Cổ giày ôm khít tạo cảm giác an toàn khi di chuyển</span></li>\n<li><span style=\"color: #0000ff;\">Vải lót bên trong cực êm và thoáng khí, hút mồ hôi cực tốt trong vận động kéo dài</span></li>\n<li><span style=\"color: #0000ff;\">Thiết kế tiêu chuẩn cho ngươi chơi Cầu Lông</span></li>\n<li><span style=\"color: #0000ff;\">Phong cách thể thao gọn nhẹ, thích hợp với các bạn trẻ năng động, khỏe khoắn, cá tính, phù hợp với mọi địa hình di chuyển.</span></li>\n<li><span style=\"color: #0000ff;\">Chất liệu đế cao su mềm, có thể uốn cong mà không bị gãy mép.</span></li>\n<li><span style=\"color: #0000ff;\">Đế giày với các lớp cao su có độ đàn hồi cao, các đường rãnh ma sát được xẻ và bố trí dưới mặt đế một cách khoa học, giúp giày luôn êm ái khi sử dụng và không bị vướng, mắc các loại rác, sỏi, đá khi sử dụng.</span></li>\n<li><span style=\"color: #0000ff;\">Giày có khả năng chống trơn, chịu mài mòn tốt, thoáng khí, nhanh khô</span></li>\n<li><span style=\"color: #0000ff;\">Tăng thêm chiều cao</span></li>\n</ul>\n<p><span style=\"color: #0000ff;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/9e/0b/fe/74e3a44e285d4427ae051161bd05caa2.jpg\" alt=\"\" width=\"720\" height=\"720\" /><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/62/07/1b/c0235b1df1950e99a4e4e5d6dd66965b.jpg\" alt=\"\" width=\"720\" height=\"627\" /><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/07/79/5c/86b22000ee3a2f47022adbc99456e30c.jpg\" alt=\"\" width=\"720\" height=\"720\" /><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/bc/24/dc/9604a22bf5005e8348003b72b5a8e2ed.jpg\" alt=\"\" width=\"720\" height=\"720\" /></span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 284000,
+        "product_quantity": 5234,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Chí Phèo",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Trắng xanh",
+                    "Trắng đỏ"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "38",
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 284000,
+                "sku_stock": 5248
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 284000,
+                "sku_stock": 9494
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 284000,
+                "sku_stock": 5319
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 284000,
+                "sku_stock": 8873
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 284000,
+                "sku_stock": 2023
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 284000,
+                "sku_stock": 4310
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 284000,
+                "sku_stock": 1568
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 284000,
+                "sku_stock": 8254
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 284000,
+                "sku_stock": 1643
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 284000,
+                "sku_stock": 4209
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 284000,
+                "sku_stock": 7897
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    5
+                ],
+                "sku_price": 284000,
+                "sku_stock": 8273
+            }
+        ]
+    },
+    {
+        "product_shop": "107100",
+        "product_name": "Giày Đá Banh Sân Cỏ Nhân Tạo Mẫu Mới Cổ Cao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b4/16/df/2b3da150c16e09aa6a20e4b09fc99919.jpg",
+            "https://salt.tikicdn.com/ts/product/1d/3f/27/55d11d2c7803238e3a3bae763b5a40b9.jpg",
+            "https://salt.tikicdn.com/ts/product/66/05/1e/983dc8a5bb3645d4a1479d10d31acef8.jpg",
+            "https://salt.tikicdn.com/ts/product/ae/f6/a4/a3b9e218e42c106870a147d2fbf0557b.jpg",
+            "https://salt.tikicdn.com/ts/product/a2/c8/5d/7167bd5c36fcc8f230882de716e36f17.jpg"
+        ],
+        "product_description": "<p><span style=\"color: #0000ff;\">Giày Đá Bóng Cổ Thun Mới Nhất</span><br /><span style=\"color: #0000ff;\">Upper: Simili</span><br /><span style=\"color: #0000ff;\">Sole : chất liệu Cao su tổng hợp</span><br /><span style=\"color: #0000ff;\">Size: 38 - 43</span><br /><span style=\"color: #0000ff;\">Màu: Xanh bích</span><br /><span style=\"color: #0000ff;\">Sản xuất : Việt nam</span></p>\n<ul>\n<li><span style=\"color: #0000ff;\">Form giày đá bóng sân lớn chuẩn ôm sát chân tạo cảm giác bóng tốt, làm tăng khả năng xử lý bóng, đồng thời giúp cho việc kiểm soát bóng của bạn trở nên dễ dàng hơn</span></li>\n<li><span style=\"color: #0000ff;\">Giày đá banh sân cỏ nhân tạo cổ cao cho độ bám sàn tốt cũng như có độ bền cùng độ dẻo dai cao, là chọn lựa lý tưởng của những bạn nam yêu thích thể thao. Đặc biệt, thiết kế chủ đạo màu vàng nổi bật, bắt mắt cùng logo ấn tượng, làm toát lên phong cách mạnh mẽ của cầu thủ sân cỏ. </span></li>\n<li><span style=\"color: #0000ff;\">Thân giày đá banh cỏ nhân tạo được làm từ simili, bề mặt được may đệm lớp da 2 bên để tăng sức chịu lực cho đôi giày, chống thấm nước dễ dàng sử dụng trong thời tiết ẩm ướt không lo tuổi thọ của giày. </span></li>\n<li><span style=\"color: #0000ff;\">Màu xanh bích chủ đạo cho sự kết hợp hài hòa và tinh tế cho đôi giày đá bóng cổ cao</span></li>\n<li><span style=\"color: #0000ff;\">Đế giày được thiết kế nhựa dẻo mềm được và rất chắc chắn, thích ứng với sân cỏ nhân tạo.</span></li>\n<li><span style=\"color: #0000ff;\">Phần lõi trong đôi giày đá banh sân 5 người là lớp vải mềm giúp thấm hút mồ hôi và tạo sự thông thoáng cho đôi chân, không gây mùi khó chịu</span></li>\n</ul>\n<p><span style=\"color: #0000ff;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/ae/f6/a4/11260f773066b3951e41962e3eac6a23.jpg\" alt=\"\" width=\"750\" height=\"562\" /><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/66/05/1e/09d4179f599e318cdccfd88607b1ee3b.jpg\" alt=\"\" width=\"750\" height=\"562\" /><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/0d/32/7d/dcfe9e6edfe54a0ce8c44d55ab3a21dc.jpg\" alt=\"\" width=\"750\" height=\"562\" /><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/1d/3f/27/4a3ad5b9257202d39cb1c334bdee21ff.jpg\" alt=\"\" width=\"750\" height=\"562\" /><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/a2/c8/5d/86a1f31681fe65eaeab2a19999a2c872.jpg\" alt=\"\" width=\"750\" height=\"562\" /></span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 320000,
+        "product_quantity": 3378,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Chí Phèo",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "38",
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 320000,
+                "sku_stock": 7738
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 320000,
+                "sku_stock": 4648
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 320000,
+                "sku_stock": 3538
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 320000,
+                "sku_stock": 3634
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 320000,
+                "sku_stock": 4364
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 320000,
+                "sku_stock": 3134
+            }
+        ]
+    },
+    {
+        "product_shop": "107100",
+        "product_name": "Giày Đá Bóng Nam Sân Cỏ Nhân Tạo Đã Khâu Full Đế",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ac/21/1d/520bc635d8bfb170a95ac68f1dcc505e.jpg",
+            "https://salt.tikicdn.com/ts/product/d9/0c/03/63455da97e6e23791e45f75523bb0294.jpg",
+            "https://salt.tikicdn.com/ts/product/78/55/6a/0ab007eeb90a22bb513589afc990d467.jpg",
+            "https://salt.tikicdn.com/ts/product/df/c8/03/5b8220f1d0101e4641847322d6f3fe80.jpg"
+        ],
+        "product_description": "<p><span style=\"color: #0000ff;\">Màu đỏ kết hợp đen độc đáo</span><br /><span style=\"color: #0000ff;\">Chất liệu cao su thiên nhiên cùng da nhân tạo cao cấp</span><br /><span style=\"color: #0000ff;\">Giày có độ ma sát nhạy</span><br /><span style=\"color: #0000ff;\">Màu sắc nổi bật, bắt mắt</span><br /><span style=\"color: #0000ff;\">Form giày ôm vừa chân mềm mại, thoải mái</span></p>\n<ul>\n<li><span style=\"color: #0000ff;\">Giày Đá Bóng Sân Cỏ Nhân Tạo Chí Phèo 134Clà sự kết hợp của màu đỏ và đen nổi bật, cùng chất liệu cao su cao cấp, bề mặt bằng da nhân tạo cho độ bám tốt cũng như có độ bền cùng độ dẻo dai cao, là chọn lựa lý tưởng của những bạn nam yêu thích thể thao</span></li>\n<li><span style=\"color: #0000ff;\">Thân giày được làm từ da PU cao cấp, bề mặt bóng chống bám bẩn, chống thấm nước. Bên cạnh đó, lớp da của phần upper được tráng một lớp firm mỏng giúp bảo vệ phần da giày tốt hơn.</span></li>\n<li><span style=\"color: #0000ff;\">Đế giày được may toàn bộ quanh mũi giày và gót nên rất chắc chắn đạt chuẩn một đôi giày đá banh sân cỏ nhân tạo.</span></li>\n<li><span style=\"color: #0000ff;\">Giày được thiết kế dành riêng cho bề mặt sân cỏ nhân tạo với các khối đinh dăm hình tam giác có độ cao vừa phải, tránh trơn trượt, đồng thời hỗ trợ tuyệt vời cho những pha xử lý bóng bằng gầm giày, những cú ngoặt bóng siêu nhanh.</span></li>\n<li><span style=\"color: #0000ff;\">Phần lõi trong là lớp vải mềm giúp thấm hút mồ hôi và tạo sự thông thoáng cho đôi chân, không gây mùi khó chịu khi sử dụng. </span></li>\n<li><span style=\"color: #0000ff;\">Chất liệu cao su thiên nhiên tạo sự đàn hồi nhất định cho đôi giày, mang đến cảm giác êm ái, thoải mái khi sử dụng sản phẩm. Form giày chuẩn giày đá bóng việt nam ôm sát chân tạo cảm giác bóng tốt, làm tăng khả năng xử lý bóng, đồng thời giúp cho việc kiểm soát bóng của bạn trở nên dễ dàng hơn.</span></li>\n</ul>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/bf/9e/bf/d219247384f253c7d18e1e974561ef0b.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/bf/9e/bf/d219247384f253c7d18e1e974561ef0b.jpg\" alt=\"\" width=\"750\" height=\"562\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/d9/0c/03/7755b8199008cde853456274fb5b7bae.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/d9/0c/03/7755b8199008cde853456274fb5b7bae.jpg\" alt=\"\" width=\"750\" height=\"562\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/78/55/6a/3e5b8c9aff1bde15b3ff069767791cd0.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/78/55/6a/3e5b8c9aff1bde15b3ff069767791cd0.jpg\" alt=\"\" width=\"750\" height=\"562\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/df/c8/03/8ab0e40825036478dec9609deebcda90.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/df/c8/03/8ab0e40825036478dec9609deebcda90.jpg\" alt=\"\" width=\"750\" height=\"562\" /></p>\n<p><span style=\"color: #ff0000;\"><strong>Hướng dẫn chọn size:</strong></span></p>\n<p><strong><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://vcdn.tikicdn.com/ts/tmp/1d/e8/7f/6923f95f1b372d0980ba21ef322daeff.GIF\" alt=\"Giày Đá Bóng Chí Phèo 124C - Đen Bích\" width=\"574\" height=\"135\" /></strong></p>\n<p><span style=\"color: #ff0000;\"><em><strong>Hướng dẫn bảo quản giày:</strong></em></span></p>\n<ul>\n<li><span style=\"color: #ff0000;\">Định kỳ vệ sinh giày.</span></li>\n<li><span style=\"color: #ff0000;\">Khi giày bẩn nên dùng vải sạch thấm nước xà bông lau nhẹ nhàng, không dùng bàn chải để chà, không sử dụng thuốc tẩy để giặt.</span></li>\n<li><span style=\"color: #ff0000;\">Tránh nhét tất (vớ) vào trong giày. Vì sẽ để lại mùi hôi cho đôi giày. Mùi hôi đó sẽ thấm vào đôi tất (vớ) mới đồng thời làm giày cũ hơn so với bình thường.</span></li>\n<li><span style=\"color: #ff0000;\">Tránh để nước thấm vào giày. Nếu giày bị thấm nước nên nhét giấy báo vào trong giày để nước thấm vào trong giấy.</span></li>\n<li><span style=\"color: #ff0000;\">Phơi giày nơi khô ráo và thoáng mát không phơi giày dưới ánh nắng trực tiếp. Khi sử dụng, tránh tiếp xúc đế giày với dầu khí và các loại chất dễ gây thoái hóa, khi bị dính nên rửa ngay bằng nước sạch.</span></li>\n<li><span style=\"color: #ff0000;\">Cũng nên tránh để giày tiếp xúc với hóa chất và vật nhọn. Dây giày không nên thắt quá chặt. Trong thời gian dài không mang, nên vệ sinh giày sạch sẽ, lấy miếng lót giày ra, phơi nơi khô thoáng và gói giày lại bằng giấy.</span></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 323000,
+        "product_quantity": 9388,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Chí Phèo",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "38",
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 323000,
+                "sku_stock": 5638
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 323000,
+                "sku_stock": 2608
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 323000,
+                "sku_stock": 9190
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 323000,
+                "sku_stock": 9247
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 323000,
+                "sku_stock": 6554
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 323000,
+                "sku_stock": 8862
+            }
+        ]
+    },
+    {
+        "product_shop": "88107",
+        "product_name": "GIÀY ĐÁ BÓNG SÂN CỎ NHÂN TẠO 13C ĐỎ ĐÃ MAY ĐẾ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/96/c8/b4/a796c1d58865ee0424457a6b9e42b4ff.jpg",
+            "https://salt.tikicdn.com/ts/product/7c/a0/d4/788e861a247a87c06f0caca80ba1d0a3.jpg",
+            "https://salt.tikicdn.com/ts/product/46/fe/20/d4629ef6550b1bd555895dc846b5a625.jpg",
+            "https://salt.tikicdn.com/ts/product/d3/0d/a1/cadff9b6fc2c62278480a8cb5bbb9886.jpg",
+            "https://salt.tikicdn.com/ts/product/00/2a/18/8149b0a57908a61eeb28a655278be57e.jpg",
+            "https://salt.tikicdn.com/ts/product/e4/24/2d/2a3ad044b106b21397c6b7849cf99880.jpg",
+            "https://salt.tikicdn.com/ts/product/16/9d/75/9914ca6e7976c9ccc49edcbd4c49d8d4.jpg",
+            "https://salt.tikicdn.com/ts/product/90/03/08/a1cfad1ff1fbdd270a735301911130a3.jpg",
+            "https://salt.tikicdn.com/ts/product/77/23/71/be396332acf9af47f21578752dbf42bc.jpg"
+        ],
+        "product_description": "<p><span style=\"font-size: 14pt; color: #0000ff;\">Đế giày  được thiết kế nhựa PVC được đóng đinh trợ lực ở gầm giày và gót nên rất chắc chắn, thích ứng với sân cỏ nhân tạo. </span></p>\n<p><span style=\"font-size: 14pt; color: #0000ff;\">Giày thiết kế dành riêng cho bề mặt sân cỏ nhân tạo với các khối đinh nhỏ hình tam giác có độ cao vừa phải, tránh trơn trượt ngay cả khi bạn chạy trên sân cỏ nhân tạo, đồng thời hỗ trợ tuyệt vời cho những pha xử lý bóng bằng gầm giày, những cú ngoặt bóng siêu nhanh.</span></p>\n<p><span style=\"font-size: 14pt; color: #0000ff;\">Thân giày được làm từ da PU cao cấp, bề mặt bóng chống bám bẩn, chống thấm nước dễ dàng sử dụng trong thời tiết ẩm ướt không lo tuổi thọ của giày.</span></p>\n<p><span style=\"font-size: 14pt; color: #0000ff;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/4d/1e/9f/699ffa9d3d234e1300dd65fc59a5f8f8.jpg\" alt=\"\" width=\"750\" height=\"562\" /></span></p>\n<p><span style=\"font-size: 14pt; color: #0000ff;\"> Bên cạnh đó, lớp da của phần upper được tráng một lớp firm mỏng giúp bảo vệ phần da giày tốt hơn.</span></p>\n<p><span style=\"font-size: 14pt; color: #0000ff;\">Màu: Đen đỏ</span></p>\n<p><span style=\"font-size: 14pt; color: #0000ff;\">Size: 38 đến 43</span></p>\n<p><span style=\"font-size: 14pt; color: #0000ff;\">Hình do shop tự chụp không qua bất kì chỉnh sửa nào</span></p>\n<p><span style=\"font-size: 14pt; color: #0000ff;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/7c/a0/d4/e5d242278b91adae5e3d45c3e2eac60e.jpg\" alt=\"\" width=\"750\" height=\"562\" /></span></p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 245000,
+        "product_quantity": 3847,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Chí Phèo",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "<p>Cao su tổng hợp, PU</p>",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "38",
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 245000,
+                "sku_stock": 2404
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 245000,
+                "sku_stock": 6725
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 245000,
+                "sku_stock": 5607
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 245000,
+                "sku_stock": 7580
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 245000,
+                "sku_stock": 5744
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 245000,
+                "sku_stock": 4512
+            }
+        ]
+    },
+    {
+        "product_shop": "44059",
+        "product_name": "Giày Đá Bóng Đinh Nhỏ Dành Riêng Cho Sân Cỏ Nhân Tạo",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b4/12/c3/4487ff1b6dd110196d8608970f6d98f5.jpg",
+            "https://salt.tikicdn.com/ts/product/05/21/4a/c98ff82ba91b2d4a639e9ad874b13692.jpg",
+            "https://salt.tikicdn.com/ts/product/f7/40/ae/8c9016ab6dd7e058a6da9f7946144865.jpg"
+        ],
+        "product_description": "<p><span style=\"color: #0000ff;\">Giày Đá Banh Tự Nhiên 044CDSD - Đen cho độ bám sàn tốt cũng như có độ bền cùng độ dẻo dai cao, là chọn lựa lý tưởng của những bạn nam yêu thích thể thao. Đặc biệt, thiết kế chủ đạo màu cà rốt nổi bật, bắt mắt cùng logo ấn tượng, làm toát lên phong cách mạnh mẽ của cầu thủ sân cỏ. </span></p>\n<p><strong><span style=\"color: #0000ff;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/19/af/10/f0f5f7eaa537afe754196a898999594a.jpg\" alt=\"\" width=\"750\" height=\"750\" /></span></strong></p>\n<p><span style=\"color: #0000ff;\">Thân giày đá bóng cỏ nhân tạo được làm từ da cao cấp mềm, mũi giày đươc thiết kế bầu để sút bằng mũi không bị đau ngón chân, bề mặt bóng chống bám bẩn, chống thấm nước dễ dàng sử dụng trong thời tiết ẩm ướt không lo tuổi thọ của giày. Bên cạnh đó, lớp da của phần upper được tráng một lớp firm mỏng giúp bảo vệ phần da giày tốt hơn.</span></p>\n<p><span style=\"color: #0000ff;\">Màu Đden chủ đạo điểm xuyết là các đường sọc mạnh mẽ màu đỏ nổi bật vô cùng thời trang. </span></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/6a/c6/5d/67c214ac92748a8aff3a3a71d1bb00c8.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><span style=\"color: #0000ff;\">Giày thiết kế dành riêng cho bề mặt sân cỏ nhân tạo với các khối đinh lớn hình tam giác có độ cao vừa phải, tránh trơn trượt ngay cả khi bạn chạy trên sân cỏ nhân tạo đồng thời hỗ trợ tuyệt vời cho những pha xử lý bóng bằng gầm giày, những cú ngoặt bóng siêu nhanh.</span></p>\n<p><span style=\"color: #0000ff;\">Phần lõi trong đôi giày đá banh tự nhiên là lớp vải mềm giúp thấm hút mồ hôi và tạo sự thông thoáng cho đôi chân, không gây mùi khó chịu khi sử dụng. </span></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/f7/40/ae/d025fd68d36d285580e465b0f457d6a2.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><span style=\"color: #0000ff;\">Chất liệu cao su và da PU được tráng firm mỏng chống bẩn tạo nên đôi giày đá banh sân cỏ chắc chắn và cực chất, mang đến cảm giác êm ái, thoải mái khi sử dụng sản phẩm. </span></p>\n<p><span style=\"color: #0000ff;\">Form giày đá bóng chuẩn ôm sát chân tạo cảm giác bóng tốt, làm tăng khả năng xử lý bóng, đồng thời giúp cho việc kiểm soát bóng của bạn trở nên dễ dàng hơn.</span></p>\n<p><span style=\"color: #0000ff;\">Logo Chí Phèo nổi bật ở gót giày, thân và đế giày là sự khẳng định về đẳng cấp và thương hiệu.</span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 235000,
+        "product_quantity": 2247,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Chí Phèo",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Vàng",
+                    "Đen Xanh",
+                    "Đen Đỏ"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 235000,
+                "sku_stock": 3317
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 235000,
+                "sku_stock": 1688
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 235000,
+                "sku_stock": 5084
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 235000,
+                "sku_stock": 1941
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 235000,
+                "sku_stock": 4512
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 235000,
+                "sku_stock": 4064
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 235000,
+                "sku_stock": 6553
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 235000,
+                "sku_stock": 6791
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 235000,
+                "sku_stock": 9425
+            }
+        ]
+    },
+    {
+        "product_shop": "44059",
+        "product_name": "Giày Đá Bóng Vàng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/73/b9/f9/9bb06586ec6163f32db5e3aa96645de7.jpeg",
+            "https://salt.tikicdn.com/ts/product/1e/e0/15/df7504ef9b4b404f6d384dbce32b4a4f.jpeg",
+            "https://salt.tikicdn.com/ts/product/64/71/c4/6dbea07181faaed3f3d805a9da391cd5.jpeg"
+        ],
+        "product_description": "<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 13px; text-align: justify;\"><span style=\"box-sizing: border-box; font-family: Roboto, Helvetica, Arial, sans-senif; font-size: 12px; color: #0000ff;\">Giày đá bóng sân cỏ nhân tạo cổ cao 044CNV cho độ bám sàn tốt cũng như có độ bền cùng độ dẻo dai cao, là chọn lựa lý tưởng của những bạn nam yêu thích thể thao. Đặc biệt, thiết kế chủ đạo màu xanh dương nổi bật, bắt mắt cùng logo ấn tượng, làm toát lên phong cách mạnh mẽ của cầu thủ sân cỏ. </span><br style=\"box-sizing: border-box; padding: 0px; margin: 0px; border: 0px; font-family: Roboto, Helvetica, Arial, sans-senif; font-size: 12px;\" /><span style=\"box-sizing: border-box; font-family: Roboto, Helvetica, Arial, sans-senif; font-size: 12px; color: #0000ff;\">Thân giày đá banh cỏ nhân tạo được làm từ da PU cao cấp, bề mặt da nhám cho độ bám banh và cảm giác bóng tốt hơn. Bên cạnh đó, lớp da được may nhiều đường chỉ tỉ mỉ và dày hơn cho độ cứng cáp và chịu lực của da cao hơn.</span><br style=\"box-sizing: border-box; padding: 0px; margin: 0px; border: 0px; font-family: Roboto, Helvetica, Arial, sans-senif; font-size: 12px;\" /><span style=\"box-sizing: border-box; font-family: Roboto, Helvetica, Arial, sans-senif; font-size: 12px; color: #0000ff;\">Màu vàng chủ đạo điểm xuyết là các đường sọc mạnh mẽ màu cam với kiểu dáng lạ và nổi bật.</span></p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 13px; text-align: justify;\"><span style=\"box-sizing: border-box; font-family: Roboto, Helvetica, Arial, sans-senif; font-size: 12px; color: #0000ff;\">Đế giày được thiết kế với chất liệu cao su tổng hợp được may toàn bộ đế rất tỉ mỉ nên rất chắc chắn, thích ứng với sân cỏ nhân tạo và sân trong nhà. Giày thiết kế dành riêng cho bề mặt sân cỏ nhân tạo với các khối đinh nhỏ hình tam giác có độ cao vừa phải, tránh trơn trượt ngay cả khi bạn chạy trên sân cỏ tự nhiên; đồng thời hỗ trợ tuyệt vời cho những pha xử lý bóng bằng gầm giày, những cú ngoặt bóng siêu nhanh.</span><br style=\"box-sizing: border-box; padding: 0px; margin: 0px; border: 0px; font-family: Roboto, Helvetica, Arial, sans-senif; font-size: 12px;\" /><span style=\"box-sizing: border-box; font-family: Roboto, Helvetica, Arial, sans-senif; font-size: 12px; color: #0000ff;\">Phần lõi trong đôi giày đá banh sân 11 người là lớp vải mềm giúp thấm hút mồ hôi và tạo sự thông thoáng cho đôi chân, không gây mùi khó chịu khi sử dụng. </span><br style=\"box-sizing: border-box; padding: 0px; margin: 0px; border: 0px; font-family: Roboto, Helvetica, Arial, sans-senif; font-size: 12px;\" /><span style=\"box-sizing: border-box; font-family: Roboto, Helvetica, Arial, sans-senif; font-size: 12px; color: #0000ff;\">Chất liệu cao su thiên nhiên tạo sự đàn hồi nhất định cho đôi giày, mang đến cảm giác êm ái, thoải mái khi sử dụng sản phẩm.</span></p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 13px; text-align: justify;\"><span style=\"box-sizing: border-box; font-family: Roboto, Helvetica, Arial, sans-senif; font-size: 12px; color: #0000ff;\">Form giày đá bóng sân lớn chuẩn ôm sát chân tạo cảm giác bóng tốt, làm tăng khả năng xử lý bóng, đồng thời giúp cho việc kiểm soát bóng của bạn trở nên dễ dàng hơn.</span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 255000,
+        "product_quantity": 5189,
+        "product_category": [
+            "Thể Thao - Dã Ngoại"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Chí Phèo",
+            "Xuất xứ thương hiệu": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 255000,
+                "sku_stock": 8230
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 255000,
+                "sku_stock": 2453
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 255000,
+                "sku_stock": 3421
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 255000,
+                "sku_stock": 5790
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 255000,
+                "sku_stock": 4727
+            }
+        ]
+    },
+    {
+        "product_shop": "88107",
+        "product_name": "Giày Tennis Chí Phèo 046",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/92/f1/23/a7a3d78b8999561d4e2bcb6344fa5720.jpg"
+        ],
+        "product_description": "<ul style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; color: #444444; font-family: Futura, sans-serif;\">\n<li style=\"box-sizing: border-box;\">Sản phẩm có kiểu dáng trẻ trung kết hợp với gam màu tinh tế và thiết kế độc đáo, nổi bật.</li>\n<li style=\"box-sizing: border-box;\">Đặc biệt, giày Chí Phèo được làm bằng chất liệu da PU co dãn, bền, mềm mịn và thông thoáng đem cảm giác thoải mái đến cho người dùng.</li>\n<li style=\"box-sizing: border-box;\">Ngoài ra, giày có phần đế làm bằng cao su cao cấp, chắc chắn, chống trơn trượt và đảm bảo an toàn cho người sử dụng.<br />\n<p style=\"box-sizing: border-box; margin: 0px 0px 10px; border: 0px; outline: 0px; padding: 0px; vertical-align: baseline; line-height: 24px;\"><span style=\"box-sizing: border-box; font-weight: bold; border: 0px; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;\">Hướng dẫn chọn size</span></p>\n<br />\n<p style=\"box-sizing: border-box; margin: 0px 0px 10px; border: 0px; outline: 0px; padding: 0px; vertical-align: baseline; line-height: 24px;\"><img src=\"https://salt.tikicdn.com/ts/tmp/77/17/21/e2aef1dd06ea68201eed1b9fd84bf1d7.JPG\" alt=\"\" width=\"311\" height=\"405\" /></p>\n</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 750000,
+        "product_quantity": 1381,
+        "product_category": [
+            "Giày tennis nam"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Chí Phèo",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Trắng Navy",
+                    "Trắng Xanh bích"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43",
+                    "44"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 750000,
+                "sku_stock": 1209
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 750000,
+                "sku_stock": 3754
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 750000,
+                "sku_stock": 1510
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 750000,
+                "sku_stock": 8250
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 750000,
+                "sku_stock": 7255
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 750000,
+                "sku_stock": 1203
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 750000,
+                "sku_stock": 2454
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 750000,
+                "sku_stock": 5065
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 750000,
+                "sku_stock": 3614
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 750000,
+                "sku_stock": 7454
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 750000,
+                "sku_stock": 1675
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    5
+                ],
+                "sku_price": 750000,
+                "sku_stock": 9751
+            }
+        ]
+    },
+    {
+        "product_shop": "113832",
+        "product_name": "Giày Đá Bóng Sân Cỏ Nhân Tạo Prowin S50 Đen",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/7d/49/b0/01e4db721e6ecb8053a744d7381810f8.jpg",
+            "https://salt.tikicdn.com/ts/product/7c/b1/4d/0b30d54f8493edbd81dfcf5773b5450c.jpg",
+            "https://salt.tikicdn.com/ts/product/99/22/5f/84b739a5fd9ab407373c712683e77853.jpg",
+            "https://salt.tikicdn.com/ts/product/0e/ae/8e/35dfabb1d56b040a17c75055e491b2f2.jpg"
+        ],
+        "product_description": "<p class=\"show-more\" style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;\"> </p>\n<div id=\"gioi-thieu\" class=\"content js-content expand\" style=\"box-sizing: border-box; overflow: hidden; margin-bottom: 15px; max-height: none; line-height: 21px; color: #333333; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;\">\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">Đặc điểm của Giày bóng đá Prowin</p>\n<div id=\"gioi-thieu\" style=\"box-sizing: border-box;\">\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">- Trong vài năm trở lại đây, tinh thần yêu thể thao bóng đá của thanh niên nói chung và sinh viên Việt Nam ngày càng được mạnh mẽ hơn. Theo đó, là sự phát triển nhanh chóng của các sân cỏ nhân tạo trên toàn quốc. </p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">- Chơi bóng đá trên cỏ nhân tạo có thể làm cho bạn khó khăn khi chạy và có thể không giữ thăng bằng. Đó là lý do tại sao khi các chuyên gia luôn luôn khuyến khích và khuyên bạn nên đi giày bóng đá khi bạn chơi bóng trên sân cỏ nhân tạo.</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">- Mẫu giày được thiết kế có bề ngang lớn nên rất phù hợp với bàn chân người Việt.</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">- Thân giày được làm từ da PU ôm chân và rất mềm mại, thoát khi nóng rất tốt không gây hôi chân tạo sự thoải mái và tự tin đối với người sử dụng.</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">- Đế giày được làm từ nhựa tổng hợp và thiết kế với những khối đinh nhỏ rãi đều trên bề mặt đế, có vân tròn hỗ trợ xoay chuyển. Đế được khâu sẵn chắc chắn ở phần mũi giày và phần gót giày giúp cầu thủ có thể tự tin thi đấu.</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">- Lót giày nằm bên trong được làm từ mary mesh tạo cảm giác êm và vừa vặn khi mang giày. Lót đế được thiết kế định hình ôm sát bàn chân tạo độ chắn chắn khi di chuyển và có thể tháo ra vệ sinh một cách dễ dàng.</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">- Với ưu điểm giá cả thấp hơn đối với các sản phẩm giày bóng đá khác và độ bền cực lâu nên Prowin là một trong những mẫu giày ưa chuộng tại Việt Nam.</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">Chất liệu : làm từ da PU cao cấp và đế cao su siêu bền</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">- Phom giày được chỉnh sửa cho phù hợp với chân của người Việt tạo độ fitting cao hơn.</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">- Phong cách : thể thao mạnh mẽ</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">- Kiểu dáng : Ôm</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">- Mùa : 4 mùa</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">- Điểm nhấn : Mũ giày được làm băng PU \"\" poly Urethane \"\" nhẹ và đặc biệt rất mềm mại, không gây hôi chân, thân thiện với môi trường.</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">Size người lớn: 38,39,40,41,42,43,44</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">Mục đích sử dụng : Đá banh,đá bóng</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\">- Tặng 1 đôi vớ cao cổ bóng đá khi mua sản phẩm</p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\"><strong style=\"box-sizing: border-box; font-weight: 500;\">Hướng dẫn chọn size</strong></p>\n<p style=\"box-sizing: border-box; margin: 5px 0px 12px; color: #242424;\"><img style=\"box-sizing: border-box; vertical-align: middle; border: 0px; display: block; max-width: 100%; height: auto; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/product/64/39/d4/dca6ae6bcfa8d0b3b27961520280d683.jpg\" alt=\"bangsize.jpg\" width=\"750\" height=\"500\" /></p>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 299000,
+        "product_quantity": 5352,
+        "product_category": [
+            "Giày đá banh nam"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Tháng",
+            "Thương hiệu": "Prowin",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "màu",
+                "options": [
+                    "đen"
+                ]
+            },
+            {
+                "name": "size",
+                "options": [
+                    "38",
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43",
+                    "44"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 299000,
+                "sku_stock": 7843
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 299000,
+                "sku_stock": 6386
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 299000,
+                "sku_stock": 7218
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 299000,
+                "sku_stock": 8659
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 299000,
+                "sku_stock": 4318
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 299000,
+                "sku_stock": 3521
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    6
+                ],
+                "sku_price": 299000,
+                "sku_stock": 6062
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "product_shop": "302493",
+        "product_name": "Chăn ủ xô nhăn 4 lớp có mũ, có tai Mipbi 70x70cm",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b2/1e/97/521c4ed08d9b9e340d085a60c49ce5d9.jpg",
+            "https://salt.tikicdn.com/ts/product/29/b3/8f/d4831e006f2240d56dfb6e55e8bc2c8f.jpg",
+            "https://salt.tikicdn.com/ts/product/5a/05/2f/fde31e70aae3fd994ff17f53c7d7c4fe.jpg",
+            "https://salt.tikicdn.com/ts/product/9e/25/b0/12043ba1ffa26db64ad86bc0d1e1e5ab.jpg",
+            "https://salt.tikicdn.com/ts/product/b8/2f/59/8b2f210274b6c57c858d54121e87fbfc.jpg",
+            "https://salt.tikicdn.com/ts/product/2f/c6/08/20582a57be5b3063f5f6add4d1e690a6.jpg",
+            "https://salt.tikicdn.com/ts/product/bc/d5/9b/c82bbbe195eb62ba4493db0fc5698889.jpg",
+            "https://salt.tikicdn.com/ts/product/b4/4b/d0/1fa72e258f4c399a1c0ff1b737872209.jpg"
+        ],
+        "product_description": "\n  <p>Chăn ủ xô 4 lớp có mũ có tai</p>\n   <p> </p>\n   <p>Đặc điểm của sản phẩm</p>\n   <p>Chất liệu an toàn</p>\n   <p>Chăn không quá dày cũng không quá mỏng, có khả năng thấm hút tốt nên không gây bí cho bé mà ngược lại luôn mang đến sự thoáng mát, thoải mái nhất cho bé</p>\n   <p>Ngoài ra chất liệu này không bị xổ hay xù khi được giặt thường xuyên</p>\n   <p>Thiết kế tiện dụng</p>\n   <p>Chăn ủ xô có kích thước phù hợp, vừa vặn khi mẹ dùng để quấn, ủ người cho bé nên sẽ giữ ấm cho bé tốt hơn</p>\n   <p>Đường cắt may, vắt sổ của chăn rất khóe léo, chuyên nghiệp, không chỉ thừa hay nổi cộm trên da bé</p>\n   <p>Màu sắc đẹp mắt</p>\n   <p>Chăn ủ có nhiều màu sắc khác nhau, phù hợp với cả bé trai và bé gái</p>\n   <p>Kết hợp họa tiết in hình ngộ nghĩnh, đáng yêu càng khiến bé thêm dễ thương</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 190000,
+        "product_quantity": 1962,
+        "product_category": [
+            "Ngũ cốc, bột"
+        ],
+        "product_attributes": {
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Thương hiệu": "Mipbi",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Hạn sử dụng": "1 năm",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Mẫu",
+                "options": [
+                    "Gấu",
+                    "Gấu chấm hồng",
+                    "Gấu mũ",
+                    "Mặt gấu to",
+                    "Mặt gấu trắng",
+                    "Mặt hổ",
+                    "Mặt mèo",
+                    "Thỏ hồng"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 190000,
+                "sku_stock": 7063
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 190000,
+                "sku_stock": 4957
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 190000,
+                "sku_stock": 8844
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 190000,
+                "sku_stock": 6541
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 190000,
+                "sku_stock": 7535
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 190000,
+                "sku_stock": 2955
+            },
+            {
+                "sku_tier_idx": [
+                    6
+                ],
+                "sku_price": 190000,
+                "sku_stock": 2914
+            },
+            {
+                "sku_tier_idx": [
+                    7
+                ],
+                "sku_price": 190000,
+                "sku_stock": 3615
+            }
+        ]
+    }
+]

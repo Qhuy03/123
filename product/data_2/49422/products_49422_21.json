@@ -1,0 +1,2145 @@
+[
+    {
+        "product_shop": "106",
+        "product_name": "Quần lót nữ hoạ tiết Cung hoàng đạo PANT027C",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6b/82/67/248ca009cf7067c9ebe6b2e743d2b411.jpg",
+            "https://salt.tikicdn.com/ts/product/45/8e/b7/9e94980fd31e6ef6c80a41cf48cec83b.jpg",
+            "https://salt.tikicdn.com/ts/product/b0/0a/fa/4f734e9f7ee886195a1756e28ecfd6f0.jpg",
+            "https://salt.tikicdn.com/ts/product/e6/49/11/a86e0ada29912f2559539533eadbcec9.jpg",
+            "https://salt.tikicdn.com/ts/product/25/66/2f/cd7ec7aefd75f3dbeb8b15f2ea901004.png",
+            "https://salt.tikicdn.com/ts/product/f0/3a/dd/11b3be7d9e7ba0753c2cedad45a11ef8.jpg"
+        ],
+        "product_description": "<p><strong>Quần lót nữ hoạ tiết Cung hoàng đạo iBasic PANT027C</strong></p>\n<p> </p>\n<p>- Họa tiết Cung hoàng đạo được in sắc nét và độc đáo, đại diện cho cá tính riêng biệt của mỗi cung.</p>\n<p>- Vải mềm mịn, thoáng mát, thấm hút tốt phù hợp mặc hằng ngày</p>\n<p>- Lưng quần phối thun nhún mềm và mảnh, co giãn tốt, không gây hằn trên da</p>\n<p> </p>\n<p>Chất liệu: Vải cotton in hoạ tiết co giãn 4 chiều, thấm hút tốt, mang lại cảm giác thoải mái cho người mặc</p>\n<p>Thành phần: 95% cotton, 5% spandex - Đáy: 100% cotton</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/19/38/2b/4e172cd06962945136e6302b8fd66036.jpg\" alt=\"\" width=\"750\" height=\"506\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/53/3e/b8/640666fb90108f95ecd69636b61f0da2.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/45/8e/b7/14ac877747630b13e2e428e55c120b69.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/b0/0a/fa/3cb0f33c853e7170e78ba163cb7f7948.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 69000,
+        "product_quantity": 7309,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Mỹ",
+            "Thương hiệu": "iBasic"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Bạch Dương-Aries",
+                    "Bảo Bình-Aquarius",
+                    "Bọ Cạp-Scorpio",
+                    "Cự Giải-Cancer",
+                    "Kim Ngưu-Taurus",
+                    "Ma kết-Capricorn",
+                    "Nhân Mã-Sagittarius",
+                    "Song Ngư-Pisces",
+                    "Song Tử-Gemini",
+                    "Sư Tử-Leo",
+                    "Thiên Bình-Libra",
+                    "Xử Nữ-Virgo"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "L",
+                    "M"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 69000,
+                "sku_stock": 4635
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 69000,
+                "sku_stock": 6551
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 69000,
+                "sku_stock": 1889
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 69000,
+                "sku_stock": 2918
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 69000,
+                "sku_stock": 1611
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 69000,
+                "sku_stock": 7540
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 69000,
+                "sku_stock": 1139
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 69000,
+                "sku_stock": 8139
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 69000,
+                "sku_stock": 7377
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 69000,
+                "sku_stock": 2924
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    0
+                ],
+                "sku_price": 69000,
+                "sku_stock": 7679
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    1
+                ],
+                "sku_price": 69000,
+                "sku_stock": 9654
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    0
+                ],
+                "sku_price": 69000,
+                "sku_stock": 4495
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    1
+                ],
+                "sku_price": 69000,
+                "sku_stock": 4370
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    0
+                ],
+                "sku_price": 69000,
+                "sku_stock": 9811
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    1
+                ],
+                "sku_price": 69000,
+                "sku_stock": 7647
+            },
+            {
+                "sku_tier_idx": [
+                    8,
+                    0
+                ],
+                "sku_price": 69000,
+                "sku_stock": 1528
+            },
+            {
+                "sku_tier_idx": [
+                    8,
+                    1
+                ],
+                "sku_price": 69000,
+                "sku_stock": 9993
+            },
+            {
+                "sku_tier_idx": [
+                    9,
+                    0
+                ],
+                "sku_price": 69000,
+                "sku_stock": 6310
+            },
+            {
+                "sku_tier_idx": [
+                    9,
+                    1
+                ],
+                "sku_price": 69000,
+                "sku_stock": 8143
+            },
+            {
+                "sku_tier_idx": [
+                    10,
+                    0
+                ],
+                "sku_price": 69000,
+                "sku_stock": 4771
+            },
+            {
+                "sku_tier_idx": [
+                    10,
+                    1
+                ],
+                "sku_price": 69000,
+                "sku_stock": 8003
+            },
+            {
+                "sku_tier_idx": [
+                    11,
+                    0
+                ],
+                "sku_price": 69000,
+                "sku_stock": 7357
+            },
+            {
+                "sku_tier_idx": [
+                    11,
+                    1
+                ],
+                "sku_price": 69000,
+                "sku_stock": 6532
+            }
+        ]
+    },
+    {
+        "product_shop": "317710",
+        "product_name": "Combo Bao Quần Lót Miễn Giặt Sau Sinh Body-Mate Nữ, 5 Cái/Bao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/43/20/8f/dcff8e39851d30625b40eaf22d08bd4b.png",
+            "https://salt.tikicdn.com/ts/product/9c/47/b2/19288e6d81f362e37111f8323af7539b.png",
+            "https://salt.tikicdn.com/ts/product/81/ba/2d/8156d973459da9b86e8db155cff8e1e4.png",
+            "https://salt.tikicdn.com/ts/product/38/22/96/e5396b93c4b02cf2b3b5ba12f53ebe25.png",
+            "https://salt.tikicdn.com/ts/product/fd/17/ac/65bf7f91c2db7ec5cf4c76b6f29118bc.png"
+        ],
+        "product_description": "<p>QUẦN LÓT MIỄN GIẶT SAU SINH BODY-MATE</p>\n<p>Chất liệu TC mềm mại, thấm hút, thoáng khí và vô cùng thoải mái khi mặc. Thiết kế 3D vừa vặn, ôm sát vòng mông với 02 miếng lót dày, mềm, thấm hút. Sản phẩm đã được giặt sạch, sấy khô trước khi đóng gói và tái sử dụng sau khi mặc. Có thể sử dụng ngay khi mở gói. Vô cùng vệ sinh, tiện lợi.</p>\n<p>Có thể sử dụng trong và sau thai kỳ</p>\n<p>Thành phần: Vải TC</p>\n<p>Quy cách:     </p>\n<p>Size L: Vòng mông 92 - 100 cm; 5 cái/bao, 72 bao/thùng</p>\n<p>Size XL: Vòng mông 100 - 115 cm; 5 cái/bao, 72 bao/thùng </p>\n<p>Size XXL: Vòng mông 115 - 130 cm; 5 cái/bao, 72 bao/thùng</p>\n<p>Hạn sử dụng: 3 năm</p>\n<p>NSX: in trên bao bì</p>\n<p>#Body-mate</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 90000,
+        "product_quantity": 5673,
+        "product_category": [
+            "Thời trang nữ"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "yahon enterprise Co.,ltd",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "Ấp An Chu, H.Trảng Bom, Tỉnh Đồng Nai",
+            "Màu sắc": "Trắng",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "BODY-MATE"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "XL",
+                    "XXL"
+                ]
+            },
+            {
+                "name": "Số Lượng",
+                "options": [
+                    "1",
+                    "3",
+                    "6"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 90000,
+                "sku_stock": 9139
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 90000,
+                "sku_stock": 9902
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 90000,
+                "sku_stock": 8022
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 90000,
+                "sku_stock": 8413
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 90000,
+                "sku_stock": 9623
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 90000,
+                "sku_stock": 1870
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 90000,
+                "sku_stock": 9419
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 90000,
+                "sku_stock": 3058
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 90000,
+                "sku_stock": 4840
+            }
+        ]
+    },
+    {
+        "product_shop": "104488",
+        "product_name": "Combo 5 quần lót nữ lưới tàng hình dây đính đá Voronin Q8152 (giao màu ngẫu nhiên)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/aa/51/33/0c1a298e2b015e9724bf770b3ec166f1.jpg",
+            "https://salt.tikicdn.com/ts/product/e8/82/12/dc56c074176dac4e74e21761d7a54b32.PNG",
+            "https://salt.tikicdn.com/ts/product/71/89/32/8030dd1983ec1b92b8b3108df5176ecc.jpg",
+            "https://salt.tikicdn.com/ts/product/8d/24/16/de0ac69ce0863455e144d43407d24422.jpg",
+            "https://salt.tikicdn.com/ts/product/1c/f8/b1/5658b0c3d0b5a2c447bc3e8d15b50638.jpg",
+            "https://salt.tikicdn.com/ts/product/be/f7/e7/efc310547054f0f17f914f6c2e1a090c.jpg",
+            "https://salt.tikicdn.com/ts/product/a8/65/3c/8f2b0beb50940c65717e5ca05ff63cae.jpg",
+            "https://salt.tikicdn.com/ts/product/bd/7d/d7/399f15b53d00dd5077607f9f9de977ad.jpg"
+        ],
+        "product_description": "<p>Combo 5 quần lót nữ lưới tàng hình dây đính đá Voronin Q8152 là sự kết hợp hoàn hảo giữa phong cách và thoải mái.</p>\n<p>Chất liệu: Lưới thoáng mỏng nhẹ cho cảm giác thoải mái suốt ngày dài.</p>\n<p>Dây đính đá: Tạo điểm nhấn cá tính cho sản phẩm, giúp bạn tự tin nổi bật.</p>\n<p>Màu sắc: Trẻ trung và phong phú, dễ mix match với các trang phục khác.</p>\n<p>Đáy lót cotton: Đem lại cảm giác mềm mịn và thông thoáng cho vùng kín.</p>\n<p>Với combo này, bạn sẽ có ngay 5 chiếc quần lót bikini chất liệu polyester chất lượng cao từ thương hiệu Voronin. Sản phẩm được sản xuất tại Trung Quốc theo tiêu chuẩn châu Á.</p>\n<p>Số lượng trong gói: 5</p>\n<p>Hãy bảo quản và giặt sản phẩm bằng tay để duy trì tính mới và form dáng hoàn hảo của quần lót nữ này!</p>\n<p>.#quanlotnu</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 200000,
+        "product_quantity": 7216,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "6452",
+        "product_name": "Quần lót nữ 23077 cotton gấu ôm nguyên mông dễ thương",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/5f/a3/0f/a2830b6f20812a2b56d3de61fd15d4bf.jpg"
+        ],
+        "product_description": "<p>Thương hiệu: Sanny House</p>\n<p>Tên sản phẩm: Quần lót cotton 23077</p>\n<p>Chất liệu:cotton cao cấp mềm mịn, co giãn, thấm hút tốt</p>\n<p>Kiểu dáng: dễ thương, trẻ trung, hiện đại</p>\n<p>Màu: đỏ, xám, xanh bơ, xanh da, hồng, da</p>\n<p>Size: dưới 60kg</p>\n<p> </p>\n<p>LƯU Ý:</p>\n<p>1. Vui lòng cho phép sai số 1-3mm do đo lường thủ công. Vui lòng cân nhắc thật kỹ trước khi đặt hàng.</p>\n<p>2. Do màn hình khác nhau, hình ảnh có thể không phản ánh màu sắc thực của sản phẩm.</p>\n<p>3. Trong Lúc Shop Tham gia Chương Trình Khuyến mãi . màu sắc tuỳ loại có thể hết đột ngột và shop sẽ giao màu ngẫu nhiên. Rất mong quý khách hàng thông cảm !</p>\n<p>4. Khách nhận hàng hài lòng đánh giá 5 sao kèm feedback + hình ảnh, sau đó inbox cho Sanny House để nhận quà ngay nhé!</p>\n<p>5. Khách vui lòng liên hệ ngay với Sanny House khi cần tư vấn hoặc cần hỗ trợ bất cứ vấn đề gì.</p>\n<p>—————-—————</p>\n<p> TUYỂN SỈ TOÀN QUỐC HÀNG QCCC </p>\n<p>️ Chất lượng cao, sang, xịn, bền. Giá tốt nhất.</p>\n<p>️ Mẫu mã mới nhiều, về liên tục.</p>\n<p>️ Nhận Dropship nhiệt tình dùm CTV, không tính phí đóng gói.</p>\n<p>️ Hàng đi đầu thị trường -&gt; dễ bán, ít cạnh tranh.</p>\n<p>Nhận Order tất cả hàng thời trang QC, đặt mẫu độc quyền inbox.</p>\n<p>Xưởng nhà tại Q.6 nhận Gia công theo mẫu khách đưa - Đặt may số lượng lớn.</p>\n<p> </p>\n<p>Sỉ: </p>\n<p> Lẻ: </p>\n<p> </p>\n<p>Sanny House ĐẢM BẢO :</p>\n<p>VỀ CHẤT LƯỢNG SẢN PHẨM:</p>\n<p>- Hình ảnh sản phẩm giống 100%.</p>\n<p>- Chất lượng sản phẩm tốt 100%.</p>\n<p>- Sản phẩm được kiểm tra kĩ càng, nghiêm ngặt trước khi giao hàng.</p>\n<p>- Sản phẩm luôn có sẵn trong kho hàng.</p>\n<p>- Hoàn tiền ngay nếu sản phẩm không giống với mô tả.</p>\n<p>CHÍNH SÁCH ĐỔI TRẢ:</p>\n<p>- Hỗ trợ đổi trả theo quy định của sàn.</p>\n<p>- Hàng hóa vẫn còn nguyên tem mác, chưa qua sử dụng.</p>\n<p>- Quay video làm căn cứ khi đổi trả hàng.</p>\n<p><img src=\"https://cf.shopee.vn/file/vn-11134208-7r98o-lx2liv3yy3895c\" width=\"1280\" height=\"1280\" alt=\"vn-11134208-7r98o-lx2liv3yy3895c\" /><img src=\"https://cf.shopee.vn/file/vn-11134208-7r98o-lx2liv3yzhln41\" width=\"2366\" height=\"2566\" alt=\"vn-11134208-7r98o-lx2liv3yzhln41\" /><img src=\"https://cf.shopee.vn/file/vn-11134208-7r98o-lx2liv3z0w6377\" width=\"2232\" height=\"2564\" alt=\"vn-11134208-7r98o-lx2liv3z0w6377\" /><img src=\"https://cf.shopee.vn/file/vn-11134208-7r98o-lx2liv3z2aqj57\" width=\"2564\" height=\"2564\" alt=\"vn-11134208-7r98o-lx2liv3z2aqj57\" /><img src=\"https://cf.shopee.vn/file/vn-11134208-7r98o-lx2liv3z3paz6f\" width=\"2560\" height=\"2560\" alt=\"vn-11134208-7r98o-lx2liv3z3paz6f\" /><img src=\"https://cf.shopee.vn/file/vn-11134208-7r98o-lx2liv3z53vfcd\" width=\"2558\" height=\"2558\" alt=\"vn-11134208-7r98o-lx2liv3z53vfcd\" /><img src=\"https://cf.shopee.vn/file/vn-11134208-7r98o-lx2liv3z6ifvb4\" width=\"2564\" height=\"2564\" alt=\"vn-11134208-7r98o-lx2liv3z6ifvb4\" /><img src=\"https://cf.shopee.vn/file/vn-11134208-7r98o-lx2liv3z7x0bfb\" width=\"2556\" height=\"2556\" alt=\"vn-11134208-7r98o-lx2liv3z7x0bfb\" /><img src=\"https://cf.shopee.vn/file/vn-11134208-7r98o-lx2liv3z9bkr48\" width=\"750\" height=\"750\" alt=\"vn-11134208-7r98o-lx2liv3z9bkr48\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 84000,
+        "product_quantity": 2507,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "Sanny House",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "Sanny House",
+            "Màu sắc": "Xám",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Thương hiệu": "Sanny House"
+        },
+        "product_variations": [
+            {
+                "name": "Màu Sắc",
+                "options": [
+                    "Da",
+                    "Hồng",
+                    "Xanh bơ",
+                    "Xanh da",
+                    "Xám"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "Dưới 60kg"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 84000,
+                "sku_stock": 4519
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 84000,
+                "sku_stock": 6445
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 84000,
+                "sku_stock": 6682
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 84000,
+                "sku_stock": 2840
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 84000,
+                "sku_stock": 8461
+            }
+        ]
+    },
+    {
+        "product_shop": "47092",
+        "product_name": "[Cao Cấp] Quần lót nữ Sexy Baby Don't Care mặc là quyến rũ gợi cảm",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/7a/b3/a3/16bd863b3752e51250362bbfa6e3e9f9.jpg",
+            "https://salt.tikicdn.com/ts/product/a7/a3/1d/cba6a0c6348bbfbb55fa05aa464b5385.jpg",
+            "https://salt.tikicdn.com/ts/product/72/51/e0/03319894b36bda8039ec7854788bca94.jpg",
+            "https://salt.tikicdn.com/ts/product/2b/92/14/93306331049d2da3a2716d6536fe0ed5.jpg",
+            "https://salt.tikicdn.com/ts/product/d6/fa/f8/d5462ff12a7cf589f5334a2bb520be64.jpg",
+            "https://salt.tikicdn.com/ts/product/cb/1c/d9/8d42cf14ca739d70b44fcf0c123a0fa6.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/94/9d/6003aaa739d4de07b4f84ac38d251f02.jpg",
+            "https://salt.tikicdn.com/ts/product/93/1f/dd/bc8f1882130f085523f491f17ddc5f2a.jpg",
+            "https://salt.tikicdn.com/ts/product/59/e5/eb/764a0abbd5a208b4b1e7a863b543bf19.jpg",
+            "https://salt.tikicdn.com/ts/product/25/39/fa/982ca728a4148cffe16af258dda1d8aa.jpg",
+            "https://salt.tikicdn.com/ts/product/15/18/92/9d25db451cea2338d7c41d05304e4d7b.jpg",
+            "https://salt.tikicdn.com/ts/product/9d/d9/ab/476e894f217d788e7a9d160dbb2958d6.jpg"
+        ],
+        "product_description": "<p>Quần lót, quần chip nữ sexy thì không hẳn Nàng nào cũng biết về loại quần này...dùng ra sao, dùng để làm gì nhỉ ???</p>\n<p>Vì em nó quá quá sexy và rạo rực luôn ấy </p>\n<p>Sexy hết mức, nhiều kiểu dáng - An tâm khi sử dụng..</p>\n<p>Các nàng kéo xem thêm mấy hình phía sau để biết thêm về cách dùng nhaaa </p>\n<p> </p>\n<p>Quần lót lọt khe nữ sexy</p>\n<p>Nóng bỏng, co giãn tốt...mặc thì cực \"THÍCH\" các nàng nhé !</p>\n<p>- Size: Freesize (43-55Kg), &gt;55Kg nên tìm mẫu buộc dây</p>\n<p>- Chất liệu: Polyester</p>\n<p>- Màu sắc: nhiều màu</p>\n<p> </p>\n<p>[BÍ KÍP SỬ DỤNG QUẦN LÓT/CHIP ĐÚNG CÁCH]</p>\n<p>- Chọn size phù hợp, nếu Freesize chỉ nên từ 43 - 55Kg;</p>\n<p>- Chất liệu đặc trưng của dòng sp sexy là Ren polyester cũng rất dễ chịu đối với vùng da nhạy cảm của các nàng.</p>\n<p>- Nên giặt riêng và giặt bằng tay, cố gắng hạn chế không giặt chung với quần, vớ và các loại quần áo khác. Nếu máy giặt của bạn không giặt sạch có thể dẫn đến sự lây lan của vi khuẩn lên khắp các quần áo. Việc lây lan vi khuẩn rất ảnh hưởng đến sức khỏe của bạn và gia đình. Đặc biệt, để giữ gìn quần lót bạn nên giặt riêng để tránh lem màu quần áo hoặc nội y khác.</p>\n<p>- Phơi nơi có nắng, thoáng gió. Tránh phơi nơi khói bụi hoặc trong phòng tắm, tối, ẩm ướt tạo điều kiện cho vi khuẩn phát triển.</p>\n<p>- Thay ngay quần chip nếu bị bẩn trong nhưng ngày \"đèn đỏ\"</p>\n<p>- Không dùng máy sấy làm quần lót bị mất đàn hồi</p>\n<p>- Quần lót mới mua phải giặt qua</p>\n<p><img src=\"https://img.sp.mms.shopee.sg/vn-11134208-7qukw-li8flfinw2j62a\" width=\"1920\" height=\"1920\" alt=\"vn-11134208-7qukw-li8flfinw2j62a\" /><img src=\"https://img.sp.mms.shopee.sg/vn-11134208-7qukw-li8flfhk0hl88d\" width=\"1920\" height=\"1920\" alt=\"vn-11134208-7qukw-li8flfhk0hl88d\" /><img src=\"https://img.sp.mms.shopee.sg/vn-11134208-7qukw-li8flfhk1w5oa6\" width=\"1920\" height=\"1920\" alt=\"vn-11134208-7qukw-li8flfhk1w5oa6\" /><img src=\"https://img.sp.mms.shopee.sg/vn-11134208-7qukw-li8flfhk4pakff\" width=\"1920\" height=\"1920\" alt=\"vn-11134208-7qukw-li8flfhk4pakff\" /><img src=\"https://img.sp.mms.shopee.sg/vn-11134208-7qukw-li8flfhk7ifgd5\" width=\"1920\" height=\"1920\" alt=\"vn-11134208-7qukw-li8flfhk7ifgd5\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 49000,
+        "product_quantity": 6421,
+        "product_category": [
+            "Thời trang nữ"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Hàn Quốc",
+            "Thương hiệu": "Kun93"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Đen",
+                    "Đỏ"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 49000,
+                "sku_stock": 5886
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 49000,
+                "sku_stock": 2892
+            }
+        ]
+    },
+    {
+        "product_shop": "204072",
+        "product_name": "Quần lót nữ cao cấp điều hoà thông hơi thun lạnh cạp cao chất đẹp,co giãn 4 chiều,với họa tiết in hoa sinh động Freesize 45-60kg 5084",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/62/fb/34/981687af6d76199b2014b1e217828f1c.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/34/58/faef1e3588a013c09f67beed916b93a6.jpg",
+            "https://salt.tikicdn.com/ts/product/08/36/c3/97c94426def374d196389702265408fd.jpg",
+            "https://salt.tikicdn.com/ts/product/1b/c2/4b/19bc234b9ee0f98676c33f02468fda2a.jpg",
+            "https://salt.tikicdn.com/ts/product/61/c7/63/9e95e114c378cb2c3ed3f4789aa00cd3.jpg",
+            "https://salt.tikicdn.com/ts/product/73/78/ea/c748a039c6fd33270475b7bfa22b32cf.jpg",
+            "https://salt.tikicdn.com/ts/product/be/08/a2/c47532604a1d1efc5be4ce9c58e11a28.jpg",
+            "https://salt.tikicdn.com/ts/product/ac/59/e6/ab51e8adc44b3f0ec39814b4debe5a6d.jpg",
+            "https://salt.tikicdn.com/ts/product/f9/c1/d4/8e4c244a87303a04d761bfafdb4e3486.jpg",
+            "https://salt.tikicdn.com/ts/product/da/2e/e1/ae857efc19fb72a0183eda67487e785d.jpg",
+            "https://salt.tikicdn.com/ts/product/2e/ba/ed/264bfb4715535a5d49a2fc12528b876d.jpg",
+            "https://salt.tikicdn.com/ts/product/a5/4b/d2/8e7b08b127f48f773708f19bfab07d41.jpg"
+        ],
+        "product_description": "<article class=\"4ever-article\"><p>* ĐẶC ĐIỂM NỔI BẬT</p>\n<p>- Vải thun lạnh mịn, trơn, láng,không nhăn, dễ giặt sạch. Khi sờ tay vào có cảm giác mát lạnh.</p>\n<p>- Thun lạnh có khả năng thoát hơi ẩm cao, giúp đẩy mồ hơi ra ngoài không khí cao. Nên vải nhanh khô và tạo sự thoáng mát cho người mặc</p>\n<p>- Chất liệu quần co giãn đều không tạo vết hằn và ngứa khi sử dụng.đường mông cao ôm gọn vòng 3 quyến rũ.</p>\n<p>- Màu sắc và họa tiết quần lót nữ đa dạng giúp chị em dễ dàng chọn lựa và thay đổi theo sở thích.</p>\n<p>-Chất liệu vải thun lạnh co giãn, mỏng nhẹ, thoáng mát, mềm mịn, \"mặc như không mặc\".</p>\n<p>- Chị em có thể dùng để đi bơi, kết hợp đa dạng loại quần, áo, váy body</p>\n<p>- Quần freesize (40-65kg)</p>\n<p>- Màu sắc: Combo trộn 10 màu</p>\n<p>Bào quản:</p>\n<p>- Thun lạnh thường không thấm nước và dễ giặt sạch không cần thiết giặt quá lâu trong máy.</p>\n<p>- Không nên ngâm quần áo lâu trong nước, hoặc để nơi ẩm mốc.</p>\n<p>- Vì vải không nhăn nên không cần ủi và cũng tránh ủi vì nhiệt độ cao làm teo sợi vải.</p>\n<p>- Hạn chế sấy khô.</p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 25000,
+        "product_quantity": 7742,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "8641",
+        "product_name": "Combo 5 Quần Lót Nữ Modal Co Giãn, Thoải Mái BigSize Miley Lingerie [2XL-5XL]",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/34/dd/cc/260266933e902b2175f6dbc67d6f5f08.png",
+            "https://salt.tikicdn.com/ts/product/b1/11/06/3eaea90094544f0b60aa88739a4eb2b6.png",
+            "https://salt.tikicdn.com/ts/product/8e/1e/7e/759c25beef1a23239f9318dd63e60f2c.jpg",
+            "https://salt.tikicdn.com/ts/product/02/64/3c/07fda81d2b2458d4089a65d7bc64db0d.png",
+            "https://salt.tikicdn.com/ts/product/e2/f3/67/5883bd68d9ef8a0e9f3ce05f7a7d3685.jpg",
+            "https://salt.tikicdn.com/ts/product/a4/6e/9a/aa743dd1c644718b96ff5c86fac61d4c.png",
+            "https://salt.tikicdn.com/ts/product/eb/87/ae/46dd2d88d3243a737a842397398acd8a.jpg",
+            "https://salt.tikicdn.com/ts/product/63/88/d2/6974868f28dc573927bd91899ec76037.jpg",
+            "https://salt.tikicdn.com/ts/product/7d/5c/ed/3d432f419c1c35762c67d9ed450894b4.png",
+            "https://salt.tikicdn.com/ts/product/8a/39/94/3ec8dc8958809586bad415d1d26fe943.png",
+            "https://salt.tikicdn.com/ts/product/35/66/b7/de4d692b9301f32893225534d1c0fb9c.jpg",
+            "https://salt.tikicdn.com/ts/product/dc/f6/50/efef4cadc94a6107a1554650b61f651e.jpg",
+            "https://salt.tikicdn.com/ts/product/fa/4d/ca/e8a95ed2f2ad1a53d0527b2ab32e05e5.png",
+            "https://salt.tikicdn.com/ts/product/bc/3a/c2/10d1130c47acda6488bda7a1cb49bdcc.jpg"
+        ],
+        "product_description": "<p class=\"irIKAp\">LƯU Ý : Hàng BIG SIZE được thiết kế theo tiêu chuẩn USA và bán tại thị trường USA và Canada nên size trên sản phẩm sẽ khác với size Vietnam. Hãy nhắn với chúng tôi nếu bạn cần tư vấn thêm.</p>\n<p class=\"irIKAp\">Set 5 Quần Lót Modal Bikini Comfort Miley Lingerie ABCS05- Giao màu ngẫu nhiên</p>\n<p class=\"irIKAp\">- Combo 5 quần kiểu Bikini với chất liệu Modal làm từ gỗ sồi và microfiber cho bạn cảm giác vô cùng mềm mại, thoáng mát, dễ chịu hơn nhiều so với chất liệu cotton.</p>\n<p class=\"irIKAp\">- Đặc biệt chất liệu modal có đặc tính kháng khuẩn tốt, thân thiện với làn da và môi trường</p>\n<p class=\"irIKAp\">- Thiết kế đơn giản, vừa vặn lên form rất đẹp, quần đáy vừa giúp ôm trọn vòng 3 bạn.</p>\n<p class=\"irIKAp\">- Màu sắc khác nhau: trắng,xanh, kem, hồng, cam là những màu chuẩn, rất dễ đễ bạn phối với bất kỳ trang phục nào.</p>\n<p class=\"irIKAp\">- Dệt may theo công nghệ hiện đại, đường may tinh tế, sắc sảo</p>\n<p class=\"irIKAp\">- Quần lót nữ big size: chất liệu đa dạng, nhiều kể thiết kế, cỡ cực lớn cho vòng 3 lên đến 135cm.</p>\n<p class=\"irIKAp\">- Sản xuất tại Việt Nam. Nguyên liệu nhập khẩu</p>\n<p class=\"irIKAp\">***LƯU Ý về quy định đổi trả hàng:</p>\n<p class=\"irIKAp\"> </p>\n<p class=\"irIKAp\">- Để bảo vệ sức khỏe cộng đồng, mà mang đến sản phẩm chất lượng nhất cho khách hàng, Miley không áp dụng đổi trả đối với mặt hàng quần lót. Trừ các trường hợp lỗi từ phía NSX.</p>\n<p class=\"irIKAp\">- Các trường hợp lỗi phát sinh do sản xuất, giao thiếu và giao sai, Khách hàng vui lòng phản hồi lại cho Miley Lingerie trong 5 ngày làm việc (tính từ ngày KH nhận được ĐH) - Sau thời gian này, Miley Lingerie sẽ từ chối xử lý.</p>\n<p class=\"irIKAp\">- Áp dụng đổi trả 1 lần duy nhất cho các ĐH áo ngực. Nếu Qúy KH không chắc chắn về size, Miley Lingerie khuyến khích KH nhắn tin để được tư vấn, tránh trường hợp đổi trả không mong muốn.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 259000,
+        "product_quantity": 6685,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "Miley Lingerie"
+        },
+        "product_variations": [
+            {
+                "name": "Chọn size:",
+                "options": [
+                    "2XL",
+                    "3XL",
+                    "4XL",
+                    "5XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 259000,
+                "sku_stock": 7698
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 259000,
+                "sku_stock": 9725
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 259000,
+                "sku_stock": 8478
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 259000,
+                "sku_stock": 1813
+            }
+        ]
+    },
+    {
+        "product_shop": "204072",
+        "product_name": "Quần lót nữ ren lưới sexy phối hoa nơ dài gợi cảm quyến rũ 1026 | Quần lót ren chất lượng cao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/da/1a/75/88c7ec6968255593328eaf60894257b3.jpg",
+            "https://salt.tikicdn.com/ts/product/0a/48/75/95a7f9fcfdd3b5aee04ca1cd702dd8f6.jpg",
+            "https://salt.tikicdn.com/ts/product/a6/fd/ff/9b95464d4c865b014e842fb51f5f11c4.jpg",
+            "https://salt.tikicdn.com/ts/product/aa/19/c8/bea0e0f2f3d7678756802d2488e0f031.jpg",
+            "https://salt.tikicdn.com/ts/product/18/cb/23/43ca0c216b3dbc0f9bb58581c25d1144.jpg",
+            "https://salt.tikicdn.com/ts/product/90/dd/10/8301ab24657464954ca32c071ef8b232.jpg",
+            "https://salt.tikicdn.com/ts/product/e0/52/07/9d716b1baf1a67966a333c01226eee4a.jpg",
+            "https://salt.tikicdn.com/ts/product/28/b4/f9/df97e06943a34fb976e84ab61cebeb50.jpg",
+            "https://salt.tikicdn.com/ts/product/16/9a/81/f10e49bdb5636ea187b7de093a3c1e01.jpg",
+            "https://salt.tikicdn.com/ts/product/2a/59/9f/6d0ef823fd9d531f7b1b2bce3a19bf27.jpg",
+            "https://salt.tikicdn.com/ts/product/d0/51/5a/0ccf12a31202f29e272b11e33fb45e97.jpg",
+            "https://salt.tikicdn.com/ts/product/e6/48/42/7973a3a6af468216f3e6a12dc7266790.jpg",
+            "https://salt.tikicdn.com/ts/product/16/20/ef/a67c68375c6c5f9b2770b888c1f9d499.jpg",
+            "https://salt.tikicdn.com/ts/product/dc/ed/a1/840e42727a78f8735455e3de4a74ae0e.jpg"
+        ],
+        "product_description": "<article class=\"4ever-article\"><p>Quần lót nữ ren lưới sexy phối hoa nơ dài gợi cảm quyến rũ 1026 | Quần lót ren chất lượng cao</p>\n<p>THÔNG TIN SẢN PHẨM</p>\n<p>- Mã sp: 1026</p>\n<p>- Chất liệu: Ren Lưới</p>\n<p>- Size: L XL</p>\n<p>+ L (38 - 53kg)</p>\n<p>+ XL (54 - 65kg)</p>\n<p>- Màu Sắc: Trắng, Xám, Đen, Da, Xanh Dương</p>\n<p>- Đặc Điểm: </p>\n<p>- Quần lót nữ, quần lót ren kháng khuẩn thoáng mát đính nơ xinh siêu</p>\n<p>- Chất liệu quần lót nữ cotton lưới nên rất thoáng mái khi mặc</p>\n<p>- Quần lót nữ có viền ren xinh kết hợp nơ tạo điểm nhấn cho quần thêm quyến rũ </p>\n<p> HƯỚNG DẪN SỬ DỤNG QUẦN LÓT :</p>\n<p>- Không dùng chất tẩy mạnh</p>\n<p>- Không đổ trực tiếp xà phòng lên sản phẩm</p>\n<p>- Giặt ướt, riêng quần áo trắng và quần áo màu</p>\n<p>- Không giặt khô bằng hóa chất</p>\n<p>- Không ngâm sản phẩm</p>\n<p>- Giặt bằng máy giặt</p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 19000,
+        "product_quantity": 2168,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "DA",
+                    "Trắng",
+                    "Xanh dương",
+                    "Xám",
+                    "Đen ren"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "L 38-53kg",
+                    "XL 54-65kg"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 19000,
+                "sku_stock": 3513
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 19000,
+                "sku_stock": 3513
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 19000,
+                "sku_stock": 2404
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 19000,
+                "sku_stock": 8815
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 19000,
+                "sku_stock": 4848
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 19000,
+                "sku_stock": 4549
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 19000,
+                "sku_stock": 9190
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 19000,
+                "sku_stock": 4284
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 19000,
+                "sku_stock": 1785
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 19000,
+                "sku_stock": 7204
+            }
+        ]
+    },
+    {
+        "product_shop": "8641",
+        "product_name": "Combo 4 Quần Lót Nữ Thun Lạnh Thoáng Mát Và 3 Khẩu Trang Vải Kháng Khuẩn -",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/27/1b/67/3e57074567f05a3dc4522a4a42d94c76.png",
+            "https://salt.tikicdn.com/ts/product/77/87/6d/b3cef3690eb15616ad525c5979daef78.png",
+            "https://salt.tikicdn.com/ts/product/fe/28/62/1f209de77ca6cf4c00fcdef48e5b4d0b.jpg",
+            "https://salt.tikicdn.com/ts/product/32/8c/bc/c60894b5f229b1ebf36a8f1be7ff6854.jpg",
+            "https://salt.tikicdn.com/ts/product/e1/02/45/6188ccaa1b91f08b1a299cf5468ca235.png",
+            "https://salt.tikicdn.com/ts/product/14/dc/31/525d5998206cf56e603f2167f8d88c61.jpg",
+            "https://salt.tikicdn.com/ts/product/bc/3a/c2/71f31241e5416af5054008dec1dfe482.jpg",
+            "https://salt.tikicdn.com/ts/product/a2/59/cf/acbfe2f4779e4518446a365c9c39adb1.jpg",
+            "https://salt.tikicdn.com/ts/product/8e/f7/8e/fea3e851d9ab919ef8a05209619bb286.jpg",
+            "https://salt.tikicdn.com/ts/product/34/cf/9d/3cc1884ef795c32d289fb6396de19358.jpg"
+        ],
+        "product_description": "<p>Bộ 5 Quần Lót Nữ Thun Lạnh Fashion Miley Lingerie Màu ngẫu nhiên</p>\n<p>Chất liệu Mycrofibe: gồm 90% polyester, 10% spandex, mang đến cho người mặc cảm giác thoáng mát, phối ren nhẹ cực kỳ sắc sảo.</p>\n<p>- Chất liệu vải mềm, mịn, tạo cảm giác mát lạnh khi chạm vào da.</p>\n<p>- Vải thun co giãn 4 chiều, bề mặt vải thông thoáng khí, thấm hút mồ hôi</p>\n<p> Màu sắc : 5 màu pastel nhẹ nhàng, ngọt ngào</p>\n<p> Nguyên liệu nhập khẩu. Sản xuất tại Việt Nam bởi công ty TNHH SX TM DV Cánh Đỏ</p>\n<p> </p>\n<p><img src=\"https://cf.shopee.vn/file/vn-11134202-7r98o-lozo33m10h977d\" width=\"1024\" height=\"1024\" alt=\"vn-11134202-7r98o-lozo33m10h977d\" /></p>\n<p> </p>\n<p>***LƯU Ý về quy định đổi trả hàng:</p>\n<p>- Để bảo vệ sức khỏe cộng đồng, mà mang đến sản phẩm chất lượng nhất cho khách hàng, Miley không áp dụng đổi trả đối với mặt hàng quần lót. Trừ các trường hợp lỗi từ phía NSX.</p>\n<p>- Các trường hợp lỗi phát sinh do sản xuất, giao thiếu và giao sai,... Khách hàng vui lòng phản hồi lại cho Miley Lingerie trong 5 ngày làm việc (tính từ ngày KH nhận được ĐH) - Sau thời gian này, Miley Lingerie sẽ từ chối xử lý.</p>\n<p>- Áp dụng đổi trả 1 lần duy nhất cho các ĐH áo ngực. Nếu Qúy KH không chắc chắn về size, Miley Lingerie khuyến khích KH nhắn tin để được tư vấn, tránh trường hợp đổi trả không mong muốn.</p>\n<p>Với hơn 1 triệu sản phẩm bán ra hằng năm với rất nhiều phản hồi 5*. Miley Lingerie hy vọng tiếp tục mang đền trải nghiệm tốt nhất cho KH</p>\n<p>#thoải_mái #nhẹ_ê_mềm_thoáng #quần_lót #quần_Lót_Nữ #quần_sịp_nữ #combo_quần_lót_nữ #set_quần_chip #quần_lót_ren</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 373000,
+        "product_quantity": 8176,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "Miley Lingerie"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "M",
+                    "L",
+                    "S",
+                    "XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 373000,
+                "sku_stock": 6350
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 373000,
+                "sku_stock": 7801
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 373000,
+                "sku_stock": 4120
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 373000,
+                "sku_stock": 5448
+            }
+        ]
+    },
+    {
+        "product_shop": "104488",
+        "product_name": "COMBO 10 QUẦN THUN LẠNH TRƠN MARA 638",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/5f/d7/54/fd0234b67eb2b3480a82243dfa78f128.jpg",
+            "https://salt.tikicdn.com/ts/product/cb/14/8a/6c210974be02aa2d92e7293d1352dc87.jpg",
+            "https://salt.tikicdn.com/ts/product/7c/19/71/5c3bb26c15de230d161a96f6c9d7aa81.jpg",
+            "https://salt.tikicdn.com/ts/product/ff/86/63/76db1fef9f18e0870f25c715e05cc721.jpg",
+            "https://salt.tikicdn.com/ts/product/1d/cd/b3/7abfffb5b37a3ca0f6c76bca65a26365.jpg",
+            "https://salt.tikicdn.com/ts/product/d8/e8/76/bd3eb5041b33640ef90b8e591aa52966.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>COMBO 10 QUẦN LÓT NỮ THUN LẠNH TRƠN MARA 638</p>\n   <p>Nhiều màu - GIAO MÀU NGẪU NHIÊN TÙY LÔ / TÙY SIZE</p>\n   <p>Size M, L, XL, XXL</p>\n   <p>Đáy quần lót cotton, thấm hút mồ hôi tốt</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 188000,
+        "product_quantity": 1539,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Khác",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "M"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 188000,
+                "sku_stock": 8690
+            }
+        ]
+    },
+    {
+        "product_shop": "6452",
+        "product_name": "Quần lót nữ ren hoa sexy gợi cảm không viền siêu mịn mã 817",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/4c/19/9f/052c980b0cba14414583ce8a11150025.jpeg",
+            "https://salt.tikicdn.com/ts/product/d1/9c/e8/55fda91cd03cbfc981af129358952458.jpeg",
+            "https://salt.tikicdn.com/ts/product/bc/58/79/33b958b774d499d1568ce4891513f2c5.jpeg",
+            "https://salt.tikicdn.com/ts/product/d3/69/86/410e21c9c8a46e02dcf26fd104c3219c.jpeg",
+            "https://salt.tikicdn.com/ts/product/f6/a7/ed/392707ddf91b16f7165df92110c096b8.jpeg",
+            "https://salt.tikicdn.com/ts/product/46/1c/63/3f21a9f0c9fe7a3c5c1c8681ce2077f9.jpeg",
+            "https://salt.tikicdn.com/ts/product/1a/df/c1/32eac966dd1e1ea34dcf2fe54cc43b0e.jpeg"
+        ],
+        "product_description": "<p>Quần lót ren nữ hoa gợi cảm vải lưới siêu mát. MSP 817. Màu sắc xanh đen, đen,da, đỏ đô, hồng, đỏ tươi,trắng,xanh lam,nâu. Size dưới 60kg. Vải co dãn 4 chiều, thiết kế ren thoáng khí kiểu dáng sexy gợi cảm </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 40000,
+        "product_quantity": 4703,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Anh, Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Màu Sắc",
+                "options": [
+                    "Màu đen",
+                    "Nâu",
+                    "Trắng",
+                    "Xanh lam",
+                    "Xanh đen",
+                    "màu da",
+                    "màu đỏ tươi",
+                    "màu đỏ đô"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "freesize (40-60kg)"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 40000,
+                "sku_stock": 5826
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 40000,
+                "sku_stock": 4011
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 40000,
+                "sku_stock": 1970
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 40000,
+                "sku_stock": 6658
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 40000,
+                "sku_stock": 3818
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    0
+                ],
+                "sku_price": 40000,
+                "sku_stock": 7387
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    0
+                ],
+                "sku_price": 40000,
+                "sku_stock": 8736
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    0
+                ],
+                "sku_price": 40000,
+                "sku_stock": 3977
+            }
+        ]
+    },
+    {
+        "product_shop": "2008",
+        "product_name": "Quần lót ren nữ sexy Corèle V.  02133A lưng vừa nhiều màu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c2/d7/5c/4d59e921a618f147b393ac5c38d2bd8d.jpg",
+            "https://salt.tikicdn.com/ts/product/56/f1/6c/8189be8067441aa8b04dc3130280f321.jpg"
+        ],
+        "product_description": "<p>Quần Lót Ren Nữ Lưng Vừa Corèle V. 02133A được thiết kế với form quần trẻ trung với điểm nhấn bằng tuyn lưới nhún nhẹ đầy nữ tính.</p>\n<p>• Họa tiết ren cổ điển dệt theo kiểu fishnet đang rất thịnh hành hiện nay ở Châu Âu</p>\n<p>• Dáng quần lưng vừa thoải mái với viền ren sau mông, không hằn trên da</p>\n<p>• Sản phẩm dựa trên ý tưởng mang đến cho người mặc cảm giác nhẹ nhàng nhất, tinh khôi nhất, nên cấu trúc đơn giản.</p>\n<p>• Đường may tiết chế tối đa, bảng màu cơ bản, dễ dàng lựa chọn và sử dụng.</p>\n<p>Lót đáy 100% cotton không gây kích ứng da.</p>\n<p>• Chất liệu  – Micro AF4412– Lace LO6780H</p>\n<p>• Sản phẩm dựa trên ý tưởng mang đến cho người mặc cảm giác nhẹ nhàng nhất, tinh khôi nhất, nên cấu trúc đơn giản.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/5d/82/12/6f98fef79b8d97c87e220920b96cfc89.jpg\" alt=\"\" width=\"750\" height=\"562\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/d7/94/cc/26dc168bf494a11b025bc45f6578f7bd.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/d7/94/cc/26dc168bf494a11b025bc45f6578f7bd.jpg\" alt=\"\" width=\"750\" height=\"562\" /></p>\n<p> </p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/c2/d7/5c/7e89d44d5d5f05750e93b34f442bd4f4.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/c2/d7/5c/7e89d44d5d5f05750e93b34f442bd4f4.jpg\" alt=\"\" width=\"750\" height=\"562\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/56/f1/6c/0148c97fdf4886bd2ea9ab4c7a88a12d.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/56/f1/6c/0148c97fdf4886bd2ea9ab4c7a88a12d.jpg\" alt=\"\" width=\"750\" height=\"562\" /></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/ff/d9/e0/956a2e4e14da3f9b3a818b8f293c68a7.jpg\" alt=\"\" width=\"750\" height=\"540\" /></p>\n<p><strong>Hướng dẫn bảo quản:</strong></p>\n<p>- Tránh ngâm trong nước quá lâu</p>\n<p>- Tránh tiếp xúc với các chất liệu gây loang màu</p>\n<p>- Không sử dụng các chất tẩy rửa</p>\n<p>- Tránh giặt bằng máy</p>\n<p> </p>\n<p><strong>Thông tin thương hiệu:</strong></p>\n<p>Corèle V. là Thương hiệu nội y Pháp được phát triển riêng cho phân khúc trung và cao cấp tại Việt Nam bởi Công ty Corèle V., thành viên của Tập đoàn nội y trong Top 2 của Pháp là Corèle International.</p>\n<p>Các sản phẩm của Thương hiệu Corèle V. có thiết kế mang đậm chất \"Gợi Cảm Mà Thanh Lịch của Pháp\" - \"Paris Sexy Chic\" - với hệ thống số đo được nghiên cứu dựa trên cơ thể của người phụ nữ Việt Nam - \"V.FIT\". Đây cũng là sản phẩm nội y đầu tiên trên thị trường triển khai chuyên nghiệp điều này.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 160000,
+        "product_quantity": 7313,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Model": "02133A",
+            "Xuất xứ thương hiệu": "Pháp",
+            "Thương hiệu": "Corèle V."
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Đỏ"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "S"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 160000,
+                "sku_stock": 5445
+            }
+        ]
+    },
+    {
+        "product_shop": "175568",
+        "product_name": "Sét 10 Quần lót ren cao cấp chất đẹp (từ 40kg đến80kg)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ab/6c/56/a0a853679eb3c2388db385852da4c1f7.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Sét 10 Quần lót ren cao cấp chất đẹp (từ 40kg đến80kg)</p>\n   <p>Chất ren mềm - mịn, thoáng mát khi mặc.</p>\n   <p>Chất quần co giãn tốt, thấm hút mồ hôi, không lằng mông, mềm mịn, không xù nhão. Thích hợp cả với các nàng bầu, các nàng ngoại cỡ.</p>\n   <p>Màu như hình</p>\n   <p>Size M, L, XL ,2XL,3XL,4xl</p>\n   <p>Size M: 40kg-48kg</p>\n   <p>Size L:48kg-55kg</p>\n   <p>Size XL: 55kg-62kg</p>\n   <p>Size 2XL: 62kg-69kg</p>\n   <p>Size 3XL: 69kg-75kg</p>\n   <p>Size 4XL: 75kg-80kg</p>\n   <p>Made in Vietnam</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 218400,
+        "product_quantity": 8974,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Ren",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "size ",
+                "options": [
+                    "Size 2XL: 62kg-69kg",
+                    "Size 3XL: 69kg-75kg",
+                    "Size 4XL: 75kg-80kg",
+                    "Size L:48kg-55kg",
+                    "Size M: 40kg-48kg",
+                    "Size XL: 55kg-62kg"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 218400,
+                "sku_stock": 8802
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 218400,
+                "sku_stock": 5299
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 218400,
+                "sku_stock": 8914
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 218400,
+                "sku_stock": 8234
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 218400,
+                "sku_stock": 7752
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 218400,
+                "sku_stock": 9257
+            }
+        ]
+    },
+    {
+        "product_shop": "228861",
+        "product_name": "Quần lót phom cao ôm dáng. annie. Mã QE 4535",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/8f/30/a6/c0a9021eb4c8001aaa77866a7c6fbb77.jpg",
+            "https://salt.tikicdn.com/ts/product/bb/9f/d5/540da06a0c554d06064696abaedf704c.jpg",
+            "https://salt.tikicdn.com/ts/product/75/e4/67/e3ea3b571092e5609634ea29ccb76d69.jpg",
+            "https://salt.tikicdn.com/ts/product/e6/c0/e7/701fe5f5ac061f80f734f5a4bf7c7836.jpg",
+            "https://salt.tikicdn.com/ts/product/f9/f8/a2/d4973ab1bdb0671ad08eeef0df4b3e35.jpg",
+            "https://salt.tikicdn.com/ts/product/19/36/18/86234e26f316e371ce29ebf46edab263.jpg",
+            "https://salt.tikicdn.com/ts/product/05/62/9f/c42d7b58e769c97be9aafc38838eb3d9.jpg",
+            "https://salt.tikicdn.com/ts/product/1e/8d/18/d295c56c2bc5af35ac2aaa2e88a7b977.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>***Thương hiệu annie-Cty TNHH TM SX Anh Khoa</p>\n   <p>***\"Quần lót phom cao ôm dáng annie QE 4535 thiết kế dạng trunk boxer form cao. Trên nền chất liệu thun lạnh (microfiber) mát và mềm mại, mang đến cảm giác thoải mái, dễ chịu cho người mặc.</p>\n   <p>- Sản xuất trên dây chuyền công nghệ hiện đại, gia công kỹ lưỡng và bền bỉ, không tạo vết hằn giúp bạn gái thêm quyến rũ, tự tin hơn.</p>\n   <p>- Chất liệu thun lạnh mát được may viền mép có độ co giãn tốt đem lại cảm giác dễ chịu khi mặc.</p>\n   <p>- Kiểu dáng trẻ trung, phom ôm sát giúp tạo đường cong cơ thể</p>\n   <p>- Màu sắc trang nhã, thanh lịch giúp bạn phối được nhiều trang phục khác nhau\"</p>\n   <p>- Size: M, L, XL</p>\n   <p> Do quần hay bị hết màu bất chợt nên khách chọn màu vui lòng nhắn tin cho shop để chọn được màu ưng ý cũng như được shop phục vụ tốt hơn nhé ! :)) Không chọn màu shop sẽ giao màu ngẫu nhiên ạ.</p>\n   <p>- CÁCH CHỌN SIZE QUẦN:</p>\n   <p>M (vòng mông 85-91)</p>\n   <p>L (vòng mông 92-96)</p>\n   <p>XL(vòng mông 97-101)</p>\n   <p>KHÁCH CẦN TƯ VẤN IB CHO SHOP NHÉ !</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 76000,
+        "product_quantity": 1021,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "thun lạnh",
+            "Model": "Quần lót thun lạnh, nhãn hiệu annie, trơn",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "Annie"
+        },
+        "product_variations": [
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "M",
+                    "XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 76000,
+                "sku_stock": 6395
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 76000,
+                "sku_stock": 3301
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 76000,
+                "sku_stock": 9125
+            }
+        ]
+    },
+    {
+        "product_shop": "104488",
+        "product_name": "combo 5 Quần thun lụa không viền mông",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/69/4d/94/ff94f39edf1c0a67523efb83f489882a.jpg",
+            "https://salt.tikicdn.com/ts/product/0f/52/81/23e1e5d3c3417c8eb55f339972d7a4f0.jpg",
+            "https://salt.tikicdn.com/ts/product/35/a2/2a/bad07d480845ed01fd9d12558142f9a6.jpg",
+            "https://salt.tikicdn.com/ts/product/45/a3/23/7ab94ea3e11b55f9cd8be217b8f2b443.jpg",
+            "https://salt.tikicdn.com/ts/product/59/ee/59/0fa1fb13ba892459c6629dea015ab3df.jpg",
+            "https://salt.tikicdn.com/ts/product/5d/fa/ac/10a1995be514a2922b4284668f4d0b01.jpg"
+        ],
+        "product_description": "<p>combo 5 Quần thun lụa không viền mông</p>\n<p>-chất vải thun lụa</p>\n<p>-Màu sắc: trắng, vàng, đỏ, đen, xanh… (giao màu ngẫu nhiên)</p>\n<p>-Xuất xứ: Việt Nam</p>\n<p>- Size:: M( dưới 45kg, vòng mông 81-87 ), L (45kg- 50kg, vòng mông 87-90), XL( 50-55kg, vòng mông 90-95), XXL(55- 65kg, vòng mông 95-102)</p>\n<p>Đặt hàng số lượng lớn ibox để có giá tốt</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 150000,
+        "product_quantity": 4092,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "lụa",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "size",
+                "options": [
+                    "l",
+                    "m",
+                    "xl",
+                    "xxl"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 6503
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 150000,
+                "sku_stock": 6192
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 150000,
+                "sku_stock": 8183
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 150000,
+                "sku_stock": 7788
+            }
+        ]
+    },
+    {
+        "product_shop": "187744",
+        "product_name": "Quần Lót Thun Lụa Đan Dây Quyến Rũ Mới ( B103)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/91/b3/a9/3318dcf23f2fe6743cf3118aa1b97e32.jpg",
+            "https://salt.tikicdn.com/ts/product/46/dc/bb/2393c90899b1ed2e0f7e4912fa8622cc.jpg",
+            "https://salt.tikicdn.com/ts/product/32/0f/37/988ee3fc9bed6fb6befd0f4639fe2e35.jpg",
+            "https://salt.tikicdn.com/ts/product/d6/d1/36/e539ed5ed232de08c16700c42d3fe881.jpg",
+            "https://salt.tikicdn.com/ts/product/98/27/f0/8b03b14076aaf45fbbcab77181afc592.jpg",
+            "https://salt.tikicdn.com/ts/product/a5/f2/e0/b4bae3a2a02dc9949c1588aa9d7a1040.jpg",
+            "https://salt.tikicdn.com/ts/product/aa/4e/b2/8a7260adfc047b99c53376dc18a2768d.jpg",
+            "https://salt.tikicdn.com/ts/product/c2/71/50/cb953f223a2b9a8571ad874e304fc2ef.jpg"
+        ],
+        "product_description": "\n  <p>Quần Lót Thun Lụa Đan Dây Quyến Rũ Mới ( B103)</p>\n   <p>Chất liệu thun lụa mềm, co giãn 4 chiều cực thoải mái</p>\n   <p>Thiết kế 1/2 mông cùng chi tiết đan dây độc đáo vô cùng quyến rũ</p>\n   <p>Phía sau điệu đà, mềm mại bằng dây đan nhấn nhá.</p>\n   <p>màu sắc đa dạng trẻ trung</p>\n   <p>Quần form to</p>\n   <p></p>\n   <p>Cam kết :Uy tín, chất lượng sản phẩm đặt lên hàng đầu.</p>\n   <p>********************</p>\n   <p>Sexy. Chip</p>\n   <p>Chuyên đồ lót nam nữ, quần áo hàng qccc</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 65000,
+        "product_quantity": 1539,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "B103",
+                "options": [
+                    "Hồng nude",
+                    "Xanh sạphia",
+                    "Đỏ rượu"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "M"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 65000,
+                "sku_stock": 6293
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 65000,
+                "sku_stock": 9135
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 65000,
+                "sku_stock": 5990
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 65000,
+                "sku_stock": 4815
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 65000,
+                "sku_stock": 7602
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 65000,
+                "sku_stock": 9117
+            }
+        ]
+    },
+    {
+        "product_shop": "187744",
+        "product_name": "Quần Lót Lụa Hàng Cao Cấp Xuất Nhật ( Mã WL11)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6d/0a/d4/4ed563c153807a42fdbfb5e61688e8a2.jpg",
+            "https://salt.tikicdn.com/ts/product/be/b2/ef/dab3aafdef3fa9da98200268746bba5b.jpg",
+            "https://salt.tikicdn.com/ts/product/e6/b9/a7/0068b71c162805caf0638d8001f0639f.jpg",
+            "https://salt.tikicdn.com/ts/product/6e/2b/ac/f6feb37e8de621d818964fa6ab300618.jpg",
+            "https://salt.tikicdn.com/ts/product/7a/09/30/8dc8ac78d49707af7556f86228108c14.jpg",
+            "https://salt.tikicdn.com/ts/product/df/9e/6d/7b99303ac4017bacf8ad37edfc02554c.jpg",
+            "https://salt.tikicdn.com/ts/product/9b/3a/35/d49d0eaf225378d8d46018a623cf7845.jpg",
+            "https://salt.tikicdn.com/ts/product/8e/30/f3/280aa427164b5e9e0898c27f5c9209f4.jpg",
+            "https://salt.tikicdn.com/ts/product/68/47/2d/59b0b68c7faf45f33b011c7747ee27ad.jpg",
+            "https://salt.tikicdn.com/ts/product/b7/36/8c/d5ae912d5695a59ee8c1dc7dd741c5b9.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Quần Lót Lụa Hàng Cao Cấp Xuất Nhật ( Mã WL11)</p>\n   <p>Chất liệu lụa cao cấp ( trừ phần ren)</p>\n   <p>Hàng đẹp, chất đẹp, kiểu dáng sang trọng, hài hòa.</p>\n   <p>Hàng xuất Nhật nên chất lượng cực đẹp,thoáng mát vô cùng, mỏng và nhẹ,chất mềm mát mịn.</p>\n   <p>Chất đẹp nên giá cũng phù hợp với chất lượng của sảnn phẩm.</p>\n   <p>Các màu : Đen, Da, Nâu sậm</p>\n   <p>Hàng đẹp nếu không đúng chất liệu shop hoàn lại tiền.</p>\n   <p></p>\n   <p>Cam kết : Uy tín, chất lượng sản phẩm đặt lên hàng đầu</p>\n   <p>=========*****=========</p>\n   <p></p>\n   <p>Chuyên đồ lót nam nữ ,quần áo hàng qccc</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 120000,
+        "product_quantity": 6563,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Lụa",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "WL11",
+                "options": [
+                    "WL 11 Đen",
+                    "WL11 Da",
+                    "WL11 Nâu sậm"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "M",
+                    "XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 120000,
+                "sku_stock": 9110
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 120000,
+                "sku_stock": 7234
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 120000,
+                "sku_stock": 1851
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 120000,
+                "sku_stock": 6415
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 120000,
+                "sku_stock": 7296
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 120000,
+                "sku_stock": 2987
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 120000,
+                "sku_stock": 4976
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 120000,
+                "sku_stock": 8195
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 120000,
+                "sku_stock": 6235
+            }
+        ]
+    },
+    {
+        "product_shop": "182857",
+        "product_name": "Quần lót nữ dây chéo sau mông mặc mát",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b7/27/b6/fc9f4075838ab2cebb27c15016636d21.jpg",
+            "https://salt.tikicdn.com/ts/product/ee/c1/e2/2c05e464a29bd746dda562b7f2a247c4.jpg",
+            "https://salt.tikicdn.com/ts/product/bc/17/59/393ee5a0a38948119be92ad32b51cff6.jpg",
+            "https://salt.tikicdn.com/ts/product/a7/1c/0f/9410e223818e62adbdb850e24d1b89e9.jpg",
+            "https://salt.tikicdn.com/ts/product/8b/5a/4a/642c57cab12c9e7950ce52d6b63d78d7.jpg",
+            "https://salt.tikicdn.com/ts/product/6b/a5/a8/025a1c4b2822c5f1c898a3d21f7f2b08.jpg",
+            "https://salt.tikicdn.com/ts/product/25/20/31/4630d5f5119dbfcc213ef5a214de4cd9.jpg",
+            "https://salt.tikicdn.com/ts/product/c0/72/d2/85933bc748764ded0ead58a8895ea022.jpg",
+            "https://salt.tikicdn.com/ts/product/38/6c/3d/d62fb91504b22bb723cbc9d5eea75499.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Quần lót, quần chip nữ sexy thì không hẳn Nàng nào cũng biết về loại quần nàùng ra sao, dùng để làm gì nhỉ ???</p>\n   <p>Sexy hết mức, nhiều kiểu dáng - An tâm khi sử dụng.</p>\n   <p>Các nàng kéo xem thêm mấy hình phía sau để biết thêm về cách dùng nhaaa </p>\n   <p>Quần lót lọt khe nữ sexy</p>\n   <p>- Size: Freesize (43-55Kg), &gt;55Kg nên tìm mẫu buộc dây</p>\n   <p>- Chất liệu: Polyester</p>\n   <p>- Màu sắc: nhiều màu</p>\n   <p>[BÍ KÍP SỬ DỤNG QUẦN LÓT/CHIP ĐÚNG CÁCH]</p>\n   <p>- Chọn size phù hợp, nếu Freesize chỉ nên từ 43 - 55Kg;</p>\n   <p>- Chất liệu đặc trưng của dòng sp sexy là Ren polyester cũng rất dễ chịu đối với vùng da nhạy cảm của các nàng.</p>\n   <p>- Thay ngay quần chip nếu bị bẩn trong nhưng ngày \"đèn đỏ\"</p>\n   <p>- Không dùng máy sấy làm quần lót bị mất đàn hồi</p>\n   <p>- Quần lót mới mua phải giặt qua</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 35000,
+        "product_quantity": 7267,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Trắng",
+                    "Đen"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 35000,
+                "sku_stock": 3890
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 35000,
+                "sku_stock": 7510
+            }
+        ]
+    },
+    {
+        "product_shop": "182857",
+        "product_name": "Quần lót nữ hình hoa quyến rũ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/81/44/f9/4cdab823deaea2a713a3e39d55b8ed94.jpg",
+            "https://salt.tikicdn.com/ts/product/69/a6/ef/e965a94bb902699ed2b0e02cd8ef30a2.jpg",
+            "https://salt.tikicdn.com/ts/product/f8/59/15/9e303c4987844832f8899e231b3073de.jpg",
+            "https://salt.tikicdn.com/ts/product/4e/df/e9/339c38535305d9b20c0eff737f2c452f.jpg",
+            "https://salt.tikicdn.com/ts/product/6b/8e/9d/6141475bbf9515e60effe5d37adb3132.jpg",
+            "https://salt.tikicdn.com/ts/product/a5/27/c0/c1c5e9ab738d81a331c53182d765729d.jpg",
+            "https://salt.tikicdn.com/ts/product/45/cb/80/a07e57f554e9d30b7e28559b613d62f0.jpg",
+            "https://salt.tikicdn.com/ts/product/c5/19/fd/4aa02d6250fac8d26271fdd5b8bc3a58.jpg"
+        ],
+        "product_description": "<p>Quần co giãn có thể điều chỉnh độ rộng vòng bụng, mang đến sự tự tin và thoải mái</p>\n<p>Chun bụng co giãn tốt, không gây hằn da khi mặc</p>\n<p>Thiết kế đơn giản</p>\n<p>Chất liệu cao cấp</p>\n<p>Đường may khéo léo</p>\n<p>Đường ren tỉ mỉ đẹp mắt; sản phẩm không chỉ thời trang mà còn mang lại nét quyến rũ cho bạn gái.</p>\n<p>Chất liệu ren mềm mại, thấm hút mồ hôi tốt, thông thoáng, mát mẻ.</p>\n<p>Tôn vinh nét đẹp quyến rũ của phái đẹp.</p>\n<p>Free Size &lt;55kg</p>\n<p>Thiết kế sexy tôn lên vẻ quyến rũ cho người mặc.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 25000,
+        "product_quantity": 2481,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Hồng",
+                    "Xanh",
+                    "Đen",
+                    "Đỏ"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 25000,
+                "sku_stock": 6655
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 25000,
+                "sku_stock": 4699
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 25000,
+                "sku_stock": 4819
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 25000,
+                "sku_stock": 4357
+            }
+        ]
+    },
+    {
+        "product_shop": "179786",
+        "product_name": "Quần lót nữ S544 – From XL - Chất vải thun lạnh, co giản tốt, mặc rất thoải mái.",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/54/ab/9b/6f566d4652aabd42ccb4d2d000c8e563.png",
+            "https://salt.tikicdn.com/ts/product/10/00/51/8c8eb30aebd5cca39f3ecec5540cfc71.png",
+            "https://salt.tikicdn.com/ts/product/b1/df/e6/76c1abab25aa64303309ba0f2c2e8b53.png",
+            "https://salt.tikicdn.com/ts/product/09/47/39/0f069e60222801dc9257fb9b72af6298.png",
+            "https://salt.tikicdn.com/ts/product/d7/42/e4/a8a0c5a2358152d29f9f7b66d77d4868.jpg",
+            "https://salt.tikicdn.com/ts/product/59/67/dd/e585fb25744075b4bbe5a77e3179d424.png",
+            "https://salt.tikicdn.com/ts/product/7f/48/ee/f8ae7588f78c14b41dc77c2815fe5549.png"
+        ],
+        "product_description": "<p>THÔNG TIN MÔ TẢ SẢN PHẨM:</p>\n<p>Quần lót nữ S544 – From XL - Chất vải thun lạnh, co giản tốt, mặc rất thoải mái.</p>\n<p>️ Mã sản phẩm: 544</p>\n<p>️ Chất: Thun lạnh phối ren, co giản 4 chiều</p>\n<p>️ Size: Bạn cần đo vòng mông của mình để chọn cho đúng size nhé!</p>\n<p>Size XL: vòng mông từ 95 đến 102cm.</p>\n<p>️ Màu sắc: Đa dạng như hình</p>\n<p>Shop sẽ giao màu ngẫu nhiên. Nếu bạn cần lấy màu riêng biệt thì inbox cho Shop nhé.</p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/10/00/51/38df1a2a388460e675bb3ead26007fb0.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/54/ab/9b/13bbb0414834606817b6a01ba4d88478.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/b1/df/e6/96aba74f6ba5ff2b205e8b27debe2e14.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/09/47/39/460a7323426f99e48a2db90967f5cdb4.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/59/67/dd/d7c4c99e0bc6d592b114990f39678b0b.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/7f/48/ee/9014e891e310d6f95678de16dd48bd41.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>HƯỚNG DẪN CHỌN SIZE</p>\n<p>Bạn rất thích mẫu áo này? Hay rất thích mẫu quần này mà không biết có mặc vừa hay không. Đừng ngại nhắn tin cho Shop để được tư vấn hỗ trợ tận tình nhé!</p>\n<p>️ CHỌN ÁO NGỰC:</p>\n<p>Số đo VÒNG 1 – VÒNG ĐỈNH NGỰC của bạn?</p>\n<p>Số đo VÒNG LƯNG – VÒNG CHÂN NGỰC của bạn?</p>\n<p>Size áo bạn đang mặc và gài móc thứ mấy là thoải mái nhất.</p>\n<p>️ CHỌN QUẦN LÓT</p>\n<p>Để chọn đúng size quần, bạn cần đo số đo VÒNG MÔNG để chọn theo phân loại size Shop đã mô tả. Ngoài ra bạn có thể chọn theo cân nặng và chiều cao. Nhưng cách này sẽ không chính xác nhé.</p>\n<p>THÔNG TIN VỀ SHOP</p>\n<p>SHOP bán hàng uy tín, Khách hàng đều rất hài lòng về chất lượng sản phẩm. Vui lòng xem phần đánh giá Shop để kiểm chứng.</p>\n<p>Quần lót nữ được lựa chọn chất liệu rất kỹ, đảm bảo CO GIẢN 4 CHIỀU giúp mình mặc rất thoải mái, không bị cấn rít khó chịu. Ngoài ra với chất liệu ưu việt, có tính năng KHÁNG KHUẨN, an toàn cho sức khỏe chị em, yên tâm với làn da nhạy cảm.</p>\n<p>THANH THANH XIN CẢM ƠN QUÝ KHÁCH ĐÃ GHÉ THĂM VÀ MUA SẮM TẠI SHOP!!!</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 35000,
+        "product_quantity": 6691,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Thun",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "175568",
+        "product_name": "Combo 10 quần lót thun lạnh trơn Nhiều màu hàng việt nam 01",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/73/75/de/cedfeab245b4e3724194ecb8df7eb493.jpg",
+            "https://salt.tikicdn.com/ts/product/3a/c1/c6/bfc6a6890c4d2efa3d2c381803f0b47f.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chất liệu: thun lạnh</p>\n   <p>Đặc điểm:</p>\n   <p>- Chất liệu: chất thun lạnh mềm, mịn, thoáng co giãn tốt.</p>\n   <p>- Thiết kế tinh tế, vừa vặn sẽ cho bạn cảm giác dễ chịu tuyệt đối.</p>\n   <p>- Đường may chắc chắn, tỉ mỉ, độ bền </p>\n   <p>- Hướng dẫn sử dụng: in chi tiết trên mác sản phẩm</p>\n   <p>ÁCH CHỌN SIZE QUẦN LÓT NỮ</p>\n   <p>Thông thường, với chiều cao trung bình của phụ nữ Việt Nam khoảng 154cm thì người có cân nặng khoảng,40 – 52kg dùng size M, 50 – 57kg dùng size L và từ 55-62kg trở lên dùng size XL hoặc từ 62kg -70kg XXL tùy theo chiều cao. Dưới đây là bảng quy đổi size quần lót nữ giúp bạn lựa chọn chiếc quần lót đúng với kích cỡ mông của mình thông qua 2 số đo vòng mông hoặc cân nặng và chiều cao.</p>\n   <p>SIZE VÒNG MÔNG (cm) CÂN NẶNG (kg) CHIỀU CAO (cm)</p>\n   <p>M 85-92 40-52 155-160</p>\n   <p>L 90-97 50-57 160-165</p>\n   <p>XL 95-102 55-62 165-175</p>\n   <p>XXL &gt;100 &gt;60 &gt;175</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 210000,
+        "product_quantity": 7339,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Thun",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Combo 10",
+                "options": [
+                    "Size :L",
+                    "Size :M",
+                    "Size :XL",
+                    "Size :XXL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 210000,
+                "sku_stock": 2980
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 210000,
+                "sku_stock": 1488
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 210000,
+                "sku_stock": 9401
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 210000,
+                "sku_stock": 5873
+            }
+        ]
+    },
+    {
+        "product_shop": "175568",
+        "product_name": "Sét 10 Quần lót nữ thun lạnh hàng cao cấp hàng việt nam (Từ 45kg  đến 68kg)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/67/1e/3f/f7f354b58667511345d20f855ec19d00.jpg",
+            "https://salt.tikicdn.com/ts/product/f9/0d/ca/69779c449c509b0ff01a4b01dab77dd4.jpg",
+            "https://salt.tikicdn.com/ts/product/bc/d6/89/69b82cc467929e35282454bb0cc93737.jpg",
+            "https://salt.tikicdn.com/ts/product/0c/aa/64/97d23d0ae9df3d3331142cd73738f3ef.jpg",
+            "https://salt.tikicdn.com/ts/product/f8/36/59/4b33493f201affc8925b047853aac125.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Sét 10 Quần thun lạnh -chất vải thun lạàu sắc: nhiều màu -Xuất xứ: Việt Nam</p>\n   <p>- Size: M( 40kg-49kg, vòng mông 81-87 ), L (49kg- 55kg, vòng mông 87-90), XL( 55-61kg, vòng mông 90-95), XXL(61- 68kg, vòng mông 95-102</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 226800,
+        "product_quantity": 3462,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Thun",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "SIZE ",
+                "options": [
+                    "2XL: 61kg-68kg",
+                    "L: 49kg-55kg",
+                    "M: 40kg-49kg",
+                    "XL: 55kg-61kg"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 226800,
+                "sku_stock": 4331
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 226800,
+                "sku_stock": 3073
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 226800,
+                "sku_stock": 4136
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 226800,
+                "sku_stock": 4380
+            }
+        ]
+    },
+    {
+        "product_shop": "156113",
+        "product_name": "Combo 10 quần lót thun lạnh ren trước  Nhiều màu hàng việt nam - 10 Cái Trắng Size 2XL",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/7a/13/96/265ca4f4d49b9cab090539c8b260ce84.jpg",
+            "https://salt.tikicdn.com/ts/product/1f/56/18/73a88d7bb776057a9f1817a87a06638e.jpg"
+        ],
+        "product_description": "<p>Chất liệu: thun lạnh</p>\n<p> </p>\n<p>Đặc điểm:</p>\n<p> </p>\n<p>- Chất liệu: chất thun lạnh mềm, mịn, thoáng co giãn tốt.</p>\n<p> </p>\n<p>- Kiểu dáng nhỏ gọn ôm vừa sát cơ thể, làm nổi bật đường cong quyến rũ.</p>\n<p> </p>\n<p>- Thiết kế tinh tế, vừa vặn sẽ cho bạn cảm giác dễ chịu tuyệt đối.</p>\n<p> </p>\n<p>- Đường may chắc chắn, tỉ mỉ, độ bền </p>\n<p> </p>\n<p>- Hướng dẫn sử dụng: in chi tiết trên mác sản phẩm</p>\n<p>ÁCH CHỌN SIZE QUẦN LÓT NỮ</p>\n<p> </p>\n<p>Thông thường, với chiều cao trung bình của phụ nữ Việt Nam khoảng 154cm thì người có cân nặng khoảng,40 – 50kg dùng size M, 50 – 55kg dùng size L và từ 55-62kg trở lên dùng size XL hoặc từ 62kg -70kg XXL tùy theo chiều cao. Dưới đây là bảng quy đổi size quần lót nữ giúp bạn lựa chọn chiếc quần lót đúng với kích cỡ mông của mình thông qua 2 số đo vòng mông hoặc cân nặng và chiều cao.</p>\n<p> </p>\n<p>SIZE VÒNG MÔNG (cm) CÂN NẶNG (kg) CHIỀU CAO (cm)</p>\n<p>M 85-92 40-50 155-160</p>\n<p>L 90-97 50-55 160-165</p>\n<p>XL 95-102 55-62 165-175</p>\n<p>XXL &gt;100 &gt;60 &gt;175</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 160000,
+        "product_quantity": 5218,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "54614",
+        "product_name": "Combo 5 Quần Lót Nữ Cotton Co Giãn ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/1a/a4/29/6bc22daf2b163883f68b782309eb8b34.jpg",
+            "https://salt.tikicdn.com/ts/product/fe/50/2f/e81418952dd7bb21920e0f9e8a575f61.jpg",
+            "https://salt.tikicdn.com/ts/product/c2/9d/16/76609ac6621671e71702d9d87d9db13e.jpg",
+            "https://salt.tikicdn.com/ts/product/e2/58/c8/4b1f82efc62406d52ffe80028578992c.jpg",
+            "https://salt.tikicdn.com/ts/product/c3/51/12/e015d59fa5ec77f661f752e8cb2b263f.jpg",
+            "https://salt.tikicdn.com/ts/product/bb/ca/da/bb744ad66d5944b958357da0a1035c28.jpg",
+            "https://salt.tikicdn.com/ts/product/28/0e/5b/9d42aee1140694a4a0d73755cb4efafc.jpg",
+            "https://salt.tikicdn.com/ts/product/8b/36/a8/707c3c5ddc56bbb1ea24ec093a88abc9.jpg",
+            "https://salt.tikicdn.com/ts/product/ef/a6/92/d350cf7337d4020e765978e4590d9a77.jpg"
+        ],
+        "product_description": "<p>Combo 5 Quần Lót Nữ Cotton Co Giãn </p>\n<p>Chất cotton lạnh siêu mềm mịn,có độ co giãn vừa phải, đặc biệt cầm lên cực kì nhẹ</p>\n<p>Quần có viền ren không qua cầu kì, khi mặc lên sẽ không hề bị lộ vân lộ viền.</p>\n<p>Chất cotton lạnh tạo cảm giác thoáng mát mà không hề bị bí bách</p>\n<p>MÔ TẢ SẢN PHẨM: Combo 5 Quần Lót Nữ Cotton Co Giãn </p>\n<p>-------------------------</p>\n<p>Chất liệu thun cotton mềm mại và thông thoáng, luôn tạo cảm giác thoải mái và dễ chịu khi mặc.</p>\n<p>Dễ dàng kết hợp với nhiều kiểu trang phục thường ngày.</p>\n<p>Kích thước : 50-65kg</p>\n<p>Màu sắc : Đa dạng, phóng phú</p>\n<p>CAM KẾT CHẤT LƯỢNG SẢN PHẨM VÀ DỊCH VỤ</p>\n<p>Shop chỉ bán đồ tuyển chọn, chất lượng tốt mang đến sự thoải mái cho các chị</p>\n<p>Sản phẩm chất lượng và đẹp như hình.</p>\n<p>Không gửi sản phẩm lỗi, sai màu...</p>\n<p>QUYỀN LỢI KHÁCH HÀNG</p>\n<p>Các Chị em có quyền “HOÀN HÀNG” nhận lại tiền với các lý do:</p>\n<p>Hàng giao không đúng màu, đúng size.</p>\n<p>Hoặc không giống như hình ảnh quảng cáo.</p>\n<p>Combo 5 Quần Lót Nữ Cotton Co Giãn </p>\n<p>-------------------------</p>\n<p>Đặt hàng hoặc inbox Shop để được tư vấn tận tình nhé các Chị!</p>\n<p>Xem sản phẩm bán chạy nhất của shop tại đây:</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 226000,
+        "product_quantity": 9466,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton Tre",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "175568",
+        "product_name": "Combo 10 quần lót nữ, quần su đúc hoa cao cấp 015- LN059",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/0b/ec/55/b4b0596af90a8367a9df25300a303600.jpg",
+            "https://salt.tikicdn.com/ts/product/6f/31/24/a938348c0a4e2bc7ba1ae189207953d8.jpg",
+            "https://salt.tikicdn.com/ts/product/c1/07/0b/9be930016180915577f5636a0f812969.jpg",
+            "https://salt.tikicdn.com/ts/product/db/42/2e/7f10647d2b3c4bd7cb3526f972e0be32.jpg",
+            "https://salt.tikicdn.com/ts/product/f4/3e/f8/b45577bb02b91580e5772f7b64ff09e7.jpg"
+        ],
+        "product_description": "<p style=\"text-align: center;\"><strong>Combo 10 quần lót nữ, quần su đúc hoa cao cấp 015- LN059</strong></p>\n<ul class=\"\">\n<li class=\"\" data-spm-anchor-id=\"a2o4n.pdp_revamp.product_\">Chất liệu vải su, mềm mại, thoáng mát mang đến cho người mặc sự thoải mái, dễ chịu</li>\n<li class=\"\">Form ôm, tôn dáng cho bạn thêm tự tin khi mặc</li>\n<li class=\"\">Vải quần ôm mát dịu, nhiều màu sắc, không hằn thun khi mặc phù hợp với nhiều trang phục</li>\n<li class=\"\">Free size &lt; 55kg\n<p style=\"text-align: center;\"><img id=\"https://salt.tikicdn.com/ts/tmp/db/42/2e/acb128315e2a107662e29f39a9dfb549.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/db/42/2e/acb128315e2a107662e29f39a9dfb549.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p style=\"text-align: center;\"><img id=\"https://salt.tikicdn.com/ts/tmp/f4/3e/f8/1de5046614fea798d9104033cfcb28f5.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/f4/3e/f8/1de5046614fea798d9104033cfcb28f5.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p style=\"text-align: center;\"><img id=\"https://salt.tikicdn.com/ts/tmp/c1/07/0b/da73e10566bd4a03729b01331cafd347.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/c1/07/0b/da73e10566bd4a03729b01331cafd347.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p style=\"text-align: center;\"><img id=\"https://salt.tikicdn.com/ts/tmp/6f/31/24/80cd0bc37176c2bba3bb1edb533ebcf7.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/6f/31/24/80cd0bc37176c2bba3bb1edb533ebcf7.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/e8/b1/8a/696632e97efd1d43f0c9ec5d571a7524.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/e8/b1/8a/696632e97efd1d43f0c9ec5d571a7524.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 210000,
+        "product_quantity": 8600,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "156113",
+        "product_name": "Combo 10 quần lót ren Cotton cao cấp MQ 988",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a2/7d/b8/dd23501f5d031e111dff663c11482895.jpg",
+            "https://salt.tikicdn.com/ts/product/4f/f3/99/ef66724655daf06b9a8f6158f4fada0e.jpg",
+            "https://salt.tikicdn.com/ts/product/6e/f0/63/468ce2e530081f05556ed137a4274f7c.jpg",
+            "https://salt.tikicdn.com/ts/product/b3/83/1f/993f75178fc896432549fffaf78ddbfb.jpg"
+        ],
+        "product_description": "<p>- Chất liệu 100% COTTON</p>\n<p>- Mềm mỏng thoáng khí, đường ren gợi cảm rất mềm không gây hằn, rát lên da.</p>\n<p>- Thiết kế ôm sát lấy vòng 3, giúp định hình và tạo nét quyến rũ, gợi cảm cho các bạn gái.</p>\n<p>- Nhiều màu sắc thời trang, phù hợp với nhiều trang phục ngoài.</p>\n<p>- Màu sắc: y như hình, do shop tự chụp.</p>\n<p>- Viền ren đẹp, quyến rũ, gắn nơ sang chảnh</p>\n<p>- Kích thước: Freesize: 45-55kg</p>\n<p>- Xuất xứ: Hàng Việt Nam</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 215000,
+        "product_quantity": 2511,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "9257",
+        "product_name": "Combo trộn 5 màu khác nhau Quần lót cotton co giãn 4 chiều Thái Lan 3044",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/28/99/3c/de7d8bc467e97a4df59bc08c2f569314.jpg",
+            "https://salt.tikicdn.com/ts/product/72/a5/d6/74056a72dc985a8b4c3a58a947ba58bf.jpg",
+            "https://salt.tikicdn.com/ts/product/97/33/50/53a0bab8bb91c57cc5cc21423da19f8e.jpg",
+            "https://salt.tikicdn.com/ts/product/17/d4/1a/3f5f46b73af77a7e34d17a1b01efcbac.jpg",
+            "https://salt.tikicdn.com/ts/product/73/fe/50/cd738f49f7887c929fe9705849505f49.jpg",
+            "https://salt.tikicdn.com/ts/product/24/08/0a/9590f1bcb44c8006c9ffe1f4832e10b1.jpg",
+            "https://salt.tikicdn.com/ts/product/d5/67/3a/597c66303d92f2dc03f83ed50280795d.jpg"
+        ],
+        "product_description": "<p>Quần lót nữ sister hood 3044 Chất liệu mềm mịn</p>\n<p>Quần chất liệu mềm mát, mặt vải đanh, co giãn và thấm hút tốt tạo cảm giác thoải mái cho người sử dụng.</p>\n<p>Quần được làm bằng chất cotton mềm và mát thấm mồ hôi</p>\n<p>Quần form ôm mông nên các chị mặc ko lo dắt khe nhé.</p>\n<p>Quần lót cạp cao ôm bụng ạ.</p>\n<p>Đồ lót cotton luôn là lựa chọn tốt nhất cho chị em vì độ thấm hút và thoáng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 162000,
+        "product_quantity": 1703,
+        "product_category": [
+            "Quần ôm"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Thái Lan",
+            "Xuất xứ thương hiệu": "Thái Lan",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "104488",
+        "product_name": "Combo 3 quần lót nữ voan lụa cao cấp co giãn",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a7/39/10/f2bfe8fde1105d50aba5b241d9ab1a1b.jpg",
+            "https://salt.tikicdn.com/ts/product/cc/20/6d/5f0dc908de2ad4def9dfed58749e9fba.jpg",
+            "https://salt.tikicdn.com/ts/product/7a/b5/db/7749d3fc684c401aafcc9359faedb22d.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/2f/83/e107e231a0de9758d88592f6e27e7a3d.jpg",
+            "https://salt.tikicdn.com/ts/product/46/3f/63/a6432726fd43d1d4a5b8ca39ae1251c8.jpg",
+            "https://salt.tikicdn.com/ts/product/40/c1/de/35563170dde99240dc363dd0fa9a2ed1.jpg"
+        ],
+        "product_description": "<p>Quần voan lụa cao cấp cực mịn, cực dễ thương, kiểu dáng, màu sắc y hình</p>\n<p>Free size từ 45kg ~ 65kg</p>\n<p>Combo 3 màu ngẫu nhiên như hình</p>\n<p>Kiểu dáng trẻ trung sang chảnh phù hợp mọi lứa tuổi, mặc mẫu này rồi sẽ khó thích các mẫu khác lắ</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 84000,
+        "product_quantity": 9922,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "9257",
+        "product_name": "Combo 5 Chiếc Quần Lót Nữ Cotton Tăm Viền ren Xuất Nhật",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/22/d8/c4/8ca82d660d5e1fb0668a19513add059e.jpg",
+            "https://salt.tikicdn.com/ts/product/6f/f6/00/17738a0a4c64e848fb41dfe82db9fc1d.jpg",
+            "https://salt.tikicdn.com/ts/product/b0/ff/45/6aa49c46b9b410462c45613830f78a6c.jpg",
+            "https://salt.tikicdn.com/ts/product/75/7f/0d/8f6c7c5141a3c13a1ae95e7019a812d6.jpg",
+            "https://salt.tikicdn.com/ts/product/1a/82/95/2d6497cdf3941613d94a4284ee9e480e.jpg",
+            "https://salt.tikicdn.com/ts/product/91/b5/65/185b75aec23a649d9f7ec55380c681e5.jpg",
+            "https://salt.tikicdn.com/ts/product/7b/1a/f5/6b2fa78db3817de7c58fc2d5651d139d.jpg",
+            "https://salt.tikicdn.com/ts/product/31/3b/f2/f2e9f04f0d6948ce67ad03c9d9d6ef89.jpg",
+            "https://salt.tikicdn.com/ts/product/a7/c5/77/4e74a0404440ee55a12ac6ee006477ca.jpg",
+            "https://salt.tikicdn.com/ts/product/7b/e2/39/e3dda933ac684d00e079c14392b79b05.jpg",
+            "https://salt.tikicdn.com/ts/product/49/35/36/7d2a8813edc52838627a08dc7319d1b2.jpg"
+        ],
+        "product_description": "<p>Combo 5 Chiếc Quần lót cotton tăm. Kiểu dáng đơn giản nhưng vô cùng sexy</p>\n<p>Chất liệu mềm sẽ luôn đảm bảo các tiêu chí THOÁNG KHÍ, THẤM HÚT TUYỆT VỜI, MỀM MẠI ko gây khó chịu khi mặc.</p>\n<p>Quần được may chắc chắn, đàn hồi tốt, phần đùi quần co giãn thoải mái ko lo bị kích, KO LỘ VIỀN quần ngay cả khi mặc đồ bó sát hoặc mặc áo dài.</p>\n<p>Hàng một size, freesize đến dưới 65kg, TÙY DÁNG nha các chị em. Chị em nào có vòng 3 dưới 100cm mặc ok hết nha</p>\n<p>MÀU SẮC TƯƠI TRẺ, NỮ TÍNH. PHÙ HỢP VỚI NHIỀU LOẠI TRANG PHỤC, cho bạn thỏa thích lựa chọn.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 160000,
+        "product_quantity": 7051,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Nhật Bản",
+            "Xuất xứ thương hiệu": "Nhật Bản",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "47092",
+        "product_name": " Quần chíp ren vòng 2 bên - Màu tím",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/34/80/12/fb49c2737a48792b39b3aaae784c052d.jpg",
+            "https://salt.tikicdn.com/ts/product/96/0a/27/2c5d11810eabd99eaa0c599ce81bf43c.jpg"
+        ],
+        "product_description": "<p>QUẦN LÓT NỮ QUYẾN RŨ </p>\n<p>Thiết kế tính tế gợi cảm<br />- chất liệu ren liền mảnh không đường may;  chất vải rem mềm, siêu thoáng, cực co giãn, không rão.  </p>\n<p>- Không bị lộ viền khi mặc quần, váy bó sát. Cạp mềm mại. đường may tỉ mỉ, chắc chắn giúp sản phẩm đạt được độ bền cao.<br />- kết hợp chất liệu coton giúp thấm hút tốt, mềm mại, co giãn tốt ạ<br />- Kiểu dáng thời trang, gợi cảm form ôm tinh tế, nhấn mạnh vẻ đẹp đầy đặn, gợi cảm của vòng 3.<br />- Với thiết kế giúp thông hơi thoáng khí giúp chị em không bị ẩm ướt hay bí nóng nơi vùng kín đây chính lợi ích để chị em có thể kháng khuẩn ạ</p>\n<p>Cập quần được làm với chất liệu mềm, mịn giúp chị em mặc thoải mái, không khó chịu khi sử dụng quần cả ngày<br />Kích cỡ: FREE SIZE : CHIỀU DÀI EO 29CM ( CO GIÃN TỐI ĐA 40CM) HOẶC VÒNG EO TỪ 58 ĐẾN 80 CM ; TỪ 42-55 KG MẶC VỪA ĐẸP Ạ<br />MÀU NÀO CŨNG ĐẸP Ạ</p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/96/0a/27/2cca13c84a605936eccad426602ef11c.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/96/0a/27/2cca13c84a605936eccad426602ef11c.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/39/7b/c7/7bca06cf1b87c7a9bc5e010e59b2a2a7.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/39/7b/c7/7bca06cf1b87c7a9bc5e010e59b2a2a7.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/70/39/b0/055c2402ce8305369dc86a8af26e7f38.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/70/39/b0/055c2402ce8305369dc86a8af26e7f38.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 29000,
+        "product_quantity": 4502,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "156113",
+        "product_name": "Set 5 chiếc quần lót nữ hoa 3D thun lạnh điều hòa chất đẹp",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/37/1d/d0/04429c54b4f4d1f1f94a3b62d135abc8.PNG",
+            "https://salt.tikicdn.com/ts/product/bd/99/93/610c243801b8423d1f3a501b7c20f915.PNG",
+            "https://salt.tikicdn.com/ts/product/3b/88/3f/c2876bcad232ca9252752f8388e0844c.PNG",
+            "https://salt.tikicdn.com/ts/product/a3/db/9d/5dc5819cd29803ff78c2b9f1f82fb56b.JPG",
+            "https://salt.tikicdn.com/ts/product/b3/e2/79/ac621798f403a604a9df8ba31249f74f.JPG",
+            "https://salt.tikicdn.com/ts/product/bd/95/d9/6d59a7e679f2db342c81b7f7421bbeac.PNG",
+            "https://salt.tikicdn.com/ts/product/31/44/99/bccba06f85575017f4dc1bb584e81572.JPG",
+            "https://salt.tikicdn.com/ts/product/ce/c9/e6/9e5775dd2bc58714ccd177cd526d5cda.JPG",
+            "https://salt.tikicdn.com/ts/product/d0/9d/20/cc2b5ad3c868a0530ca8d518e3919625.JPG",
+            "https://salt.tikicdn.com/ts/product/d4/16/22/93224185f8f8b2fe3e0db28ac345bba1.JPG",
+            "https://salt.tikicdn.com/ts/product/f6/9c/04/08171f91e1c9c66b186214be5c5258ac.JPG",
+            "https://salt.tikicdn.com/ts/product/fe/9b/2d/e9921becd4836eea072202e5432fa0be.PNG",
+            "https://salt.tikicdn.com/ts/product/fe/b8/9b/3b783f6f929e69beddf57ce70e3083c6.JPG"
+        ],
+        "product_description": "<p>Ai bảo rằng những bộ <strong>đồ lót</strong> nằm ẩn sau dưới lớp áo quần kia không quan trọng, khi nó chính là món đồ mang đến sự tự tin cùng sự gợi cảm đầy quyến rũ của các cô nàng đây? Hơn thế nữa đây chính là item trực tiếp ảnh hưởng đến sức khỏe của các cô nàng nữa đấy, vì thế đừng lơ là trong cách chọn item này một cách thật chuyên nghiệp nhé. Với thiết kế dạng đùi phá cách mà đầy nhẹ nhàng, gợi cảm nhấn nhá thêm những họa tiết xinh xắn khác sẽ giúp nàng thêm tự tin mỗi khi diện sản phẩm. Và các cô nàng cũng đừng quên chọn những chất liệu êm ái tốt cho sức khỏe của mình nữa trong tiêu chuẩn lựa chọn đồ của mình đó. Ngoài những chất liệu tự nhiên cotton thì thun lạnh cũng là sự lựa chọn hoàn hảo cho các cô nàng đấy!</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/60/75/89/f0556a85905e07e45ad25c6c7dadb193.PNG\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>Họa tiết hoa lá tinh tế tạo nét nổi bật tạo điểm nhấn cho sản thêm phần thu hút, bắt mắt hơn</p>\n<p>Combo màu sắc ngẫu nhiên giúp phái đẹp dễ dàng thay đổi hàng ngày</p>\n<p> </p>\n<p>Chất liệu thun lạnh co giãn tốt, mềm mại, thoáng mát, không lo hầm bí khi mặc</p>\n<p>fom ôm trọn vòng 3 thoải mái cho mọi hoạt động</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/4e/ab/1c/6a951ce86d3e2761b3aa5b2138c5e24e.JPG\" alt=\"\" width=\"720\" height=\"720\" /></p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 135000,
+        "product_quantity": 9515,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "9257",
+        "product_name": "5 quần lót nữ chất cotton thoáng mát in hình ngôi sao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a7/36/99/11f3f2bb5582f855322df95054d921fa.jpg",
+            "https://salt.tikicdn.com/ts/product/df/0e/3b/6d0b813a291db792a35d2ab0884424d6.jpg",
+            "https://salt.tikicdn.com/ts/product/53/94/0a/8cc368a16ae9908b0c861ffe0b239934.jpg",
+            "https://salt.tikicdn.com/ts/product/3e/9f/d4/688d3352ff7107199ae1a583976d9137.jpg",
+            "https://salt.tikicdn.com/ts/product/36/8f/2f/c603f4a73b9e5017c74d913ad6f27232.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/7c/d4/09e0607b526625445b664c7156a21cf4.jpg",
+            "https://salt.tikicdn.com/ts/product/1b/6b/c0/9b3529a8645cd425640f21b6204aa53d.jpg"
+        ],
+        "product_description": "<div>Tự tin khoe dáng vóc gợi cảm với thời trang đồ lót cao cấp, cho bạn gái thân hình thon gọn, thoải mái diện những bộ trang phục ôm body yêu thích</div>\n<div>Chất liệu mỏng và mềm mại có khả năng thấm hút mồ hôi nhanh chóng là sự lựa chọn hoàn hảo</div>\n<div>Vải không bị xù lông khi giặt bằng máy, tính đàn hồi tốt và có độ bền cao, có chức năng kháng khuẩn và khử mùi,Quần chip có độ đàn hồi cao, sử dụng thời gian dài không bị bai, không gây hằn lên da mang lại cho bạn cảm giác thoải mái khi mặc.</div>\n<div>HƯỚNG DẪN BẢO QUẢN:</div>\n<div>• Không phơi dưới ánh nắng trực tiếp</div>\n<div>• Không tẩy, không sử dụng bột giặt có chất tẩy mạnh</div>\n<div>• Sấy ở nhiệt độ thường</div>\n<div>• Bền màu và đẹp hơn khi giặt tay</div>\n<div>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/df/0e/3b/9bb9529f4a39c1e39aaf5be77321ae0a.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/df/0e/3b/9bb9529f4a39c1e39aaf5be77321ae0a.jpg\" alt=\"\" width=\"700\" height=\"700\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/82/2f/69/e4d662a8e9362912bf9216e70a9ca4f3.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/82/2f/69/e4d662a8e9362912bf9216e70a9ca4f3.jpg\" alt=\"\" width=\"500\" height=\"500\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/3e/9f/d4/2a2bcc8e7ca47e54e5a956adacb86775.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/3e/9f/d4/2a2bcc8e7ca47e54e5a956adacb86775.jpg\" alt=\"\" width=\"700\" height=\"700\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/8f/7c/d4/66a3daa1dc0ddb9f6cf347d28b9b60bb.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/8f/7c/d4/66a3daa1dc0ddb9f6cf347d28b9b60bb.jpg\" alt=\"\" width=\"700\" height=\"700\" /></p>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 145000,
+        "product_quantity": 3411,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "96032",
+        "product_name": "Quần lót nữ đỏ hình tam giác sexy",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b9/fa/a9/7dbda0846c03e8f671affe2b847d102b.jpg",
+            "https://salt.tikicdn.com/ts/product/f4/2d/b5/47b150b281e17b49be0fb8d7171a3fea.jpg",
+            "https://salt.tikicdn.com/ts/product/b7/f5/dc/32c3194567a8f9147151b5e88ae3ceb3.jpg"
+        ],
+        "product_description": "<p><strong>Giới thiệu sản phẩm<em> QUẦN LÓT LỌT KHE</em></strong></p>\n<p>Chất liệu vải cao cấp</p>\n<p>- Sản phẩm được may từ chất liệu vải cao cấp là lựa chọn lý tưởng cho những cô nàng ưa chuộng cảm giác thoáng mát và theo đuổi phong cách gợi cảm.</p>\n<p>- Bề mặt vải mềm mại và an toàn khi sử dụng.</p>\n<p><strong>Thiết kế tinh tế</strong></p>\n<p>- Quần được thiết kế  lọt khe tam giác đơn giản nhưng  không kém phần gợi cảm, mang lại cảm giác thoải mái và thuận tiện cho việc sử dụng hằng ngày.</p>\n<p>Dệt may theo công nghệ hiện đại</p>\n<p>- Sản phẩm được dệt may tỉ mỉ theo công nghệ hiện đại giúp loại bỏ hoàn toàn các đầu chỉ thừa, không gây vướng víu khó chịu khi mặc. Các đường viền may chắc chắn giúp gia tăng tính thẩm mỹ.</p>\n<p>- Bên cạnh đó, cùng với chất liệu vải mềm mại , kiểu dáng quần giúp tôn lên vẻ quyến rũ cùng phong cách trẻ trung của phái đẹp.</p>\n<p>- Tông màu ngọt ngào và tươi sáng.</p>\n<p>- Sản phẩm có độ đàn hồi, độ co giãn và thông thoáng tốt giúp mọi hoạt động trở nên thật nhẹ nhàng.</p>\n<p>Đây là sự lựa chọn hoàn hảo mà mỗi cô nàng cần có trong tủ đồ của mình.Hãy nhanh tay sở hữu sản phẩm tuyệt vời này cho người thương  yêu của bạn nhé</p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/4d/05/2b/def4206b66cc25163a0247fd1681cc6b.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/4d/05/2b/def4206b66cc25163a0247fd1681cc6b.jpg\" alt=\"\" width=\"500\" height=\"500\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/f4/2d/b5/3f9e2a9b4729e20d0e8d7439c6fe4ca6.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/f4/2d/b5/3f9e2a9b4729e20d0e8d7439c6fe4ca6.jpg\" alt=\"\" width=\"700\" height=\"700\" /></p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 25000,
+        "product_quantity": 4290,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "9257",
+        "product_name": "Combo 5 quần lót ren nữ thoáng mát đẹp",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e6/dc/3a/b07320026463965cf98f0fc5ecf0a4a5.jpg",
+            "https://salt.tikicdn.com/ts/product/bb/62/23/45378fa37de0859b043a388216ede37c.jpg",
+            "https://salt.tikicdn.com/ts/product/9f/b2/31/158f5ef0a492161ecd59452741c53ea6.jpg",
+            "https://salt.tikicdn.com/ts/product/fc/74/a2/0dcd6611c29110e115a74c9c79d15c80.jpg",
+            "https://salt.tikicdn.com/ts/product/f8/96/a3/7847ed14e9890417c79bc4e7c5bde242.jpg",
+            "https://salt.tikicdn.com/ts/product/9b/46/90/b35a1b2eb8bde8bd32a7394e9e735715.jpg",
+            "https://salt.tikicdn.com/ts/product/3b/1e/db/c79aa4b55ed0bcb7b4401cb6d827c5a3.jpg",
+            "https://salt.tikicdn.com/ts/product/7e/73/aa/4b87f3b7b8368b6184b973062346c712.jpg",
+            "https://salt.tikicdn.com/ts/product/ac/6a/1b/44afad467b31c29dc8a25ada4442f2c6.jpg"
+        ],
+        "product_description": "<ul>\n<li><strong>Chất liệu ren cao cấp</strong></li>\n<li>Sản phẩm được may từ chất liệu vải ren cao cấp là lựa chọn lý tưởng cho những cô nàng ưa chuộng cảm giác thoáng mát và theo đuổi phong cách gợi cảm. Bề mặt vải mềm mại và an toàn khi sử dụng.</li>\n<li><strong>Thiết kế tinh tế</strong></li>\n<li>Quần được thiết kế đơn giản nhưng mang không kém phần gợi cảm, mang lại cảm giác thoải mái và thuận tiện cho việc sử dụng hằng ngày.</li>\n<li><strong>Dệt may theo công nghệ hiện đại</strong></li>\n<li>Sản phẩm được dệt may tỉ mỉ theo công nghệ hiện đại giúp loại bỏ hoàn toàn các đầu chỉ thừa, không gây vướng víu khó chịu khi mặc. Các đường viền may chắc chắn giúp gia tăng độ bền và tính thẩm mỹ.</li>\n<li>Bên cạnh đó, cùng với chất liệu ren, kiểu dáng quần giúp tôn lên vẻ quyến rũ cùng phong cách trẻ trung của phái đẹp.</li>\n<li>\n<div>Tông màu ngọt ngào và tươi sáng. Sản phẩm có độ đàn hồi, độ co giãn và thông thoáng tốt giúp mọi hoạt động trở nên thật nhẹ nhàng.Đây là sự lựa chọn hoàn hảo mà mỗi cô nàng cần có trong tủ đồ của mình.</div>\n</li>\n</ul>\n<p><img src=\"https://salt.tikicdn.com/ts/product/68/ae/67/7ed1959a3c8dc647e130895d9ed9715a.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/7d/74/35/c5b301e3991dec5fd71706897d8e40cf.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/30/50/9d/c48e9bda147e3ce62cddbb0c7b43e083.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/60/da/ce/32aa673297526afa82171fb8a8a4fa2a.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/fe/1c/a1/59d37903cd74fee7f3073d2e1718484e.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/ae/e4/ef/c5b9ab8710c4e7a012bef26be2a5902a.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/1a/68/57/dc4a9a36f6e3a665099ccc9523daa262.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/38/4d/39/37b3242ee1b660235efd841aa051b06a.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/1e/58/c5/c6b0cee9552272da378bf362b8060450.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/f4/99/99/1b6b66a1d4f5404f7de32823efa3efe6.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/ef/2e/03/a9d1db9e5f5bdd42bafc708607ef35b5.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/bb/de/6b/7c75363d22361d0bce8a19be3854ed0f.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/2c/6f/56/a8ad32664280a36aa9e68f2e4599e3ad.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/b4/b8/7a/9e7168db6cb5e27628c357cf49f52250.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/f8/39/ce/4f5bd145148c2bb29d26741a2327559e.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/55/cf/f2/fe5dd25d400bd750dbafd89981e934f9.jpg\" /><br /><br /><img src=\"https://salt.tikicdn.com/ts/product/37/b7/b8/1cca3c3dbf409cafccba7c7e75560115.jpg\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 156000,
+        "product_quantity": 8354,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "15176",
+        "product_name": "COMBO 05 QUẦN LÓT NỮ REN  CAO CẤP  QL1505 (Màu ngẫu nhiên) - TẶNG CẶP DÂY TRONG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/24/79/94/62de3a1a7ac34120af43bb95b35c21f3.jpg",
+            "https://salt.tikicdn.com/ts/product/b8/7c/6b/88e3834262d5f77abf72c7785e72c4cc.jpg",
+            "https://salt.tikicdn.com/ts/product/80/b9/65/bf16b9c1d22a6465846e347b3f3b9346.jpg",
+            "https://salt.tikicdn.com/ts/product/04/72/fc/022d7b2a465594f4102e9cffe95196ac.jpg"
+        ],
+        "product_description": "<p>Kiểu dáng đơn giản nhưng sang trọng, phù hợp với nhiều lứa tuổi.</p>\n<p>Chất liệu mỏng nhẹ, thoáng mát, mềm mịn mang lại cảm giác nhẹ nhàng cho bạn khi mặc, thấm hút mồ hôi tốt.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 159000,
+        "product_quantity": 3985,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Nhật Bản / Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "47092",
+        "product_name": "Quần lót nữ trễ eo xẻ đáy gợi cảm vải ren xuyên thấu đính nơ nhỏ - Màu đen",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/4b/cf/24/73ef2d2b518d8717c0e26797833a9646.jpg"
+        ],
+        "product_description": "<p>Với mong muốn cùng người phụ nữ Việt Nam luôn trở nên xinh đẹp và trẻ trung với trang phục mặc nhà và hấp dẫn với trang phục phòng ngủ gợi cảm, chúng tôi luôn nỗ lực cho ra đời những sản phẩm làm hài lòng khách hàng với tiêu chí :</p>\n<p>Chất liệu thân thiện với làn da : Lụa Satin, Ren mềm mại, Cotton</p>\n<p>Màu sắc dịu mắt và Kiểu dáng sang trọng, trẻ trung</p>\n<p>Ren vô cùng tinh tế sẽ làm bạn trở nên sexy dù ở bất cứ hoàn cảnh nào</p>\n<p>Thiết kế độc đáo và vô cùng bắt mắt</p>\n<p>mô tả thêm :Chất liệu : Ren</p>\n<p>Màu Sắc : Đỏ, Đen, Trắng , Hồng đậm , Hồng nhạt , Tím</p>\n<p>Size : Freesize&lt;65kg</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 29000,
+        "product_quantity": 6576,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "73281",
+        "product_name": "Combo 4 quần lót kháng khuẩn nâng mông",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/f6/ab/fb/b2c681f61b648b33a3bd37aa1ca1e9d4.png",
+            "https://salt.tikicdn.com/ts/product/6b/c2/2b/a6d5df5474f25ec1c3fc6fc130801e01.png",
+            "https://salt.tikicdn.com/ts/product/3d/4a/dd/3f68ba7844667a3fa26226841dd29450.png"
+        ],
+        "product_description": "<p>Hàng mới nhất 2019</p>\n<p>Quần thiết kế ôm dáng, vừa nâng mông vừa gen bụng, chống viêm nhiễm âm đạo! </p>\n<p>Chất cotton co giãn 4 chiều! </p>\n<p>Freesize 45-55kg! </p>\n<p>Hàng túi zip cực xịn! Đảm bảo hàng loại 1 ạ! </p>\n<p>4 màu đen, ghi, da, hồng! </p>\n<p>Mặc là mê liền.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 95000,
+        "product_quantity": 9698,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "104488",
+        "product_name": "Combo 10 quần lót ren thun mịn - 6903",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/f0/e4/82/e372fc86824729d15a89624667ba619a.png",
+            "https://salt.tikicdn.com/ts/product/12/49/08/d4b2a2a417f877fae0baad9b18078efe.png",
+            "https://salt.tikicdn.com/ts/product/9a/29/2c/ef46386219cc472d48a335272c608115.png",
+            "https://salt.tikicdn.com/ts/product/9a/29/2c/4cabb30474353f2ec18b2e4f7d44c41e.png",
+            "https://salt.tikicdn.com/ts/product/91/62/b7/3d46e5eec84c78234f03b4ffed04abc7.png"
+        ],
+        "product_description": "<p><img style=\"margin: 0px; padding: 0px; border-style: none; display: block; max-width: 100%; font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; height: auto !important;\" src=\"https://vn-live-01.slatic.net/shop/344131bd5712650db139afff35e88330.png\" data-spm-anchor-id=\"a2o4n.pdp.product_detail.i1.1e786c178GHBJL\" /><img style=\"margin: 0px; padding: 0px; border-style: none; display: block; max-width: 100%; font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; height: auto !important;\" src=\"https://vn-live-01.slatic.net/shop/666714491e96a9a3100e45dbb6c6417a.png\" data-spm-anchor-id=\"a2o4n.pdp.product_detail.i2.1e786c178GHBJL\" /><img style=\"margin: 0px; padding: 0px; border-style: none; display: block; max-width: 100%; font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; height: auto !important;\" src=\"https://vn-live-01.slatic.net/shop/6dcc6e0f04c605b380562eea835d0b60.png\" data-spm-anchor-id=\"a2o4n.pdp.product_detail.i3.1e786c178GHBJL\" /><img style=\"margin: 0px; padding: 0px; border-style: none; display: block; max-width: 100%; font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; height: auto !important;\" src=\"https://vn-live-01.slatic.net/shop/8bbbd453cbebd14c3869e18af99cef2f.png\" data-spm-anchor-id=\"a2o4n.pdp.product_detail.i4.1e786c178GHBJL\" /><img style=\"margin: 0px; padding: 0px; border-style: none; display: block; max-width: 100%; font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; height: auto !important;\" src=\"https://vn-live-01.slatic.net/shop/317e185d39f9efa2e879baefea0fcc2e.png\" data-spm-anchor-id=\"a2o4n.pdp.product_detail.i5.1e786c178GHBJL\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 120000,
+        "product_quantity": 3305,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "9257",
+        "product_name": "Combo 10 chiếc Quần Lót Ren Cạp Chéo Siêu Sexy",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/39/70/9d/857517fe87d9b4d6dc25e118b7428953.png",
+            "https://salt.tikicdn.com/ts/product/6f/8e/ea/01037c0d4729d45689ce083b5bac1862.png",
+            "https://salt.tikicdn.com/ts/product/e1/2c/d0/d912e33a90edff3780a122ecda45ea04.png"
+        ],
+        "product_description": "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 20px;\"><span style=\"box-sizing: border-box; color: #222222; font-size: 17.71px;\">Trong muôn vàn thứ quần thứ áo của phụ nữ, đồ lót chắc chắn là món đồ tinh tế nhất, là thứ trang phục “nhỏ mà có võ”</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 20px;\"><span style=\"box-sizing: border-box; font-size: 17px;\">Bản chất của việc mặc đồ lót là che chắn và bảo vệ vùng nhạy cảm. Song, với phụ nữ, đồ lót còn gánh thêm nhiệm vụ nâng đỡ, tôn lên vẻ nữ tính và đường cong cơ thể. Phàm là phụ nữ biết chú trọng hình thể, trân trọng cơ thể, chắc chắn tủ đồ của họ không thiếu đồ lót với kiểu dáng, chất liệu khác nhau, phục vụ nhu cầu và sở thích cá nhân.</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 20px;\"><span style=\"box-sizing: border-box; font-size: 17px;\">:Bộ 10 quần lót ren nơ chéo cao cấp</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Arial, sans-serif;\"><span style=\"box-sizing: border-box; font-size: 14pt;\"><span style=\"box-sizing: border-box; color: rgba(0, 0, 0, 0.8);\">Lót ren cạp chéo mẫu mới 5779 cực cỳ sexy về hàng rồi ạ:</span></span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Arial, sans-serif;\"><span style=\"box-sizing: border-box; font-size: 14pt;\"><span style=\"box-sizing: border-box; color: rgba(0, 0, 0, 0.8);\">- Chất thông hơi mát lịm mùa hè mặc em nó là chuẩn nhất nhé</span></span></p>\n<ul style=\"box-sizing: border-box; margin: 0px; padding: 0px; list-style: none; color: #212529; font-family: Roboto, 'Helvetica Neue', Arial, sans-serif;\">\n<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-size: 14pt;\"><span style=\"box-sizing: border-box; color: rgba(0, 0, 0, 0.8);\">Cạp nơ siêu xinh, mặc lên trông sexy lắm ạ!!! hihi!</span></span></li>\n<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-size: 14pt;\"><span style=\"box-sizing: border-box; color: rgba(0, 0, 0, 0.8);\">- Phom này khá to rộng nên các chị hơi nặng ký cũng bon chen được nhé.</span></span></li>\n<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-size: 14pt;\"><span style=\"box-sizing: border-box; color: rgba(0, 0, 0, 0.8);\">size từ 40 kg đến 60kg</span></span></li>\n<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-size: 14pt;\"><span style=\"box-sizing: border-box; color: rgba(0, 0, 0, 0.8);\">- Shop giao màu ngẫu nhiên nên các chị ko chọn màu nhé.</span></span></li>\n</ul>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 20px;\"><span style=\"box-sizing: border-box; font-size: 17px;\"><img style=\"box-sizing: border-box; vertical-align: middle; border-style: none; max-width: 100%; max-height: 100%; height: auto !important; margin: 0px auto; display: block;\" src=\"https://media3.scdn.vn/img2/2018/8_23/aezowd_simg_d0daf0_800x1200_max.jpg\" /><br style=\"box-sizing: border-box;\" /><br style=\"box-sizing: border-box;\" /><img style=\"box-sizing: border-box; vertical-align: middle; border-style: none; max-width: 100%; max-height: 100%; height: auto !important; margin: 0px auto; display: block;\" src=\"https://media3.scdn.vn/img2/2018/8_23/Eg7SrH_simg_d0daf0_800x1200_max.jpg\" /><br style=\"box-sizing: border-box;\" /><br style=\"box-sizing: border-box;\" /><img style=\"box-sizing: border-box; vertical-align: middle; border-style: none; max-width: 100%; max-height: 100%; height: auto !important; margin: 0px auto; display: block;\" src=\"https://media3.scdn.vn/img2/2018/8_23/xi30EA_simg_d0daf0_800x1200_max.jpg\" /><br style=\"box-sizing: border-box;\" /><br style=\"box-sizing: border-box;\" /><img style=\"box-sizing: border-box; vertical-align: middle; border-style: none; max-width: 100%; max-height: 100%; height: auto !important; margin: 0px auto; display: block;\" src=\"https://media3.scdn.vn/img2/2018/8_23/Ae6wS2_simg_d0daf0_800x1200_max.jpg\" /><br style=\"box-sizing: border-box;\" /><br style=\"box-sizing: border-box;\" /><img style=\"box-sizing: border-box; vertical-align: middle; border-style: none; max-width: 100%; max-height: 100%; height: auto !important; margin: 0px auto; display: block;\" src=\"https://media3.scdn.vn/img2/2018/8_23/p5gWn7_simg_d0daf0_800x1200_max.jpg\" /><br style=\"box-sizing: border-box;\" /><br style=\"box-sizing: border-box;\" /><img style=\"box-sizing: border-box; vertical-align: middle; border-style: none; max-width: 100%; max-height: 100%; height: auto !important; margin: 0px auto; display: block;\" src=\"https://media3.scdn.vn/img2/2018/8_23/zi91Vp_simg_d0daf0_800x1200_max.jpg\" />Thông tin sản phẩm :<br style=\"box-sizing: border-box;\" /><br style=\"box-sizing: border-box;\" /><br style=\"box-sizing: border-box;\" /></span></p>\n<ul style=\"box-sizing: border-box; margin: 0px; padding: 0px; list-style: none; color: #212529; font-family: Roboto, 'Helvetica Neue', Arial, sans-serif;\">\n<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-size: 17px;\">Tên sản phẩm : Bộ 10 <em style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box;\">quần lót ren nơ chéo</span></em> cao cấp</span></li>\n<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-size: 17px;\">Kích thước : free size ( phù hợp với người &lt; 58 kg )</span></li>\n<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-size: 17px;\">Màu sắc : Nhiều màu ( shop đóng màu ngẫ nhiên )</span></li>\n<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-size: 17px;\">Chất liệu : cotton pha ren cao cấp</span></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 222000,
+        "product_quantity": 9212,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "9257",
+        "product_name": "Combo 05 Quần Lót Nữ Thun Lạnh Misaki Bikini 8107 - Màu Ngẫu Nhiên",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e0/a6/3a/b297557e1661a40b35a1445e62172562.jpg",
+            "https://salt.tikicdn.com/ts/product/e3/97/f3/5c64ffc8788ffd6b8e6953435b65932e.jpg",
+            "https://salt.tikicdn.com/ts/product/81/3b/53/5eba444ad1335b2c45280596133d6763.jpg",
+            "https://salt.tikicdn.com/ts/product/25/5d/7f/153d6d2230af0849bd8847e65a4abd74.jpg"
+        ],
+        "product_description": "<ul>\n<li><strong>Combo 05 Quần Lót Nữ Thun Lạnh Misaki Bikini 8107 - Màu Ngẫu Nhiên </strong>được may từ chất liệu Microfiber (thun lạnh) mát mịn, thoáng khí, độ co giãn cao mang lại cảm giác thoải mái, dễ chịu khi mặc suốt cả ngày dài.</li>\n<li>Kiểu dáng Bikini (quần cạp thấp) trẻ trung ôm trọn vòng ba, kết hợp họa tiết ren nữ tính tạo nên sức hút riêng biệt.</li>\n<li>Màu sắc đơn giản, trang nhã dễ dàng kết hợp với nhiều trang phục khác nhau.</li>\n<li>Sản phẩm được sản xuất theo công nghệ Nhật Bản, không chứa chất bảo quản Formaldehyde (Phọc-môn) an toàn, không gây kích ứng da, bảo vệ sức khỏe người sử dụng.</li>\n</ul>\n<p style=\"text-align: left;\"><strong>Bảng size tham khảo:</strong></p>\n<table style=\"border-collapse: collapse; width: 45.8598%; margin-left: auto; margin-right: auto; height: 142px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"width: 12.4207%; text-align: center; height: 15px;\"><strong>Size</strong></td>\n<td style=\"width: 48.9741%; text-align: center; height: 15px;\"><strong>Vòng 3 (cm)</strong></td>\n</tr>\n<tr style=\"height: 14px;\">\n<td style=\"width: 12.4207%; text-align: center; height: 14px;\">S</td>\n<td style=\"width: 48.9741%; text-align: center; height: 14px;\">82 - 90</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 12.4207%; text-align: center; height: 15px;\">M</td>\n<td style=\"width: 48.9741%; text-align: center; height: 15px;\">87 - 95</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 12.4207%; text-align: center; height: 15px;\">L</td>\n<td style=\"width: 48.9741%; text-align: center; height: 15px;\">92 - 100</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 12.4207%; text-align: center; height: 15px;\">LL</td>\n<td style=\"width: 48.9741%; text-align: center; height: 15px;\">97 - 105</td>\n</tr>\n</tbody>\n</table><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 134000,
+        "product_quantity": 8666,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Model": "MFQB8107",
+            "Thương hiệu": "Misaki"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Màu Ngẫu Nhiên"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "M"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 134000,
+                "sku_stock": 8234
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "product_shop": "148433",
+        "product_name": "Sách - The Way To Give Generously",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/85/86/54/6534bc03860c63398f2408efb7fe71c0.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Năm xuất bản: 2020</p>\n   <p>Tác giả: The Wanderers</p>\n   <p>NXB: Đà Nẵng</p>\n   <p>Số trang: 160</p>\n   <p>Quý độc giả thân mến,</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 70000,
+        "product_quantity": 7533,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Không có",
+            "Nhà xuất bản": "Không có",
+            "ISBN-13": "0"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "51001",
+        "product_name": "Immune: A Journey into the Mysterious System That Keeps You Alive",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/25/23/1d/64b9882ece79e218286db74a439fd7b5.jpg",
+            "https://salt.tikicdn.com/ts/product/99/5a/a0/60421abaefeb0140e9f32eecda0c752f.jpg",
+            "https://salt.tikicdn.com/ts/product/54/8d/9d/f0ef3215a4eb7e712f5d38dbab01ef84.jpg",
+            "https://salt.tikicdn.com/ts/product/7c/a4/be/7b4bbdd469b819649561bbaf8048872c.jpg",
+            "https://salt.tikicdn.com/ts/product/e6/b5/a6/2dc108a58fe26e97d196bd2238f01168.jpg",
+            "https://salt.tikicdn.com/ts/product/f6/39/47/ef1e3c534e39dad9d751451b038ea377.jpg",
+            "https://salt.tikicdn.com/ts/product/99/c6/8a/52a9c533d6e86e02dff25ef7a58c7ea1.jpg",
+            "https://salt.tikicdn.com/ts/product/f9/bf/c6/6356e86cb01fc888483aa6ff6dd96ef0.jpg",
+            "https://salt.tikicdn.com/ts/product/5e/3b/93/6032ee560692de80f37476a5e45f78d8.jpg",
+            "https://salt.tikicdn.com/ts/product/74/e3/ba/d7b2bc36f724ff8c60a638e2e0ef47aa.jpg",
+            "https://salt.tikicdn.com/ts/product/eb/18/0b/bfe80ce6cae4d9aef8f093a4a8d3de50.jpg",
+            "https://salt.tikicdn.com/ts/product/9e/4e/a3/db2f7fc0903b25e39c516e401ef296f7.jpg",
+            "https://salt.tikicdn.com/ts/product/92/41/ea/4b21c4eff5a73a80c80935d65b8624d6.jpg",
+            "https://salt.tikicdn.com/ts/product/2d/87/b3/6c66db36c5310ce0ed23bde31811b692.jpg",
+            "https://salt.tikicdn.com/ts/product/40/9a/05/50ea64736247afdb7123d6c2bd95adbd.jpg",
+            "https://salt.tikicdn.com/ts/product/85/3b/a6/5ee00562f81f12cb29f2b47edeb6d000.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  Immune: A Journey into the Mysterious System That Keeps You Alive\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 725000,
+        "product_quantity": 3048,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Random House",
+            "Nhà xuất bản": "Random House USA Inc",
+            "ISBN-13": "9780593241318",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    }
+]

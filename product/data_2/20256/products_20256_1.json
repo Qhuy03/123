@@ -1,0 +1,721 @@
+[
+    {
+        "product_shop": "198468",
+        "product_name": "Động cơ điện phòng nổ Orange1, motor điện phòng chống cháy nổ 0.37kw - 7.5kw - Hàng chính hãng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c7/44/0d/8de19e1e21f6bf8e0e4e05f990192f96.jpg"
+        ],
+        "product_description": "<p> Frame size: IEC 56 - 160<br />Công suất: 0.06 - 18.5 Kw<br /> Số cực: 2, 4, 6, 8<br /> Hiệu suất: IE2 - IE3<br /> Điện áp tiêu chuẩn 400V 50Hz, phù hợp với điện lưới Việt Nam<br /> Kiểu lắp: B3 - B5 - B35 - B14 <br /> Bảo vệ: IP55 - IP56 - IP65 - IP66<br /> Lớp cách điện: F <br /> Tiêu chuẩn phòng nổ: Ex db - Ex db eb - Ex eb - Ex ec<br /> Chứng nhận phòng nổ: Atex - IECEx<br /> Sử dụng trong hóa chất, dầu khí, thực phẩm, sơn, khai thác mỏ, môi trường dễ cháy nổ,...<br />----------------------<br /> Kỹ Thuật Năng Lượng là nhà phân phối độc quyền các thương hiệu động cơ điện Enertech, hộp giảm tốc Transtecno, động cơ giảm tốc ao tôm cá Sagar. Chúng tôi cung cấp các sản phẩm:<br />- Động cơ điện 1 pha, 3 pha, phòng nổ, trung - cao thế, các dòng động cơ điện đặc biệt và phụ kiện động cơ điện,...<br />- Hộp giảm tốc gang, nhôm, biến tốc cơ...<br />- Dịch vụ sửa chữa động cơ điện AC hạ thế, AC trung thế, DC...<br /> Quý khách cần hỗ trợ thông tin sản phẩm hoặc giao hàng gấp vui lòng liên hệ sdt: 0902 477 357</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 7579000,
+        "product_quantity": 4627,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Enertech",
+            "Xuất xứ thương hiệu": "Australia",
+            "Model": "Orange1",
+            "Xuất xứ (Made in)": "Australia",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "Tòa nhà EverRich 1, 968 3/2 phường 15, quận 11, tphcm",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "Công ty TNHH Kỹ Thuật Năng Lượng",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Công suất",
+                "options": [
+                    "0.37kw-90S-4PB3",
+                    "0.55kw-90L-4PB3",
+                    "0.75kw-100-4PB3",
+                    "0.75kw-80-6PB3",
+                    "1.1kw-112-4PB3",
+                    "1.5kw-100-4PB3",
+                    "2.2kw-100-4PB3",
+                    "3kw-132S-4PB3",
+                    "4kw-132S-4PB3",
+                    "5.5kw-132M-4PB3",
+                    "7.5kw-160M-4PB3"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 7579000,
+                "sku_stock": 6657
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 7579000,
+                "sku_stock": 9721
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 7579000,
+                "sku_stock": 4383
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 7579000,
+                "sku_stock": 3748
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 7579000,
+                "sku_stock": 4303
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 7579000,
+                "sku_stock": 7490
+            },
+            {
+                "sku_tier_idx": [
+                    6
+                ],
+                "sku_price": 7579000,
+                "sku_stock": 1962
+            },
+            {
+                "sku_tier_idx": [
+                    7
+                ],
+                "sku_price": 7579000,
+                "sku_stock": 6961
+            },
+            {
+                "sku_tier_idx": [
+                    8
+                ],
+                "sku_price": 7579000,
+                "sku_stock": 4674
+            },
+            {
+                "sku_tier_idx": [
+                    9
+                ],
+                "sku_price": 7579000,
+                "sku_stock": 8541
+            },
+            {
+                "sku_tier_idx": [
+                    10
+                ],
+                "sku_price": 7579000,
+                "sku_stock": 1882
+            }
+        ]
+    },
+    {
+        "product_shop": "198468",
+        "product_name": "Động cơ điện Enertech 1 pha 1 tụ - motor điện 1 pha 1 tụ 0.37kw - 2.2kw - Hàng chính hãng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6a/ce/6c/8d7f8a54c9b30a9bf4e412b9741271d4.jpg"
+        ],
+        "product_description": "<p> Frame size: IEC 63 - 132<br />Công suất: 0.09 - 3 Kw<br /> Số vòng quay: 3000, 1500, 1000, 750 v/p<br /> Số cực: 2, 4, 6<br /> Hiệu suất: IE1 - IE2<br /> Điện áp tiêu chuẩn 220V 50Hz, phù hợp với điện lưới Việt Nam<br /> Kiểu lắp: B3 - B5 - B35 - B14 - B34<br /> Bảo vệ: IP55<br /> Lớp cách điện: F <br /> Tiêu chuẩn làm mát: IC410 - IC411<br /> Động cơ điện 1 pha Enertech ESS (Australia) được sản xuất phù hợp với tiêu chuẩn IEC 60034 và IEC 60072<br /> Hoạt động trong môi trường có nhiệt độ từ -20oC đến 50oC.<br /> Mức độ ồn của động cơ điện nằm trong giới hạn cho phép của IEC60034-9<br /> Động cơ điện Enertech ESS với thiết kế cải tiến, cho hiệu quả năng lượng cao, phù hợp để kết nối và vận hành với mọi thiết bị trong các ngành Bơm, Điện lạnh, Thủy sản, Môi trường, Cán tôn, Cơ khí chế tạo máy…<br />----------------------<br /> Kỹ Thuật Năng Lượng là nhà phân phối độc quyền các thương hiệu động cơ điện Enertech, hộp giảm tốc Transtecno, động cơ giảm tốc ao tôm cá Sagar. Chúng tôi cung cấp các sản phẩm:<br />- Động cơ điện 1 pha, 3 pha, phòng nổ, trung - cao thế, các dòng động cơ điện đặc biệt và phụ kiện động cơ điện,...<br />- Hộp giảm tốc gang, nhôm, biến tốc cơ...<br />- Dịch vụ sửa chữa động cơ điện AC hạ thế, AC trung thế, DC...<br /> Quý khách cần hỗ trợ thông tin sản phẩm hoặc giao hàng gấp vui lòng liên hệ sdt: 0902 477 357</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3672000,
+        "product_quantity": 5607,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Enertech",
+            "Xuất xứ thương hiệu": "Australia",
+            "Model": "ESS",
+            "Xuất xứ (Made in)": "Australia",
+            "Trọng lượng sản phẩm": "24.5 kg",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "Tòa nhà EverRich 1, 968 3/2 phường 15, quận 11, tphcm",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "Công ty TNHH Kỹ Thuật Năng Lượng",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Công suất",
+                "options": [
+                    "0.37kw-712-4PB3(1)",
+                    "0.55kw-801-4PB3(1)",
+                    "0.75kw-802-4PB3(1)",
+                    "1.1kw-90S-4PB3(1)",
+                    "1.5kw-90L-4PB3(1)",
+                    "2.2kw-100L1-4PB3(1)"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 3672000,
+                "sku_stock": 5276
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 3672000,
+                "sku_stock": 1061
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 3672000,
+                "sku_stock": 9187
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 3672000,
+                "sku_stock": 2061
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 3672000,
+                "sku_stock": 4090
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 3672000,
+                "sku_stock": 6063
+            }
+        ]
+    },
+    {
+        "product_shop": "198468",
+        "product_name": "Động cơ điện Enertech 3 pha vỏ nhôm 0.37kw - 2.2kw, motor điện vỏ nhôm - Hàng chính hãng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ee/dd/3a/e5133903d811373939932a22ff47b8a2.jpg",
+            "https://salt.tikicdn.com/ts/product/7c/17/3b/4c272075ae69fddece73ddc782a0631d.jpg",
+            "https://salt.tikicdn.com/ts/product/74/70/82/551ff58004e7fb835eed25ac86af72e0.jpg"
+        ],
+        "product_description": "<p> Frame size: IEC 56 - 160<br />Công suất: 0.06 - 11 Kw<br /> Số vòng quay: 3000, 1500, 1000, 750 v/p<br /> Số cực: 2, 4, 6, 8<br /> Hiệu suất: IE1 - IE2 - IE3 - IE4 - IE5<br /> Điện áp tiêu chuẩn 380V 50Hz, phù hợp với điện lưới Việt Nam<br /> Kiểu lắp: B3 - B5 - B35 - B14 - B34<br /> Bảo vệ: IP55 - IP56 - IP65 - IP66<br /> Lớp cách điện: F - H<br /> Tiêu chuẩn làm mát: IC410 - IC411 - IC416<br /> Động cơ điện 3 pha Enertech ESA (Australia) được sản xuất phù hợp với tiêu chuẩn IEC 60034 và IEC 60072<br /> Hoạt động trong môi trường có nhiệt độ từ -20oC đến 50oC.<br /> Mức độ ồn của động cơ điện nằm trong giới hạn cho phép của IEC60034-9<br /> Động cơ điện Enertech ESC với thiết kế cải tiến, cho hiệu quả năng lượng cao, phù hợp để kết nối và vận hành với mọi thiết bị trong các ngành Bơm, Điện lạnh, Thủy sản, Môi trường, Cán tôn, Cơ khí chế tạo máy…<br />----------------------<br /> Kỹ Thuật Năng Lượng là nhà phân phối độc quyền các thương hiệu động cơ điện Enertech, hộp giảm tốc Transtecno, động cơ giảm tốc ao tôm cá Sagar. Chúng tôi cung cấp các sản phẩm:<br />- Động cơ điện 1 pha, 3 pha, phòng nổ, trung - cao thế, các dòng động cơ điện đặc biệt và phụ kiện động cơ điện,...<br />- Hộp giảm tốc gang, nhôm, biến tốc cơ...<br />- Dịch vụ sửa chữa động cơ điện AC hạ thế, AC trung thế, DC...<br /> Quý khách cần hỗ trợ thông tin sản phẩm hoặc giao hàng gấp vui lòng liên hệ sdt: 0902 477 357</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1977000,
+        "product_quantity": 6999,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Enertech",
+            "Xuất xứ thương hiệu": "Australia",
+            "Chất liệu": "<p>nhôm</p>",
+            "Model": "ESA",
+            "Xuất xứ (Made in)": "Australia",
+            "Trọng lượng sản phẩm": "20 kg",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "Tòa nhà EverRich 1, 968 3/2 phường 15, quận 11, tphcm",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "Công ty TNHH Kỹ Thuật Năng Lượng",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Công suất",
+                "options": [
+                    "0.37kw-712-4PB3",
+                    "0.55kw-801-4PB3",
+                    "0.75kw-802-4PB3",
+                    "1.1kw-90S-4PB3",
+                    "1.5kw-90L-4PB3",
+                    "2.2kw-100L1-4PB3"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 1977000,
+                "sku_stock": 4312
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 1977000,
+                "sku_stock": 4452
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 1977000,
+                "sku_stock": 1485
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 1977000,
+                "sku_stock": 6578
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 1977000,
+                "sku_stock": 6547
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 1977000,
+                "sku_stock": 8545
+            }
+        ]
+    },
+    {
+        "product_shop": "207457",
+        "product_name": "Động Cơ Servo Mitsubishi HC-SFS52 | Hàng Chính Hãng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a3/be/de/9e13add721d2b082c30b4867db5e4b92.jpg",
+            "https://salt.tikicdn.com/ts/product/71/3c/70/438405f85e3d17fadceb91cdc2645e35.jpg",
+            "https://salt.tikicdn.com/ts/product/60/9d/72/2ffbc8bdf7cc99ea4feae17ca087b57a.jpg"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/71/3c/70/1d8a8e14796e4349b2216f0d23187cb7.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n<p><strong>Thông số kỹ thuật động cơ Servo Mitsubishi HC-SFS52:</strong></p>\n<table style=\"border-collapse:collapse;width:69.9187%;height:144px;\" border=\"1\"><tbody><tr style=\"height:18px;\"><td style=\"width:24.5257%;height:18px;\"><strong>Điện áp cung cấp</strong></td>\n<td style=\"width:45.393%;height:18px;\">200VAC</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:24.5257%;height:18px;\"><strong>Công suất</strong></td>\n<td style=\"width:45.393%;height:18px;\">0.5 kW</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:24.5257%;height:18px;\"><strong>Tốc độ vòng quay</strong></td>\n<td style=\"width:45.393%;height:18px;\">2000 - 3000 vòng/phút</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:24.5257%;height:18px;\"><strong>Encoder</strong></td>\n<td style=\"width:45.393%;height:18px;\">17-bit, độ phân giải 131.072 xung/vòng</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:24.5257%;height:18px;\"><strong>Mô men xoắn</strong></td>\n<td style=\"width:45.393%;height:18px;\">2.39 N/n, Max 7.16 N/n</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:24.5257%;height:18px;\"><strong>Tương thích với Servo Amplifiler</strong></td>\n<td style=\"width:45.393%;height:18px;\">MR-J2S-60A, MR-J2S-60B, MR-J2S-60CP, MR-J2S-60CL</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:24.5257%;height:18px;\"><strong>Cấp độ bảo vệ</strong></td>\n<td style=\"width:45.393%;height:18px;\">IP65</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:24.5257%;height:18px;\"><strong>Ứng dụng</strong></td>\n<td style=\"width:45.393%;height:18px;\">điều khiển tốc độ, vị trí</td>\n</tr></tbody></table><p>AT Electric chuyên cung cấp thiết bị điện công nghiệp, tự động hóa, khí nén.</p>\n<p>• Bảo hành : 12 tháng.</p>\n<p>• Hàng Chính Hãng | Nguồn gốc rõ ràng.</p>\n<p>• Hỗ trợ kỹ thuật &amp; tư vấn nhiệt tình</p>\n<p>Hãy liên hệ với chúng tôi để biết thêm thông tin chi tiết sản phẩm và các dịch vụ hỗ trợ lắp đặt, sửa chữa và đổi trả sản phẩm.</p>\n<p>Chúng tôi sẽ giúp bạn lựa chọn được những sản phẩm tốt nhất, phù hợp nhất và tiết kiệm nhất.</p>\n<p>Quý khách hàng có nhu cầu đặt mua thiết bị điện công nghiệp, tự động hóa, khí nén, motor với số lượng lớn. Xin vui lòng nhắn tin với Shop để được tư vấn &amp; hỗ trợ tốt nhất. Chúng tôi sẽ phản hồi lại ngay với quý khách hàng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 12000000,
+        "product_quantity": 4783,
+        "product_category": [
+            "Thiết Bị Số - Phụ Kiện Số"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Mitsubishi Electric",
+            "Xuất xứ thương hiệu": "Japan",
+            "Model": "HC-SFS52",
+            "Xuất xứ (Made in)": "Japan",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "207457",
+        "product_name": "Động Cơ Servo Mitsubishi HC-MFS73 | Hàng Chính Hãng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/39/85/f5/6cdf0df25c257d833315255e9f018c40.jpg",
+            "https://salt.tikicdn.com/ts/product/01/fa/b6/b86dc649a9040563ef686e6ba194307c.jpg",
+            "https://salt.tikicdn.com/ts/product/c9/16/43/441715dbd8c93b93ac37a891d4efa908.jpg"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/01/fa/b6/4da2a9a34646841b723d15a15ede70b1.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n<p><strong>Thông số kỹ thuật động Cơ Servo Mitsubishi HC-MFS73:</strong></p>\n<table style=\"border-collapse:collapse;width:66.3943%;height:144px;\" border=\"1\"><tbody><tr style=\"height:18px;\"><td style=\"width:25.5194%;height:18px;\"><strong>Điện áp cung cấp</strong></td>\n<td style=\"width:40.8763%;height:18px;\">200 V</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:25.5194%;height:18px;\"><strong>Công suất</strong></td>\n<td style=\"width:40.8763%;height:18px;\">0.75 kW</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:25.5194%;height:18px;\"><strong>Tốc độ vòng quay</strong></td>\n<td style=\"width:40.8763%;height:18px;\">3000 - 4500 vòng/phút</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:25.5194%;height:18px;\"><strong>Encoder</strong></td>\n<td style=\"width:40.8763%;height:18px;\">17-bit, độ phân giải 131.072 xung/vòng</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:25.5194%;height:18px;\"><strong>Mô men xoắn</strong></td>\n<td style=\"width:40.8763%;height:18px;\">2.4 N/n, Max 7.2 N/n</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:25.5194%;height:18px;\"><strong>Tương thích với Servo Amplifiler</strong></td>\n<td style=\"width:40.8763%;height:18px;\">MR-J2S-70A, MR-J2S-70B, MR-J2S-70CP, MR-J2S-70CL</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:25.5194%;height:18px;\"><strong>Cấp độ bảo vệ</strong></td>\n<td style=\"width:40.8763%;height:18px;\">IP55</td>\n</tr><tr style=\"height:18px;\"><td style=\"width:25.5194%;height:18px;\"><strong>Ứng dụng</strong></td>\n<td style=\"width:40.8763%;height:18px;\">điều khiển tốc độ, vị trí</td>\n</tr></tbody></table><p>AT Electric chuyên cung cấp thiết bị điện công nghiệp, tự động hóa, khí nén.</p>\n<p>• Bảo hành : 12 tháng.</p>\n<p>• Hàng Chính Hãng | Nguồn gốc rõ ràng.</p>\n<p>• Hỗ trợ kỹ thuật &amp; tư vấn nhiệt tình</p>\n<p>Hãy liên hệ với chúng tôi để biết thêm thông tin chi tiết sản phẩm và các dịch vụ hỗ trợ lắp đặt, sửa chữa và đổi trả sản phẩm.</p>\n<p>Chúng tôi sẽ giúp bạn lựa chọn được những sản phẩm tốt nhất, phù hợp nhất và tiết kiệm nhất.</p>\n<p>Quý khách hàng có nhu cầu đặt mua thiết bị điện công nghiệp, tự động hóa, khí nén, motor với số lượng lớn. Xin vui lòng nhắn tin với Shop để được tư vấn &amp; hỗ trợ tốt nhất. Chúng tôi sẽ phản hồi lại ngay với quý khách hàng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 33841000,
+        "product_quantity": 5964,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Mitsubishi Electric",
+            "Xuất xứ thương hiệu": "Japan",
+            "Model": "HC-MFS73",
+            "Xuất xứ (Made in)": "Japan",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "207457",
+        "product_name": "Động Cơ Servo Mitsubishi HF-KP23JK-S11 | Hàng Chính Hãng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ff/d7/8f/4054cf650e51a777465f04fbacff6129.jpg",
+            "https://salt.tikicdn.com/ts/product/36/5a/a1/8c9b2e6c76f68fc3ceab7fea22eeff32.jpg",
+            "https://salt.tikicdn.com/ts/product/7e/bb/65/33d41a765ebdac36aa1281d49818aa26.jpg"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/36/5a/a1/4e2292cfd6c270997c5c688bb437d258.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n<p><strong>Thông số kỹ thuật động cơ servo quay HF-KP23JK-S11:</strong></p>\n<table style=\"border-collapse:collapse;width:50.2258%;\" border=\"1\"><tbody><tr><td style=\"width:23.4417%;\"><strong>Dòng</strong></td>\n<td style=\"width:26.7841%;\">HF-KP</td>\n</tr><tr><td style=\"width:23.4417%;\"><strong>Điện áp định mức</strong></td>\n<td style=\"width:26.7841%;\">24 VDC 0/-10%</td>\n</tr><tr><td style=\"width:23.4417%;\"><strong>Dòng định mức</strong></td>\n<td style=\"width:26.7841%;\">1.4 A</td>\n</tr><tr><td style=\"width:23.4417%;\"><strong>Dòng điện max.</strong></td>\n<td style=\"width:26.7841%;\">4.2 A</td>\n</tr><tr><td style=\"width:23.4417%;\"><strong>Công suất đầu ra</strong></td>\n<td style=\"width:26.7841%;\">0.2 kW</td>\n</tr><tr><td style=\"width:23.4417%;\"><strong>Tốc độ định mức</strong></td>\n<td style=\"width:26.7841%;\">3000 r/min</td>\n</tr><tr><td style=\"width:23.4417%;\"><strong>Tốc độ max.</strong></td>\n<td style=\"width:26.7841%;\">6000 r/min</td>\n</tr><tr><td style=\"width:23.4417%;\"><strong>Mômen xoắn định mức</strong></td>\n<td style=\"width:26.7841%;\">0.64 N•m</td>\n</tr><tr><td style=\"width:23.4417%;\"><strong>Mômen xoắn max</strong></td>\n<td style=\"width:26.7841%;\">1.9 N•m</td>\n</tr><tr><td style=\"width:23.4417%;\"><strong> Mômen quán tính J</strong></td>\n<td style=\"width:26.7841%;\">0.24x10-4 kg•m2</td>\n</tr><tr><td style=\"width:23.4417%;\"><strong> Loại trục</strong></td>\n<td style=\"width:26.7841%;\">Trục khóa (có khóa)</td>\n</tr><tr><td style=\"width:23.4417%;\"><strong>Cấp bảo vệ</strong></td>\n<td style=\"width:26.7841%;\">IP65</td>\n</tr></tbody></table><p>AT Electric chuyên cung cấp thiết bị điện công nghiệp, tự động hóa, khí nén.</p>\n<p>• Bảo hành : 12 tháng.</p>\n<p>• Hàng Chính Hãng | Nguồn gốc rõ ràng.</p>\n<p>• Hỗ trợ kỹ thuật &amp; tư vấn nhiệt tình</p>\n<p>Hãy liên hệ với chúng tôi để biết thêm thông tin chi tiết sản phẩm và các dịch vụ hỗ trợ lắp đặt, sửa chữa và đổi trả sản phẩm.</p>\n<p>Chúng tôi sẽ giúp bạn lựa chọn được những sản phẩm tốt nhất, phù hợp nhất và tiết kiệm nhất.</p>\n<p>Quý khách hàng có nhu cầu đặt mua thiết bị điện công nghiệp, tự động hóa, khí nén, motor với số lượng lớn. Xin vui lòng nhắn tin với Shop để được tư vấn &amp; hỗ trợ tốt nhất. Chúng tôi sẽ phản hồi lại ngay với quý khách hàng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 8438000,
+        "product_quantity": 6435,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Mitsubishi Electric",
+            "Xuất xứ thương hiệu": "Japan",
+            "Model": "HF-KP23JK-S11",
+            "Xuất xứ (Made in)": "Japan",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "52073",
+        "product_name": "ROBOTIS DREAM Ⅱ Level 4- Hàng nhập khẩu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/f2/4e/2f/a1eb73d6662c5a0b6690be208140ae30.JPG",
+            "https://salt.tikicdn.com/ts/product/aa/cd/19/fa8a0cdc4458f571ba16d2142a1aada8.JPG",
+            "https://salt.tikicdn.com/ts/product/7a/a3/e8/123004969ad523c58fcc6d6635b50ed9.JPG",
+            "https://salt.tikicdn.com/ts/product/5c/1a/95/f61db659274dcaa13e7b67596f660fc0.JPG",
+            "https://salt.tikicdn.com/ts/product/20/b1/78/cebb500babf1f8d88e2598f055c98505.JPG",
+            "https://salt.tikicdn.com/ts/product/56/03/84/2b0ce8b592e124024c6a30e229524600.JPG",
+            "https://salt.tikicdn.com/ts/product/50/45/3e/800223bad39df11eb4c1ab4c1d9ae577.JPG"
+        ],
+        "product_description": "<p><span style=\"color: #ff0000;\">BẠN SẼ CẦN MUA BỘ ROBOTIS DREAM II CẤP 1, CẤP 2 VÀ CẤP 3 (HOẶC ROBOTIS DREAM LEVEL 2 VÀ ROBOTIS DREAM II LEVEL 2 JUMP KIT VÀ LEVEL 3) ĐỂ XÂY DỰNG CÁC SẢN PHẨM TRONG ROBOTIS DREAM II CẤP 4.</span></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/3e/2f/a9/f063331970ee2c1378f16a0721dcf830.png\" alt=\"\" width=\"606\" height=\"344\" /></p>\n<p>   Giáo dục STEAM là một khái niệm dạy học liên nghành kết hợp giữa nghệ với các môn học STEM truyền thống là: Khoa học, Công nghệ, Kĩ thuật và Toán học. Nó nhấn mạnh việc học tập dựa trên thực hành thay vì theo cách giáo dục truyền thống, kiến thức lý thuyết. STEAM là ý tưởng sáng tạo ban đầu của Trường Thiết Kế Rhode Island (Mỹ), sau đó được sử dụng bởi nhiều nhà giáo dục và dần dần lan rộng ra cả Hoa Kỳ. Đây là một phương pháp tiếp cận giáo dục kiểu mới, trong đó Khoa Học, Công Nghệ, Kỹ Thuật, Nghệ Thuật, và Toán Học cũng được sử dụng để giảng dạy và hướng dẫn cho học sinh. STEAM là một sự chuyển đổi từ cách thức giáo dục truyền thống, dựa vào tiêu chuẩn điểm số để đánh giá, với mục đích giúp học sinh hiểu được sự liên quan giữa các khối kiến thức và có thể vận dụng tốt vào thực tế.</p>\n<p>Isteam Robot thuộc Công ty TNHH Giải pháp Kỹ thuật Indruino tự hào là một trong những đơn vị phân phối sản phẩm chính hãng của Robotis về lĩnh vực Steam.</p>\n<p><strong>TỔNG QUAN NHANH</strong></p>\n<p>ROBOTIS DREAM II LEVEL 4 nâng cao kiến ​​thức về robot. Nó dạy các nguyên tắc của ròng rọc, các thiết bị khác và lập trình. Nó cũng dạy bạn cách sử dụng tất cả các thiết bị ngoại vi của robot.</p>\n<p>ROBOTIS DREAM II LEVEL 4 bao gồm 12 chương về lắp ráp, ứng dụng của các nguyên lý và giải quyết vấn đề.</p>\n<p>Bộ dụng cụ này đi kèm với:</p>\n<p>12 mẫu robot</p>\n<p>2 động cơ servo có thể được sử dụng ở chế độ bánh xe hoặc chế độ khớp.</p>\n<p><strong>ROBOTIS DREAM LÀ KHOA HỌC.</strong></p>\n<p>ROBOTIS DREAM giúp bạn hiểu không chỉ nguyên lý chuyển động mà còn cả tốc độ và lực, nguyên lý của đòn bẩy, độ đàn hồi và quán tính</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ SÁNG TẠO</strong></p>\n<p> Đồ chơi hình khối và số liệu có thể gây nhàm chán. Hãy sử dụng ROBOTIS DREAM để tạo ra một chú robot cho riêng bạn.</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ ĐA DẠNG</strong></p>\n<p> Bạn đã mất hứng thú với những con rô bốt có bánh xe? ROBOTIS DREAM cho phép bạn tạo các rô bốt hai chân, bốn chân, sáu chân, cũng như các rô bốt khác nhau. * Mở rộng thành nhiều robot thú vị hơn bằng cách sử dụng các cảm biến khác nhau.</p>\n<p><strong>ROBOTIS DREAM LÀ TRÒ CHƠI HẤP DẪN</strong></p>\n<p> Bạn sẽ ngạc nhiên về sự chú ý và tập trung của trẻ khi chơi với ROBOTIS DREAM. Điều này sẽ giúp cải thiện và phát triển khả năng sáng tạo và tư duy khoa học của các em.</p>\n<p><strong>ROBOTIS DREAM LÀ LOGIC</strong></p>\n<p> Thử thách bản thân để lập trình rô bốt của riêng bạn bằng phần mềm RoboPlus của chúng tôi. Phần mềm này cũng đang được sử dụng trong Bioloid, Dynamixel và robot cấp cao hơn.</p>\n<p><strong>ROBOTIS DREAM LÀ THIẾT KẾ</strong></p>\n<p> ROBOTIS DREAM sẽ thay đổi suy nghĩ của bạn về ý tưởng rập khuôn mà nhiều người mắc phải. Ai nói rằng robot buồn tẻ và nhàm chán? ROBOTIS DREAM có thể được thể hiện theo những cách tuyệt vời và thú vị!</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ MẠNH MẼ</strong></p>\n<p> ROBOTIS DREAM sử dụng pin li-ion để sử dụng và vận hành rô bốt dễ dàng, thuận tiện.</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ AN TOÀN</strong></p>\n<p> ROBOTIS DREAM không yêu cầu bất kỳ công cụ hàn hoặc nguy hiểm nào để lắp ráp rô bốt. Không những vậy, các mạch điện không bị hở đảm bảo an toàn cho bạn.</p>\n<p><strong>CÁC VÍ DỤ LẮP GHÉP ROBOT</strong></p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/f2/bc/a5/ffa378766b717ff4ed482afd63c8bddf.png\" alt=\"\" width=\"607\" height=\"976\" /></strong></p>\n<p>QUY TRÌNH ĐÀO TẠO</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/54/08/f5/c89b97eb5ca77ec5d1e9854a3db7a432.png\" alt=\"\" width=\"208\" height=\"143\" /></p>\n<p><strong>1-Tìm hiểu các nguyên tắc</strong></p>\n<p>Học và hiểu các nguyên tắc khoa họ</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/15/29/8c/379cb36f63f53f6d1ed1d5202011d3fe.png\" alt=\"\" width=\"208\" height=\"148\" /></p>\n<p><strong>2-Tạo ra một con robot</strong></p>\n<p>Chọn và chế tạo một robot.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/c2/b8/8f/922ad1dfe3d98ea32ea36ac3c8043ce2.png\" alt=\"\" width=\"208\" height=\"148\" /></p>\n<p><strong>3-Robot chuyển động</strong></p>\n<p>Thử nghiệm bằng cách di chuyển robot.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/10/96/9d/34609ef6e1a7041079c7e463fac9d56a.png\" alt=\"\" width=\"208\" height=\"148\" /></p>\n<p><strong>4-Giải quyết vấn đề</strong></p>\n<p>Giải quyết vấn đề và hiểu các nguyên tắc thông qua thử nghiệm.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/39/c6/80/a2c9f6631e611c69ce6014e7391be9cb.png\" alt=\"\" width=\"208\" height=\"148\" /></p>\n<p><strong>5-Xây dựng robot của riêng bạn!</strong></p>\n<p>Tùy chỉnh rô bốt của bạn để tạo rô bốt độc nhất của riêng bạn!</p>\n<p>DANH SÁCH CÁC CHI TIẾT</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/3f/5d/6c/ced2aaf47f0cdc1082cad6542a89013f.png\" alt=\"\" width=\"165\" height=\"1014\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3033000,
+        "product_quantity": 1515,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Robotis",
+            "Xuất xứ thương hiệu": "Hàn Quốc",
+            "Chất liệu": "<p>Nhựa và Kim loại</p>",
+            "Kết nối": "Micro USB",
+            "Kích thước": "<p>28x7x19 ( DxRxC,cm)</p>",
+            "Model": "ROBOTIS DREAM Ⅱ Level 4",
+            "Xuất xứ (Made in)": "Hàn Quốc",
+            "Trọng lượng sản phẩm": "0.7",
+            "Hệ điều hành": "Embedded",
+            "Cổng USB": "Micro USB",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "6 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "52073",
+        "product_name": "ROBOTIS OLLO J Kit set- Hàng Nhập khẩu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c7/1c/52/304ef0882cb2d8e78d5dd1610dee624d.jpg",
+            "https://salt.tikicdn.com/ts/product/d0/8f/75/4a3dbf409c9ac0921a1b396a5b47dde4.JPG",
+            "https://salt.tikicdn.com/ts/product/50/bd/4b/06f2a3fcbd5e9154ff7a2fb5225ee89d.JPG",
+            "https://salt.tikicdn.com/ts/product/14/94/e4/603b580026271c00e6c5e369e5d35701.JPG",
+            "https://salt.tikicdn.com/ts/product/90/83/87/7a68b122bddcc57b2c1757b8149a4e02.JPG",
+            "https://salt.tikicdn.com/ts/product/ca/11/0a/1825fde321f41b2e84e67ca687f3b6a1.JPG",
+            "https://salt.tikicdn.com/ts/product/8b/a7/46/7a24f4ffc85467b3ce7daa656542ea73.JPG",
+            "https://salt.tikicdn.com/ts/product/38/33/b4/dc2f26d45d1b4b3310248a8a6081c5d2.JPG",
+            "https://salt.tikicdn.com/ts/product/4a/0e/b0/6cf74fce6c4e1dfd2f20ff8be9c7e6e2.JPG"
+        ],
+        "product_description": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/3e/2f/a9/78b0f2c720789f7b59dda7dab9271a4f.png\" alt=\"\" width=\"606\" height=\"344\" /></p>\n<p>Giáo dục STEAM là một khái niệm dạy học liên nghành kết hợp giữa nghệ với các môn học STEM truyền thống là: Khoa học, Công nghệ, Kĩ thuật và Toán học. Nó nhấn mạnh việc học tập dựa trên thực hành thay vì theo cách giáo dục truyền thống, kiến thức lý thuyết. STEAM là ý tưởng sáng tạo ban đầu của Trường Thiết Kế Rhode Island (Mỹ), sau đó được sử dụng bởi nhiều nhà giáo dục và dần dần lan rộng ra cả Hoa Kỳ. Đây là một phương pháp tiếp cận giáo dục kiểu mới, trong đó Khoa Học, Công Nghệ, Kỹ Thuật, Nghệ Thuật, và Toán Học cũng được sử dụng để giảng dạy và hướng dẫn cho học sinh. STEAM là một sự chuyển đổi từ cách thức giáo dục truyền thống, dựa vào tiêu chuẩn điểm số để đánh giá, với mục đích giúp học sinh hiểu được sự liên quan giữa các khối kiến thức và có thể vận dụng tốt vào thực tế.</p>\n<p>Isteam Robot thuộc Công ty TNHH Giải pháp Kỹ thuật Indruino tự hào là một trong những đơn vị phân phối sản phẩm chính hãng của Robotis về lĩnh vực Steam.</p>\n<p><strong>Tổng quan</strong></p>\n<p>Ollo J1-J12 Kit là một Bộ công cụ giáo dục giới thiệu về người máy được thiết kế cho học sinh đầu vào.</p>\n<p>Ollo J1-J12 Kit cho phép tạo ra 48 ví dụ lắp ráp điều khiển động cơ khác nhau được trang bị trong các bài học, đồng thời sử dụng bảng biểu tượng đinh tán và tấm nhỏ của chúng tôi để xây dựng nhanh và thú vị.</p>\n<p>Chơi với Ollo J1-J12 Kit và làm cho trí tưởng tượng của bạn trở nên sống động</p>\n<p><strong>Các tính năng của Ollo J Kit</strong></p>\n<p>Các mảnh ghép và đinh tán 12MM để lắp ráp và tháo rời dễ dàng (Cũng tương thích với bộ Play 600 và 700)</p>\n<p>Bao gồm bộ điều khiển động cơ đầu ra 5 chiều (CM-15)</p>\n<p>12 Sách bài tập (Có sẵn 48 bộ lắp ráp rô bốt khác nhau)</p>\n<p>Các bài học tương tác và lắp ráp rô bốt kích thích khả năng sáng tạo và giải quyết vấn đề.</p>\n<p>Tăng cường phát triển Lời nói, Xã hội và Nhận thức.</p>\n<p>Chơi với những ý tưởng sáng tạo bằng cách lắp ráp rô bốt của bạn bằng kết nối các mảnh ghép lại với nhau bằng đinh tán !</p>\n<p><strong>OLLO J Package</strong></p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/16/8e/0c/5e00ae87b3274b9d4d6827ed9e9a4d23.png\" alt=\"\" width=\"603\" height=\"211\" /></strong></p>\n<p> </p>\n<p>Bạn sẽ cần sử dụng các bộ phận từ bộ OLLO J 1-8 để lắp ráp robot từ bộ OLLO J 9-12.</p>\n<p><strong>48 BÀI HỌC</strong></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/a6/37/3a/4d31c737f9aa63d15cc3d5c6a11ba0d6.png\" alt=\"\" width=\"605\" height=\"675\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 5437000,
+        "product_quantity": 7428,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "6 Tháng",
+            "Thương hiệu": "Robotis",
+            "Xuất xứ thương hiệu": "Hàn Quốc",
+            "Chất liệu": "<p>Nhựa và Kim loại</p>",
+            "Kết nối": "Micro USB",
+            "Kích thước": "<p>38x12x32 ( DxRxC, cm)</p>",
+            "Model": "ROBOTIS OLLO J Kit set",
+            "Xuất xứ (Made in)": "Hàn Quốc",
+            "Trọng lượng sản phẩm": "2.4",
+            "Hệ điều hành": "Embedded",
+            "Cổng USB": "Micro USB"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "52073",
+        "product_name": "ROBOTIS OLLO K Kit set- Hàng nhập khẩu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/cc/8d/f8/f9579b7080221f4979ab8f21187c3f6c.png",
+            "https://salt.tikicdn.com/ts/product/f4/e6/8a/863c68992b130e8c1aee86086af0743b.JPG",
+            "https://salt.tikicdn.com/ts/product/4f/98/02/87aeead9f523bad77c02144c4342fa3f.JPG",
+            "https://salt.tikicdn.com/ts/product/66/90/d5/7d77ca0e3915e1aa2eaee5fcad3a84f6.JPG",
+            "https://salt.tikicdn.com/ts/product/c9/29/03/c556a5fb84f65ab81758ff0cab31117a.JPG",
+            "https://salt.tikicdn.com/ts/product/68/5d/73/d3058b2b3824b2f92d5ed193cc991ea8.JPG",
+            "https://salt.tikicdn.com/ts/product/ae/bd/c6/de575e4a32980303917cfa2cfdde5b40.JPG",
+            "https://salt.tikicdn.com/ts/product/d3/74/31/29cab07696d1ba44cc41b367b7a49a85.JPG",
+            "https://salt.tikicdn.com/ts/product/71/a2/c5/22a750685b7381a95ea8bde97df9d65e.JPG",
+            "https://salt.tikicdn.com/ts/product/00/a9/83/98d59982c498fb5b9de1c97b3fbd9f6f.JPG"
+        ],
+        "product_description": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/3e/2f/a9/7a61942f06ac1e3d76056134e8b9d278.png\" alt=\"\" width=\"606\" height=\"344\" /></p>\n<p>Giáo dục STEAM là một khái niệm dạy học liên nghành kết hợp giữa nghệ với các môn học STEM truyền thống là: Khoa học, Công nghệ, Kĩ thuật và Toán học. Nó nhấn mạnh việc học tập dựa trên thực hành thay vì theo cách giáo dục truyền thống, kiến thức lý thuyết. STEAM là ý tưởng sáng tạo ban đầu của Trường Thiết Kế Rhode Island (Mỹ), sau đó được sử dụng bởi nhiều nhà giáo dục và dần dần lan rộng ra cả Hoa Kỳ. Đây là một phương pháp tiếp cận giáo dục kiểu mới, trong đó Khoa Học, Công Nghệ, Kỹ Thuật, Nghệ Thuật, và Toán Học cũng được sử dụng để giảng dạy và hướng dẫn cho học sinh. STEAM là một sự chuyển đổi từ cách thức giáo dục truyền thống, dựa vào tiêu chuẩn điểm số để đánh giá, với mục đích giúp học sinh hiểu được sự liên quan giữa các khối kiến thức và có thể vận dụng tốt vào thực tế.</p>\n<p>Isteam Robot thuộc Công ty TNHH Giải pháp Kỹ thuật Indruino tự hào là một trong những đơn vị phân phối sản phẩm chính hãng của Robotis về lĩnh vực Steam.</p>\n<p><strong>TỔNG QUAN</strong></p>\n<p>Bộ công cụ giáo dục có thể mở rộng OLLO K1-K12 Kit kích thích sự sáng tạo,</p>\n<p>kỹ năng giải quyết vấn đề và tư duy phản biện cho học sinh.</p>\n<p>Bộ OLLO K1- K12 bao gồm Bộ điều khiển có động cơ với cảm biến nhúng (CM- 50) và Bluetooth và Bộ điều khiển từ xa cho các hoạt động nhóm (RC- 200)! Học sinh có thể chơi với OLLO K bằng ứng dụng mã hóa: R + Block để tham gia vào các Chương trình Mã hóa Dựa trên Khối!</p>\n<p>Với Bộ OLLO K1- K12, hãy trải nghiệm một thế giới ngoài sức tưởng tượng!</p>\n<p><strong>Các tính năng của Kit OLLO K</strong></p>\n<p>Hệ thống đinh tán và tấm 12MM để lắp ráp và tháo rời dễ dàng (Cũng tương thích với bộ dụng cụ Play 600 và 700)</p>\n<p>Bao gồm Bộ điều khiển có động cơ với cảm biến nhúng (CM-50), Bluetooth và Bộ điều khiển từ xa được cung cấp cho các hoạt động (RC-200).</p>\n<p>Có 12 bộ sách bài tập (Có sẵn 48 bộ lắp ráp rô bốt khác nhau)</p>\n<p>Các bài học tương tác và lắp ráp robot kích thích khả năng sáng tạo và kỹ năng giải quyết vấn đề.</p>\n<p>Tăng cường Phát triển Lời nói, Xã hội và Nhận thức.</p>\n<p><strong>OLLO K Đóng gói</strong></p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/cf/77/de/bb0d2d92c3d01156f5ee37598b43aeab.png\" alt=\"\" width=\"537\" height=\"202\" /></strong></p>\n<p><strong>Các tính năng của WorkBook</strong></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/5a/77/dd/e359e5c6d00292dd75595aa7763d64b8.png\" alt=\"\" width=\"232\" height=\"327\" /></p>\n<p><strong>Hiểu biết</strong></p>\n<p>Giải thích các khái niệm và nguyên tắc đằng sau việc lắp ráp.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/e5/81/c5/df5631a413bbbd5b1411bfdf455b9976.png\" alt=\"\" width=\"232\" height=\"327\" /></p>\n<p><strong>Hoạt động</strong></p>\n<p>Tiến hành các hoạt động thực hành dựa trên các nguyên tắc khoa học.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/a1/92/41/74bebd1031b472fb8d78ada2cc4409f3.png\" alt=\"\" width=\"233\" height=\"327\" /></p>\n<p><strong>Lắp ráp</strong></p>\n<p>Dựa trên các nguyên tắc khoa học, hãy lắp ráp robot của riêng bạn mỗi tuần!</p>\n<p><strong>R+Block- Easy and Fun Block Coding</strong></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/95/0a/4e/1b74d17e99db37cb4eaa46efd03245e7.png\" alt=\"\" width=\"164\" height=\"151\" /></p>\n<p>R + Block là một ứng dụng mã hóa kéo và thả cho phép trẻ em dễ dàng học mã hóa.</p>\n<p>Với R + Block, bạn có thể học những kiến ​​thức cơ bản về mã hóa bằng cách sử dụng các khối được lập trình sẵn khác nhau để tạo các lệnh cụ thể cho robot của bạn!</p>\n<p>Đối với Bộ công cụ OLLO K, các bài học về mã hóa khối R + được cung cấp trong phiên bản PDF!</p>\n<p>Các thiết bị tương thích:</p>\n<p>Điện thoại thông minh dựa trên Android</p>\n<p>Máy tính bảng dựa trên Android</p>\n<p>Chromebook</p>\n<p><strong>Bạn sẽ cần sử dụng các bộ phận từ OLLO K 1-8 để lắp ráp robot từ OLLO K 9-12</strong></p>\n<p><strong>48 Bài học</strong></p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/50/4d/ef/cc73766fab1f959efdde7a5a5d0b9dc4.png\" alt=\"\" width=\"602\" height=\"462\" /></strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 6828000,
+        "product_quantity": 8601,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Robotis",
+            "Xuất xứ thương hiệu": "Hàn Quốc",
+            "Chất liệu": "<p>Nhựa và Kim loại</p>",
+            "Kết nối": "Micro USB",
+            "Kích thước": "<p>38x12x32 ( DxRxC, cm)</p>",
+            "Model": "ROBOTIS OLLO K Kit set",
+            "Xuất xứ (Made in)": "Hàn Quốc",
+            "Trọng lượng sản phẩm": "2.2",
+            "Hệ điều hành": "Embedded",
+            "Cổng USB": "Micro USB",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "52073",
+        "product_name": "ROBOTIS STEM LEVEL 1- Hàng nhập khẩu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/cc/d7/e0/7fc178b7c306409049431a1c356f68ca.JPG",
+            "https://salt.tikicdn.com/ts/product/33/f4/64/0de1a28fcdad808bd64f0e78f18654ef.JPG",
+            "https://salt.tikicdn.com/ts/product/52/5b/05/4dfb35ab6cf87328fe56a204bfede7d2.JPG",
+            "https://salt.tikicdn.com/ts/product/19/62/6e/94fe5f67d366bdd3b1e0d6f93c854854.JPG",
+            "https://salt.tikicdn.com/ts/product/02/aa/4b/19eecb90ca9a76bcf37a21994964815f.JPG",
+            "https://salt.tikicdn.com/ts/product/08/86/e8/68355deb758d55f4ddb35b5d8a42e5dd.JPG",
+            "https://salt.tikicdn.com/ts/product/20/87/ae/58d21f28192813198ceb31265c1f6b4e.JPG",
+            "https://salt.tikicdn.com/ts/product/3f/2e/bd/86ddb9735f0409ab1b9f7211e8f4c008.JPG",
+            "https://salt.tikicdn.com/ts/product/54/a5/f6/4c3af7a6325890f229f77c9e56a22dc2.JPG",
+            "https://salt.tikicdn.com/ts/product/6f/11/7b/ebdebd72ff9bc3b789a6f8420f5b9f4c.JPG",
+            "https://salt.tikicdn.com/ts/product/6d/84/a2/c722de42e37eecef10492fcbebae7d80.JPG",
+            "https://salt.tikicdn.com/ts/product/86/83/18/4a9beb62ae83e364e751e33da2a81ff4.JPG"
+        ],
+        "product_description": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/3e/2f/a9/3aa2d239f10e59f11674e2b4e897c037.png\" alt=\"\" width=\"606\" height=\"344\" /></p>\n<p>Giáo dục STEAM là một khái niệm dạy học liên nghành kết hợp giữa nghệ với các môn học STEM truyền thống là: Khoa học, Công nghệ, Kĩ thuật và Toán học. Nó nhấn mạnh việc học tập dựa trên thực hành thay vì theo cách giáo dục truyền thống, kiến thức lý thuyết. STEAM là ý tưởng sáng tạo ban đầu của Trường Thiết Kế Rhode Island (Mỹ), sau đó được sử dụng bởi nhiều nhà giáo dục và dần dần lan rộng ra cả Hoa Kỳ. Đây là một phương pháp tiếp cận giáo dục kiểu mới, trong đó Khoa Học, Công Nghệ, Kỹ Thuật, Nghệ Thuật, và Toán Học cũng được sử dụng để giảng dạy và hướng dẫn cho học sinh. STEAM là một sự chuyển đổi từ cách thức giáo dục truyền thống, dựa vào tiêu chuẩn điểm số để đánh giá, với mục đích giúp học sinh hiểu được sự liên quan giữa các khối kiến thức và có thể vận dụng tốt vào thực tế.</p>\n<p>Isteam Robot thuộc Công ty TNHH Giải pháp Kỹ thuật Indruino tự hào là một trong những đơn vị phân phối sản phẩm chính hãng của Robotis về lĩnh vực Steam.</p>\n<h2>Tổng quan</h2>\n<p>Robotis - Bioloid STEM level 1</p>\n<p>STEM level 1 bao gồm 7 robot mẫu và 21 tuần đào tạo giáo dục. Không giống như chương trình đào tạo đơn giản, lặp đi lặp lại, STEM level 1 giải thích chi tiết từ cơ bản của lập trình đến các nguyên tắc khoa học nâng cao (cơ cấu liên kết 4 thanh, lực ly tâm, lực hướng tâm, phần tử âm thanh, bánh răng vi sai, cơ cấu lái, ), do đó nó cho phép bạn tự định hướng việc học bằng cách tự mình giải quyết các vấn đề khác nhau.</p>\n<p><strong>Robotis - Bioloid STEM LEVEL 1</strong></p>\n<p>Cho học sinh tiếp xúc với Robotics là một cách tuyệt vời để dạy các hiệu trưởng STEM (Khoa học, Công nghệ, Kỹ thuật, Toán học), nhưng việc tập hợp các phần cứng, phần mềm và chương trình giảng dạy phù hợp có thể là một nhiệm vụ khó khăn. Đó là nơi có bộ BIOLOID mới nhất từ ​​ROBOTIS. Bộ Robot tiêu chuẩn BIOLOID STEM được thiết kế như một trải nghiệm học tập hoàn chỉnh về robot. Bộ STEM có phần cứng mô-đun, vì vậy bạn có thể chế tạo 7 robot khác nhau được thiết kế trước hoặc tiếp tục thiết kế robot của riêng bạn. Kết hợp điều đó với bộ điều khiển CM-530 linh hoạt và dễ lập trình, bạn sẽ thấy mình đang chế tạo rô bốt nhanh chóng! Bạn có thể dễ dàng tải các hành vi được lập trình sẵn cho rô bốt của mình bằng phần mềm RoboPlus và thậm chí viết lại và tải các hành vi tùy chỉnh của riêng bạn!</p>\n<p>Điều thực sự làm cho bộ STEM này khác biệt với các bộ giáo dục khác là hướng dẫn chương trình học tuyệt vời. Những hướng dẫn này khác xa với một hướng dẫn lắp ráp đơn giản - 2 sách bài tập này đại diện cho 21 tuần đào tạo giáo dục toàn diện. Bộ STEM chia mỗi chương thành ba giai đoạn: Giai đoạn Cơ bản, Giai đoạn Ứng dụng và Giai đoạn Thực hành. Đầu tiên, Giai đoạn Cơ bản sẽ giới thiệu cho học sinh các loại rô bốt và tính năng rô bốt khác nhau với mỗi loại để hiểu các phép loại suy, hình ảnh và ví dụ. Giai đoạn cơ bản sẽ kết thúc với việc học sinh lắp ráp robot với hướng dẫn rõ ràng. Tiếp theo Giai đoạn Ứng dụng sẽ dạy học sinh về lập trình bằng cách giải thích từng bước các ví dụ lập trình được viết sẵn. Giai đoạn này cũng sẽ giải thích toán học đi vào lập trình robot. Cuối cùng, Giai đoạn Thực hành sẽ cho sinh viên cơ hội tự giải quyết các vấn đề lập trình, cũng như tìm hiểu về các khái niệm rô bốt nâng cao. Vào cuối mỗi chương, học sinh sẽ có một robot hoạt động đầy đủ chạy mã tùy chỉnh mà họ đã viết!</p>\n<p>Tạo ra robot, tạo ra sự khác biệt.</p>\n<p>Tối ưu hóa cho các dự án khác.</p>\n<p><strong>Hoàn hảo cho các cuộc thi robot khác nhau</strong></p>\n<p>ROBOTIS STEM LEVEL 1 EXAMPLE ROBOT</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/c1/d7/cf/af63079d677accc6e8ca5de0f7fb99a5.png\" alt=\"\" width=\"160\" height=\"128\" /></p>\n<p>Chương 1. Robot làm theo lệnh theo trình tự</p>\n<p><strong>Sequential Command Robot</strong></p>\n<p>Tìm hiểu cách thực hiện các lệnh tuần tự</p>\n<p>Tìm hiểu về xếp hàng và chồng lên nhau.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/45/b1/87/430559a1829ecd32a16956de6a967bc9.png\" alt=\"\" width=\"154\" height=\"123\" /></p>\n<p>Chương 2. Bugbot biết cách giành chiến thắng trong trận chiến</p>\n<p><strong>Bug Fighter Robot</strong></p>\n<p>Tìm hiểu cấu tạo của liên kết 4 thanh</p>\n<p>Tìm hiểu 'Lực' trong khoa học</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/ab/54/1d/aa92a4779c0cd08f0a69a47a58964942.png\" alt=\"\" width=\"160\" height=\"109\" /></p>\n<p>Chương 3. Rô bốt di chuyển trên địa hình gồ ghề</p>\n<p><strong>Robot Tumbler</strong></p>\n<p>Tìm hiểu nguyên tắc bộ truyền đai</p>\n<p>Hiểu mối quan hệ của áp suất và mức độ</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/69/cd/dd/f2b82ff816aa18d6a328054ef23bf307.png\" alt=\"\" width=\"160\" height=\"120\" /></p>\n<p>Chapter 4.Tìm một con đường cho robot</p>\n<p><strong>Line Follower</strong></p>\n<p>Học cách tính quãng đường di chuyển</p>\n<p>Hiểu lực ly tâm và lực hướng tâm</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/44/ea/08/cec67ac827fceaa06df555e96b55c28c.png\" alt=\"\" width=\"160\" height=\"125\" /></p>\n<p>Chapter 5. Pbiểu diễn âm nhạc với robot</p>\n<p><strong>Digital Piano</strong></p>\n<p>Học cách tính số khả năng xảy ra</p>\n<p>Hiểu các yếu tố âm thanh</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/f2/9c/65/8e1eb76df4405d86cb5ec448b1545cea.png\" alt=\"\" width=\"133\" height=\"130\" /></p>\n<p>Chapter 6. Xe máy giữ thăng bằng</p>\n<p><strong>Motorcycle</strong></p>\n<p>Hiểu cơ chế lái</p>\n<p>Tìm hiểu nguyên lý của bánh răng vi sai</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/5a/1d/cd/73d29725cb63ea09005abe5da4f416fb.png\" alt=\"\" width=\"152\" height=\"101\" /></p>\n<p>Chapter 7. Xe thông minh tránh chướng ngại vật và vách đá</p>\n<p><strong>Avoider</strong></p>\n<p>Học cách tính chu vi của một hình</p>\n<p>Hiểu các yếu tố của robot</p>\n<p><strong>Phần mềm cho ROBOTIS STEM Level 1 </strong></p>\n<p><strong>ROBOTIS STEM Level 1 có thể sử dụng phần mềm</strong></p>\n<p>Để lập trình ROBOTIS STEM Level 1,bạn sẽ cần , tất cả được bao gồm trong RoboPlus.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 9611000,
+        "product_quantity": 4822,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Robotis",
+            "Xuất xứ thương hiệu": "Hàn Quốc",
+            "Chất liệu": "<p>Nhựa và kim loại</p>",
+            "Kết nối": "Micro USB",
+            "Kích thước": "<p>28x12x20 (DxRxC, cm)</p>",
+            "Model": "ROBOTIS STEM LEVEL 1",
+            "Xuất xứ (Made in)": "Hàn Quốc",
+            "Trọng lượng sản phẩm": "2.3",
+            "Hệ điều hành": "Embedded",
+            "Cổng USB": "Micro USB",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "6 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "52073",
+        "product_name": "ROBOTIS PLAY 300 DINOs- Hàng nhập khẩu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b8/7d/f5/d231b25d4bcb09f6096a7de83e50bc0c.JPG",
+            "https://salt.tikicdn.com/ts/product/0e/ef/59/657850916b875ef16c1ba68ec8751133.JPG",
+            "https://salt.tikicdn.com/ts/product/70/d0/7e/3b21c0317eae3f1dfa613817714b232f.JPG",
+            "https://salt.tikicdn.com/ts/product/cf/f9/da/dbfd5cda8ef2395142dbc782a4671760.JPG",
+            "https://salt.tikicdn.com/ts/product/95/c0/0d/31ae6cae56a60dc626d0567a8e72a7ca.JPG",
+            "https://salt.tikicdn.com/ts/product/16/a0/15/b9840ecba3536aca07819e373f185c4b.JPG",
+            "https://salt.tikicdn.com/ts/product/4d/b3/8f/5315d4c69a90db5550c7620fcff8aa62.JPG",
+            "https://salt.tikicdn.com/ts/product/c0/6a/75/a11aad131eee5fccd80551b59da5424c.JPG",
+            "https://salt.tikicdn.com/ts/product/5b/21/04/06edce4ddc64d2c1cd6f7bfc739dcf0d.JPG"
+        ],
+        "product_description": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/3e/2f/a9/5cd942344f07f318e1f3da03357687bf.png\" alt=\"\" width=\"606\" height=\"344\" /></p>\n<p>Giáo dục STEAM là một khái niệm dạy học liên nghành kết hợp giữa nghệ với các môn học STEM truyền thống là: Khoa học, Công nghệ, Kĩ thuật và Toán học. Nó nhấn mạnh việc học tập dựa trên thực hành thay vì theo cách giáo dục truyền thống, kiến thức lý thuyết. STEAM là ý tưởng sáng tạo ban đầu của Trường Thiết Kế Rhode Island (Mỹ), sau đó được sử dụng bởi nhiều nhà giáo dục và dần dần lan rộng ra cả Hoa Kỳ. Đây là một phương pháp tiếp cận giáo dục kiểu mới, trong đó Khoa Học, Công Nghệ, Kỹ Thuật, Nghệ Thuật, và Toán Học cũng được sử dụng để giảng dạy và hướng dẫn cho học sinh. STEAM là một sự chuyển đổi từ cách thức giáo dục truyền thống, dựa vào tiêu chuẩn điểm số để đánh giá, với mục đích giúp học sinh hiểu được sự liên quan giữa các khối kiến thức và có thể vận dụng tốt vào thực tế.</p>\n<p>Isteam Robot thuộc Công ty TNHH Giải pháp Kỹ thuật Indruino tự hào là một trong những đơn vị phân phối sản phẩm chính hãng của Robotis về lĩnh vực Steam.</p>\n<p><strong>TỔNG QUAN</strong></p>\n<p>Kích thích trí não trẻ em của bạn với ROBOTIS PLAY để có được những trải nghiệm giải trí thú vị và hiệu quả!</p>\n<p>Bạn có thể xây dựng 7 mẫu robot với ROBOTIS PLAY 300, bao gồm Brachio, Triceratops và Tyranno. ROBOTIS PLAY 300 DINOs là bộ sản phẩm rô bốt theo chủ đề khủng long thân thiện và đầy màu sắc có hộp điều khiển có động cơ cho phép các sáng tạo của con bạn trở nên sống động và chuyển động! Bộ dụng cụ này cũng có hệ thống đinh tán được cấp bằng sáng chế của ROBOTIS, cho phép những bộ óc sáng tạo khám phá không ngừng và phát triển hơn nữa khả năng sáng tạo của họ bằng cách đưa ra những hình vẽ và thiết kế mới.</p>\n<p><strong>ROBOTIS PLAY CÓ ĐỘNG CƠ</strong></p>\n<p>ROBOTIS PLAY không chỉ là một món đồ chơi xếp khối. Nó sử dụng một bộ truyền động (Bộ truyền động là một bộ phận sử dụng động cơ và bánh răng để làm cho rô bốt di chuyển) để tự di chuyển, giúp cải thiện khả năng nhận biết không gian của con bạn.</p>\n<p><strong>ROBOTIS PLAY LÀ SỰ ĐA DẠNG</strong></p>\n<p>ROBOTIS PLAY có nhiều chủ đề khác nhau, chẳng hạn như; rừng rậm, đại dương, ô tô và nhiều hơn nữa, giúp cải thiện khả năng sáng tạo của con bạn.</p>\n<p><strong>ROBOTIS PLAY NÂNG CAO SỰ TẬP TRUNG</strong></p>\n<p>ROBOTIS PLAY yêu cầu một công cụ để lắp ráp và tháo rời, giúp cải thiện sự tập trung của con bạn.</p>\n<p>ROBOTIS PLAY 300 DINOs là bộ sản phẩm rô bốt theo chủ đề khủng long thân thiện và đầy màu sắc có hộp điều khiển có động cơ cho phép các sáng tạo của con bạn trở nên sống động và chuyển động! Bộ dụng cụ này cũng có hệ thống đinh tán được cấp bằng sáng chế của ROBOTIS, cho phép những bộ óc sáng tạo khám phá không ngừng và phát triển hơn nữa khả năng sáng tạo của họ bằng cách đưa ra những hình vẽ và thiết kế mới.</p>\n<p>Đồ chơi rô bốt có động cơ, có thể cấu hình lại với chủ đề thú cưng</p>\n<p>Bao gồm hướng dẫn lắp ráp đơn giản</p>\n<p>Bao gồm 1 Động cơ giảm tốc (GM) với đầu ra hai chiều</p>\n<p>Hướng dẫn lắp ráp hoạt hình 3D với ứng dụng ROBOTIS R + Design miễn phí có sẵn trên Hệ thống iOS và Android</p>\n<p>Bạn có thể tạo tối đa 7 nhân vật robot khác nhau với ROBOTIS PLAY 300. Triceratops, Tyranno, Brachiosaurus và có thể được tạo bằng cách sử dụng sách hướng dẫn lắp ráp đầy màu sắc đi kèm với bộ này. Xây dựng các robot còn lại, bao gồm Bọ cánh cứng, Rồng, Cá sấu và Ếch bằng cách tải xuống ứng dụng R + Design MIỄN PHÍ trên Google Play hoặc Apple Store.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/bc/fe/fc/4343b26bebc4323c57255734d91056ca.png\" alt=\"\" width=\"245\" height=\"265\" /></p>\n<p><strong>Triceratops:</strong> Chạy bằng 4 chân.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/17/d7/8c/ca72f6822d1e0d9b88b4d3c684728c96.png\" alt=\"\" width=\"207\" height=\"285\" /></p>\n<p><strong>Tyranno:</strong> Đi bộ bằng 2 chân</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/cc/bd/5d/925db2d7c5c2f9227e154bf1b8336efd.png\" alt=\"\" width=\"300\" height=\"301\" /></p>\n<p><strong>Brachio:</strong> Đi bộ bằng 4 chân</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/ff/f9/6d/4c00692feb31c891ac94ec67349b17fd.png\" alt=\"\" width=\"163\" height=\"167\" /></p>\n<p><strong>Frog:</strong> Nhảy</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/f6/8d/92/080de3094b7eab8da8f7f05fc271e675.png\" alt=\"\" width=\"199\" height=\"174\" /></p>\n<p><strong>Crocodile:</strong> Bò</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/f5/74/a3/355251e01841380428b9f98f4a4a886c.png\" alt=\"\" width=\"182\" height=\"129\" /></p>\n<p><strong>Snail:</strong> <strong>Tiến về phía trước</strong></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/33/d5/bc/a07de9cae67104fd104f217b52421e28.png\" alt=\"\" width=\"182\" height=\"228\" /></p>\n<p><strong>Puff( dragon):</strong>  Tiến về phía trước</p>\n<p><strong>Danh sách chi tiết</strong></p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/d6/ba/9a/2c62e35193a7980df6be278c0215e8e3.png\" alt=\"\" width=\"513\" height=\"329\" /></strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1237000,
+        "product_quantity": 2810,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Robotis",
+            "Xuất xứ thương hiệu": "Hàn Quốc",
+            "Chất liệu": "<p>Nhựa và Kim loại</p>",
+            "Kết nối": "Micro USB",
+            "Kích thước": "<p>20x6x14 ( DxRxC, cm)</p>",
+            "Model": "ROBOTIS PLAY 300 DINOs",
+            "Xuất xứ (Made in)": "Hàn Quốc",
+            "Trọng lượng sản phẩm": "0.2",
+            "Hệ điều hành": "Embedded",
+            "Cổng USB": "Micro USB",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "6 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "52073",
+        "product_name": "ROBOTIS DREAM Ⅱ Level 5- Hàng nhập khẩu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/66/df/75/d1c9880cd45f5743438b8aec94043095.JPG",
+            "https://salt.tikicdn.com/ts/product/2b/c7/f9/6b349786ad064c655e569621a5bfc6e8.JPG",
+            "https://salt.tikicdn.com/ts/product/e4/0d/82/1b6c1a78f0b41b8382082107a1fa4894.JPG",
+            "https://salt.tikicdn.com/ts/product/0e/6e/03/8a9bf18319b64d19071e73fb3f4e914a.JPG",
+            "https://salt.tikicdn.com/ts/product/e0/39/67/f6c85ebaa12875fe0e43748f91e46020.JPG",
+            "https://salt.tikicdn.com/ts/product/19/75/2c/8568fa895b648cf0640b5cbf57795a81.JPG",
+            "https://salt.tikicdn.com/ts/product/15/21/64/e2852600dff43f776aed4239e8b78a9b.JPG",
+            "https://salt.tikicdn.com/ts/product/f3/63/c3/a72ede20039899aea8b01d87d0254d81.JPG",
+            "https://salt.tikicdn.com/ts/product/f4/6f/1a/aae43d6710ed3c22b6b56c8276750cbb.JPG",
+            "https://salt.tikicdn.com/ts/product/60/4c/ad/8bfd84c476811766652c536c1cd0a8b5.JPG",
+            "https://salt.tikicdn.com/ts/product/49/04/b3/48d2367c5be3574c38b153ad76d57506.JPG",
+            "https://salt.tikicdn.com/ts/product/72/51/8f/0ed145fccf307da8b02b4aeb98125bb8.JPG",
+            "https://salt.tikicdn.com/ts/product/78/c8/58/f13cf369dcac2b1cb572d3b657a52906.JPG"
+        ],
+        "product_description": "<p><span style=\"color: #ff0000;\">BẠN SẼ CẦN MUA ROBOTIS DREAM II CẤP 1, CẤP 2, CẤP 3AND CẤP 4 (HOẶC ROBOTIS DREAM LEVEL 2 VÀ ROBOTIS DREAM II LEVEL 2 JUMP KIT, LEVEL 3 VÀ LEVEL 4) ĐỂ XÂY DỰNG CÁC BÀI HỌC TRONG ROBOTIS DREAM CẤP II 5.</span></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/3e/2f/a9/287ee474dba1c0506d63bc699e5409c4.png\" alt=\"\" width=\"606\" height=\"344\" /></p>\n<p> Giáo dục STEAM là một khái niệm dạy học liên nghành kết hợp giữa nghệ với các môn học STEM truyền thống là: Khoa học, Công nghệ, Kĩ thuật và Toán học. Nó nhấn mạnh việc học tập dựa trên thực hành thay vì theo cách giáo dục truyền thống, kiến thức lý thuyết. STEAM là ý tưởng sáng tạo ban đầu của Trường Thiết Kế Rhode Island (Mỹ), sau đó được sử dụng bởi nhiều nhà giáo dục và dần dần lan rộng ra cả Hoa Kỳ. Đây là một phương pháp tiếp cận giáo dục kiểu mới, trong đó Khoa Học, Công Nghệ, Kỹ Thuật, Nghệ Thuật, và Toán Học cũng được sử dụng để giảng dạy và hướng dẫn cho học sinh. STEAM là một sự chuyển đổi từ cách thức giáo dục truyền thống, dựa vào tiêu chuẩn điểm số để đánh giá, với mục đích giúp học sinh hiểu được sự liên quan giữa các khối kiến thức và có thể vận dụng tốt vào thực tế.</p>\n<p>Isteam Robot thuộc Công ty TNHH Giải pháp Kỹ thuật Indruino tự hào là một trong những đơn vị phân phối sản phẩm chính hãng của Robotis về lĩnh vực Steam.</p>\n<p><strong>Tổng quan nhanh</strong></p>\n<p>ROBOTIS DREAM II LEVEL 5 cung cấp chương trình giảng dạy nâng cao hơn về robot. Các thiết bị máy móc như đèn LED và bánh đai được giới thiệu, đồng thời giảng dạy các nguyên tắc khoa học như chuyển đổi năng lượng. Ngoài ra, nhiều ví dụ được cung cấp, sẽ giúp bạn chuẩn bị cho các cuộc thi về người máy.</p>\n<p>ROBOTIS DREAM II LEVEL 5 bao gồm 12 chương về lắp ráp, ứng dụng của các nguyên lý và giải quyết vấn đề.</p>\n<p>Bộ dụng cụ này đi kèm với:</p>\n<p>Hướng dẫn lắp 12 kiểu robot mẫu.</p>\n<p>Mô-đun Bluetooth và bộ điều khiển từ xa rô bốt để điều khiển không dây (Bluetooth).</p>\n<p><strong>ROBOTIS DREAM LÀ KHOA HỌC.</strong></p>\n<p>ROBOTIS DREAM giúp bạn hiểu không chỉ nguyên lý chuyển động mà còn cả tốc độ và lực, nguyên lý của đòn bẩy, độ đàn hồi và quán tính</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ SÁNG TẠO</strong></p>\n<p>Đồ chơi hình khối và số liệu có thể gây nhàm chán. Hãy sử dụng ROBOTIS DREAM để tạo ra một chú robot cho riêng bạn.</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ ĐA DẠNG</strong></p>\n<p>Bạn đã mất hứng thú với những con rô bốt có bánh xe? ROBOTIS DREAM cho phép bạn tạo các rô bốt hai chân, bốn chân, sáu chân, cũng như các rô bốt khác nhau. * Mở rộng thành nhiều robot thú vị hơn bằng cách sử dụng các cảm biến khác nhau.</p>\n<p><strong>ROBOTIS DREAM LÀ TRÒ CHƠI HẤP DẪN</strong></p>\n<p>Bạn sẽ ngạc nhiên về sự chú ý và tập trung của trẻ khi chơi với ROBOTIS DREAM. Điều này sẽ giúp cải thiện và phát triển khả năng sáng tạo và tư duy khoa học của các em.</p>\n<p><strong>ROBOTIS DREAM LÀ LOGIC</strong></p>\n<p>Thử thách bản thân để lập trình rô bốt của riêng bạn bằng phần mềm RoboPlus của chúng tôi. Phần mềm này cũng đang được sử dụng trong Bioloid, Dynamixel và robot cấp cao hơn.</p>\n<p><strong>ROBOTIS DREAM LÀ THIẾT KẾ</strong></p>\n<p>ROBOTIS DREAM sẽ thay đổi suy nghĩ của bạn về ý tưởng rập khuôn mà nhiều người mắc phải. Ai nói rằng robot buồn tẻ và nhàm chán? ROBOTIS DREAM có thể được thể hiện theo những cách tuyệt vời và thú vị!</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ MẠNH MẼ</strong></p>\n<p>ROBOTIS DREAM sử dụng pin li-ion để sử dụng và vận hành rô bốt dễ dàng, thuận tiện.</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ AN TOÀN</strong></p>\n<p>ROBOTIS DREAM không yêu cầu bất kỳ công cụ hàn hoặc nguy hiểm nào để lắp ráp rô bốt. Không những vậy, các mạch điện không bị hở đảm bảo an toàn cho bạn.</p>\n<p>CÁC DẠNG ROBOT MẪU</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/b4/cb/c8/5bfe2987a2920ccb3449db6a20f38e14.png\" alt=\"\" width=\"604\" height=\"982\" /></p>\n<p><strong>Quy trình đào tạo</strong></p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/22/45/62/b79c5b46fdf2897393bae089619b1fda.png\" alt=\"\" width=\"196\" height=\"138\" /></strong></p>\n<p><strong>1-Tìm hiểu các nguyên tắc</strong></p>\n<p>Học và hiểu các nguyên tắc khoa học.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/28/4e/d4/3d9be6a928f848c8aef8495bd3a30917.png\" alt=\"\" width=\"200\" height=\"141\" /></p>\n<p><strong>2-Tạo ra một con robot</strong></p>\n<p>Chọn và chế tạo một robot.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/5a/ef/0b/1645d5e87cf18472da2c53d48f88b143.png\" alt=\"\" width=\"200\" height=\"142\" /></p>\n<p><strong>3-Robot chuyển động</strong></p>\n<p>Thử nghiệm bằng cách di chuyển robot.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/d2/df/68/acd7ec879eb76b994747652726c8c091.png\" alt=\"\" width=\"200\" height=\"142\" /></p>\n<p><strong>4-Giải quyết vấn đề</strong></p>\n<p>Giải quyết vấn đề và hiểu các nguyên tắc thông qua thử nghiệm.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/9a/d1/ef/5266b7346d3c7ca28e45a0ecf76197e4.png\" alt=\"\" width=\"203\" height=\"142\" /></p>\n<p><strong>5-Xây dựng robot của riêng bạn!</strong></p>\n<p>Tùy chỉnh rô bốt của bạn để tạo rô bốt độc nhất của riêng bạn!</p>\n<p><strong>Danh sách các chi tiết</strong></p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/e5/d3/e2/40ed8a573888828e193946b86561cd07.png\" alt=\"\" width=\"356\" height=\"991\" /></strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3033000,
+        "product_quantity": 4469,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Robotis",
+            "Xuất xứ thương hiệu": "Hàn Quốc",
+            "Chất liệu": "<p>Nhựa và Kim loại</p>",
+            "Kết nối": "Micro USB",
+            "Kích thước": "<p>28x7x19 ( DxRxC, cm)</p>",
+            "Model": "ROBOTIS DREAM Ⅱ Level 5",
+            "Xuất xứ (Made in)": "Hàn Quốc",
+            "Trọng lượng sản phẩm": "0.7",
+            "Hệ điều hành": "Embedded",
+            "Cổng USB": "Micro USB",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "6 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "52073",
+        "product_name": "ROBOTIS DREAM Ⅱ Level 3- Hàng nhập khẩu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/84/39/2f/901044cdc6f5d1b3ffc3808a8f4cf3cb.JPG",
+            "https://salt.tikicdn.com/ts/product/41/1b/f2/bcc18a7b3d882a4af96700fba01c40c9.JPG",
+            "https://salt.tikicdn.com/ts/product/9a/6d/93/33619f1486388e973576a1ac2249d142.JPG",
+            "https://salt.tikicdn.com/ts/product/2c/7e/62/60baf07731591fd2a05779c065e8a5f1.JPG",
+            "https://salt.tikicdn.com/ts/product/c9/d9/37/30716b63124e7dfdb5ca75d903938b13.JPG",
+            "https://salt.tikicdn.com/ts/product/8c/24/54/f83331fc4f96661f6fe79f263dc613f0.JPG",
+            "https://salt.tikicdn.com/ts/product/b7/89/b3/3d339a1e6052cbfc5aa72f21beb29cfc.JPG",
+            "https://salt.tikicdn.com/ts/product/d1/71/af/5c5d0992dbf557119e7d56af7750bf21.JPG",
+            "https://salt.tikicdn.com/ts/product/71/1b/b4/70a7504461e1eb4d13ce89bc8a0e0dc8.JPG",
+            "https://salt.tikicdn.com/ts/product/c2/d5/5a/ca78e344b11318986a26e29dc183eed6.JPG"
+        ],
+        "product_description": "<p><span style=\"color: #ff0000;\">BẠN SẼ CẦN MUA CÁC BỘ ROBOTIS DREAM II CẤP 1 VÀ CẤP 2 (HOẶC ROBOTIS DREAM LEVEL 2 và ROBOTIS DREAM II LEVEL 2 JUMP KIT) ĐỂ XÂY DỰNG CÁC VÍ DỤ TRONG ROBOTIS DREAM II CẤP 3.</span></p>\n<p><span style=\"color: #ff0000;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/3e/2f/a9/9090e8ab3c30ef7e67da7053e5200036.png\" alt=\"\" width=\"606\" height=\"344\" /></span></p>\n<p> Giáo dục STEAM là một khái niệm dạy học liên nghành kết hợp giữa nghệ với các môn học STEM truyền thống là: Khoa học, Công nghệ, Kĩ thuật và Toán học. Nó nhấn mạnh việc học tập dựa trên thực hành thay vì theo cách giáo dục truyền thống, kiến thức lý thuyết. STEAM là ý tưởng sáng tạo ban đầu của Trường Thiết Kế Rhode Island (Mỹ), sau đó được sử dụng bởi nhiều nhà giáo dục và dần dần lan rộng ra cả Hoa Kỳ. Đây là một phương pháp tiếp cận giáo dục kiểu mới, trong đó Khoa Học, Công Nghệ, Kỹ Thuật, Nghệ Thuật, và Toán Học cũng được sử dụng để giảng dạy và hướng dẫn cho học sinh. STEAM là một sự chuyển đổi từ cách thức giáo dục truyền thống, dựa vào tiêu chuẩn điểm số để đánh giá, với mục đích giúp học sinh hiểu được sự liên quan giữa các khối kiến thức và có thể vận dụng tốt vào thực tế.</p>\n<p>Isteam Robot thuộc Công ty TNHH Giải pháp Kỹ thuật Indruino tự hào là một trong những đơn vị phân phối sản phẩm chính hãng của Robotis về lĩnh vực Steam.</p>\n<p><strong>Tổng quan nhanh</strong></p>\n<p>ROBOTIS DREAM II LEVEL 3 cho bạn một cuốn workbook và nhiều mẫu robot cho tổng cộng 12 tuần, bao gồm học khái niệm, lắp ráp rô bốt, hiểu nguyên lý và giải quyết vấn đề. Trong khi bạn tạo ra 12 robot khác nhau, bạn có thể tìm hiểu nguyên tắc của các sản phẩm robot.</p>\n<p>ROBOTIS DREAM, là một bộ kit robot giáo dục từ ROBOTIS Co. LTD, là một giải pháp robot tối ưu được phát triển cho người mới bắt đầu sử dụng robot mà không gặp khó khăn.</p>\n<p>ROBOTIS DREAM II LEVEL 3 là một bộ robot để học các chủ đề khác nhau từ lý thuyết khoa học về cuộc sống hàng ngày như hồng ngoại, âm thanh, vận tốc, gia tốc, ma sát và hành động và phản ứng đến lý thuyết kỹ thuật như hệ thống động cơ và dẫn động 4 bánh.</p>\n<p><strong>ROBOTIS DREAM LÀ KHOA HỌC.</strong></p>\n<p>ROBOTIS DREAM giúp bạn hiểu không chỉ nguyên lý chuyển động mà còn cả tốc độ và lực, nguyên lý của đòn bẩy, độ đàn hồi và quán tính</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ SÁNG TẠO</strong></p>\n<p> Đồ chơi hình khối và số liệu có thể gây nhàm chán. Hãy sử dụng ROBOTIS DREAM để tạo ra một chú robot cho riêng bạn.</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ ĐA DẠNG</strong></p>\n<p> Bạn đã mất hứng thú với những con rô bốt có bánh xe? ROBOTIS DREAM cho phép bạn tạo các rô bốt hai chân, bốn chân, sáu chân, cũng như các rô bốt khác nhau. * Mở rộng thành nhiều robot thú vị hơn bằng cách sử dụng các cảm biến khác nhau.</p>\n<p><strong>ROBOTIS DREAM LÀ TRÒ CHƠI HẤP DẪN</strong></p>\n<p> Bạn sẽ ngạc nhiên về sự chú ý và tập trung của trẻ khi chơi với ROBOTIS DREAM. Điều này sẽ giúp cải thiện và phát triển khả năng sáng tạo và tư duy khoa học của các em.</p>\n<p><strong>ROBOTIS DREAM LÀ LOGIC</strong></p>\n<p> Thử thách bản thân để lập trình rô bốt của riêng bạn bằng phần mềm RoboPlus của chúng tôi. Phần mềm này cũng đang được sử dụng trong Bioloid, Dynamixel và robot cấp cao hơn.</p>\n<p><strong>ROBOTIS DREAM LÀ THIẾT KẾ</strong></p>\n<p> ROBOTIS DREAM sẽ thay đổi suy nghĩ của bạn về ý tưởng rập khuôn mà nhiều người mắc phải. Ai nói rằng robot buồn tẻ và nhàm chán? ROBOTIS DREAM có thể được thể hiện theo những cách tuyệt vời và thú vị!</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ MẠNH MẼ</strong></p>\n<p> ROBOTIS DREAM sử dụng pin li-ion để sử dụng và vận hành rô bốt dễ dàng, thuận tiện.</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ AN TOÀN</strong></p>\n<p> ROBOTIS DREAM không yêu cầu bất kỳ công cụ hàn hoặc nguy hiểm nào để lắp ráp rô bốt. Không những vậy, các mạch điện không bị hở đảm bảo an toàn cho bạn.</p>\n<p><strong>CÁC VÍ DỤ LẮP GHÉP ROBOT</strong></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/17/e0/56/cb05661600b185b51dc975b91ce37d20.png\" alt=\"\" width=\"549\" height=\"886\" /></p>\n<p>QUY TRÌNH ĐÀO TẠO</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/ce/14/d4/4ddc56a58fe6e20768f55369d7935f54.png\" alt=\"\" width=\"253\" height=\"181\" /></p>\n<p><strong>1-Tìm hiểu các nguyên tắc</strong></p>\n<p>Học và hiểu các nguyên tắc khoa học.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/45/8c/54/50bce3c60b80da6f99c165a594e2771b.png\" alt=\"\" width=\"257\" height=\"184\" /></p>\n<p><strong>2-Tạo ra một con robot</strong></p>\n<p>Chọn và chế tạo một robot.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/d2/d4/bd/201a976843510e51f7174c62ee7d39b3.png\" alt=\"\" width=\"257\" height=\"184\" /></p>\n<p><strong>3-Robot chuyển động</strong></p>\n<p>Thử nghiệm bằng cách di chuyển robot.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/b2/dd/4c/1d0835bf54d3db139834257a3818e4e0.png\" alt=\"\" width=\"257\" height=\"184\" /></p>\n<p><strong>4-Giải quyết vấn đề</strong></p>\n<p>Giải quyết vấn đề và hiểu các nguyên tắc thông qua thử nghiệm.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/3a/7c/0d/74e28bc73b78019ad5136b3110f38791.png\" alt=\"\" width=\"257\" height=\"184\" /></p>\n<p><strong>5-Xây dựng robot của riêng bạn!</strong></p>\n<p>Tùy chỉnh rô bốt của bạn để tạo rô bốt độc nhất của riêng bạn!</p>\n<p><strong>Danh sách các chi tiết</strong></p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/4a/4e/21/cbaca1c201484717931efa489ddfb0cb.png\" alt=\"\" width=\"404\" height=\"1020\" /></strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3033000,
+        "product_quantity": 3076,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Robotis",
+            "Xuất xứ thương hiệu": "Hàn Quốc",
+            "Chất liệu": "<p>Nhựa và kim loại</p>",
+            "Kết nối": "Micro USB",
+            "Kích thước": "<p>28x7x19 ( DxRxC, cm)</p>",
+            "Model": "ROBOTIS DREAM Ⅱ Level 3",
+            "Xuất xứ (Made in)": "Hàn Quốc",
+            "Trọng lượng sản phẩm": "0.9",
+            "Hệ điều hành": "Embedded",
+            "Cổng USB": "Micro USB",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "6 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "52073",
+        "product_name": "ROBOTIS DREAM Ⅱ Level 2- Hàng nhập khẩu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/02/a6/ad/d61a64d2b1458ec8557b5c0fe1aa03a0.JPG",
+            "https://salt.tikicdn.com/ts/product/04/3c/5a/582e3e6d794effaa8be0a8bb732345cb.JPG",
+            "https://salt.tikicdn.com/ts/product/f7/bb/ad/f929f4cb18194a7d0e55402e831f7692.JPG",
+            "https://salt.tikicdn.com/ts/product/ac/77/bd/c31d43894f11f64002285532d6f3da20.JPG",
+            "https://salt.tikicdn.com/ts/product/e2/c7/72/a24b61497a7774683af58c495036737f.JPG",
+            "https://salt.tikicdn.com/ts/product/37/a9/ee/2f1c2fe93c0a328eb7bb6185c8e90bc9.JPG",
+            "https://salt.tikicdn.com/ts/product/95/b8/31/f48fb6a3d369138036f3a3c1cd967f7a.JPG",
+            "https://salt.tikicdn.com/ts/product/b1/79/a6/7a20a62a625a7139e7f6d2f0a302838e.JPG",
+            "https://salt.tikicdn.com/ts/product/87/c1/9d/19ee5b17e8c9be3e3e48bad9fb8d0c85.JPG",
+            "https://salt.tikicdn.com/ts/product/8b/0d/ea/bd4e573050d2ad2edcb33eb8b19205d2.JPG",
+            "https://salt.tikicdn.com/ts/product/0b/f4/42/854c9c078ffb378ab0d71a1f6fa3d83f.JPG"
+        ],
+        "product_description": "<p><span style=\"color: #ff0000;\">BẠN SẼ CẦN MUA ROBOTIS DREAM II LEVEL1 (HOẶC ROBOTIS DREAM LEVEL 1 hoặc ROBOTIS DREAM II LEVEL 2 JUMP KIT) ĐỂ XÂY DỰNG CÁC VÍ DỤ TRONG ROBOTIS DREAM II LEVEL 2.</span></p>\n<p><span style=\"color: #ff0000;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/3e/2f/a9/fa44bad61829f2af44103ba8e1b40e87.png\" alt=\"\" width=\"606\" height=\"344\" /></span></p>\n<p> Giáo dục STEAM là một khái niệm dạy học liên nghành kết hợp giữa nghệ với các môn học STEM truyền thống là: Khoa học, Công nghệ, Kĩ thuật và Toán học. Nó nhấn mạnh việc học tập dựa trên thực hành thay vì theo cách giáo dục truyền thống, kiến thức lý thuyết. STEAM là ý tưởng sáng tạo ban đầu của Trường Thiết Kế Rhode Island (Mỹ), sau đó được sử dụng bởi nhiều nhà giáo dục và dần dần lan rộng ra cả Hoa Kỳ. Đây là một phương pháp tiếp cận giáo dục kiểu mới, trong đó Khoa Học, Công Nghệ, Kỹ Thuật, Nghệ Thuật, và Toán Học cũng được sử dụng để giảng dạy và hướng dẫn cho học sinh. STEAM là một sự chuyển đổi từ cách thức giáo dục truyền thống, dựa vào tiêu chuẩn điểm số để đánh giá, với mục đích giúp học sinh hiểu được sự liên quan giữa các khối kiến thức và có thể vận dụng tốt vào thực tế.</p>\n<p>Isteam Robot thuộc Công ty TNHH Giải pháp Kỹ thuật Indruino tự hào là một trong những đơn vị phân phối sản phẩm chính hãng của Robotis về lĩnh vực Steam.</p>\n<p>TỔNG QUAN NHANH</p>\n<p>ROBOTIS DREAM II LEVEL 2 được xây dựng dựa trên LEVEL 1 để nâng cao hiểu biết về người máy. Nó dạy những điều cơ bản về cấu trúc của rô bốt, cảm biến hồng ngoại và cảm biến micrô.</p>\n<p>Bộ sản phẩm này đi kèm với: 12 robot mẫu. 12 chương trình toàn diện.</p>\n<p><strong>ROBOTIS DREAM LÀ KHOA HỌC.</strong></p>\n<p>ROBOTIS DREAM giúp bạn hiểu không chỉ nguyên lý chuyển động mà còn cả tốc độ và lực, nguyên lý của đòn bẩy, độ đàn hồi và quán tính.</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ SÁNG TẠO</strong></p>\n<p> Đồ chơi hình khối và số liệu có thể gây nhàm chán. Hãy sử dụng ROBOTIS DREAM để tạo ra một chú robot cho riêng bạn.</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ ĐA DẠNG</strong></p>\n<p> Bạn đã mất hứng thú với những con rô bốt có bánh xe? ROBOTIS DREAM cho phép bạn tạo các rô bốt hai chân, bốn chân, sáu chân, cũng như các rô bốt khác nhau. * Mở rộng thành nhiều robot thú vị hơn bằng cách sử dụng các cảm biến khác nhau.</p>\n<p><strong>ROBOTIS DREAM LÀ TRÒ CHƠI HẤP DẪN</strong></p>\n<p> Bạn sẽ ngạc nhiên về sự chú ý và tập trung của trẻ khi chơi với ROBOTIS DREAM. Điều này sẽ giúp cải thiện và phát triển khả năng sáng tạo và tư duy khoa học của các em.</p>\n<p><strong>ROBOTIS DREAM LÀ LOGIC</strong></p>\n<p> Thử thách bản thân để lập trình rô bốt của riêng bạn bằng phần mềm RoboPlus của chúng tôi. Phần mềm này cũng đang được sử dụng trong Bioloid, Dynamixel và robot cấp cao hơn.</p>\n<p><strong>ROBOTIS DREAM LÀ THIẾT KẾ</strong></p>\n<p>ROBOTIS DREAM sẽ thay đổi suy nghĩ của bạn về ý tưởng rập khuôn mà nhiều người mắc phải. Ai nói rằng robot buồn tẻ và nhàm chán? ROBOTIS DREAM có thể được thể hiện theo những cách tuyệt vời và thú vị!</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ MẠNH MẼ</strong></p>\n<p> ROBOTIS DREAM sử dụng pin li-ion để sử dụng và vận hành rô bốt dễ dàng, thuận tiện.</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ AN TOÀN</strong></p>\n<p> ROBOTIS DREAM không yêu cầu bất kỳ công cụ hàn hoặc nguy hiểm nào để lắp ráp rô bốt. Không những vậy, các mạch điện không bị hở đảm bảo an toàn cho bạn.</p>\n<p><strong>CÁC VÍ DỤ LẮP GHÉP ROBOT</strong></p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/77/f6/2a/4608e291526b175046664c819b0ea756.png\" alt=\"\" width=\"0\" height=\"0\" /><img src=\"https://salt.tikicdn.com/ts/tmp/77/f6/2a/f0fc76effcdad89d2aad615ed85d915d.png\" alt=\"\" width=\"602\" height=\"988\" /></strong></p>\n<p>QUY TRÌNH ĐÀO TẠO</p>\n<p><strong> <img src=\"https://salt.tikicdn.com/ts/tmp/6e/11/85/2b25f740244e6218f23570f6919b7c3f.png\" alt=\"\" width=\"257\" height=\"177\" /></strong></p>\n<p><strong>1-Tìm hiểu các nguyên tắc</strong></p>\n<p>Học và hiểu các nguyên tắc khoa học.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/67/4a/35/5eda4a3042608bcbaaf796caed8b41a3.png\" alt=\"\" width=\"257\" height=\"179\" /></p>\n<p><strong>2-Tạo ra một con robot</strong></p>\n<p>Chọn và chế tạo một robot.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/d6/34/29/74d4000b0e028e9717e835ee7aa89cdf.png\" alt=\"\" width=\"258\" height=\"185\" /></p>\n<p><strong>3-Robot chuyển động</strong></p>\n<p>Thử nghiệm bằng cách di chuyển robot.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/12/ae/96/b22f2f2583c03f9c035c590a8151bf8a.png\" alt=\"\" width=\"258\" height=\"185\" /></p>\n<p><strong>4-Giải quyết vấn đề</strong></p>\n<p>Giải quyết vấn đề và hiểu các nguyên tắc thông qua thử nghiệm.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/14/dd/63/e152f9f9d887ea006892c7d1d54e8d74.png\" alt=\"\" width=\"259\" height=\"187\" /></p>\n<p><strong>5-Xây dựng robot của riêng bạn!</strong></p>\n<p>Tùy chỉnh rô bốt của bạn để tạo rô bốt độc nhất của riêng bạn!</p>\n<p><strong>Danh sách các chi tiết</strong></p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/3c/7b/1d/18f617b54672bb183c59971c4ac0cf39.png\" alt=\"\" width=\"188\" height=\"988\" /></strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3033000,
+        "product_quantity": 2239,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "6 Tháng",
+            "Thương hiệu": "Robotis",
+            "Xuất xứ thương hiệu": "Hàn Quốc",
+            "Chất liệu": "<p>Nhựa và Kim loại</p>",
+            "Kết nối": "Micro USB",
+            "Kích thước": "<p>28x7x19 ( DxRxC, cm)</p>",
+            "Model": "ROBOTIS DREAM Ⅱ Level 2",
+            "Xuất xứ (Made in)": "Hàn Quốc",
+            "Trọng lượng sản phẩm": "0.7",
+            "Hệ điều hành": "Embedded",
+            "Cổng USB": "Micro USB"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "52073",
+        "product_name": "Robotis Dream II School set- Hàng nhập khẩu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/38/c2/a7/1ec4b3654d2a3103a8599a3d3d1c4940.JPG",
+            "https://salt.tikicdn.com/ts/product/3e/06/42/09ecdfddeba1de2ca256d2660c626e1d.JPG",
+            "https://salt.tikicdn.com/ts/product/0e/ea/1d/40152dc3249d9f11f2f0cf2826dbed57.JPG",
+            "https://salt.tikicdn.com/ts/product/41/53/d2/ace59059a2b788b15ec656560a11d6d3.JPG",
+            "https://salt.tikicdn.com/ts/product/b5/79/e6/09715a9b4f921c8238092e043538330d.JPG",
+            "https://salt.tikicdn.com/ts/product/e2/37/b5/349ad9acd36cb136302951badb496b7c.JPG",
+            "https://salt.tikicdn.com/ts/product/56/c4/8b/067ce560a0772dd0f38253c61e7514bd.JPG",
+            "https://salt.tikicdn.com/ts/product/c1/61/62/ba97dce680a575987e5a28e38c6844db.JPG",
+            "https://salt.tikicdn.com/ts/product/1a/db/1f/3a3a3583fbf3b9d862656af47c9f0573.JPG",
+            "https://salt.tikicdn.com/ts/product/1c/92/42/878863cff7cfdad86d3178329e86aee5.JPG",
+            "https://salt.tikicdn.com/ts/product/36/4f/89/7735040a70fbf59c2c9a176bf90db0ff.JPG"
+        ],
+        "product_description": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/3e/2f/a9/f304cf46e3006a26676854756dd2b460.png\" alt=\"\" width=\"606\" height=\"344\" /></p>\n<p>Giáo dục STEAM là một khái niệm dạy học liên nghành kết hợp giữa nghệ với các môn học STEM truyền thống là: Khoa học, Công nghệ, Kĩ thuật và Toán học. Nó nhấn mạnh việc học tập dựa trên thực hành thay vì theo cách giáo dục truyền thống, kiến thức lý thuyết. STEAM là ý tưởng sáng tạo ban đầu của Trường Thiết Kế Rhode Island (Mỹ), sau đó được sử dụng bởi nhiều nhà giáo dục và dần dần lan rộng ra cả Hoa Kỳ. Đây là một phương pháp tiếp cận giáo dục kiểu mới, trong đó Khoa Học, Công Nghệ, Kỹ Thuật, Nghệ Thuật, và Toán Học cũng được sử dụng để giảng dạy và hướng dẫn cho học sinh. STEAM là một sự chuyển đổi từ cách thức giáo dục truyền thống, dựa vào tiêu chuẩn điểm số để đánh giá, với mục đích giúp học sinh hiểu được sự liên quan giữa các khối kiến thức và có thể vận dụng tốt vào thực tế.</p>\n<p>Isteam Robot thuộc Công ty TNHH Giải pháp Kỹ thuật Indruino tự hào là một trong những đơn vị phân phối sản phẩm chính hãng của Robotis về lĩnh vực Steam.</p>\n<p><strong>Tổng quan nhanh</strong></p>\n<p><strong>ROBOTIS DREAM II SCHOOL SET</strong> bao gồm Dream II Jump Kit, Level 2 và Level 3 Part kits với một sách hướng dẫn lắp ráp cho hơn 20 loại robot khác nhau. Bạn có thể xem hướng dẫn  lắp ráp gồm hơn 20 bài hướng dẫn bằng ứng dụng thiết kế R+ Design, có thể cài trên IOS và Android. Ứng dụng R+Design tương thích với Windows, MacOS, IOS, Android.</p>\n<p><strong>ROBOTIS DREAM LÀ KHOA HỌC.</strong></p>\n<p>ROBOTIS DREAM giúp bạn hiểu không chỉ nguyên lý chuyển động mà còn cả tốc độ và lực, nguyên lý của đòn bẩy, độ đàn hồi và quán tính.</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ SÁNG TẠO</strong></p>\n<p>Đồ chơi hình khối và số liệu có thể gây nhàm chán. Hãy sử dụng ROBOTIS DREAM để tạo ra một chú robot cho riêng bạn.</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ ĐA DẠNG</strong></p>\n<p>Bạn đã mất hứng thú với những con rô bốt có bánh xe? ROBOTIS DREAM cho phép bạn tạo các rô bốt hai chân, bốn chân, sáu chân, cũng như các rô bốt khác nhau. * Mở rộng thành nhiều robot thú vị hơn bằng cách sử dụng các cảm biến khác nhau.</p>\n<p><strong>ROBOTIS DREAM LÀ TRÒ CHƠI HẤP DẪN</strong></p>\n<p>Bạn sẽ ngạc nhiên về sự chú ý và tập trung của trẻ khi chơi với ROBOTIS DREAM. Điều này sẽ giúp cải thiện và phát triển khả năng sáng tạo và tư duy khoa học của các em.</p>\n<p><strong>ROBOTIS DREAM LÀ LOGIC</strong></p>\n<p>Thử thách bản thân để lập trình rô bốt của riêng bạn bằng phần mềm RoboPlus của chúng tôi. Phần mềm này cũng đang được sử dụng trong Bioloid, Dynamixel và robot cấp cao hơn.</p>\n<p><strong>ROBOTIS DREAM LÀ THIẾT KẾ</strong></p>\n<p>ROBOTIS DREAM sẽ thay đổi suy nghĩ của bạn về ý tưởng rập khuôn mà nhiều người mắc phải. Ai nói rằng robot buồn tẻ và nhàm chán? ROBOTIS DREAM có thể được thể hiện theo những cách tuyệt vời và thú vị!</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ MẠNH MẼ</strong></p>\n<p>ROBOTIS DREAM sử dụng pin li-ion để sử dụng và vận hành rô bốt dễ dàng, thuận tiện.</p>\n<p><strong>ROBOTIS DREAM LÀ SỰ AN TOÀN</strong></p>\n<p>ROBOTIS DREAM không yêu cầu bất kỳ công cụ hàn hoặc nguy hiểm nào để lắp ráp rô bốt. Không những vậy, các mạch điện không bị hở đảm bảo an toàn cho bạn.</p>\n<p>Bộ sách ROBOTIS DREAM II SCHOOL Set bao gồm cấp 2 và cấp 3 hoàn toàn có thể mua rời.Chương trình giảng dạy bao gồm 24 bài học được soạn theo Tiêu chuẩn Quốc gia và Tiểu bang (NGSS). Với chương trình đào tạo của DREAM II School Set, học sinh tìm hiểu về các thành phần cơ bản của robot, các nguyên tắc khoa học chuyển động của robot và các nguyên tắc kỹ thuật và cơ khí của robot.</p>\n<p>Bài học trong Các thành phần cơ bản của Robot bao gồm các chủ đề tập trung vào việc sử dụng Cảm biến hồng ngoại (IR), mic và pin. Các bài học tập trung vào các nguyên tắc khoa học cụ thể như Vận tốc, Lực đàn hồi, Quán tính và Gia tốc, Các Nguyên tắc Kỹ thuật Cơ khí như Hệ thống Động cơ và Truyền động Bốn bánh.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/8e/dd/74/002e973f237b7ce4d879f64389283434.png\" alt=\"\" width=\"602\" height=\"581\" /></p>\n<p>ĐẶC ĐIỂM NỔI BẬT</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/02/5f/28/bb7baf51b50cacf000278e174e2d6604.png\" alt=\"\" width=\"163\" height=\"66\" /></p>\n<p><strong>Hệ thống đinh tán</strong></p>\n<p>Sáng chế được cấp bằng sáng chế quốc tế.</p>\n<p>Không sử dụng bu lông và đai ốc, để sử dụng an toàn hơn (khóa) mà không cần dụng cụ.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/02/67/b7/00f5bc3c3ed2689a8ce2f9759e872836.png\" alt=\"\" width=\"130\" height=\"91\" /></p>\n<p><strong>Pin Li-ion</strong></p>\n<p>Pin Li-ion 3.7V 1300mAh có thể sạc lại.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/f2/7e/87/68e1a3a7e2a15224bdd7e44e74a6fbe7.png\" alt=\"\" width=\"103\" height=\"103\" /></p>\n<p><strong>Mô-đun điều khiển (CM-150)</strong></p>\n<p>Được nhúng với còi, mic và 3 cảm biến hồng ngoại.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/88/9c/18/d680da0361345c3049f8bbbafbc29ebb.png\" alt=\"\" width=\"209\" height=\"85\" /></p>\n<p><strong>Tấm mô-đun</strong></p>\n<p>Nhiều màu sắc và kích thước của tấm.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/5e/4b/b4/acc11a7f5d059d59121b0a5687dc5be9.png\" alt=\"\" width=\"133\" height=\"89\" /></p>\n<p><strong>Servo motor/ Geared motor</strong></p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/31/d3/85/b513454878fa0d42ff8e253c4ccc9e00.png\" alt=\"\" width=\"229\" height=\"99\" /></strong></p>\n<p><strong>RC-100B và bộ thu IR</strong></p>\n<p>Bộ thu và điều khiển từ xa RC-100B.</p>\n<p><strong>CÁC VÍ DỤ LẮP GHÉP ROBOT</strong></p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/cc/73/11/5ae4159d68c73cc436ef90926def9380.png\" alt=\"\" width=\"265\" height=\"828\" /></strong></p>\n<p><strong>DANH SÁCH CÁC MẢNH GHÉP</strong></p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/ed/32/68/0b2e06ca9e5df42cdc76402fd5eb7f4d.png\" alt=\"\" width=\"237\" height=\"746\" /></strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 6069000,
+        "product_quantity": 1896,
+        "product_category": [
+            "Thiết Bị Robot"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Robotis",
+            "Xuất xứ thương hiệu": "Hàn Quốc",
+            "Chất liệu": "<p>Nhựa và Kim loại</p>",
+            "Kết nối": "Micro USB",
+            "Kích thước": "<p>32x24x8 ( DxRxC, cm)</p>",
+            "Model": "Robotis Dream II School set",
+            "Xuất xứ (Made in)": "Hàn Quốc",
+            "Trọng lượng sản phẩm": "1.3",
+            "Hệ điều hành": "Embedded",
+            "Cổng USB": "Micro USB",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "6 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    }
+]

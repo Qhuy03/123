@@ -1,0 +1,810 @@
+[
+    {
+        "product_shop": "93096",
+        "product_name": "Set áo sơ mi nam dài tay mix quần short lưng thun có túi chất liệu Linen mát mịn phong cách Hàn",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a3/64/41/d4b86a7c4913cab2dc5d0cdfa979979e.jpg"
+        ],
+        "product_description": "<p>MÔ TẢ SẢN PHẨM<br />1. Tên sản phẩm: Áo Sơ Mi Nam + Quần short<br />Dáng áo: form suông<br />Dáng quần: suông<br />Màu sắc: màu trắng, màu xám, màu đen, màu xanh than<br />Chất vải: Vải linen bột cao cấp<br />Họa Tiết: Trơn</p>\n<p>Hướng dẫn chọn size:<br />SIZE M: &lt; 60 Kg<br />SIZE L: 61Kg - 68 Kg<br />SIZE XL: 68 Kg - 73 Kg<br />SIZE XXL:73 kg - 80kg<br />✪ Size có thể thay đổi tùy vào chiều cao mỗi người. Các nàng tham khảo bảng size gợi ý nhé<br />✪ Các bạn khó chọn SIZE hoặc phân vân đừng ngại ngần cứ chat với Shop để tư vấn chọn size chuẩn và hướng dẫn các vấn đề sau khi mua hàng nhé<br />2. Hướng dẫn sử dụng:<br />Nên treo sản phẩm trong tủ khi không sử dụng<br />Có thể giặt tay hoặc giặt máy<br />Không giặt chung với những sản phẩm ra mầu<br />Không dùng chất tẩy rửa, không ngâm quá lâu ngày<br />Không phơi dưới nhiệt độ cao, nắng gắt<br />Nên là ủi thường xuyên<br />-----------------------------------<br />#setnam#aosominam #quanshort #formrong #unisex</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 550000,
+        "product_quantity": 1554,
+        "product_category": [
+            "Bộ quần áo nam kích cỡ lớn"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "China / Vietnam",
+            "Chất liệu": "Linen",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "ĐŨI VIỆT"
+        },
+        "product_variations": [
+            {
+                "name": "màu sắc",
+                "options": [
+                    "Trắng",
+                    "Xanh Than",
+                    "Xám",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "M",
+                    "XL",
+                    "XXL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 550000,
+                "sku_stock": 2866
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 550000,
+                "sku_stock": 6290
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 550000,
+                "sku_stock": 9206
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 550000,
+                "sku_stock": 3495
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 550000,
+                "sku_stock": 2008
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 550000,
+                "sku_stock": 9830
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 550000,
+                "sku_stock": 4585
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 550000,
+                "sku_stock": 7582
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 550000,
+                "sku_stock": 8549
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 550000,
+                "sku_stock": 7985
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 550000,
+                "sku_stock": 7604
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 550000,
+                "sku_stock": 1619
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 550000,
+                "sku_stock": 3246
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 550000,
+                "sku_stock": 5790
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 550000,
+                "sku_stock": 1151
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 550000,
+                "sku_stock": 6906
+            }
+        ]
+    },
+    {
+        "product_shop": "40793",
+        "product_name": "Bộ trang phục ông già Noel nhung 7 món/ quần áo ông già Noel hoá trang giáng sinh",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/43/c0/3c/24373afe5cc7ceaee8f1abc93047b331.jpeg",
+            "https://salt.tikicdn.com/ts/product/6a/46/89/2a40c7b7371a008e70f9ab71f1a05c25.jpeg",
+            "https://salt.tikicdn.com/ts/product/4d/d9/14/0fdf14e25387e3d2c8cc6f76f2721e8f.jpeg",
+            "https://salt.tikicdn.com/ts/product/c6/75/59/678a872cbe0b6d2fa8f7b69d97b2ac0b.jpeg"
+        ],
+        "product_description": "<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">Bộ quần áo ông già noel chất liệu Nhung và vải nỉ freesize cho người dưới 90kg tuỳ theo chiều cao</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">Bộ gồm:</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- quần</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- áo</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- mũ</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- râu</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- đai</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- bộ dạ nỉ 5 món như ghi chi tiết trên ảnh</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- Bộ 5 món như ghi chi tiết trên</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">-Bộ 6 món thêm túi quà</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- bộ 7 món thêm đôi ủng , túi quà</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">Hàng như hình shop chụp đăng bán</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 135000,
+        "product_quantity": 2670,
+        "product_category": [
+            "Bộ quần áo nam kích cỡ lớn"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "HK/TQ",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Tùy chọn",
+                "options": [
+                    "Bộ nhung 5 món",
+                    "Bộ nhung 6 món",
+                    "Bộ nhung 7 món",
+                    "Bộ nỉ dạ 5 món"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 135000,
+                "sku_stock": 6055
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 135000,
+                "sku_stock": 3443
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 135000,
+                "sku_stock": 5203
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 135000,
+                "sku_stock": 4271
+            }
+        ]
+    },
+    {
+        "product_shop": "263248",
+        "product_name": "Bộ Quần Áo Nam Lính Mỹ US ARMY  Kiểu Dáng Túi Hộp, Chất Liệu Kaki Cao Cấp Phong Cách Lính Cực Ngầu (Tặng dây lưng) - HÀNG CHÍNH HÃNG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ec/dd/ec/a333a8722ead4165f40ac8157113cd3c.jpg",
+            "https://salt.tikicdn.com/ts/product/52/db/15/47bcece8b0db0b04b14789680ca24768.jpg",
+            "https://salt.tikicdn.com/ts/product/62/b3/01/aa3a864c81547e492f892e252726e1b9.jpg",
+            "https://salt.tikicdn.com/ts/product/4f/7c/4e/e2e49a624f024d8dea4d9b9c11a8b6ef.jpg",
+            "https://salt.tikicdn.com/ts/product/50/3e/fc/1ef8927e17a70fdd8be41a9b2350a00d.jpg",
+            "https://salt.tikicdn.com/ts/product/51/40/30/b53eeb63f286aecc4e7c882cb3e3b156.jpg",
+            "https://salt.tikicdn.com/ts/product/02/f4/49/0c7b613cee6d4105fb238c334e7ad269.jpg",
+            "https://salt.tikicdn.com/ts/product/58/00/96/137650cc74695456e6722eb87bfa0d60.jpg",
+            "https://salt.tikicdn.com/ts/product/4d/39/73/e94c8f293b04673138616db22e30ea30.jpg",
+            "https://salt.tikicdn.com/ts/product/85/4e/12/fdb24e92ea06e724b51be7d7417cf40a.jpg",
+            "https://salt.tikicdn.com/ts/product/86/13/ea/c4c9e80fb96a3cf91d7ab9d53f64d532.jpg",
+            "https://salt.tikicdn.com/ts/product/91/cb/67/5570fb8215994e72d9beaac96894c174.jpg",
+            "https://salt.tikicdn.com/ts/product/c2/d7/f1/5059a5dc986a65e72b065b806339c9fc.jpg",
+            "https://salt.tikicdn.com/ts/product/03/16/e1/0894cbf527bba2ad0bb002bb0bbd87dc.jpg",
+            "https://salt.tikicdn.com/ts/product/f4/be/49/372b05da707e37edbaa422e5f02b074a.jpg"
+        ],
+        "product_description": "<p><strong>CAM KẾT CỦA USARMY:</strong></p>\n<p>BẢNG SIZE CHUẨN THEO SỐ ĐO NGƯỜI VIỆT NAM.</p>\n<p>HOÀN 100% GIÁ TRỊ ĐƠN HÀNG NẾU KHÔNG GIỐNG MÔ TẢ</p>\n<p>HỖ TRỢ MIỄN PHÍ ĐỔI - TRẢ SẢN PHẨM MỌI TRƯỜNG HỢP</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/4f/7c/4e/4636c317ccc1bb45030afb7877dcd40e.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>THÔNG TIN SẢN PHẨM:</strong></p>\n<p>+ Tên sản phẩm: Bộ Quần Áo KaKi Lính Mỹ US ARMY U569 Kiểu Dáng Túi Hộp Chiến Thuật, Chất Liệu Kaki Cao Cấp Phong Cách Lính Cực Ngầu</p>\n<p>+ Chất liệu: Kaki cao cấp</p>\n<p>+ Màu sắc: 2 Màu (Đen và xanh rêu)</p>\n<p>+ Size: S – M – L – XL – 2XL</p>\n<p>+ Xuất xứ: Nhập khẩu Quảng Châu</p>\n<p>+ Bộ Quần áo Lính dạng hộp độc đáo, phong cách lính khỏe khoắn, mạnh mẽ.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/58/00/96/a163073bc22ceed2876f5aa6a118c7a4.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>TÍNH</strong><strong> NĂNG NỔI BẬT:</strong></p>\n<p>+ Thiết kế theo phong cách thời trang lính Mỹ, trẻ trung, năng động, mạnh mẽ, tôn được vẻ nam tính của người đàn ông</p>\n<p>+ Lớp vải dệt mật độ cao với kỹ thuật dệt vải nano nhập khẩu</p>\n<p>+ Đường may tỉ mỉ chi tiết đến từng đường kim mũi chỉ </p>\n<p>+ Chất vải Kaki pha thoáng khí, thấm hút ẩm tốt, không gây kích ứng, không tĩnh điện, xù lông.</p>\n<p>+ Kiểu dáng áo: áo dài tay, dáng đứng, suông, cổ bẻ, có túi </p>\n<p>+ Bạn là dân chơi ĐỒ LÍNH</p>\n<p>️ Bạn là Phượt Thủ mê du lịch</p>\n<p>️ Bạn là những tay chơi moto phân khối lớn, dân chơi xe minsk .</p>\n<p>️ Hay bạn chỉ đơn giản là Bạn thích ĐỒ LÍNH</p>\n<p>Hãy đến với chúng tôi để có bộ đồ ưng ý nhất </p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/4d/39/73/941addc3b062e00596328e5459eaa067.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>HƯỚNG</strong><strong> DẪN SỬ DỤNG:</strong></p>\n<p>+ Giặt máy với chu kỳ trung bình và vòng quay ngắn</p>\n<p>+ Giặt với nhiệt độ tối đa 30 độ C</p>\n<p>+ Sấy nhẹ ở nhiệt độ thường</p>\n<p>+ Là ủi không quá 110 độ C</p>\n<p>+ Phơi bằng móc dưới bóng râm</p>\n<p>+ Không sử dụng chất tẩy</p>\n<p> <strong>LƯU</strong><strong> Ý NHỎ:</strong></p>\n<p>+ Không giặt chung với đồ dễ xước</p>\n<p>+ Cẩn thận vướng mắc khi phơi</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/03/16/e1/923f4c470afa64639c253c09e62f9e53.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>CHÍNH SÁCH ĐỔI- TRẢ:</strong></p>\n<p>+ US ARMY hỗ trợ đổi- trả trong mọi trường hợp: mặc không vừa, không ưng sản phẩm đã đặt, muốn đổi sang sản phẩm khác, khi sản phẩm còn nguyên tem mác và chưa qua sử dụng.</p>\n<p>+ Nếu có bất kì khiếu nại cần US ARMY hỗ trợ về sản phẩm, khi MỞ sản phẩm Quý khách NÊN quay lại video quá trình mở hàng để được đảm bảo 100% vấn đề sẽ được giải quyết.</p>\n<p><strong>ƯU ĐÃI KHI MUA TẠI US ARMY:</strong></p>\n<p>+ Click “Theo dõi” shop để nhận ngay VOUCHER giảm giá.</p>\n<p>** US ARMY cảm ơn quý khách hàng đã tin tưởng và đồng hành cùng shop. Chúc bạn có một ngày mua sắm thật thoải mái cùng Shop nhé! Đừng ngần ngại nhắn tin cho shop để được hỗ trợ nhanh nhất bạn nhé!</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1798000,
+        "product_quantity": 9519,
+        "product_category": [
+            "Bộ quần áo nam kích cỡ lớn"
+        ],
+        "product_attributes": {
+            "Thời gian bảo hành": "3 Tháng",
+            "Hình thức bảo hành": "Phiếu bảo hành",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Xuất xứ (Made in)": "Thái Lan / Trung Quốc",
+            "Chất liệu": "Kaki cao cấp",
+            "Kích thước": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/f4/be/49/2c45f605762585b6041761c7d6853744.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>",
+            "Thương hiệu": "US ARMY"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "2XL",
+                    "L",
+                    "M",
+                    "S",
+                    "XL"
+                ]
+            },
+            {
+                "name": "Màu",
+                "options": [
+                    "xanh rêu",
+                    "đen"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 5236
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 1020
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 3469
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 2451
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 8044
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 1255
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 6972
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 1942
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 5216
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 9230
+            }
+        ]
+    },
+    {
+        "product_shop": "182854",
+        "product_name": "Đồ Lam Đi Chùa # Lãnh Tụ Phối Nam # Đồ Bộ Nam # Quần Áo",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/74/40/f6/d7e5cefa686cde8510b60dcabd4983e1.jpg",
+            "https://salt.tikicdn.com/ts/product/ad/9d/1e/7f8f265f6f38dad3c108ee447b15978a.jpg",
+            "https://salt.tikicdn.com/ts/product/97/e2/38/b1fb5091d1ad193a2e99ac0def4e2734.jpg",
+            "https://salt.tikicdn.com/ts/product/ee/72/f2/194b0ca68005fb4d5f4ddc240abc5799.jpg",
+            "https://salt.tikicdn.com/ts/product/36/32/43/caf8319846ab06ecb6ff33c82c877177.jpg",
+            "https://salt.tikicdn.com/ts/product/54/9b/cd/e6e9d682d0c1cd1e5b01bc95d483fec9.jpg",
+            "https://salt.tikicdn.com/ts/product/84/89/f5/4128179f3a5e5dc3df97c74a0ea335bd.jpg",
+            "https://salt.tikicdn.com/ts/product/59/9f/36/6aa5d4209f3d5bc3583ca5c88374e1ea.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>BÁN LẺ GIÁ SỈ</p>\n   <p>Chú Ý Khi Đặt Hàng Nhớ Chọn Lấy Mã Miễn Phí Vận Chuyển Và Áp Dụng Mã Miễn Phí Vận Chuyển Bạn Nhé !!</p>\n   <p>Hàng Shop Gửi Đi Cho Khách Gói Trong Bịch Trắng, Khách Có Thể Thấy Đồ Bên Trong Màu Gì, Kiểu Gì, Size Gì, Có Thể Thấy Đồ Của Mình Trước Khi Nhận. Shop Mua Bán Minh Bạch Rõ Ràng, Cho Nên Khách Hàng Yên Tâm ah.</p>\n   <p>Size Chữ và Số Tương Nhau:</p>\n   <p>Size Xs- 1 - 24</p>\n   <p>Size S - 2 - 26</p>\n   <p>Size M - 3 - 28</p>\n   <p>Size L - 4 - 30</p>\n   <p>Size Xl - 5 - 32</p>\n   <p>Size XXL - 6 - 34</p>\n   <p>- [ ] ️CƠ SỞ SẢN XUẤT MAY VÀ BÁN</p>\n   <p>+ Phí ship đổi khách trả.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 204000,
+        "product_quantity": 7293,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Kate Mịn",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Ca Cao",
+                    "Lam phối xanh",
+                    "Lam phối đồng",
+                    "Nâu",
+                    "Vàng Bò Đậm",
+                    "Vàng Cfe Sữa",
+                    "Xanh Đá",
+                    "Đất"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "Size 1- 50kí Trở Lại",
+                    "Size 2- 57Kí Trở Lại",
+                    "Size 3- 62kí Trở Lại",
+                    "Size 4- 71kí Trở Lại",
+                    "Size 5- 75kí Trở Lại",
+                    "Size 6- 84kí Trở Lại"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 2910
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 2646
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 6939
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7385
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 9073
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 8016
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 6125
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 5618
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 6435
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 9039
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 5247
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7556
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 9080
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7638
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 4570
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7318
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 8572
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 2019
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 1004
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 8559
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 9167
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 6177
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 5483
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 4875
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 4713
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7221
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 3000
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 2514
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 9252
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 9971
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 3045
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 5042
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 1599
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7869
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 8501
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 8713
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 9446
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 5143
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 2252
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 9081
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 8439
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 6261
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 4329
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7088
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7271
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 4134
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 1440
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 5623
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "product_shop": "55370",
+        "product_name": "Bộ Đồ Võ phục Võ Cổ Truyền Màu Đen Trơn Nhiều Size Kèm Đai | Quần Áo Tập Võ Kung Fu, Trang Phục Võ Thuật Kungfu | Đồng Phục Tập Võ Võ Cổ Truyền Đen Trơn",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/32/cb/8b/eafe258f244201e0ab083a9218f4a89e.jpeg",
+            "https://salt.tikicdn.com/ts/product/26/a6/2a/dfe6c2a0f42c701ace7a0effc22943f1.png",
+            "https://salt.tikicdn.com/ts/product/a0/a3/bd/2720ddd8cd4df5186bd31f5bbe414920.jpeg",
+            "https://salt.tikicdn.com/ts/product/59/10/62/216276da740baf35c3e4504ca70a1e3e.jpeg"
+        ],
+        "product_description": "<p>Hướng dẫn đặt mua: Chọn đúng Size theo bảng chiều cao dưới đây (Lưu ý: quý khách không cần phải chọn size to hơn, khi mặc sẽ bị dài, rộng. Do bộ quần áo theo size đã được may sẵn dài rộng rất thoải mái cho người tập). Bộ quần áo võ phục kungfu hay võ cổ truyền đen trơn giống hình dưới (không có logo&#43;cờ) &#43; kèm đai đen tiêu chuẩn cho học sinh, sinh viên nam - nữ tập luyện bằng vải kaki ( thành phần 70% Cotton và 30% Polyester), mềm, mát, thấm mồ hôi (vải dầy, dai, đường may chắc chắn sử dụng lâu dài nhiều năm).</p>\n<p>Hàng luôn có sẵn, shop sẽ gửi hàng luôn trong ngày .</p>\n<p>Số 00 cao từ 1m83 đến 1m88 (đặt hàng)</p>\n<p>Số 0 cao từ 1m76 đến 1m82</p>\n<p>Số 1 cao từ 1m68 đến 1m75</p>\n<p>Số 2 cao từ 1m60 đến 1m67</p>\n<p>Số 3 cao từ 1m50 đến 1m59</p>\n<p> </p>\n<div class=\"syl-image-wrapper\"><img src=\"https://salt.tikicdn.com/ts/product/32/cb/8b/7d8b59d4906adc06d8995aa9ad40ea4f.jpeg?from&#61;1432613627\" width=\"750\" height=\"750\" /></div>\n<p> </p>\n<p>#kungfu #võ cổ truyền #vo co truyen #quanaovocotruyen #vophucvocotruyen#quần #áo #võ #phục #tốt #dầy #hà #nội #hồ #chí #minh</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 210000,
+        "product_quantity": 5845,
+        "product_category": [
+            "Võ phục Võ cổ truyền"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Trọng lượng sản phẩm": "0.5 kg - 0.8kg",
+            "Thương hiệu": "BN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "Vải kaki",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Chọn Size:",
+                "options": [
+                    "Số 0 (1m76-1m82)",
+                    "Số 1 (1m68-1m75)",
+                    "Số 2 (1m60-1m67)",
+                    "Số 3 (1m50-1m59)"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 210000,
+                "sku_stock": 6564
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 210000,
+                "sku_stock": 4029
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 210000,
+                "sku_stock": 9698
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 210000,
+                "sku_stock": 9146
+            }
+        ]
+    }
+]

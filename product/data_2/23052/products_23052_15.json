@@ -1,0 +1,1368 @@
+[
+    {
+        "product_shop": "122898",
+        "product_name": "Nút nhấn mở cửa khẩn PRO-BG ( Hàng nhập khẩu)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/63/64/de/60350b588059bf3949b239477da7c39a.jpg",
+            "https://salt.tikicdn.com/ts/product/d9/20/40/ce51b20b6d7ea6eee915897d89654c70.jpg",
+            "https://salt.tikicdn.com/ts/product/f5/d9/35/bc53b45224c16fddf620486d00b8d504.jpg"
+        ],
+        "product_description": "<p>Nút nhấn mở cửa khẩn PRO-BG</p>\n<p>- Nút ấn khẩn vuông bể kính loại không có chụp bảo vệ.<br />- Phím thử nghiệm đưa vào từ phía dưới.<br />- Thích hợp cho phần lớn các hệ thống báo cháy thông thường.<br />- Lựa chọn màu đỏ, màu vàng, màu xanh hoặc màu xanh lá cây để tùy chỉnh thực hiện.<br />- Nguồn điện: 6A 125/250 VAC.<br />- Điện trở: 30mΩ.<br />- Nhiệt độ môi trường: -25ºC ~ 85ºC.<br />- Kích thước (H x W x D): 88 x 88 x 52 mm.<br />- Trọng lượng: 165g. </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 500000,
+        "product_quantity": 7995,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "SAFARISG",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Xuất xứ (Made in)": "Trung Quốc"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "347780",
+        "product_name": "Tấm poly đặc Coolmax 10ly, khổ rộng 1,22m - tấm nhựa trong suốt 10ly",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a0/f5/13/e53d11535526706a1f0396f33b56a6f2.jpg",
+            "https://salt.tikicdn.com/ts/product/87/ba/bf/ec227d11c996a13fb189b2cdb62429d2.jpg"
+        ],
+        "product_description": "<p>TẤM LẤY SÁNG DẠNG ĐẶC, THƯƠNG HIỆU COOLMAX<br />- Dòng cao cấp, sử dụng 100% hạt nhựa nguyên sinh Bayer hoặc Sabic, phủ UV ngăn tia cực tím.<br />- Bảo hành 7 năm.<br />- Ưu điểm: độ trong suốt cao, ngăn cản tia UV, chịu va đập tốt, dễ thi công và bền trong mọi điều kiện thời tiết.<br />- Ứng dụng: dùng làm mái lấy sáng (giếng trời, mái hiên, nhà xe, sân phơi, hồ bơi,.. ), vách ngăn, trang trí,...<br />*** Quy cách:<br />- Độ dày: 10mm<br />- Kích thước có sẵn: <br />1,22m x 1,22m<br />1,22m x 2,44m<br />- Dung sai +/-5%<br />- Màu sắc: Trong suốt, Nâu trà<br />- Sản xuất tại Malaysia<br />*** Lưu ý:<br />- Giá bán tính trên TẤM<br />- Sản phẩm chỉ được bảo hành khi được vận chuyển, bảo quản và lắp đặt theo đúng bản Hướng Dẫn được gửi kèm sản phẩm.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1952781,
+        "product_quantity": 6793,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "COOLMAX",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Nâu trà"
+                ]
+            },
+            {
+                "name": "Chiều dài tấm",
+                "options": [
+                    "1.22m",
+                    "2.44m"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 1952781,
+                "sku_stock": 7446
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 1952781,
+                "sku_stock": 5389
+            }
+        ]
+    },
+    {
+        "product_shop": "122898",
+        "product_name": "Bộ khóa điện tử thông minh SG-202PW mở cửa trên điện thoại ( Hàng nhập khẩu)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/51/ae/16/4d7608d58d652226c61bad284d2bea99.jpg",
+            "https://salt.tikicdn.com/ts/product/12/8e/5c/d7a1b19a958dd9f836b2700bfe1a4cb2.jpg",
+            "https://salt.tikicdn.com/ts/product/92/27/7f/cb17cc3d990b4f24d63b56bc91af9fe8.jpg",
+            "https://salt.tikicdn.com/ts/product/11/3f/23/762b4077d93997610f6774cec7f59dd2.jpg"
+        ],
+        "product_description": "<h1 class=\"title\"><span style=\"font-size:medium;color:#ff0000;\">Bộ khóa điện tử thông minh SG-202PW</span></h1>\n<p><span style=\"font-size:medium;\">- Khóa cửa điện tử độc lập dùng thẻ từ - tiện lợi trong sử dụng, an toàn.</span></p>\n<p><span style=\"font-size:medium;\">- Nhiều phương thức mở cửa: Thẻ từ / chìa cơ / remote/ nút exit/ APP Ewelink mở cửa bằng điện thoại<br /></span></p>\n<p><span style=\"font-size:medium;\">- Đăng ký và xóa thẻ dễ dàng.</span></p>\n<p><span style=\"font-size:medium;\">- Tính năng tự động khóa khi đóng cửa.</span></p>\n<p><span style=\"font-size:medium;\">- Có thể mở rộng thêm với các thiết bị khác: Kiểm soát cửa ra vào - chấm công,...</span></p>\n<p><span style=\"font-size:medium;\">- Phù hợp lắp đặt trên nhiều loại cửa: cửa sắt, cửa gỗ, cửa cổng,...</span></p>\n<p><span style=\"font-size:medium;\">- Khóa chịu được mọi thời tiết khắc nghiệt</span></p>\n<p><strong><span style=\"font-size:medium;\">Bộ khóa cổng điện tử thông minh SG-202PW BAO GỒM:</span></strong></p>\n<p><span style=\"font-size:medium;\">+ 01 KHÓA CỔNG HỘP KIM SANG TRỌNG</span></p>\n<p><span style=\"font-size:medium;\">+ 01 BỘ NGUỒN 12V5A -CHUYÊN DỤNG ( Adaptor)</span></p>\n<p><span style=\"font-size:medium;\">+ 05 THẺ TỪ NHỰA TRÒN MÓC KHÓA 125 KHZ</span></p>\n<p><span style=\"font-size:medium;\">+ 01 THẺ MÓC KHÓA DA 125 KHZ</span></p>\n<p><span style=\"font-size:medium;\">+ 01 APP EWELINK WIFI MỞ CỬA QUA ĐIỆN THOẠI</span></p>\n<p><span style=\"font-size:medium;\">+ 02 REMOTE RF 1 KÊNH</span></p>\n<p><span style=\"font-size:medium;\">+ 01 NÚT EXIT NHỰA</span></p>\n<p><span style=\"font-size:medium;\">+ 01 NAM CHÂM CỐ ĐỊNH CỬA LỆCH</span></p>\n<p><strong><span style=\"font-size:medium;\">Tính năng chính của bộ Khóa:</span></strong></p>\n<p><span style=\"font-size:medium;\">- Mở bằng thẻ từ 125KHz : 2000 thẻ</span></p>\n<p><span style=\"font-size:medium;\">- Mở bằng remote RF từ xa (có thể lên đến 50m)</span></p>\n<p><span style=\"font-size:medium;\">- Mở bằng Nút Exit</span></p>\n<p><span style=\"font-size:medium;\">- Mở bằng APP Ewelink Wifi từ xa qua điện thoại</span></p>\n<p><span style=\"font-size:medium;\">- Có chìa cơ dự phòng ( cả bên trong và bên ngoài) cho trường hợp có sự cố về điện</span></p>\n<p><span style=\"font-size:medium;\">- Kích thước: 130x98x41 mm- - Vật liệu: hợp kim chống gỉ, mạ niken - chuyên ngoài trời </span></p>\n<p><span style=\"font-size:medium;\">- Nguồn điện 12 - 18V DC</span></p>\n<p><span style=\"font-size:medium;\">– Bảo hành: 12 tháng , 06 tháng cho main, 3 tháng cho apdapter</span></p>\n<p><span style=\"font-size:medium;color:#0000ff;\">– Xuất xứ: Trung Quốc</span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3000000,
+        "product_quantity": 4086,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "SAFARISG",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "122898",
+        "product_name": "Thẻ từ dạng móc khóa hoa silicon tần số 13.56Mhz (Mifare) - Hàng nhập khẩu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/37/4d/98/f6d46acaf4df52ad4c79d182680004f5.jpg"
+        ],
+        "product_description": "<p><span style=\"color:#ff0000;\"><strong><span style=\"font-size:medium;\">Thẻ từ dạng móc khóa hoa tần số 13.56Mhz (Mifare) - Không sao chép/ copy</span></strong></span></p>\n<p><span style=\"font-size:medium;\">- Sử dụng tần số: 13.56 KHz</span></p>\n<p><span style=\"font-size:medium;\">- Memory 1K, chip compatible.</span></p>\n<p><span style=\"font-size:medium;\">- Đọc không tiếp xúc.</span></p>\n<p><span style=\"font-size:medium;\">- Lưu / xóa: 100.000 lần.</span></p>\n<p><span style=\"font-size:medium;\">- Khoảng cách thẻ với đầu đọc: 2 – 12 cm</span></p>\n<p><span style=\"font-size:medium;\">- Thời gian đọc từ 1 – 2 ms</span></p>\n<p><span style=\"font-size:medium;\">- Môi trường nhiệt độ: 20 – 85 độ C</span></p>\n<p><span style=\"font-size:medium;\">- Chipset: F08, TKS50, S70, Mifare Classic, Ultralight, DESFire….</span></p>\n<p><span style=\"font-size:medium;\">- Tuổi thọ: 10 năm</span></p>\n<p><span style=\"font-size:medium;\">- Chống nước, chống va đập</span></p>\n<p><span style=\"font-size:medium;\">- Mỗi móc khóa điều có 1 IC được nạp sẵn từ nhà sản xuất và không thể thay đổi.</span></p>\n<p><span style=\"font-size:medium;\">- Thẻ từ RFID tần số 13.56Mhz móc khóa được sử dụng trong các hệ thống kiểm soát ra vào, thang máy, khóa từ, hoặc trong các khóa thông minh cho xe máy.</span></p>\n<p><span style=\"font-size:medium;color:#0000ff;\">– Sản xuất: Trung Quốc</span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 25000,
+        "product_quantity": 2736,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "SAFARISG",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Số lượng",
+                "options": [
+                    "1 cái",
+                    "10c",
+                    "50c"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 25000,
+                "sku_stock": 9173
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 25000,
+                "sku_stock": 2294
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 25000,
+                "sku_stock": 5644
+            }
+        ]
+    },
+    {
+        "product_shop": "122898",
+        "product_name": "Thẻ Từ RFID Tần Số 125Khz ( Proximity) loại mỏng 0.8mm - Hàng nhập khẩu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/19/d1/00/a0adf1089e2e7368fb50933d019c5216.jpg",
+            "https://salt.tikicdn.com/ts/product/6d/56/de/00ccc2ac1b394abca1107bc38025aaf2.jpg"
+        ],
+        "product_description": "<p class=\"DescriptionEntry\"><span style=\"color:#ff0000;\"><strong><span style=\"font-size:medium;\">Thẻ Từ RFID Tần Số 125Khz ( Proximity) loại mỏng - Không copy/ sao chép được</span></strong></span></p>\n<p class=\"DescriptionEntry\"><span style=\"font-size:medium;\">- Thẻ Trắng, độ dày 0.8 mm, có in 18 mã số ID</span></p>\n<p class=\"DescriptionEntry\"><span style=\"font-size:medium;\">- Thẻ nhựa PVC, tuổi thọ chip RFID lên tới 10 năm chống nước</span></p>\n<p class=\"DescriptionEntry\"><span style=\"font-size:medium;\">- <strong>Thẻ chỉ đọc (Read only).</strong></span></p>\n<p class=\"DescriptionEntry\"><span style=\"font-size:medium;\">- Khoảng cách đọc: 12cm max.</span></p>\n<p class=\"DescriptionEntry\"><span style=\"font-size:medium;\">- Dễ sử dụng, có thể dán &amp; in trên máy in thẻ nhựa</span></p>\n<p class=\"DescriptionEntry\"><span style=\"font-size:medium;\">- Kích thước thẻ : 0.8 x 54 x 85.6 mm</span></p>\n<p class=\"DescriptionEntry\"><span style=\"font-size:medium;\">- Tần số 125 KHz, độ dầy = 0.8 mm</span></p>\n<p class=\"DescriptionEntry\"><span style=\"font-size:medium;\">- Hoạt động trong môi trường : -10 đến 50 độ C</span></p>\n<p class=\"DescriptionEntry\"><span style=\"font-size:medium;\">- Dùng trong: hệ thống chấm công – kiểm soát cửa – thang máy, hệ thống quản lý bãi xe thông minh….</span></p>\n<p><span style=\"font-size:medium;color:#0000ff;\">– Sản xuất: Trung Quốc</span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 10000,
+        "product_quantity": 2358,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "SAFARISG",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Số lượng",
+                "options": [
+                    "1 cái",
+                    "100c",
+                    "250c",
+                    "50c"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 10000,
+                "sku_stock": 7584
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 10000,
+                "sku_stock": 8812
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 10000,
+                "sku_stock": 2875
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 10000,
+                "sku_stock": 2782
+            }
+        ]
+    },
+    {
+        "product_shop": "34774",
+        "product_name": "Túi Giặt Đồ Dạng Trụ Tròn Cao Cấp Bảo Vệ Đồ Có Móc Phơi Tiện Lợi (Vải Mềm - Có Thể Xếp Gọn)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/dc/40/ee/eaa5818a79fce4c1af5763eb2c7142d9.jpg",
+            "https://salt.tikicdn.com/ts/product/03/18/fd/5ed0a28a8f141b6688381213df808334.jpg"
+        ],
+        "product_description": "<p>Cách sử dụng:</p>\n<p>Cho quần áo vào khoảng 2/3 túi, đóng dây kéo và cho nguyên túi vào máy giặt. Sau khi kéo khóa lại, bạn nhớ nhét khóa vào lỗ nhỏ trên túi để khóa không bị gãy, sẽ giúp tăng thêm tuổi thọ của sản phẩm.</p>\n<p>Túi lưới giặt đồ làm từ chất liệu lưới mềm, độ bền cao, dây kéo chắc chắn.</p>\n<p>Sản phẩm dùng cho máy giặt nhằm bảo vệ quần áo được làm từ tơ lụa, ren, len, thổ cẩm, lông thú, gấm, cotton…</p>\n<p>Giúp quần áo tránh bị móc xước, xù lông, rút sợi, nhàu nát… trong quá trình giặt.<br /><br /><img src=\"https://salt.tikicdn.com/ts/tmp/ef/6c/4e/f101f6e2a433f03e14285db08f64f7a5.gif\" alt=\"\" width=\"750\" height=\"750\" /><br /><br /></p>\n<p><strong>Thông tin sản phẩm:</strong></p>\n<p>– Tên sản phẩm: Túi Giặt Đồ Dạng Trụ Tròn Cao Cấp Bảo Vệ Đồ Lót Có Móc Phơi Tiện Lợi</p>\n<p>– Chất liệu: lưới mềm, lỗ nhỏ<br /><br /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/55/37/82/a62c17dec659c7f4e7fcddfc88e64bba.gif\" alt=\"\" width=\"750\" height=\"627\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/44/61/84/b5d2673caafe9b0e5b37a8ce67431705.gif\" alt=\"\" width=\"750\" height=\"661\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/72/86/f9/3a45cddabfbf808466096c36658318f2.gif\" alt=\"\" width=\"750\" height=\"900\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/28/bd/3f/c9c566f44ed3e39bbdb720e8498cef1a.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 156000,
+        "product_quantity": 4102,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "túi giặt đồ",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "343446",
+        "product_name": "Bình xịt làm sạch dầu mỡ nhà bếp tường gạch máy hút mùi CleanZ 450ml Hương Chanh ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ee/78/89/396a6f2d12abac48e96de3c472c497e8.jpg",
+            "https://salt.tikicdn.com/ts/product/68/65/f1/54faf8e3b740c4ec652145161d621bea.jpg",
+            "https://salt.tikicdn.com/ts/product/51/ac/cd/c19a5c12f77da3dc514a9bd806b40301.jpg",
+            "https://salt.tikicdn.com/ts/product/f2/d3/c4/daa01c7b18657efc1ae8ac7b695d3ae2.jpg",
+            "https://salt.tikicdn.com/ts/product/c0/69/d9/3c880a5abb07f163273cbecd7fc1cfc6.jpg",
+            "https://salt.tikicdn.com/ts/product/46/52/5b/e6fb5cc14c6aa0d2302721efc70be768.jpg"
+        ],
+        "product_description": "<p>Thông tin chi tiết sản phẩm Xịt sạch dầu mỡ CleanZ</p>\n<p>- Tên sản phẩm : Xịt sạch dầu mỡ CleanZ</p>\n<p>- Thương Hiệu: CleanZ</p>\n<p>- Dung tích mỗi bình xịt: 450ml</p>\n<p>- Thành phần: Nước khử ion, chất hoạt tính bề mặt, chất nhũ hóa, chất diệt khuẩn có khí, chất trợ khử ô nhiễm, hương chanh, Benzyl,...</p>\n<p>- Công thức đặc biệt phá liên kết dầu mỡ một cách nhanh chóng, khiến dầu mỡ dễ dàng được lau chùi và rửa trôi bằng nước.</p>\n<p>Xịt sạch dầu mỡ CleanZ là sản phẩm thế hệ mới chuyên dùng làm sạch dầu mỡ trên màng lọc máy hút mùi, bếp ga, bếp từ, tường gạch ốp lát, thiết bị gia đình,...</p>\n<p>Ưu điểm:</p>\n<p>- Đánh bay vết dầu mỡ, mang lại sự sạch sẽ, sáng bóng cho căn bếp của bạn</p>\n<p>- Thiết kế thông minh, chống chảy, phun vừa đủ mỗi lần xịt</p>\n<p>- Bảo vệ bề mặt bếp, đồ gia dụng</p>\n<p>- Hương chanh thơm dịu</p>\n<p>Công dụng:</p>\n<p>- Xịt sạch dầu mỡ CleanZ hiệu quả trong việc tẩy sạch dầu mỡ hàng ngày trên bếp, tấm hút mùi, tường gạch nhà bếp.</p>\n<p>- Sản phẩm có thiết kế đầu tạo bọt, dễ dàng tẩy sạch các vết bẩn mà không làm hại bề mặt vật tẩy. Trả lại cảm giác sáng bóng sạch sẽ cho bếp sau mỗi lần nấu nướng.</p>\n<p>Chú ý: Đối với những vết bẩn dầu mỡ bám lâu ngày khuyến cáo bạn nên dùng Xịt sạch dầu mỡ CleanZ nhiều lần để có hiệu quả tốt nhất.</p>\n<p>Phạm vi sử dụng:</p>\n<p>- Bếp</p>\n<p>- Hút mùi nhà bếp</p>\n<p>- Tường gạch men nhà bếp…</p>\n<p>Hướng dẫn sử dụng:</p>\n<p>Bước 1: Lắc đều chai xịt trước khi dùng.</p>\n<p>Bước 2: Xịt trực tiếp vào nơi muốn làm sạch ở khoảng cách từ 15cm- 20cm.</p>\n<p>Bước 3: Chờ khoảng 3-5 phút để dầu mỡ bong khỏi bề mặt cần làm sạch. (đối với vết dầu mỡ đã đóng cặn lâu để trong 25-30 phút)</p>\n<p>Bước 4: Lau kỹ bằng khăn lau rồi rửa lại bằng nước hoặc khăn ẩm.</p>\n<p>- Với tấm lọc hút mùi dùng vòi nước xả trôi đi là sạch.</p>\n<p>- Với mỡ bám két lâu ngày trên lưới lọc hút mùi lặp lại quá trình cho đến khi sạch 100%.</p>\n<p>Lưu ý: Tránh xa tầm tay trẻ em, tránh để dung dịch tiếp xúc với mắt, trong trường hợp bị bắn vào mắt cần rửa ngay mắt với nhiều nước sạch. Tránh tiếp xúc với vùng da nhạy cảm. Nên mang gang tay và đeo khẩu trang khi sử dụng. Bảo quản sản phẩm nơi thoáng mát</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 79000,
+        "product_quantity": 7307,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Cleanz",
+            "Xuất xứ thương hiệu": "Nhật Bản",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "112086",
+        "product_name": "Bình chữa cháy MFZL2 bột ABC 2kg",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/7c/a2/02/2106f4dec2e37a747dc275d2057f53f5.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <p>Chữa được các đám cháy loại A, B, C, với kích thước cùng trọng lượng nhỏ nên được sử dụng nhiều trong máy bay, thuyền hay các phương tiện vận tải khác.</p>\n  <p>Lượng bột: 2kg.</p>\n  <p>Hiệu quả phun: ≥ 6s.</p>\n  <p>Phạm vi phun: 2.5m.</p>\n  <p>Nhiệt độ hoạt động: -20°C ~ 55°C.</p>\n  <p>Áp suất vận hành: 1.2 Mpa.</p>\n  <p>Thử nghiệm qua nước: 2.5 Mpa.</p>\n  <p>Đã bật hỏa tốc</p>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 195000,
+        "product_quantity": 6850,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "MFZL2",
+            "Kích thước (Dài x Rộng x Cao)": "13x13x30cm",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Trọng lượng sản phẩm": "5kg",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "180602",
+        "product_name": "Đầu đọc phụ dùng thẻ và mật khẩu KR102E",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/bc/c1/56/f967c5fed8838b20c4d8358a6273bd20.jpg",
+            "https://salt.tikicdn.com/ts/product/30/87/81/b1946da1ba2067504fdcc5285851a716.jpg"
+        ],
+        "product_description": "<h2>ĐẦU ĐỌC THẺ PHỤ</h2>\n<ul>\n<li>Nhãn hiệu: ZKTeco</li>\n<li>Mã sản phẩm: KR-102</li>\n<li>Bảo hành: 12 tháng</li>\n</ul>\n<p><strong>MÔ TẢ</strong></p>\n<ul>\n<li>Đọc thẻ Proximity 125KHz hoặc Mifare 13.56MHz</li>\n<li>Dễ dàng để lắp đặt trên khung cửa kim loại hoặc lắp nổi trên bề mặt tường.</li>\n<li>Đèn LED báo hiệu bên ngoài</li>\n<li>Tiêu chuẩn IP64 không thấm nước có thể lắp đặt ngoài trời</li>\n<li>Thiết kế kiểu dáng hiện đại và thanh lịch.</li>\n</ul>\n<p><strong>THÔNG SỐ KỸ THUẬT</strong></p>\n<ul>\n<li>Phạm vi nhận thẻ: KR102E Lên đến 10 CM / KR102M Lên đến 5 CM</li>\n<li>Thời gian đọc (Thẻ): s 300 mili giây</li>\n<li>Nguồn điện: DC 6-14V / Tối đa 70mA</li>\n<li>Cổng đầu vào: 2ea (Điều khiển đèn LED bên ngoài, Điều khiển bộ rung bên ngoài)</li>\n<li>Định dạng thẻ đầu ra: 26bit Wiegand (E) 34bit Wiegand (M)</li>\n<li>Định dạng ghim đầu ra: 8 bit</li>\n<li>Chỉ dẫn: Đèn báo LED 2 màu (Đỏ và Xanh lục), tiếng bíp</li>\n<li>Nhiệt độ hoạt động: -10 ° đến + 70 ° C “</li>\n<li>Độ ẩm hoạt động: 10% đến 90% (không tính đến độ ẩm tương đối)</li>\n<li>Màu sắc: Màu đen</li>\n<li>Vật liệu: ABS</li>\n<li>Kích thước: (WxHxD) 86x86x22mm</li>\n<li>Chỉ số Bảo vệ: IP64</li>\n</ul>\n<p><strong>ỨNG DỤNG</strong></p>\n<ul>\n<li>Chuyên dụng cho hệ thống Kiểm soát ra vào.</li>\n</ul>\n<p><strong>Đóng gói</strong></p>\n<ul>\n<li>01 cái/hộp</li>\n</ul>\n<p>SẢN PHẨM ĐƯỢC NHẬP BỞI GLAZE OFFICIAL STORE</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 828300,
+        "product_quantity": 6863,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Glaze",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "China",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "6 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "180602",
+        "product_name": "Công tắc Exit mở cửa không chạm ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/17/02/7a/d95d7660630d2720b83ee375cbc44595.jpg",
+            "https://salt.tikicdn.com/ts/product/5c/c3/97/a1f330b39669a0ab75e00dc2085f5231.jpg"
+        ],
+        "product_description": "<h2>CÔNG TẮC EXIT MỞ CỬA</h2>\n<ul>\n<li>Nhãn hiệu: Glaze</li>\n<li>Bảo hành: 6 tháng</li>\n</ul>\n<p><strong>THÔNG SỐ KỸ THUẬT</strong></p>\n<ul>\n<li>Kiểu nhấn: cảm ứng không chạm</li>\n<li>Nguồn sử dụng: DC12V</li>\n<li>Cổng kết nối: NO/NC/COM</li>\n<li>Chất liệu: Nhựa và inox</li>\n<li>Màu sắc: đen, bạc</li>\n</ul>\n<p><strong>ỨNG DỤNG</strong></p>\n<ul>\n<li style=\"list-style-type:none;\">\n<ul>\n<li>Chuyên dụng cho hệ thống Kiểm soát ra vào, cửa tự động và các ứng dụng khác.</li>\n</ul>\n</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 242000,
+        "product_quantity": 2645,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Glaze",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "China",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "6 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Công tắc cảm ứng",
+                "options": [
+                    "Loại hình chữ nhật",
+                    "Loại vuông"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 242000,
+                "sku_stock": 4729
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 242000,
+                "sku_stock": 7755
+            }
+        ]
+    },
+    {
+        "product_shop": "5284",
+        "product_name": "Chất làm thông lưới khung in Sprayway Fast Opener 957 Made in USA",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/64/e8/b4/eb4ae19a085ea0ab381718cd1a26a631.jpg"
+        ],
+        "product_description": "<p>- Mở các khu vực khô trên màn hình các máy in được sử dụng và màn hình cá nhân.<br />- Thích hợp cho tất cả các loại mực in<br />- Đảm bảo tính thông thoáng, không bị nghẽn của các lỗ lưới, <br />- Đảm bảo không để lại bụi bẩn<br />- Chỉ sử dụng cho các loại bảng phim trực tiếp hoặc gián tiếp dạng lưới, bảng định hình, giấy sáp.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 291000,
+        "product_quantity": 4614,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Sprayway",
+            "Xuất xứ thương hiệu": "Mỹ",
+            "Hướng dẫn bảo quản": "<p>Bảo quản nơi khô ráo, tránh ánh nắng trực tiếp của mặt trời</p>",
+            "Model": "US#957",
+            "Xuất xứ (Made in)": "Mỹ",
+            "Trọng lượng sản phẩm": "425 g",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "5284",
+        "product_name": "Silicone dùng để bôi trơn khung in, bảng in, máy cắt vải, chi tiết máy móc và các loại máy cắt giấy Sprayway SW-945 USA",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/37/2f/69/b6d21389de99ef6eb9306f8d2c5f5571.jpg",
+            "https://salt.tikicdn.com/ts/product/f5/8c/68/f3e87c245edbb9fc00ca069bac6f5c98.jpg",
+            "https://salt.tikicdn.com/ts/product/c1/d9/a7/1a4cb0845e12a6565c8f3064b1f723d1.jpg",
+            "https://salt.tikicdn.com/ts/product/8e/ef/eb/1261459602d6c393594d802ead6c2fe5.jpg",
+            "https://salt.tikicdn.com/ts/product/82/19/b3/a8325330a6e70ecc5c145eb86de2bbad.jpg"
+        ],
+        "product_description": "<p>- Chai xịt bôi trơn 945 (dạng khô) giúp chấm dứt sự kẹt dính của các chi tiết chuyển động, máy móc, công cụ điệ<br />- Khô nhanh, không để lại trên chi tiết được phun lớp phim dầu ướt.<br />- Giúp giữ cho các chi tiết được phun được trơn &amp; sạch sẽ.<br />- Bảo vệ và giữ gìn thiết bị<br />- Tiết kiệm thời gian và tăng năng suất.<br />- Chai xịt bôi trơn 945 giup tăng tốc độ trong thao tác sản xuất.<br />- Cắt đứt sự rít, kẹt máy, bảo vệ các bề mặt làm việc và làm chậm sự ăn mòn</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 204000,
+        "product_quantity": 1857,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Sprayway",
+            "Xuất xứ thương hiệu": "Mỹ",
+            "Hướng dẫn bảo quản": "<p>Để ở nơi khô thoáng, tránh ánh nắng trực tiếp của mặt trời</p>",
+            "Xuất xứ (Made in)": "Mỹ",
+            "Trọng lượng sản phẩm": "312 g",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "74787",
+        "product_name": "ROGTZ - Camera Nội Soi WiFi Chống Nước HD 1M Len 8mm Chất lượng hình ảnh HD 6LED Kết nối Wifi  Tương thích Ios Android Windows Chống nước IP67 Đa mục đích sử dụng Kiểm tra đường ống, thiết bị máy móc, động cơ Sửa chữa bảo dưỡng thiết bị  - Hàng Chính Hãng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/fe/06/eb/fef311270b54dbe41a1d784497571fec.jpg",
+            "https://salt.tikicdn.com/ts/product/9e/ea/4d/f25f3081b6836f2d12157d91221dc466.jpg",
+            "https://salt.tikicdn.com/ts/product/90/4f/75/20c84e14b0f7b53762bce18df5ef6f38.png",
+            "https://salt.tikicdn.com/ts/product/c3/9e/9a/0d4c5ad385d7f824a2cf257fd0791574.jpg",
+            "https://salt.tikicdn.com/ts/product/e5/5a/7a/bcaa3c4f65126e31744a3dba287e92d5.jpg",
+            "https://salt.tikicdn.com/ts/product/aa/ff/4a/ca3061d1bd5b3df81addb69f1781d63f.jpg",
+            "https://salt.tikicdn.com/ts/product/91/28/67/5e07002b1344600e1106b1374d46cb1d.jpg",
+            "https://salt.tikicdn.com/ts/product/f6/56/e1/87851f5a05849cc5b15f3e3d45e559cd.jpg",
+            "https://salt.tikicdn.com/ts/product/76/d2/b6/cb877286695f65ad0d285bdd5e602af3.jpg",
+            "https://salt.tikicdn.com/ts/product/d3/94/2d/7183ff33efa946fca1a0ade879494688.jpg",
+            "https://salt.tikicdn.com/ts/product/01/34/14/a46cc16ec9d3e0fb3ce364911169735f.png"
+        ],
+        "product_description": "<p>Bạn có muốn du ngoạn vào thế giới bí ẩn bên trong cơ thể, khám phá những ngóc ngách mà mắt thường không thể nhìn thấy? Hãy biến điều ước viễn tưởng thành hiện thực với <strong>Camera Nội Soi WiFi Chống Nước HD 1M</strong>. Chiếc \"chiếc kính viễn vọng\" thu nhỏ này sẽ dẫn dắt bạn vào hành trình khám phá kỳ thú, mang đến cho bạn trải nghiệm soi nội soi hoàn toàn mới.</p>\n<p><strong>Thiết kế nhỏ gọn, linh hoạt</strong></p>\n<p>Sở hữu kích thước siêu nhỏ gọn cùng đường kính camera chỉ 8mm, <strong>Camera Nội Soi WiFi Chống Nước HD 1M</strong> dễ dàng len lỏi vào mọi ngóc ngách, giúp bạn quan sát rõ nét từng chi tiết bên trong tai, mũi, họng hay những khu vực khó tiếp cận khác.</p>\n<p><strong>Hình ảnh sắc nét, sống động</strong></p>\n<p>Chất lượng hình ảnh HD 1280x720 cho bạn hình ảnh sắc nét, sống động như thật, không bỏ sót bất kỳ chi tiết nào. Bóng đèn LED điều chỉnh được độ sáng giúp bạn soi rõ mọi ngóc ngách, dù là nơi thiếu sáng nhất.</p>\n<p><strong>Kết nối WiFi tiện lợi</strong></p>\n<p>Kết nối trực tiếp với điện thoại qua WiFi, <strong>Camera Nội Soi WiFi Chống Nước HD 1M</strong> cho phép bạn quan sát và ghi hình dễ dàng mọi lúc mọi nơi. Ứng dụng đi kèm dễ cài đặt và sử dụng, tương thích với cả Android và iOS.</p>\n<p><strong>Chống nước IP67</strong></p>\n<p>Với khả năng chống nước IP67, bạn có thể thoải mái sử dụng <strong>Camera Nội Soi WiFi Chống Nước HD 1M</strong> trong môi trường nước mà không lo hỏng hóc.</p>\n<p><strong>Đa dạng ứng dụng</strong></p>\n<p>Ngoài việc soi tai, mũi, họng, <strong>Camera Nội Soi WiFi Chống Nước HD 1M</strong> còn có thể sử dụng cho nhiều mục đích khác như kiểm tra đường ống, thiết bị máy móc, động cơ, ô tô, thuyền,</p>\n<p><strong>Lựa chọn hoàn hảo cho sức khỏe</strong></p>\n<p><strong>Camera Nội Soi WiFi Chống Nước HD 1M</strong> là dụng cụ hữu ích giúp bạn theo dõi sức khỏe tai mũi họng tại nhà, phát hiện sớm các vấn đề tiềm ẩn và chủ động điều trị. Camera cũng là trợ thủ đắc lực cho các kỹ thuật viên, thợ sửa chữa trong công việc kiểm tra, bảo dưỡng thiết bị.</p>\n<p><strong>Còn chần chờ gì nữa? Hãy sở hữu ngay Camera Nội Soi WiFi Chống Nước HD 1M để khám phá thế giới bí ẩn và bảo vệ sức khỏe của bạn!</strong></p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/c7/5c/e8/128d602789eb3e93b4e53ec5efd31fd3.png\" alt=\"EcPHxt_simg_d0daf0_800x1200_max.png\" width=\"750\" height=\"750\" /><br /> <img src=\"https://salt.tikicdn.com/cache/w750/ts/product/41/a1/69/fde0cca1b624b3fe81a1d96def3976f4.jpg\" alt=\"Fjusd2_simg_d0daf0_800x1200_max.jpg\" width=\"750\" height=\"750\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/6c/28/f7/5da7826cb366effe503aa3392bbba821.png\" alt=\"vVb44i_simg_d0daf0_800x1200_max.png\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/90/f8/c3/35f4f988b017b0926d7ecdcbb924804e.jpg\" alt=\"InCjXv_simg_d0daf0_800x1200_max.jpg\" /><br /><br /></p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/ed/5f/46/65cc5bed4efad945067109e8f3a68bc1.png\" alt=\"unSyMg_simg_d0daf0_800x1200_max.png\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/2c/8d/a2/94faf6943cf3c32d20c9abb70d4bf90f.jpg\" alt=\"q8MgM2_simg_d0daf0_800x1200_max.jpg\" /><img src=\"https://salt.tikicdn.com/ts/product/4c/f2/8e/c37f57b11fe615cc9918a9ac9970b2e6.jpg\" alt=\"yLseG0_simg_d0daf0_800x1200_max.jpg\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/07/4b/45/987cd0c0c074b28b83d2023425520208.jpg\" alt=\"XPvMhK_simg_d0daf0_800x1200_max.jpg\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/19/20/0b/41a9d2401a0851ec25cda5131dfa5472.jpg\" alt=\"bWZHmq_simg_d0daf0_800x1200_max.jpg\" width=\"750\" height=\"750\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/8e/eb/33/c3ff56e4682abfa279f93cab9ba621ac.jpg\" alt=\"REOUqx_simg_d0daf0_800x1200_max.jpg\" width=\"750\" height=\"750\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/f4/0e/54/ef80aedc903239c4922804df28d76367.jpg\" alt=\"yJSpUY_simg_d0daf0_800x1200_max.jpg\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/90/8d/02/797b7734f246e80eb7677939b28c604b.jpg\" alt=\"e7O2LK_simg_d0daf0_800x1200_max.jpg\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/c7/5c/e8/128d602789eb3e93b4e53ec5efd31fd3.png\" alt=\"EcPHxt_simg_d0daf0_800x1200_max.png\" width=\"750\" height=\"750\" /><br /> <img src=\"https://salt.tikicdn.com/cache/w750/ts/product/41/a1/69/fde0cca1b624b3fe81a1d96def3976f4.jpg\" alt=\"Fjusd2_simg_d0daf0_800x1200_max.jpg\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/6c/28/f7/5da7826cb366effe503aa3392bbba821.png\" alt=\"vVb44i_simg_d0daf0_800x1200_max.png\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/90/f8/c3/35f4f988b017b0926d7ecdcbb924804e.jpg\" alt=\"InCjXv_simg_d0daf0_800x1200_max.jpg\" /></p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/ed/5f/46/65cc5bed4efad945067109e8f3a68bc1.png\" alt=\"unSyMg_simg_d0daf0_800x1200_max.png\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/2c/8d/a2/94faf6943cf3c32d20c9abb70d4bf90f.jpg\" alt=\"q8MgM2_simg_d0daf0_800x1200_max.jpg\" /><img src=\"https://salt.tikicdn.com/ts/product/4c/f2/8e/c37f57b11fe615cc9918a9ac9970b2e6.jpg\" alt=\"yLseG0_simg_d0daf0_800x1200_max.jpg\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/07/4b/45/987cd0c0c074b28b83d2023425520208.jpg\" alt=\"XPvMhK_simg_d0daf0_800x1200_max.jpg\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/19/20/0b/41a9d2401a0851ec25cda5131dfa5472.jpg\" alt=\"bWZHmq_simg_d0daf0_800x1200_max.jpg\" width=\"750\" height=\"750\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/8e/eb/33/c3ff56e4682abfa279f93cab9ba621ac.jpg\" alt=\"REOUqx_simg_d0daf0_800x1200_max.jpg\" width=\"750\" height=\"750\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/f4/0e/54/ef80aedc903239c4922804df28d76367.jpg\" alt=\"yJSpUY_simg_d0daf0_800x1200_max.jpg\" /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/90/8d/02/797b7734f246e80eb7677939b28c604b.jpg\" alt=\"e7O2LK_simg_d0daf0_800x1200_max.jpg\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\">#camera_noi_soi_wifi #camera_noi_soi_chong_nuoc #camera_noi_soi_HD #camera_noi_soi_1M #camera_noi_soi_dien_thoai #camera_noi_soi_tai_mui_hong #camera_noi_soi_ong_kinh #camera_noi_soi_noi_soi_thiet_bi #camera_noi_soi_gia_re #camera_noi_soi_chinh_hang #camera_noi_soi_cao_cap #camera_noi_soi_tot #camera_noi_soi_uy_tin</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 420000,
+        "product_quantity": 8828,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ROGTZ",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "3 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Tùy Chọn",
+                "options": [
+                    "Chỉ Camera",
+                    "Quà tặng trị giá 139K"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 420000,
+                "sku_stock": 4523
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 420000,
+                "sku_stock": 3600
+            }
+        ]
+    },
+    {
+        "product_shop": "122898",
+        "product_name": "MÁY DÒ KIM LOẠI SUPER SCANNER MD-3003B1 - Chuyên Cho Bảo vệ.",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/0c/4f/fa/e3bb1ca4b55f6214f0a8d8075e0e55fc.jpg",
+            "https://salt.tikicdn.com/ts/product/8d/8f/fa/638608961c4f789d13a972d069c67e0f.jpg"
+        ],
+        "product_description": "<p>Chức năng báo hiệu khi phát hiện kim loại :</p>\n<p>Báo rung.</p>\n<p>Báo âm thanh ra loa \" Bíp\" .</p>\n<p>Đèn báo khi pin yếu.</p>\n<p>Chuyên sử dụng: sân bay kiểm tra thiết bị cấm</p>\n<p>Bảo vệ tòa nhà,khách sạ</p>\n<p>Nhân viên kiểm tra đinh trong gỗ,kiểm tra kim trong vải</p>\n<p>Dò vàng, bạc, đồng, kim loạ</p>\n<p>Máy dò kim loại cầm tay GARRETT GP 3003B1</p>\n<p>Chức năng báo hiệu khi phát hiện kim loại :</p>\n<p>- Báo rung.</p>\n<p>- Báo âm thanh ra loa \" Bíp\" .</p>\n<p>- Đèn báo khi pin yếu.</p>\n<p>Thông số kỹ thuật:</p>\n<p>- Điện áp sử dụng : 6,8 V - 10 Votl DC</p>\n<p>- Dòng tiêu thụ khoảng 5mA</p>\n<p>- Tần số sử dụng : 93 khz</p>\n<p>- Chiều dài : 42 cm</p>\n<p>- Chiều rộng: 8,3cm</p>\n<p>- Trọng lượng: 499 gam</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 490000,
+        "product_quantity": 7745,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "SAFARISG",
+            "Xuất xứ thương hiệu": "China",
+            "Xuất xứ (Made in)": "China",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "3 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "74787",
+        "product_name": "ROGTZ - RF Detector SF18 Máy dò camera mini, máy ghi âm, tín hiệu vô tuyến, tín hiệu di động Dải tận rộng 100MHz - 8GHz  Khu vực dò rộng Độ nhạy cao  Pin trâu 5h Kích thước nhỏ gọn Đèn pin Báo động chế độ rung Văn phòng Khách sạn Nhà nghỉ Hàng Chính Hãng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/82/51/de/bb3e75325b1fd9d5348eaba696565ff0.jpg",
+            "https://salt.tikicdn.com/ts/product/02/72/84/693e3704c9ef53ba3e1c0800a50fbc9c.jpg",
+            "https://salt.tikicdn.com/ts/product/33/ca/b9/460ffb74e76331cd07e01a5edf02093e.jpg",
+            "https://salt.tikicdn.com/ts/product/86/7f/d7/f99e7b55834fce18f085d98a981ed785.jpg",
+            "https://salt.tikicdn.com/ts/product/6d/f1/4b/a4b3df17018918818fec59e2b2221e80.jpg",
+            "https://salt.tikicdn.com/ts/product/12/e7/5e/d583974d345cfa4368e9aad9d1778eeb.jpg",
+            "https://salt.tikicdn.com/ts/product/24/66/fb/b39b3d45c61d1d30335ab50e37087e90.jpg",
+            "https://salt.tikicdn.com/ts/product/f5/5f/b0/952b6ae621fdc7ff69c0ffe3efb538d1.jpg",
+            "https://salt.tikicdn.com/ts/product/72/83/00/009216f8034de8e19b4b833ca5b0334b.jpg",
+            "https://salt.tikicdn.com/ts/product/10/5f/33/3fe7e8343f5f756129e3ec949e35b237.jpg",
+            "https://salt.tikicdn.com/ts/product/4f/91/4d/2a41a69b3ec810f59c9c52406615572e.jpg"
+        ],
+        "product_description": "<h2 style=\"text-align:center;\"><span style=\"color:#3366ff;\">RF Detector SF18 - Siêu anh hùng bí ẩn bảo vệ quyền riêng tư của bạn!</span></h2>\n<p><strong>Bạn có lo lắng về những chiếc camera mini, máy ghi âm tinh vi đang lén lút theo dõi mọi hành động của bạn?</strong></p>\n<p><strong>Đừng hoảng hốt!</strong> Siêu anh hùng <span style=\"color:#3366ff;\"><strong>RF Detector SF18</strong></span> đã có mặt, sẵn sàng đánh bay mọi âm mưu xâm phạm quyền riêng tư của bạn!</p>\n<p><strong>Được trang bị \"siêu năng lực\" vượt trội:</strong></p>\n<ul>\n<li><strong>Sóng siêu thanh:</strong> Phát hiện tín hiệu từ camera wifi, máy ghi âm trong dải tần rộng 100MHz-8GHz, dù chúng được giấu kỹ đến đâu.</li>\n<li><strong>Độ nhạy đỉnh cao:</strong> Bắt sóng tín hiệu cực mạnh, dù ở khoảng cách xa 10 mét vuông (chuẩn 10mw) cho camera 2.4G và 1.2G.</li>\n<li><strong>Bắt sóng tín hiệu di động:</strong> Phát hiện tín hiệu từ điện thoại di động trong dải tần 2G, 3G và 4G, giúp bạn cảnh giác với các thiết bị nghe lén tinh vi.</li>\n<li><strong>Pin siêu bền:</strong> Hoạt động liên tục hơn 5 giờ, đủ sức mạnh để bảo vệ bạn suốt ngày dài.</li>\n<li><strong>Kích thước nhỏ gọn:</strong> Giống như một chiếc bút, dễ dàng mang theo bên mình mọi lúc mọi nơi.</li>\n<li><strong>Đa chức năng:</strong> Ngoài khả năng phát hiện thiết bị theo dõi, SF18 còn có đèn pin chiếu sáng và chế độ rung báo động, vô cùng tiện lợi.</li>\n</ul>\n<p><strong>Với <span style=\"color:#3366ff;\">RF Detector SF18</span>, bạn sẽ:</strong></p>\n<ul>\n<li><strong>Tự tin tận hưởng không gian riêng tư:</strong> Không còn lo lắng bị theo dõi, ghi âm hay quay lén.</li>\n<li><strong>Bảo vệ an toàn thông tin:</strong> Ngăn chặn rò rỉ thông tin cá nhân, bí mật công việc.</li>\n<li><strong>Trở thành \"thám tử\" nghiệp dư:</strong> Phát hiện những thiết bị bí ẩn xung quanh bạn.</li>\n</ul>\n<p><strong>Hãy biến <span style=\"color:#3366ff;\">RF Detector SF18</span> thành người bạn đồng hành tin cậy, bảo vệ quyền riêng tư của bạn khỏi mọi mối đe dọa!</strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/dc/eb/fc/dd63e2724fac92904a8e972ba2da2ad9.jpg\" alt=\"\" width=\"750\" height=\"809\" /></strong></p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/02/72/84/a0cb56de984df0a05a88b5615639da9a.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/4f/91/4d/4bdef0ddd7c62079cfdb0ef110e8e038.jpg\" alt=\"\" width=\"750\" height=\"749\" /></p>\n<p style=\"text-align:center;\"><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/33/ca/b9/a016b5c0daa8b2978bb3978628ce278e.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/86/7f/d7/c63b839e0fa70b53fbb675d40cff6ad0.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/6d/f1/4b/1b04caae585c323818a990a71e06f4de.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/12/e7/5e/904f18d30180ad42a6a354bde955b6c1.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"><img style=\"margin-left:auto;margin-right:auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/82/51/de/4bc2f0643eb18bd9cde465b3165969bf.jpg\" alt=\"\" width=\"750\" height=\"1146\" /></p>\n<p style=\"text-align:center;\"><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/82/51/de/6b72ac4a5ded0b575ae79fd57af00684.jpg\" alt=\"\" width=\"750\" height=\"1146\" /></p>\n<p style=\"text-align:center;\"><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/24/66/fb/a830d67e6b42edbc0f3eac8fe3b8462f.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/f5/5f/b0/ab62120a2a331ac454176b15aa2afe03.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/72/83/00/e662ee229c2f28b7b568c3be1e7d386c.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/10/5f/33/2fcd1a7912da1b368c714abf84d437b5.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/26/bd/26/5bb4536a6e8dd3d9aa42f6584b34ae71.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p> </p>\n<p> </p>\n<p style=\"text-align:center;\"><strong>Bạn còn chần chờ gì nữa? Hãy sở hữu ngay <span style=\"color:#3366ff;\">RF Detector SF18</span> để bảo vệ quyền riêng tư của bạn!</strong></p>\n<p style=\"text-align:center;\"> </p>\n<p style=\"text-align:center;\"> </p>\n<p style=\"text-align:center;\"> </p>\n<h6 style=\"text-align:center;\"><strong>#máy phát hiện camera mini #máy phát hiện camera wifi #máy phát hiện máy ghi âm #RF Detector SF18 #thiết bị phát hiện camera #thiết bị phát hiện máy ghi âm #phát hiện camera wifi #phát hiện camera mini #phát hiện máy ghi âm mini #tìm kiếm camera mini #tìm kiếm camera wifi #tìm kiếm máy ghi âm #dải tần số RF #dải động phát hiện #độ nhạy phát hiện #phạm vi phát hiện RF #tín hiệu trong điện thoại di động #phát hiện từ trường #đèn chiếu sáng phụ #chế độ báo động #khối lượng #chất liệu #trọng lượng #nguồn sạc #giờ hoạt động</strong></h6><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 739000,
+        "product_quantity": 2244,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ROGTZ",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "6 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "16549",
+        "product_name": "Tay đẩy hơi Newstar Za81N - Thương hiệu Nhật Bản",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/37/dd/17/db78e8431cba5bbb4c42007ec75622ef.jpg",
+            "https://salt.tikicdn.com/ts/product/22/81/a3/13c4475f98fa17025752c93f28a0adfa.jpg",
+            "https://salt.tikicdn.com/ts/product/07/b6/2f/0a689fb5cf6562457d51ef8480bdc516.jpg",
+            "https://salt.tikicdn.com/ts/product/57/45/66/2004fe835a4eaf8c874b6aa02f7785b6.jpg"
+        ],
+        "product_description": "<p><em><strong>Tay co thủy lực NEWSTAR ZA-81N được thiết kế lắp đặt nổi. Sản phẩm không tích hợp tính năng giữ cửa mở. Thích hợp sử dụng cho cửa có trọng lượng từ 30kg – 45kg, chiều ngang cánh cửa rộng tối đa 800mm.</strong></em></p>\n<p>Thiết bị cung cấp lực đẩy phù hợp cho các loại cửa gỗ, cửa thép có trọng lượng nhẹ (30-45kg). Lắp đặt nổi và có thể điều chỉnh lực đóng, chốt cửa bằng van trên thân tay đẩy.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/57/45/66/1866361a0c1a9b20a4be0ebd511f0fcb.jpg\" alt=\"\" width=\"750\" height=\"1000\" /></p>\n<p><strong>Thông tin chi tiết sản phẩm tay đẩy hơi NEWSTAR ZA-81N</strong></p>\n<table>\n<tbody>\n<tr>\n<td style=\"width:131px;\"><strong>Vật liệu cấu tạo:</strong></td>\n<td style=\"width:170px;\">Thân bằng hợp kim nhôm</td>\n</tr>\n<tr>\n<td style=\"width:131px;\"><strong>Màu hoàn thiện:</strong></td>\n<td style=\"width:170px;\">Xám</td>\n</tr>\n<tr>\n<td style=\"width:131px;\"><strong>Chức năng giữ cửa:</strong></td>\n<td style=\"width:170px;\">ZA 81N - KHÔNG CÓ<br />ZA181N - GIỮ CỬA</td>\n</tr>\n<tr>\n<td style=\"width:131px;\"><strong>Lực đóng cửa:</strong></td>\n<td style=\"width:170px;\">30kg</td>\n</tr>\n<tr>\n<td style=\"width:131px;\"><strong>Loại cửa phù hợp:</strong></td>\n<td style=\"width:170px;\">Cửa gỗ, cửa sắt, cửa nhôm, cửa nhựa</td>\n</tr>\n<tr>\n<td style=\"width:131px;\"><strong>Chiều rộng cửa:</strong></td>\n<td style=\"width:170px;\">800mm</td>\n</tr>\n<tr>\n<td style=\"width:131px;\"><strong>Trọng lượng cửa:</strong></td>\n<td style=\"width:170px;\">từ 30kg – 45kg</td>\n</tr>\n<tr>\n<td style=\"width:131px;\"><strong>Góc mở tối đa:</strong></td>\n<td style=\"width:170px;\">135<sup>o</sup></td>\n</tr>\n<tr>\n<td style=\"width:131px;\"><strong>Đóng gói:</strong></td>\n<td style=\"width:170px;\">Hộp giấy</td>\n</tr>\n<tr>\n<td style=\"width:131px;\"><strong>Sản phẩm bao gồm:</strong></td>\n<td style=\"width:170px;\">\n<ul>\n<li>01 tay đẩy hơi</li>\n<li>01 tay co</li>\n<li>Tài liệu hướng dẫn</li>\n<li>Bộ ốc vít kèm theo</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"width:131px;\"><strong>Thời gian bảo hành:</strong></td>\n<td style=\"width:170px;\">01 năm chính hãng NEWSTAR</td>\n</tr>\n</tbody>\n</table><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 640000,
+        "product_quantity": 8359,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "New Star",
+            "Xuất xứ thương hiệu": "Nhật Bản",
+            "Chất liệu": "<p>Hợp Kim</p>",
+            "Model": "NewstarZa81N",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Trọng lượng sản phẩm": "3kg",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Loại",
+                "options": [
+                    "Za 181N",
+                    "Za 81N"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 640000,
+                "sku_stock": 5293
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 640000,
+                "sku_stock": 6778
+            }
+        ]
+    },
+    {
+        "product_shop": "74787",
+        "product_name": "ROGTZ - Máy dò tìm phát hiện định vị G.P.S chuyên dụng G318 RF - Máy phát hiện nghe len dò tìm định vị G.P.S G318 chuyên nghiệp - Hàng Chính Hãng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a5/71/2e/394a34b21d264298db2c5bfbe5b0c49f.png",
+            "https://salt.tikicdn.com/ts/product/2a/74/64/57855b90c7fa285ebe7052b25cab9317.png",
+            "https://salt.tikicdn.com/ts/product/cc/db/e4/e10c793567339767b014bad3eb1a9a0c.png",
+            "https://salt.tikicdn.com/ts/product/e4/17/c0/f08d7dcc322584e45e6ddc0e887c9801.png",
+            "https://salt.tikicdn.com/ts/product/bc/93/bf/8ea4879789fc2a8c32cad89874c8b842.png",
+            "https://salt.tikicdn.com/ts/product/39/a5/d5/06c00cb87dd4d3a8f9555c7741d76865.png"
+        ],
+        "product_description": "<div class=\"pdp-block module\">\n<div class=\"pdp-product-title\">\n<div class=\"pdp-mod-product-badge-wrapper\">\n<h1 class=\"pdp-mod-product-badge-title\" style=\"text-align:center;\">Máy dò tìm phát hiện định vị G.P.S chuyên dụng G318 RF Máy phát hiện nghe len dò tìm định vị G.P.S G318 chuyên nghiệp</h1>\n</div>\n</div>\n</div>\n<div class=\"pdp-block module\"> </div>\n<div class=\"pdp-block pdp-block__rating-questions-summary\">\n<div class=\"pdp-block pdp-block__rating-questions\">\n<div class=\"pdp-block module\">\n<div class=\"article_content\">\n<p>G318 là một loại  và định vị được bán trên thị trường. Thiết bị này có khả năng phát hiện các thiết bị nghe len giám sát ẩn trong các vật thể như tường, quần áo, bàn làm việc, xe hơi hoặc bất kỳ đồ vật nào khác.</p>\n<p>Để sử dụng máy phát hiện nghe len và định vị G318, bạn chỉ cần bật thiết bị lên và di chuyển nó quanh khu vực bạn muốn kiểm tra. Khi thiết bị phát hiện được các tín hiệu từ các thiết bị nghe len, nó sẽ cảnh báo bằng cách phát ra âm thanh hoặc rung. Bên cạnh đó, G318 còn có chức năng định vị camera giúp bạn xác định vị trí chính xác của các camera giám sát được ẩn trong khu vực.</p>\n<h3><strong>Thông Số Kỹ Thuật:</strong></h3>\n<ul>\n<li>Nguồn điện sử dụng: 9V</li>\n<li>Trọng lượng: 500g</li>\n<li>Tần số quét: Từ 25 Mhz – 6000 Mhz</li>\n<li>Dải động phát hiện ≤0.05mw:&gt; 70dB</li>\n</ul>\n<h3><strong>Hướng Dẫn Sử Dụng:</strong></h3>\n<ul>\n<li>Bật thiết bị lên, khi thấy đèn sáng ổn định nghĩa là đã khởi động thành công.</li>\n<li>Điều chỉnh độ nhạy của thiết bị về trạng thái 3 hoặc 4 đèn và đi dò xung quanh khu vực nghi ngờ có thiết bị định vị GPS giấu kín.</li>\n<li>Tại khu vực nào mà bạn cảm thấy đèn tiếp theo sáng lên hoặc tất cả các đèn đều sáng thì có thể bạn đang tiến gần đến thiết bị định vị cần tìm.</li>\n<li>Bạn điều chỉnh độ nhạy xuống thấp hơn, trạng thái 1 đèn và tiếp tục di chuyển lại gần và thấy các đèn lần lượt sáng và sáng toàn bộ. Bạn kiểm tra thật kỹ tại khu vực đó, vì khả năng cao vị trí đó có thiết bị định vị đang hoạt động lấy vị trí của bạn.\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/a5/71/2e/529264675c98de0fd2d3bfbd43c41675.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/2a/74/64/055ba830d7797a97d5888c3467f8e3c3.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/cc/db/e4/018955324a2bcaee9bd884da25e4106e.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/e4/17/c0/2b521fd441610d15aa4227d6c66f32ac.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/bc/93/bf/65f2e5cfa5b5f2ae94fbcb8218804d10.png\" alt=\"\" width=\"750\" height=\"939\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/39/a5/d5/7e83cf9f47e996ddecfc4a8663fe95f7.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1095000,
+        "product_quantity": 3092,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ROGTZ",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "3 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Loại",
+                "options": [
+                    "G318",
+                    "G318 + Sạc"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 1095000,
+                "sku_stock": 7297
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 1095000,
+                "sku_stock": 8216
+            }
+        ]
+    },
+    {
+        "product_shop": "211029",
+        "product_name": "Bộ Điều Khiển Trung Tâm (Hỗ trợ Lumi Smart Lighting)/ Hàng Chính Hãng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ee/91/d2/c16a9ef2f5490fec597342e51a8ff82a.png",
+            "https://salt.tikicdn.com/ts/product/98/1f/78/1683172a84d9a898a5217ff99ceff1c1.jpg",
+            "https://salt.tikicdn.com/ts/product/82/7f/7a/e8a01ce5690842a8bcf5f330f893e0b1.jpg",
+            "https://salt.tikicdn.com/ts/product/8c/26/1d/e23c962d267a351cea870235d23552e4.jpg"
+        ],
+        "product_description": "<p>Thiết bị bộ điều khiển trung tâm phiên bản mới của Lumi ra mắt hồi tháng 11/2020 được bổ sung thêm phần cứng là module Bluetooth Mesh (đồng thời vẫn giữ nguyên những tính năng như của phiên bản Zigbee), có thể điều khiển đồng thời cả 2 dòng thiết bị của Lumi là Bluetooth và Zigbee. Ngoài ra thiết bị còn đóng một vai trò vô cùng quan trọng trong giải pháp Lumi Smart Lighting.</p>\n<ul>\n<li>Thiết kế: nhỏ gọn với vỏ nhựa và mặt kính cường lực chống xước.</li>\n<li>Cho thiết bị gia nhập mạng Zigbee liên kết các thiết bị trong cùng hệ thống với nhau.</li>\n<li>Cho các thiết bị đèn Smart Lighting và các module Bluetooth gia nhập mạng BLE Mesh của HC để liên kết các thiết bị trong cùng hệ thống với nhau.</li>\n<li>Điều khiển các thiết bị bằng ứng dụng Lumi Life.</li>\n<li>Thực hiện xử lý các cài đặt tự động: cảnh, rule, hẹn giờ thiết bị, nhóm thiết bị.</li>\n<li>Bảo hành: 24 tháng</li>\n</ul>\n<p><em>Được xem là bộ não của ngôi nhà thông minh, bộ điều khiển trung tâm (Home Controller) là thiết bị không thể thiếu trong hệ thống Nhà thông minh Lumi. </em><em>Sử dụng 2 truyền thông không dây Zigbee và Bluetooth Mesh – công nghệ được đánh giá ổn định và phù hợp nhất cho Nhà thông minh, bộ điều khiển trung tâm của Lumi có khả năng kết nối tới 500 node mạng, khuyến cáo 200 thiết bị trong 1 hệ thống. Lấy 2 màu đen – bạc làm chủ đạo và thiết kế nhỏ gọn, tinh tế, bộ điều khiển trung tâm khi được lắp đặt không chỉ mang lại những tiện ích cho chủ nhà, mà còn đảm bảo tính thẩm mỹ, phù hợp với đa dạng không gian nhà hiện đại.</em></p>\n<h2><strong>1. Tính năng bộ điều khiển trung tâm trong nhà thông minh</strong></h2>\n<p>Home Controller là trung tâm nhận và xử lý các lệnh điều khiển trong nhà thông minh. Thông qua sóng Zigbee hoặc Bluetooth, bộ điều khiển trung tâm được kết nối với các thiết bị điện thông minh trong nhà như công tắc thông minh, cảm biến chuyển động, động cơ rèm thông minh, các loại đèn thông minh… Nhờ vậy, các lệnh tắt đèn, bật bình nóng lạnh, mở rèm,… được thực hiện theo mong muốn của người dùng. Nói chung, tất cả các lệnh điều khiển thông minh xuất phát từ Smartphone hoặc các trợ lý ảo đều được bộ điều khiển trung tâm xử lý nhanh và mượt. Vì vậy, có thể nói tính năng của bộ điều khiển trung tâm là xử lý tất cả các lệnh điều khiển của người dùng</p>\n<ul>\n<li>Bật/ tắt/ hẹn giờ toàn bộ hệ thống đèn điện trong nhà</li>\n<li>Thay đổi màu sắc, độ sáng của đèn theo ý muốn chủ nhân</li>\n<li>Đóng/ mở/ hẹn giờ rèm bằng Smartphone và giọng nói</li>\n<li>Thiết lập các kịch bản sống thông minh như: tự động bật đèn khi phát hiện chuyển động, nhóm cảnh, lên lịch, tạo rule cho các thiết bị thông minh hoạt động đồng thời…</li>\n</ul>\n<p><img class=\"aligncenter wp-image-6943\" src=\"https://salt.tikicdn.com/cache/w750/ts/product/6f/a8/0a/b97b577591f856fc770bd3ff106b02d2.png\" alt=\"Bộ điều khiển trung tâm Lumi mới\" width=\"850\" height=\"850\" /></p>\n<h2><strong>2. Ưu điểm của bộ điều khiển trung tâm Lumi</strong></h2>\n<p>Hỗ trợ cả 2 dạng thức sóng Zigbee và Bluetooth Mesh, có thể nói ưu điểm lớn nhất của bộ điều khiển trung tâm Lumi là hoạt động ổn định và giúp tiết kiệm năng lượng.</p>\n<p>Nếu Zigbee là chuẩn không dây chuyên về Smart home được nhiều thương hiệu lớn ưa chuộng, thì Bluetooth Mesh cũng được đánh giá là “đo ni đóng giày” cho Chiếu sáng thông minh. Như vậy, các tín đồ của Smart home không phải lo về vấn đề khó khăn khi mua thêm các thiết bị thông minh về sau này, bởi vì 2 chuẩn không dây được đánh giá ổn định và tốt nhất hiện nay đều được Lumi hỗ trợ.</p>\n<p>Ngoài ra, sever Lumi đã tích hợp thành công với Server của Amazon – Mỹ để tạo ra giải pháp nhà thông minh điều khiển bằng giọng nói. Cho phép người dùng hoàn toàn kiểm soát, điều khiển các thiết bị trong ngôi nhà bằng chính “giọng nói quyền năng” của mình. Khi bạn nói câu lệnh “Turn on go home” hoặc “Turn off go out” tất cả các thiết bị trong ngôi nhà sẽ hoàn toàn bật/tắt, tùy theo câu lệnh.<br />Thêm vào đó, nếu người dùng sử dụng HC (bản có hỗ trợ BLE) trong hệ thống Smart Lighting, người dùng có thể tận hưởng những tiện ích thông minh dành cho đèn như sau:<br />Bật/ tắt đèn bằng Smartphone</p>\n<ul>\n<li>Thay đổi màu ánh sáng phòng khách</li>\n<li>Tăng/ giảm độ sáng theo ý muốn</li>\n<li>Điều khiển đèn linh hoạt theo từng khu vực, giúp tiết kiệm tối đa điện năng tiêu thụ</li>\n</ul>\n<h2><strong>3. Cách thức hoạt động</strong></h2>\n<p>Bộ điều khiển nhà thông minh sẽ tiếp nhận tín hiệu từ cảm biến hoặc từ người dùng, sau đó gửi đến server. Sau khi tiếp nhận thông tin, bộ điều khiển trung tâm – HC truyền tín hiệu đến các công tắc điều khiển thiết bị, hoặc tới các loại đèn thông minh trong bộ Lumi Smart Lighting để thực hiện lệnh của người dùng.</p>\n<p>Ví dụ: Khi cảm biến phát hiện chuyển động gửi tín hiệu “có người di chuyển vào vùng cảm biến” đến HC. Tại đây, HC truyền tín hiệu nhận được đến công tắc kết nối với thiết bị như bóng đèn hành lang, đèn tuýp … sẽ tự động bật/tắt.</p>\n<p>Ngoài ra, HC còn cho phép người dùng tạo hoạt cảnh. Ví dụ: Bạn có thể tạo cảnh bằng cách sử dụng 1 nút công tắc bật hoặc tắt toàn bộ thiết bị trong nhà, chỉ cần 1 nốt chạm trực tiếp như công tắc cơ hoặc trên điện thoại, bạn đã hoàn toàn điều khiển tất cả các thiết bị điện trong ngôi nhà. Tương tự với những hoạt cảnh: tiếp khách, ăn tối, đi làm về … cho các thiết bị trong gia đình.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 2500000,
+        "product_quantity": 9056,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "LUMI",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "24 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "336160",
+        "product_name": "Đèn chớp hi max HE2006-1",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/10/0d/f5/8b18f4aa88f4a6c9d57651d115b4ca24.png",
+            "https://salt.tikicdn.com/ts/product/aa/ae/a3/9865b7d31983b6f550e2f69890762952.png",
+            "https://salt.tikicdn.com/ts/product/d5/f0/0e/7183e1cf99caeb7454cb58bd041d5600.png"
+        ],
+        "product_description": "<article class=\"4ever-article\">\n<p>MÃ HÀNG: HE2006-1</p>\n<p>NGUỒN ĐIỆN: DC 24V / 120mA</p>\n<p>ĐIỀU KIỆN MÔI TRƯỜNG: -10°C ĐẾN 50°C, 95% RH</p>\n<p>KÍCH THƯỚC/KHỐI LƯỢNG: W125mm x H125mm x D30mm / 100g</p>\n<p>NGUỒN SÁNG: ĐÈN LED ĐỘ SÁNG CAO</p>\n<p>CHIỀU CAO LẮP ĐẶT: 2.0m ~ 2.5m</p>\n<p>NƠI ÁP DỤNG: VĂN PHÒNG, TẦNG HẦM, BẾN TÀU, NHÀ KHO, NHÀ THỜ, NHÀ HÀNG, TIỆM TẠP HÓA, KHÁCH SẠN, PHÒNG MÁY TÍNH, PHÒNG HỌP, PHÒNG KARAOKE, …</p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 441000,
+        "product_quantity": 5257,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Himax",
+            "Xuất xứ thương hiệu": "Hàn Quốc",
+            "Hướng dẫn sử dụng": "<p>Mọi thông tin chi tiết về sản phẩm xin vui lòng liên hệ:</p>\n<p>Địa chỉ: Lô B5F, Khu B, Đường số 7, KCN Hiệp Phước, Nhà Bè, TP. Hồ Chí Minh</p>\n<p>TEL:&#43;84-906-773-772 (Mr.Cương)</p>\n<p>&#43;84-907-149-119 (Ms.Liên)</p>\n<p>Mail: himaxvietnam&#64;gmail.com</p>\n<p>www.himaxvietnam.com</p>\n\n<p>Catalogue: https://himaxvietnam.com/contents_himax119/uploads/files/CATALOG-HI-MAX-VIET-NAM-2024(1).pdf</p>\n",
+            "Model": "HE2006-1",
+            "Kích thước (Dài x Rộng x Cao)": "12.5 x 12.5 x 3",
+            "Xuất xứ (Made in)": "Hàn Quốc",
+            "Trọng lượng sản phẩm": "100g",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "336160",
+        "product_name": "Đầu báo nhiệt địa chỉ hi max HD1014 (Kèm đế)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/be/b5/1d/8177f2ce3766c332eca55c1a7d30cab8.png",
+            "https://salt.tikicdn.com/ts/product/91/6a/cc/066dca7420ff35f14deadf72838cdc3b.png",
+            "https://salt.tikicdn.com/ts/product/22/8f/5d/8444864128457c073487a13ea7b5247d.png",
+            "https://salt.tikicdn.com/ts/product/fa/b8/1d/f9db23cef75c7b6c554249a92baf96ff.png",
+            "https://salt.tikicdn.com/ts/product/2a/a8/fc/76a4aceb68baf74c1e25b4f16d5e71f1.png"
+        ],
+        "product_description": "<article class=\"4ever-article\">\n<p>MÃ HÀNG: HD1014</p>\n<p>NGUỒN ĐIỆN: DC 24V / 3mA</p>\n<p>ĐIỀU KIỆN MÔI TRƯỜNG: -10°C ĐẾN 50°C, 90% RH</p>\n<p>KÍCH THƯỚC/KHỐI LƯỢNG: Ø110mm x D40mm / 90g</p>\n<p>LOẠI : ĐỊA CHỈ</p>\n<p>CHỈ DẪN HOẠT ĐỘNG: ĐÈN LED MÀU ĐỎ</p>\n<p>TIÊU CHUẨN SỬ DỤNG: 150EA / LOOP</p>\n<p>NHIỆT ĐỘ PHÁT HIỆN CHÁY: 40°C ~ 80°C (CÓ THỂ CÀI ĐẶT NHIỆT ĐỘ PHÁT HIỆN CHÁY)</p>\n<p>NƠI ÁP DỤNG: VĂN PHÒNG, TẦNG HẦM, NHÀ KHO, NHÀ THỜ, NHÀ HÀNG, TIỆM TẠP HÓA, KHÁCH SẠN, PHÒNG MÁY TÍNH, PHÒNG HỌP, PHÒNG KARAOKE, …</p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1492000,
+        "product_quantity": 5917,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Himax",
+            "Xuất xứ thương hiệu": "Hàn Quốc",
+            "Hướng dẫn sử dụng": "<p>Mọi thông tin chi tiết về sản phẩm xin vui lòng liên hệ:</p>\n<p>Địa chỉ: Lô B5F, Khu B, Đường số 7, KCN Hiệp Phước, Nhà Bè, TP. Hồ Chí Minh</p>\n<p>TEL:&#43;84-906-773-772 (Mr.Cương)</p>\n<p>        &#43;84-907-149-119 (Ms.Liên)</p>\n<p>Mail: himaxvietnam&#64;gmail.com</p>\n<p>www.himaxvietnam.com</p>\n\n<p>Catalogue: <a href=\"https://himaxvietnam.com/contents_himax119/uploads/files/CATALOG-HI-MAX-VIET-NAM-2024%281%29.pdf\" rel=\"nofollow\">https://himaxvietnam.com/contents_himax119/uploads/files/CATALOG-HI-MAX-VIET-NAM-2024(1).pdf</a>                                                                               </p>\n",
+            "Model": "HD1014",
+            "Kích thước (Dài x Rộng x Cao)": "11 x 11 x 4",
+            "Xuất xứ (Made in)": "Hàn Quốc",
+            "Trọng lượng sản phẩm": "90g",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "16549",
+        "product_name": " BẢN LỀ CỬA IVAN 43101.102 SSS DÀI 100MM DÀY 2LY",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/91/33/0a/24ec98b52420c5490c42806f509db42b.jpg",
+            "https://salt.tikicdn.com/ts/product/94/d0/28/7a06c12fe1460d091526da1a6a77d10a.jpg",
+            "https://salt.tikicdn.com/ts/product/64/29/87/f918ef57b03c5f1b5e7e462000c7a900.jpg",
+            "https://salt.tikicdn.com/ts/product/54/5d/00/daf7466044da84684e8f374f1731829d.jpg",
+            "https://salt.tikicdn.com/ts/product/b8/0c/df/050d56656f6c1ca8624308eb5e690a04.jpg"
+        ],
+        "product_description": "<p>Bản lề cửa IVAN 43101.102 SSS inox mờ, 1T dày 2.0mm chuyên dùng cho các cánh cửa phòng, chịu tải trọng lớn. Chất liệu inox mang lại vẻ sang trọng cho không gian nội thất ngôi nhà.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/b8/0c/df/844c11415d83b89ed472221d402659a1.jpg\" alt=\"\" width=\"750\" height=\"1000\" /></p>\n<h3 class=\"title-h3\">ĐẶC TÍNH</h3>\n<div class=\"wysiwyg-content\">\n<p><em>–</em> Màu sắc: inox mờ (SSS)<br />– Nguyên liệu: inox SUS 201<br />– loại cửa: cửa gỗ, cửa sắt<br />– Nơi dùng: cửa phòng, cửa sổ<br />– Thiết kế 4 vòng bi<br />– Lắp đặt: cố định bằng vít</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/94/d0/28/b686ccef75d678362770071fea0ebaf0.jpg\" alt=\"\" width=\"523\" height=\"540\" /></p>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 50000,
+        "product_quantity": 9184,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "IVAN",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Chất liệu": "<p>INOX 201</p>",
+            "Model": "43101.102sss",
+            "Kích thước (Dài x Rộng x Cao)": "100X70X2",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Trọng lượng sản phẩm": "0.4",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "6 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "202529",
+        "product_name": "Cảm Biến Chuyển Động Hunonic Pir Sensor Hình Cầu - HIVSSPIR-S - HÀNG CHÍNH HÃNG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e9/84/65/65f2bcb04c05f0a78c740dd2df47bc36.jpg",
+            "https://salt.tikicdn.com/ts/product/0d/1d/e8/6e6aca10564abd7ea3021139eec0c023.jpg"
+        ],
+        "product_description": "<h2><strong>Cảm Biến Chuyển Động Hunonic Pir Sensor Hình Cầu - HIVSSPIR-S</strong></h2>\n<p>Mang nhiều cải tiến vượt trội và tối ưu về tính năng sử dụng, Hunonic đã nghiên cứu và ra đời sản phẩm cảm biến chuyển động Hunonic Pir Sensor Hình Cầu sử dụng công nghệ Bluetooth Mesh</p>\n<p>Ngoài các chức năng phát hiện và báo động khi có chuyển động trong khu vực quan sát, tích hợp với công tắc đèn thông minh, Cảm biến chuyển động hình cầu được thiết kế với dạng hình cầu, giúp nó có thể quan sát toàn bộ khu vực xung quanh và có độ phủ rộng hơn so với các loại cảm biến chuyển động thông thường và có thể tùy chỉnh góc cảm biến dễ dàng bằng đế hít nam châm.</p>\n<h2><strong>Các tính năng nổi bật của Cảm Biến Chuyển Động Hunonic Pir Sensor Hình Cầu</strong></h2>\n<ul>\n<li class=\"list-inside !pl-0\"><strong>Phát hiện chuyển động:</strong> Khi có chuyển động xảy ra, cảm biến sẽ phát ra tín hiệu báo động cho người dùng.</li>\n<li class=\"list-inside !pl-0\"><strong>Độ phủ rộng:</strong> Cảm biến chuyển động hình cầu có độ phủ rộng hơn so với các loại cảm biến chuyển động thông thường.</li>\n<li class=\"list-inside !pl-0\"><strong>Thiết kế thông minh:</strong> Cảm biến chuyển động hình cầu có tùy chỉnh góc cảm biến dễ dàng bằng đế hít nam châm</li>\n<li class=\"list-inside !pl-0\"><strong>Dễ dàng lắp đặt</strong>: Sản phẩm cảm biến chuyển động hình cầu có thiết kế đơn giản và dễ dàng lắp đặt. Khách hàng có thể tự lắp đặt sản phẩm một cách dễ dàng mà không cần sự hỗ trợ của kĩ thuật</li>\n<li class=\"list-inside !pl-0\"><strong>Ngữ cảnh:</strong> Liên kết với các sản phẩm Nhà thông minh Hunonic để cài đặt các ngữ cảnh thông minh</li>\n</ul>\n<h2><strong>THÔNG SỐ SẢN PHẨM:</strong></h2>\n<p>– Mã sản phẩm: <strong>HIVSSPIR-S</strong></p>\n<p>– Nguồn điện Pin CR123A – 3V</p>\n<p>– Kết nối: Bluetooth Mesh</p>\n<p>– Góc quét: 120 độ</p>\n<p>– Tầm xa: 6-7m</p>\n<p>– Bảo hành: 12 tháng</p>\n<p>– Kích thước: 56x50mm</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/0d/1d/e8/f48d570e537a5732521d5b954f0acabd.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 545000,
+        "product_quantity": 3780,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "HUNONIC",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "HIVSSPIR-S",
+            "Kích thước (Dài x Rộng x Cao)": "56x50mm",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Trọng lượng sản phẩm": "200gr",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "Số 862, đường 3/2, TP.Thái Nguyên",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY CỔ PHẦN HUNONIC VIỆT NAM",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "89065",
+        "product_name": "Bộ khay gỗ tần bì đa năng có tay cầm ONGTRE dùng cho nhà hàng, khách sạn, resort",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/92/ed/6a/bc1fda5ec8a4770169a90dc390011696.jpg",
+            "https://salt.tikicdn.com/ts/product/88/c2/83/e85f6fb3425a54408abb698a6c542a54.jpg",
+            "https://salt.tikicdn.com/ts/product/fa/6d/86/ef8e9e44a35f15a866dd2e980f4703d6.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>❁ Bộ khay gỗ tần bì đa năng có tay cầm ONGTRE dùng cho nhà hàng, khách sạn, resort</p>\n   <p>- Tại sao nên dùng thớt gỗ, thớt tre Vì chúng an toàn hơn với sức khỏe người dùng, không bị oxi hóa, không hóa chất, bảo vệ môi trường khi tiêu hủy. Ngoài ra, về mặt hình thẩm mỹ thì thớt gỗ và thớt tre sẽ là điểm nhấn và điểm cộng hưởng cho các món ăn của bạn, cho không gian phòng khách, phòng bếp nhà bạn thêm sang chảnh.</p>\n   <p>- Hiện nay có các sản phẩm sao chép sản phẩm thớt gỗ của ONGTRE. Chúng tôi cam kết sản sản phẩm của ONGTRE khác biệt ưu việt ở các điểm sau: Gỗ nguyên khối dầy hơn và là Gỗ loại 1 không cong vênh sau 1 thời gian ngắn sử dụng; chúng tôi không dùng sơn như các xưởng khác thay vào đó là loại dầu ăn Mỹ - tuyệt đối an toàn với người sử dụng. Sản phẩm bán tại Shop cũng chính là sản phẩm chúng tôi đang xuất khẩu sang thị trường Hàn Quốc và Nhật Bản.</p>\n   <p>- Lưu ý gửi tới Quý khách hàng: Sản phẩm khay gỗ tần bì của ONGTRE hoàn toàn là gỗ tự nhiên do vậy đường vân của khay gỗ sẽ đa dạng khác nhau, thi thoảng có những khay sẽ có mắt gỗ màu đen hoặc sẫm màu. Đối với các khay vuông size 25cm sẽ không hoàn toàn phằng vì tính chất lý tính của gỗ tần bì.</p>\n   <p>________</p>\n   <p>❁ THÔNG TIN SẢN PHẨM</p>\n   <p>- Kích thước:</p>\n   <p>+ 22x15x4cm</p>\n   <p>+ 30x20x4cm</p>\n   <p>+ 35x22x4cm</p>\n   <p>+ 38x25x4cm</p>\n   <p>- Màu sắc: Tự nhiên</p>\n   <p>- Chất liệu: Gỗ tần bì</p>\n   <p>- Xuất xứ: Việt Nam</p>\n   <p>- Quy trình sản xuất: Công nghiệp</p>\n   <p>- Sản phẩm của ongtre được chọn lựa kỹ trước khi đến tay khách hàng.</p>\n   <p>- HDSH: Sau khi sử dụng, để đồ nơi khô ráo, thoáng mát.</p>\n   <p>________</p>\n   <p>❁ BẢO HÀNH &amp; DỊCH VỤ</p>\n   <p>- Bảo hành 1 đổi 1 miễn phí trong vòng 7 ngày nếu sản phẩm có lỗi kĩ thuật.</p>\n   <p>- Bảo hành chất lượng sản phẩm 12 tháng.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 225000,
+        "product_quantity": 1257,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ongtre",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Kích thước",
+                "options": [
+                    "22x15x4cm Nâu",
+                    "22x15x4cm vàng",
+                    "30x20x4cm Nâu",
+                    "30x20x4cm vàng",
+                    "35x22x4cm Nâu",
+                    "35x22x4cm vàng",
+                    "38x25x4cm Nâu",
+                    "38x25x4cm vàng"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 225000,
+                "sku_stock": 2514
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 225000,
+                "sku_stock": 5625
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 225000,
+                "sku_stock": 6967
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 225000,
+                "sku_stock": 4470
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 225000,
+                "sku_stock": 4827
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 225000,
+                "sku_stock": 7997
+            },
+            {
+                "sku_tier_idx": [
+                    6
+                ],
+                "sku_price": 225000,
+                "sku_stock": 3622
+            },
+            {
+                "sku_tier_idx": [
+                    7
+                ],
+                "sku_price": 225000,
+                "sku_stock": 5076
+            }
+        ]
+    },
+    {
+        "product_shop": "161667",
+        "product_name": "Bung tu lấy dấu tự động thép S2 HRC58 TOP TB-9109JVN | DCSG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/74/ab/69/88304e08352582d32c407b22d50cb2d9.jpg",
+            "https://salt.tikicdn.com/ts/product/0a/72/b3/12f8116f061304e583076edd996b0082.jpg",
+            "https://salt.tikicdn.com/ts/product/06/3d/b0/80f2e88d4aad8a5b92b9e5edfd966f6f.jpg",
+            "https://salt.tikicdn.com/ts/product/32/e5/1a/be1f39035f4fd8f6ea5816989bdd6309.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>- Dùng để lấy dấu, lấy tâm trên kim loại, gỗ, không cần dùng búa đóng, tiện dụng và phổ biến trong công việc sản xuất các đồ dùng bằng gỗ, nhôm, sắt..</p>\n   <p>- Phần đầu hình tròn có đường kính 30mm làm bằng nhựa ABS giúp cho việc cầm nắm và ấn xuống dễ dàng.</p>\n   <p>- Chất liệu đầu mũi: thép công nghiệp S2 và được xử lý nhiệt với độ cứng HRC 58 rất cứng cáp nên có thể chịu lực va đập tốt, kéo dài tuổi thọ mũi.</p>\n   <p>- Giúp người thợ lấy được dấu tâm đúng theo ý để khoan chính xác hơn.</p>\n   <p>- Thân được chế tạo bằng đồng, bề mặt được phủ lớp xi bạc trắng sáng và được gia công gai sần trên thân tạo ma sát chống trơn trượt.</p>\n   <p>- Tổng chiều dài bung tu: 130mm</p>\n   <p>- Đảm bảo độ chính xác cao, tăng năng suất cho công việc</p>\n   <p>- Thương hiệu: TOP Đài Loan</p>\n   <p>- Nhập khẩu và phân phối: Doanh Nghiệp Thương Mại Kim Nguyên</p>\n   <p>----------------------------------------</p>\n   <p>CÔNG TY TNHH TADACHI VIỆT NAM (cửa hàng DCSG) tự hào là nhà phân phối các sản phẩm chính hãng Makita, Maktec, Makita MT, Unika, DEWALT, IRWIN, LENOX, SATA, STANLEY, Kingtony,...</p>\n   <p>⇒ Website: </p>\n   <p>----------------------------------------</p>\n   <p>CÔNG TY TNHH TADACHI VIỆT NAM</p>\n   <p>❖ Địa chỉ: 83/19M Hòa Hưng, P. 12, Q. 10, Tp. HCM.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 163000,
+        "product_quantity": 5095,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "TOP",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "180602",
+        "product_name": "Cút góc nối thanh giằng 1119 phi 19 - Glaze",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/85/15/9d/dfb041ebe01b8b95b99a891c532e8fe9.jpg",
+            "https://salt.tikicdn.com/ts/product/d2/52/e1/31b9988b9d3e8011ed26917fac077157.jpg"
+        ],
+        "product_description": "<h1>Cút góc nối thanh giằng</h1>\n<ul><li>Nhãn hiệu: Glaze</li>\n<li>Kiểu kẹp: Góc liên kết thanh giằng phi 19</li>\n<li>Bảo hành: 12 tháng</li>\n</ul><p><strong>Mã sản phẩm:</strong></p>\n<ul><li>2101.1119.52 – đồng mạ chrome bóng</li>\n<li>2101.1119.53 – đồng mạ niken mờ</li>\n</ul><p><strong>Mô tả chi tiết</strong></p>\n<ul><li>Cút góc được làm từ đồng mạ chrome hoặc niken cao cấp</li>\n<li>Liên kết góc động nối thanh giằng phi 19</li>\n<li>Kích thước: Ø25x95mm</li>\n<li>Sản xuất theo tiêu chuẩn Châu Âu: BS EN 1935-2002</li>\n</ul><p><strong>Đóng gói</strong></p>\n<ul><li>1 cái/hộp</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 160000,
+        "product_quantity": 2386,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Glaze",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Trọng lượng sản phẩm": "0.3",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "278398",
+        "product_name": "Chặn Cửa Nam Châm Inox 304 Dạng Đế Mỏng Hình Bán Nguyệt",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/61/d3/47/71d27be927104c91bddb97e8c5c59263.jpg",
+            "https://salt.tikicdn.com/ts/product/b1/2e/a2/495795bc5903e33a6e3d351ca38765a1.jpg",
+            "https://salt.tikicdn.com/ts/product/66/ae/6f/b62926d2e4775c9ca2a65dd5e220a579.jpg",
+            "https://salt.tikicdn.com/ts/product/0e/01/58/37e20b082d6786073a2dad7969814f3f.jpg",
+            "https://salt.tikicdn.com/ts/product/46/bc/bd/de9a2e4e3278ae67193ab5359fdd8d49.jpg",
+            "https://salt.tikicdn.com/ts/product/fe/b5/7a/2b279b1558498338843fee5fc9a9d308.jpg",
+            "https://salt.tikicdn.com/ts/product/45/5e/b5/7f521848840e2a35e86a717417bc2c46.jpg",
+            "https://salt.tikicdn.com/ts/product/68/d4/c6/9490816e7538d2d820b0e824a5e27689.jpg",
+            "https://salt.tikicdn.com/ts/product/68/d4/c6/57d64fbef400d887204ec46be13030be.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul></ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 70000,
+        "product_quantity": 8101,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "278398",
+        "product_name": "Nắp Chốt Âm Chống Bụi BBS Đường Kính Lỗ Trong 12 Mm",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/0c/7a/7d/600c2e81e9b599a0850323fee8a9ba3d.jpg",
+            "https://salt.tikicdn.com/ts/product/b6/8c/61/aaaa3d77db16507994221d8d99faed7a.jpg",
+            "https://salt.tikicdn.com/ts/product/c3/fe/a6/dd345953596f0c431a0f19bf45c59d83.jpg",
+            "https://salt.tikicdn.com/ts/product/b4/66/1e/91fbaacd3085c3a929f4ad7f1f6c576c.jpg",
+            "https://salt.tikicdn.com/ts/product/c1/6b/cd/49a0e99d55063ac8a7e83ed6e7db6c20.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>NẮP CHỐT ÂM CHỐNG BỤI BBS ĐƯỜNG KÍNH LỖ TRONG 12 MM</p>\n   <p>--------------------------------------------------------</p>\n   <p>Được sử dụng làm lỗ cho các chốt xuống nền. Có nắp đậy để tránh bụi bắm rơi xuống làm tịt lỗ chốt. Được làm bằng Inox nên rất chắc chắn. Thông thường với các lỗ chốt bình thường các bạn sẽ rất bực bội khi bụi bặm làm đầy lỗ và không thể đóng chốt. Thì sản phẩm này là một giải pháp ngăn ngừa bụi bặm xuống lỗ, không những thế còn tăng thẩm mỹ, đặc biệt là những bộ cửa mặt tiền. Sử dụng hầu hết cho các loại cửa nhựa lõi thép, cửa nhôm, cửa sắt, cửa gỗ…</p>\n   <p>--------------------------------------------------------</p>\n   <p>- Chất liệu hợp kim kẽm không gỉ</p>\n   <p>- Kích thước: 19x40 mm</p>\n   <p>- Đường kính lỗ trong: 12 mm</p>\n   <p>- Thường được dùng kèm với chốt chốt gài dưới cửa gỗ (cửa gỗ đơn, gỗ lùa gấp…)</p>\n   <p>--------------------------------------------------------</p>\n   <p>CAM KẾT</p>\n   <p>Sản phẩm được đóng gói an toàn cẩn thận,</p>\n   <p>Sản phẩm được cung cấp theo đúng hình ảnh, video và phần mô tả.</p>\n   <p>Đổi mới hoặc hoàn trả sản phẩm trong vòng 3 ngày, nếu lỗi do nhà sản xuất hoặc sai sản phẩm.</p>\n   <p>Tất cả các sản phẩm sẽ được kiểm tra kĩ lưỡng trước khi đóng gói và được gửi đi sớm nhất trong ngày.</p>\n   <p>--------------------------------------------------------</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 58000,
+        "product_quantity": 3797,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "166697",
+        "product_name": "Thẻ từ khách sạn ADEL A90 | Thẻ Mifare dùng cho hệ thống khóa thẻ khách sạn ADEL",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/f2/05/69/31c4fe53546f589c32f8a5322acdaed3.jpg",
+            "https://salt.tikicdn.com/ts/product/fd/76/be/1b8bbf0a19e65a7fdf77634eccf0c02b.jpg",
+            "https://salt.tikicdn.com/ts/product/44/c9/45/8d342298bcfd18d0b28e1ac9aadf94d8.jpg"
+        ],
+        "product_description": "<p>• Hoạt động rất dễ dàng, chỉ cần đưa thẻ đến gần bộ phận đọc thẻ của khoá là khoá sẽ được mở.<br />• Chip được đặt bên trong thẻ cho nên không chịu ảnh hưởng của môi trường bên ngoài do đó tuổi thọ cao và đồng thời cũng không có sự tiếp xúc trực tiếp giữa thẻ và khoá cho nên tránh được sự hư hỏng do sự tiếp xúc gây ra.<br />• Có thể in hình ảnh lên thẻ, phù hợp cho việc quảng cáo và quản lý.<br />• Có 16 khu vực hoàn toàn độc lập với nhau, từng khu vực sẽ được mã hoá riêng để ghi vào thẻ. Có thể áp dụng để dùng cho các bộ phận khác nhau của khách sạn, của hệ thống bãi đậu xe, của các phòng khác nhau trong nhà<br />• Khách hàng có thể thiết lập các mã khác nhau và cho phép truy cập theo các ứng dụng khác nhau, với mỗi khu vực độc lập được quản lý độc lập<br />• Đặc biệt phù hợp cho khách sạn, nhằm giúp cho việc quản lý của khách sạn được dễ dàng, thuận tiện và an toàn hơn.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 56000,
+        "product_quantity": 8758,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Adel",
+            "Xuất xứ thương hiệu": "Mỹ",
+            "Chất liệu": "Thẻ cứng",
+            "Hướng dẫn bảo quản": "<p>Bảo quản nơi khô ráo, thoáng mát.</p>",
+            "Hướng dẫn sử dụng": "<p>• Hoạt động rất dễ dàng, chỉ cần đưa thẻ đến gần bộ phận đọc thẻ của khoá là khoá sẽ được mở.<br />• Chip được đặt bên trong thẻ cho nên không chịu ảnh hưởng của môi trường bên ngoài do đó tuổi thọ cao và đồng thời cũng không có sự tiếp xúc trực tiếp giữa thẻ và khoá cho nên tránh được sự hư hỏng do sự tiếp xúc gây ra.<br />• Có thể in hình ảnh lên thẻ, phù hợp cho việc quảng cáo và quản lý.<br />• Có 16 khu vực hoàn toàn độc lập với nhau, từng khu vực sẽ được mã hoá riêng để ghi vào thẻ. Có thể áp dụng để dùng cho các bộ phận khác nhau của khách sạn, của hệ thống bãi đậu xe, của các phòng khác nhau trong nhà...<br />• Khách hàng có thể thiết lập các mã khác nhau và cho phép truy cập theo các ứng dụng khác nhau, với mỗi khu vực độc lập được quản lý độc lập<br />• Đặc biệt phù hợp cho khách sạn, nhằm giúp cho việc quản lý của khách sạn được dễ dàng, thuận tiện và an toàn hơn.<br />-----------------------------------------<br />ADEL VIỆT NAM<br />Địa chỉ: <br /> 304G Lý Thường Kiệt, Phường 6, Quận Tân Bình, TPHCM.<br /> 35 Võ Chí Công, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội<br />Hotline: 0914169991<br /> Website: www.adel.vn</p>",
+            "Model": "ADEL A90",
+            "Kích thước (Dài x Rộng x Cao)": "5 x 3 x  0.3",
+            "Xuất xứ (Made in)": "Mỹ / Trung Quốc",
+            "Trọng lượng sản phẩm": "100 Gram",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "2 Năm"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "193492",
+        "product_name": "Công tắc cửa từ Seco-larm SM-204Q/W - Màu trắng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/20/4d/29/01dbd0c5f161fcc5bb769364ef25c6d5.jpg"
+        ],
+        "product_description": "<p>Công tắc từ SM-204Q/W mới 100%, có nguồn gốc, xuất xứ rõ ràng.</p>\n<p>Là loại dán, mạch thường đóng NC.</p>\n<p>Khoảng cách 25mm, ra dây ở giữa</p>\n<p>Màu sắc: Màu trắng</p>\n<p>Kích thước: 1-3/8\" x 3/8\" x 1/4\" (35 x 10 x 6 mm)</p>\n<p>Bảo hành: 12 tháng</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 80000,
+        "product_quantity": 9998,
+        "product_category": [
+            "Nhà Cửa - Đời Sống"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Seco-larm",
+            "Xuất xứ thương hiệu": "USA",
+            "Model": "SM-204Q/W",
+            "Kích thước (Dài x Rộng x Cao)": "35 x 10 x 6 mm",
+            "Xuất xứ (Made in)": "Taiwan",
+            "Trọng lượng sản phẩm": "100 gam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "161899",
+        "product_name": "Chặn Cửa Chống Va Đập Cho Phòng Tắm, Chặn Cửa Dán Tường Phù Hợp Phòng Tắm Có Mặt Sàn Nhiều Nước, Sử Dụng Miếng 3M Siêu Chắc, Chặn Cửa Đa Năng, Chặn Cửa Phòng. TakyHome 1500",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a7/4d/41/737cfaf198bc1c925c8d9a795c61eff5.jpg",
+            "https://salt.tikicdn.com/ts/product/c9/06/da/99fd85dfffe3eee678a06788d3d176ec.jpg",
+            "https://salt.tikicdn.com/ts/product/78/d5/79/f55bb05e8e3cbe97c133b2b7128f0bba.jpg",
+            "https://salt.tikicdn.com/ts/product/b3/a9/f9/2736392f6dc09284845cb8b5bca29338.jpg",
+            "https://salt.tikicdn.com/ts/product/48/35/0d/325914fbbcf3147b01359798fb6f0c6b.jpg",
+            "https://salt.tikicdn.com/ts/product/34/2b/c0/0831e749f5dc63a8e2ce0fa61a2c3ecc.jpg",
+            "https://salt.tikicdn.com/ts/product/ae/6e/55/aac2431d933bf5c98f859a9bf811f491.jpg",
+            "https://salt.tikicdn.com/ts/product/4d/b9/53/08572e2ebf614cbaa44eb0572bd38619.jpg",
+            "https://salt.tikicdn.com/ts/product/71/9d/36/9ed8eb7bf9c0113d829d031b8bd821a0.jpg",
+            "https://salt.tikicdn.com/ts/product/9a/04/22/a4dfb432c5ce7c00955217f57af8afde.jpg"
+        ],
+        "product_description": "<p>* Chặn Cửa An Toàn Dán Tường Phòng Tắm Sử Dụng Miếng 3M Siêu Chắc, Chặn Cửa Đa Năng, Chặn Cửa Phòng, Chống Va Đập Cửa Với Tường, Khi Mặt Sàn Nhiều Nước. TakyHome</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/e7/02/42/e8972ad4c16f6b811251876d6aa10ada.jpg\" alt=\"\" width=\"750\" height=\"743\" /></p>\n<p>* Thông tin cơ bản:</p>\n<p>+ Cấu tạo chặn cửa dán tường chống va đập: Thân bằng Inox.</p>\n<p>+ Chiều dài chặn cửa: 9.5 cm</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/ac/83/9b/09c3a4614cb3ad37ed3fd4d853407ffb.jpg\" alt=\"\" width=\"640\" height=\"640\" /></p>\n<p>+ Màu sắc: màu inox mờ.</p>\n<p>+ Bộ phận chặn cửa inox: Đầu Cao su cao cấp màu đen dày 10 ly.</p>\n<p>+ Vị trí lắp đặt chặn cửa dán tường hoặc cửa đều được.</p>\n<p>+ Cây chặn cửa dán tường dành cho mọi loại cửa, phù hợp với cửa nhà tắm.</p>\n<p>* Lắp đặt cây chặn cửa thông minh theo 2 cách:</p>\n<p>1. Dùng miếng dán 3M vẫn đảm bảo chắc chắn.</p>\n<p>2. Dùng ốc vít bắt vào cửa và khoan nở bắt tường.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/79/9c/95/bc2ac78907882d03588b19357701e2b8.jpg\" alt=\"\" width=\"750\" height=\"717\" /></p>\n<p>Shop Xin hướng dẫn đặt hàng và các vấn đề liên quan:</p>\n<p>1. Shop cam kết về Chất lượng và Hình Dáng sản phẩm như mô tả.</p>\n<p>2. Shop cam kết giải quyết mọi vấn đề phát sinh liên quan đến sản phẩm cho đến khi khách hàng hài lòng, Mong quý khách đừng vội đánh giá 1-2 sao, tội cho shop ạ.</p>\n<p>#chặncửa #chặn_cửa #chancua #chan_cua <br />#chặncửachốngvađập #chặn_cửa_chống_va_đập #chancuachongvadap #chan_cua_chong_va_dap <br />#chặncửacaosu #chặn_cửa_cao_su #chancuacaosu #chan_cua_cao_su #bộchặncửa #bộ_chặn_cửa #bochancua #bo_chan_cua #chặncửaantoàn #chặn_cửa_an_toàn #chancuaantoan #chan_cua_an_toan<br />#chan_cua_chong_va_dap #chặncửanamchâm #chặn_cửa_nam_châm #chancuanamcham #chan_cua_nam_cham #chặncửathôngminh #chặn_cửa_thông_minh #chancuathongminh #chan_cua_thong_minh #chặncửainox #chặn_cửa_inox #chancuainox #chan_cua_inox #chặncửagắntường #chặn_cửa_gắn_tường #chancuagantuong #chan_cua_gan_tuong #chặncửachốngvađậpnamchâm #chặn_cửa_chống_va_đập_nam_châm<br />#chancuachongvadapnamcham #chan_cua_chong_va_dap_nam_cham #chặncửachốngvađậpthôngminh #chặn_cửa_chống_va_đập_thông_minh #chancuachongvadapthongminh #chan_cua_chong_va_dap_thong_minh #bộchặncửachốngvađập#bộ_chặn_cửa_chống_va_đập#bochancuachongvadap#bo_chan_cua_chong_va_dap#chặncửachốngvađậpcửasổ #chặn_cửa_chống_va_đập_cửa_sổ #chancuachongvadapcuaso<br />#chan_cua_chong_va_dap_cua_so#chặncửachốngvađập#chặn_cửa_chống_va_đập#chancuachongvadapdethuong</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 54890,
+        "product_quantity": 5748,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "taky home",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Chọn màu",
+                "options": [
+                    "Màu Bạc 7.5 cm"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 54890,
+                "sku_stock": 1233
+            }
+        ]
+    },
+    {
+        "product_shop": "193492",
+        "product_name": "Công tắc cửa từ Seco-larm SM-226LQ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ea/71/f3/e928f34f7554a49003953fc49f0d7963.jpg"
+        ],
+        "product_description": "<p>Công tắc cửa từ SM-226LQ mới 100%, có nguồn gốc, xuất xứ rõ ràng.</p>\n<p>Loại dành cho cửa sắt cuốn, đế L, mạch thường đóng NC</p>\n<p>Khoảng cách: 70mm, hợp kim nhôm</p>\n<p>Kích thước:4-5/16″x1-3/4″x7/16″ (110x44x11mm)</p>\n<p>Bảo hành: 12 tháng</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 356000,
+        "product_quantity": 8449,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Seco-larm",
+            "Xuất xứ thương hiệu": "USA",
+            "Model": "SM-226LQ",
+            "Kích thước (Dài x Rộng x Cao)": "110x44x11mm",
+            "Xuất xứ (Made in)": "Taiwan",
+            "Trọng lượng sản phẩm": "500 gam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "124367",
+        "product_name": "Thanh Chặn Khe Cửa 95cm Đa Năng,Chặn Đáy Khe Cửa, Ngăn Côn Trùng, Chắn Gió Mùa, Ngừa Bụi Bẩn, Giảm Ồn",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ec/76/5e/4e93ec9908b3a6faeccfa119e58b639e.jpg",
+            "https://salt.tikicdn.com/ts/product/01/f5/e5/7ae9866d9d8cd15b062b3335de17594b.jpg",
+            "https://salt.tikicdn.com/ts/product/06/55/1f/b92feec4a0b1e8d07289a176713f2caf.jpg",
+            "https://salt.tikicdn.com/ts/product/2f/e4/83/193bdf94a635c8b1b3f9a31af7a8d3e7.jpg",
+            "https://salt.tikicdn.com/ts/product/60/57/e9/36465faad62de932f4104a2926c7fe2c.jpg",
+            "https://salt.tikicdn.com/ts/product/96/4a/1f/a6086e68ff8127871fffefb0d149733d.jpg",
+            "https://salt.tikicdn.com/ts/product/a2/c5/c4/e00154f662806ae7208136bf3afe9159.jpg",
+            "https://salt.tikicdn.com/ts/product/c4/2b/b6/812d8c93bf1b7e7039c21bb9e9b252f4.jpg",
+            "https://salt.tikicdn.com/ts/product/fe/3f/cd/034411942205d9b30ffddfdb11f7bc2e.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Thanh Chặn Khe Cửa 95cm Đa Năng,Chặn Đáy Khe Cửa, Ngăn Côn Trùng, Chắn Gió Mùa, Ngừa Bụi Bẩn, Giảm Ồn</p>\n   <p>Chất liệu - Quy cách sản phẩm</p>\n   <p>Chất liệu: Sản phẩm được làm bằng xốp đặc siêu bền + vải EPE chuyên dụng được phủ 1 mặt</p>\n   <p>Kích thước: Sản phẩm dài ~ 93-95cm.</p>\n   <p>Sử dụng - Công năng:</p>\n   <p>Ngăn gió lùa, ngăn mất hơi lạnh điều hòa. TIẾT KIỆM, TRÁNH THẤT THOÁT ĐIỆN. Bảo vệ môi trường.</p>\n   <p>Tránh các loại côn trùng, ngăn kiến gián bò vào, bụi bẩn thốc vào và hạn chế tiếng ồn từ bên ngoài.</p>\n   <p>Tránh kẹt chân tay bé khi bé vô tình kéo cửa.</p>\n   <p> Sản phẩm dùng để chặn khe hở cửa, với kích thước tiêu chuẩn phù hợp hầu hết các loại cửa.</p>\n   <p>Tránh kẹt chân tay bé khi bé vô tình kéo cửa.</p>\n   <p>Tuổi thọ cao, Dễ dàng lắp đặt, không cần dùng keo dán. Có thể dùng được cả hai mặt.</p>\n   <p>Nếu khách hàng gặp khó khăn trong vấn đề đặt hàng, sử dụng, vui lòng nhắn cho Shop</p>\n   <p>Sản phẩm được kiểm tra kĩ trước khi gửi đi, luôn đảm bảo về chất lượng, mang lại trải nghiệm tốt nhất cho khách hàng</p>\n   <p>Sp được giao cho bên vận chuyển luôn sau khi khách đặt hàng, nên khách rất sớm nhận được</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 19000,
+        "product_quantity": 1340,
+        "product_category": [
+            "Nhà Cửa - Đời Sống"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1826",
+        "product_name": "HP9417 - Đầu khóa da đà điểu Huy Hoàng da hột 3,5 phân đầu trắng màu đen",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b2/d6/3f/395e4060b4964450539c66cd2994f08c.jpg",
+            "https://salt.tikicdn.com/ts/product/63/97/5e/3d24976678861832c081c1681510a2d7.jpg",
+            "https://salt.tikicdn.com/ts/product/ac/5c/dd/337953347fe3877186e4b55547d02052.jpg",
+            "https://salt.tikicdn.com/ts/product/0d/0a/40/e35d7e47935db250c4144f513ef23565.jpg",
+            "https://salt.tikicdn.com/ts/product/1f/a7/56/140902a9c36f351a6daa6de219b3b21e.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Thông tin sản phẩm:</p>\n   <p>- Một chiếc đầu khóa hợp thời trang, hữu dụng, đóng vai trò rất quan trọng trong một bộ trang phục, là phụ kiện vừa tinh tế, vừa mang tính chất thực tế mà các phái mạnh đều cần. Và điểm nhấn quan trọng không kém đó chính là đầu khóa của chiếc thắt lưng, nó giúp định hình rõ ràng phong cách phong trần, lịch lãm mà bạn hướng đến. Đầu khóa thắt lưng Huy Hoàng đáp ứng mọi mong muốn của bạn với thiết kế tinh tế, chất liệu bóng loáng, dễ dàng thay thế khi cần thiết.Đặc điểm nổi bật của sản phẩm</p>\n   <p>- Được làm từ chất liệu hợp kim cao cấp, tránh hoen gỉ sau thời gian dài sử dụng. Mặt khóa da cao cấp với các chi tiết vân da ẩn hiện, giúp cho sản phẩm toát lên vẻ lạ mắt và sang trọết kế tinh tế và tiện dụng.</p>\n   <p>- Thiết kế khóa trượt kim loại sáng bóng, hiện đại, vừa chắc chắn mà lại không kém phần sành điệu.Đầu khóa trượt tiện dụng giúp bạn dễ dàng thay thế, phối với các loại thắt lưng mình đang có một cách dễ dàng và nhanh chóng.Dễ phối hợp với các phụ kiện khác, giúp cho phái nam thỏa sức thể hiện gu thời trang của mình.</p>\n   <p>Thông số sản phẩm:</p>\n   <p>- Tên sản phẩm: HP9417 - Đầu khóa da đà điểu Huy Hoàng da hột 3,5 phân đầu trắng màu đen</p>\n   <p>- Thương hiệu: Huy Hoàng</p>\n   <p>- Mã sản phẩm: HP9417</p>\n   <p>- Màu sắc: Đen</p>\n   <p>- Chất liệu: Hợp kim.</p>\n   <p>- Kích thước: 8,5 x 4,5 x 2 cm.</p>\n   <p>- Kích thước đóng gói: 14 x 11 x 3 cm</p>\n   <p>- Khối lượng:100 g</p>\n   <p>- Xuất xứ: Việt Nam</p>\n   <p>Bộ sản phẩm bao gồm:</p>\n   <p>- 01 x Đầu khóa Huy Hoàng</p>\n   <p>- 01 x Hộp nhãn hiệu Huy Hoàng</p>\n   <p>Hướng dẫn bảo quản :</p>\n   <p>1) Không nên để sản phẩm gần nơi có nhiệt độ cao để tránh sản phẩm bị khô, nứt và bị biến dạng.</p>\n   <p>2) Không nên để sản phẩm bị thấm nước, ẩm ướ để tránh sản phẩm bị phai màu, khô cứng. Nếu bị ướt, nên dùng vải khô thấm nước, và đem để nơi thoáng mát cho sản phẩm khô.</p>\n   <p>3) Không nên để sản phẩm tiếp xúc với bút màu, bút bi vì các vết này rất khó tẩy, làm ảnh hưởng đến vẻ đẹp của sản phẩm.</p>\n   <p>4) Không nên dùng sức kéo mạnh hay đựng đồ quá nặng, tránh vật thô cứng nhọn làm chầy mặt sản phẩm.</p>\n   <p>5) Nên thường xuyên dùng vải khô lau chùi các phần phụ kiện bằng kim loại để phần kim loại được bóng và không đổi màu.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 149000,
+        "product_quantity": 4936,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Huy Hoàng",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Dung tích": "500ml",
+            "Chất liệu": "Khác",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Trọng lượng sản phẩm": "0.3",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1826",
+        "product_name": "HP9416 - Đầu khóa da đà điểu Huy Hoàng 4 phân đầu vàng màu nâu đỏ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6a/46/d6/230246eacb42863dba3009830c3fe44f.jpg",
+            "https://salt.tikicdn.com/ts/product/27/cc/fb/5e09002aa09e6508a576e5de206db380.jpg",
+            "https://salt.tikicdn.com/ts/product/8a/af/0d/41d1bdf7cebd0817a3d4dfc55f79b287.jpg",
+            "https://salt.tikicdn.com/ts/product/8a/07/6d/f7a6ad51ec4b398038dd2375d531fa83.jpg",
+            "https://salt.tikicdn.com/ts/product/18/f6/da/bf956fa06a6ecb693c9cb50dc94669e9.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Thông tin sản phẩm:</p>\n   <p>- Một chiếc đầu khóa hợp thời trang, hữu dụng, đóng vai trò rất quan trọng trong một bộ trang phục, là phụ kiện vừa tinh tế, vừa mang tính chất thực tế mà các phái mạnh đều cần. Và điểm nhấn quan trọng không kém đó chính là đầu khóa của chiếc thắt lưng, nó giúp định hình rõ ràng phong cách phong trần, lịch lãm mà bạn hướng đến. Đầu khóa thắt lưng Huy Hoàng đáp ứng mọi mong muốn của bạn với thiết kế tinh tế, chất liệu bóng loáng, dễ dàng thay thế khi cần thiết.Đặc điểm nổi bật của sản phẩm</p>\n   <p>- Được làm từ chất liệu hợp kim cao cấp, tránh hoen gỉ sau thời gian dài sử dụng. Mặt khóa da cao cấp với các chi tiết vân da ẩn hiện, giúp cho sản phẩm toát lên vẻ lạ mắt và sang trọết kế tinh tế và tiện dụng.</p>\n   <p>- Thiết kế khóa trượt kim loại sáng bóng, hiện đại, vừa chắc chắn mà lại không kém phần sành điệu.Đầu khóa trượt tiện dụng giúp bạn dễ dàng thay thế, phối với các loại thắt lưng mình đang có một cách dễ dàng và nhanh chóng.Dễ phối hợp với các phụ kiện khác, giúp cho phái nam thỏa sức thể hiện gu thời trang của mình.</p>\n   <p>Thông số sản phẩm:</p>\n   <p>- Tên sản phẩm: HP9416 - Đầu khóa da đà điểu Huy Hoàng 4 phân đầu vàng màu nâu đỏ</p>\n   <p>- Thương hiệu: Huy Hoàng</p>\n   <p>- Mã sản phẩm: HP9416</p>\n   <p>- Màu sắc: Nâu đỏ</p>\n   <p>- Chất liệu: Hợp kim.</p>\n   <p>- Kích thước: 8,5 x 4,5 x 2 cm.</p>\n   <p>- Kích thước đóng gói: 14 x 11 x 3 cm</p>\n   <p>- Khối lượng:100 g</p>\n   <p>- Xuất xứ: Việt Nam</p>\n   <p>Bộ sản phẩm bao gồm:</p>\n   <p>- 01 x Đầu khóa Huy Hoàng</p>\n   <p>- 01 x Hộp nhãn hiệu Huy Hoàng</p>\n   <p>Hướng dẫn bảo quản :</p>\n   <p>1) Không nên để sản phẩm gần nơi có nhiệt độ cao để tránh sản phẩm bị khô, nứt và bị biến dạng.</p>\n   <p>2) Không nên để sản phẩm bị thấm nước, ẩm ướ để tránh sản phẩm bị phai màu, khô cứng. Nếu bị ướt, nên dùng vải khô thấm nước, và đem để nơi thoáng mát cho sản phẩm khô.</p>\n   <p>3) Không nên để sản phẩm tiếp xúc với bút màu, bút bi vì các vết này rất khó tẩy, làm ảnh hưởng đến vẻ đẹp của sản phẩm.</p>\n   <p>4) Không nên dùng sức kéo mạnh hay đựng đồ quá nặng, tránh vật thô cứng nhọn làm chầy mặt sản phẩm.</p>\n   <p>5) Nên thường xuyên dùng vải khô lau chùi các phần phụ kiện bằng kim loại để phần kim loại được bóng và không đổi màu.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 169000,
+        "product_quantity": 6975,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Huy Hoàng",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Dung tích": "500ml",
+            "Chất liệu": "Khác",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Trọng lượng sản phẩm": "0.3",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1826",
+        "product_name": "HP9412 - Đầu khóa da đà điểu Huy Hoàng 4 phân đầu trắng màu nâu đỏ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/f0/9e/7b/a5186245bb700b760c3f9b3b12701425.jpg",
+            "https://salt.tikicdn.com/ts/product/74/b3/5d/c546adb849ac140c9c184828ce07cee5.jpg",
+            "https://salt.tikicdn.com/ts/product/8b/2b/bd/a152fa0e0156bc15c39ef76d1b5c6c5d.jpg",
+            "https://salt.tikicdn.com/ts/product/0d/0a/40/abfba56d337c0e9bf68360162feb709c.jpg",
+            "https://salt.tikicdn.com/ts/product/03/7a/bc/01979d6475e0320f88a43e708500c302.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Thông tin sản phẩm:</p>\n   <p>- Một chiếc đầu khóa hợp thời trang, hữu dụng, đóng vai trò rất quan trọng trong một bộ trang phục, là phụ kiện vừa tinh tế, vừa mang tính chất thực tế mà các phái mạnh đều cần. Và điểm nhấn quan trọng không kém đó chính là đầu khóa của chiếc thắt lưng, nó giúp định hình rõ ràng phong cách phong trần, lịch lãm mà bạn hướng đến. Đầu khóa thắt lưng Huy Hoàng đáp ứng mọi mong muốn của bạn với thiết kế tinh tế, chất liệu bóng loáng, dễ dàng thay thế khi cần thiết.Đặc điểm nổi bật của sản phẩm</p>\n   <p>- Được làm từ chất liệu hợp kim cao cấp, tránh hoen gỉ sau thời gian dài sử dụng. Mặt khóa da cao cấp với các chi tiết vân da ẩn hiện, giúp cho sản phẩm toát lên vẻ lạ mắt và sang trọết kế tinh tế và tiện dụng.</p>\n   <p>- Thiết kế khóa trượt kim loại sáng bóng, hiện đại, vừa chắc chắn mà lại không kém phần sành điệu.Đầu khóa trượt tiện dụng giúp bạn dễ dàng thay thế, phối với các loại thắt lưng mình đang có một cách dễ dàng và nhanh chóng.Dễ phối hợp với các phụ kiện khác, giúp cho phái nam thỏa sức thể hiện gu thời trang của mình.</p>\n   <p>Thông số sản phẩm:</p>\n   <p>- Tên sản phẩm: HP9412 - Đầu khóa da đà điểu Huy Hoàng 4 phân đầu trắng màu nâu đỏ</p>\n   <p>- Thương hiệu: Huy Hoàng</p>\n   <p>- Mã sản phẩm: HP9412</p>\n   <p>- Màu sắc: Nâu đỏ</p>\n   <p>- Chất liệu: Hợp kim.</p>\n   <p>- Kích thước: 8,5 x 4,5 x 2 cm.</p>\n   <p>- Kích thước đóng gói: 14 x 11 x 3 cm</p>\n   <p>- Khối lượng:100 g</p>\n   <p>- Xuất xứ: Việt Nam</p>\n   <p>Bộ sản phẩm bao gồm:</p>\n   <p>- 01 x Đầu khóa Huy Hoàng</p>\n   <p>- 01 x Hộp nhãn hiệu Huy Hoàng</p>\n   <p>Hướng dẫn bảo quản :</p>\n   <p>1) Không nên để sản phẩm gần nơi có nhiệt độ cao để tránh sản phẩm bị khô, nứt và bị biến dạng.</p>\n   <p>2) Không nên để sản phẩm bị thấm nước, ẩm ướ để tránh sản phẩm bị phai màu, khô cứng. Nếu bị ướt, nên dùng vải khô thấm nước, và đem để nơi thoáng mát cho sản phẩm khô.</p>\n   <p>3) Không nên để sản phẩm tiếp xúc với bút màu, bút bi vì các vết này rất khó tẩy, làm ảnh hưởng đến vẻ đẹp của sản phẩm.</p>\n   <p>4) Không nên dùng sức kéo mạnh hay đựng đồ quá nặng, tránh vật thô cứng nhọn làm chầy mặt sản phẩm.</p>\n   <p>5) Nên thường xuyên dùng vải khô lau chùi các phần phụ kiện bằng kim loại để phần kim loại được bóng và không đổi màu.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 169000,
+        "product_quantity": 1131,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Huy Hoàng",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Dung tích": "500ml",
+            "Chất liệu": "Khác",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Trọng lượng sản phẩm": "0.3",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "201296",
+        "product_name": "Chặn cửa thông minh từ tính với nam châm vĩnh cửu, mỏng an toàn, bằng hợp kim chống gỉ CCTM.009, tự động gấp lại rất gọn",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/96/da/e8/e3ec9de58b63555e0371617034c5ff42.jpg",
+            "https://salt.tikicdn.com/ts/product/37/29/07/456d086284e05489b8707d32547e0fb9.jpg",
+            "https://salt.tikicdn.com/ts/product/70/ae/76/5ceb521a5cb199ec32071ccf0e59ba75.jpg",
+            "https://salt.tikicdn.com/ts/product/8d/c9/99/271badff9ffee24537ea164d89058896.jpg",
+            "https://salt.tikicdn.com/ts/product/30/80/b3/14bbd046c5c9c36a97504cf6b71927c0.jpg",
+            "https://salt.tikicdn.com/ts/product/ec/6f/d7/800daa03b10d0c3344fd214a5dae72a6.jpg"
+        ],
+        "product_description": "<h1>Chặn cửa thông minh từ tính với nam châm vĩnh cửu, mỏng an toàn, bằng hợp kim chống gỉ CCTM.009, tự động gấp lại rất gọn</h1>\n<p>Chặn cửa thông minh từ tính được thiết kế cực kỳ thông minh, sáng tạo với bộ phận chặn cửa bình thường nằm gọn dưới sàn nhà, chỉ khi cửa mở tới nam châm mới hút miếng chặn cửa nổi lên để chặn và giữ cửa lại</p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/8d/c9/99/1643cc7e38ffc34fc875fffbe48e4959.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/8d/c9/99/1643cc7e38ffc34fc875fffbe48e4959.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/30/80/b3/4b46b9941d8885ecb39bbe93dae39e2f.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/30/80/b3/4b46b9941d8885ecb39bbe93dae39e2f.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/ec/6f/d7/14dba452c05f5b3f1fafd71f46b17e89.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/ec/6f/d7/14dba452c05f5b3f1fafd71f46b17e89.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/1f/89/bd/d286d2d964baba82555a3f30b338f51d.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/1f/89/bd/d286d2d964baba82555a3f30b338f51d.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/b0/14/e7/de5e227fe5bd1e4a2ecbf77668418048.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/b0/14/e7/de5e227fe5bd1e4a2ecbf77668418048.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>Miếng chặn cửa thông minh có nhiều màu sắc khác nhau cho bạn lựa chọn phù hợp với màu sàn nhà, miếng gắn sàn mỏng giúp không bị vướng khi đi lại đặc biệt an toàn với nhà có trẻ nhỏ. Ngoài ra việc lắp đặt cũng đơn giản và gọn nhẹ, có thể dùng vít hoặc miếng dán 2 mặt kèm theo</p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/14/3a/07/90120eb868ac557046da3be642f75c90.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/14/3a/07/90120eb868ac557046da3be642f75c90.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/06/bf/4c/328618fe7c5c67ae41682505ee29ce5d.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/06/bf/4c/328618fe7c5c67ae41682505ee29ce5d.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/37/29/07/1dce8079b9a0a54ab252736766d9f333.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/37/29/07/1dce8079b9a0a54ab252736766d9f333.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/40/4e/0b/77a6ad199bf822252803188483d2cf6e.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/40/4e/0b/77a6ad199bf822252803188483d2cf6e.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/5f/03/ec/e97ea91f30a3d298c077ef2d0c7c1b18.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/5f/03/ec/e97ea91f30a3d298c077ef2d0c7c1b18.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/76/7c/08/2d9a5c8059a9973d2ba4f5cbac5775a4.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/76/7c/08/2d9a5c8059a9973d2ba4f5cbac5775a4.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/1b/47/67/c2bff42b1cd4a4368de5f067916e83aa.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/1b/47/67/c2bff42b1cd4a4368de5f067916e83aa.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>Thông số kỹ thuật</p>\n<p>Model: CCTM.009</p>\n<p>Vật liệu: Hợp kim kẽm, kim loại từ tính</p>\n<p>Kích thước miếng gắn sàn: D60mm, mỏng 3.3mm</p>\n<p>Kích thước miếng gắn cửa: 5.5x3x2cm</p>\n<p>Trọng lượng: 85g</p>\n<p>Miếng dán 2 mặt: Có</p>\n<p>Màu sắc: Nhiều màu sắc</p>\n<p>Ứng dụng: Chặn và giữ cửa</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 59900,
+        "product_quantity": 5416,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Dung tích": "500ml",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "3 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Màu bạc",
+                    "Vàng đỏ"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 59900,
+                "sku_stock": 3572
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 59900,
+                "sku_stock": 4571
+            }
+        ]
+    },
+    {
+        "product_shop": "278398",
+        "product_name": "Chặn giữ cửa 2 chiều, chốt đạp thông minh chống gió đập cửa",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/dc/c0/9c/b986a1ebdb4e56f309957eac896a4e08.jpg",
+            "https://salt.tikicdn.com/ts/product/51/c1/7e/43041c4bdaba59dde57d2d42f6414ddc.jpg",
+            "https://salt.tikicdn.com/ts/product/52/c3/24/68bc7c924e983eac352632663249e754.jpg",
+            "https://salt.tikicdn.com/ts/product/68/9d/30/e3d638c5b51261754aabe309530ef474.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chân hãm giữ cửa thông minh chống gió va đập giúp bảo vệ cánh cửa và khóa cửa cho gia đình bạn.</p>\n   <p>Chống gió đập cánh cửa theo 2 chiều.</p>\n   <p>Hãm cửa tại mọi vị trí khi mở, tiện dụng và thẩm mỹ hơn so với chặn cửa hình móng ngựa.</p>\n   <p>Sử dụng cho :</p>\n   <p>Sản phẩm chân hãm giữ cửa thông minh</p>\n   <p>Lắp đặt đơn giản, dễ dàng kèm đủ vít</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 60000,
+        "product_quantity": 3168,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "278398",
+        "product_name": "Chặn Cửa Hít Siêu Chắc, Chặn Cửa Chống Va Đập, Chặn Cửa Inox 304, Chặn Cửa ra Vào, An Toàn Cho Bé, Chặn Cửa Chắc Chắn Không Cần Khoan Đục.",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/64/b4/5b/465c2a1a690e1963973b960c051909bb.jpg",
+            "https://salt.tikicdn.com/ts/product/35/68/6f/d953378de7fd75ba53a8a2e9d988af48.jpg",
+            "https://salt.tikicdn.com/ts/product/42/8d/d8/937a65ac2868eb124901b98839cf46be.jpg",
+            "https://salt.tikicdn.com/ts/product/6d/f7/1a/1052703cd17d4ba2b91d9d0d384cd155.jpg",
+            "https://salt.tikicdn.com/ts/product/b6/f1/a8/6230fcaf6b3e876eb58b76ff25859ee6.jpg",
+            "https://salt.tikicdn.com/ts/product/c0/f9/25/cc0937a1f1195fea3b738119ed181859.jpg"
+        ],
+        "product_description": "<p>Chặn Cửa Hít Siêu Chắc, Chặn Cửa Chống Va Đập, Chặn Cửa Inox 304, Chặn Cửa ra Vào, An Toàn Cho Bé, Chặn Cửa Chắc Chắn Không Cần Khoan Đục.</p>\n<p>- Chặn cửa Nam châm siêu hít loại giữ cửa cực chắc chắn.<br />- Chặn cửa phòng có lực hút mạnh, giữ rất chắc. <br />- Chặn cửa an toàn chuyên cho các cửa Gỗ, Sắt, Nhôm to nặng.<br />- Chặn cửa thông minh nhiều màu lựa chọn: bạc, đen, vàng rêu, đồng đỏ.</p>\n<p>Lắp đặt chặn cửa inox theo 2 cách: <br />1. Dùng miếng dán 3M vẫn đảm bảo chắc chắn.<br />2. Dùng ốc vít bắt vào cửa và khoan nở bắt sàn hoặc tường. (Khuyến cáo khách hàng nên dùng ốc vít để đạt được độ hít chắc chắn nhất)</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 49000,
+        "product_quantity": 6250,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Hướng dẫn sử dụng": "<p>Lắp đặt chặn cửa inox theo 2 cách: <br />1. Dùng miếng dán 3M vẫn đảm bảo chắc chắn.<br />2. Dùng ốc vít bắt vào cửa và khoan nở bắt sàn hoặc tường. (Khuyến cáo khách hàng nên dùng ốc vít để đạt được độ hít chắc chắn nhất)</p>",
+            "Kích thước (Dài x Rộng x Cao)": "12x10x10 cm",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Trọng lượng sản phẩm": "0.200",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "51769",
+        "product_name": "Máy tuần tra bảo vệ GS-6100CL ( Tặng bao silicon + 10 nút) - Hàng nhập khẩu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/af/b7/77/813babb92591da4d4077a8bb5edcf962.jpg",
+            "https://salt.tikicdn.com/ts/product/19/c9/8c/e31fda1f3e4c76d51391474dae833566.jpg",
+            "https://salt.tikicdn.com/ts/product/55/bd/37/597a91effb4e23252bbd929fca4bb681.jpg",
+            "https://salt.tikicdn.com/ts/product/ae/0e/61/50ad07710d58badaecd082f809726049.jpg"
+        ],
+        "product_description": "<p>Máy tuần tra bảo vệ GS-6100CL thiết kế chắc chắn, có khả năng chống nước, chống va đập, dung lượng lưu trữ lớn, kết nốt với máy tính bằng cổng USB siêu bền. Phần mềm không cầ cài đặt, tải dữ liệu tốc độ nhanh và ổn định</p>\n<p>Máy chấm công bảo vệ hiệu GS-6100CL, xác định khi nào, ở đâu, ai đang kiểm tra sự an ninh cho người có nhu cầu Chứng minh được sự trung thực trong công việc của người bảo vệ, ngăn ngừa được những nguy cơ không nhìn thấy trước được thông qua người tuần tra trực tiếp như : nguy cơ cháy nổ, trộm và những tai nạn khác tại nhà xưởng, khu phức hợp, building, trường học, chung cư, khách sạ</p>\n<p>TÍNH NĂNG KỸ THUẬT:</p>\n<p>- Có đèn PIN giúp bảo vệ đi tuần dễ hơn<br />- Bộ nhớ lưu trữ : 80.000 Lần chấm <br />- Pin lithium 3.7V .Tuổi thọ cao (đèn tín hiệu báo đầy pin hoặc hết pin)<br />- Tốc độ nhận diện chíp nhanh <br />- Kết nối: CÁP USB Thế hệ mới <br />(không sợ hư cổng USB như model cũ)<br />- Khoản cách đọc thẻ: 1-3cm (tự động nhận diện thẻ không sử dụng nút nhấn )<br />- Tích hợp cảm biến rung lên và đèn báo<br />- Màn hình oled hiển thị nội dung khi tuần tra hoặc truy xuất dữ liệu<br />- Phần mềm hỗ trợ : in ra báo váo theo từng thời điểm. Phiên bản bản IPMS3.5.9<br />- Sử dụng thẻ cảm ứng để gắn vào vị trí cần đi tuần <br />- Loại chip đọc : 125khz. Tích hợp đèn pin<br />- 1 Bộ Máy: Dây Cáp , Cục Nguồn , Cd, Bao Nhựa<br />Chất liệu : hộp kim chống rĩ , nhiệt độ thích hợp: 00-500C. độ ẩm 10%-80%.Trọng lượng: 190gam .<br />Kích thước: 145(dài)x 47( Rộng)x26 ( cao) mm</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/19/c9/8c/d6688c8eb9d0cb2b7cca8d7e942e8802.jpg\" alt=\"\" width=\"720\" height=\"720\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3700000,
+        "product_quantity": 4444,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "GS",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "165009",
+        "product_name": "Khóa tay nắm tròn Huy Hoàng HC03",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d1/0f/5d/3c815e1c1cf94748d05199395c79d60e.jpg",
+            "https://salt.tikicdn.com/ts/product/7e/b7/e6/788b07f8ea8c4f1f20113ad774d1a3d6.jpg",
+            "https://salt.tikicdn.com/ts/product/97/23/61/cfe9a254dab7577dcb90a33068cc92b7.jpg",
+            "https://salt.tikicdn.com/ts/product/e0/d2/32/a20a3d78fae4cada09395cfe3251e3c1.jpg"
+        ],
+        "product_description": "<p>Thuộc dòng sản phẩm khóa tay nắm tròn thông dụng của Huy Hoàng.</p>\n<p>Sản phẩm Khóa tay nắm tròn HC03 được sản xuất bằng vật liệu hợp kim ZDC-2 mạ Ni+ Cr.</p>\n<p>Lõi khóa làm bằng đồng vàng (đồng thau), các chi khác bên trong hộp khóa đều được sản xuất bằng thép mạ Zn theo tiêu chuẩn quốc tế.</p>\n<p>Ổ khóa được thiết kế chìa vi tính 5 bi.</p>\n<p>Sản phẩm khóa tay nắm tròn HC03 thích hợp sử dụng cho cửa thông phòng, cửa nhà vệ sinh.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 359000,
+        "product_quantity": 3751,
+        "product_category": [
+            "Bảo vệ nhà cửa khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Huy Hoàng",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Kích thước (Dài x Rộng x Cao)": "193mm",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Tem bảo hành",
+            "Thời gian bảo hành": "6 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    }
+]

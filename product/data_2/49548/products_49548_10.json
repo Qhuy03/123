@@ -1,0 +1,2729 @@
+[
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Cao Gót Da Bò BIGGBEN Cao 4 Phân SDCG139",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c3/fe/e9/b6f9e43c7c35f733f36feacea442c5eb.jpg",
+            "https://salt.tikicdn.com/ts/product/48/00/3e/b85732557d24ed277e0bae7dac4db506.jpg",
+            "https://salt.tikicdn.com/ts/product/f3/db/73/28aa19436e0d477ca2c14f7af1b50add.jpg",
+            "https://salt.tikicdn.com/ts/product/8c/d3/1e/ab4631d3449d904805bc75ed669aa138.jpg"
+        ],
+        "product_description": "<ul>\n<li>\n<p>Thương hiệu: BIGBEN</p>\n</li>\n<li>\n<p>Giày sandal cao gót</p>\n</li>\n<li>Chật Liệu: Da bò thật 100%</li>\n<li>\n<p>Giày Nữ với chất liệu Da Bò bền đẹp kết hợp đế cao su êm nhẹ chống trơn trượt giúp bạn Nam luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</p>\n</li>\n<li>\n<p>Giày được xử lý đặc biệt để tạo độ bóng mờ Nữ tính thích hợp cho mọi lứa tuổi.</p>\n</li>\n<li>\n<p>Đế cao Su cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</p>\n</li>\n<li>\n<p>Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</p>\n</li>\n<li>\n<p>Đế Cao 4 Phân</p>\n</li>\n<li>\n<p>Hướng dẫn chọn size:</p>\n</li>\n<li><img src=\"https://salt.tikicdn.com/ts/tmp/35/f3/79/d54d13a19ace6e5badca24c6147f04bc.jpg\" alt=\"\" width=\"750\" height=\"603\" /></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 500000,
+        "product_quantity": 7058,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDCG139",
+            "Chất liệu": "Da bò",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Màu.",
+                "options": [
+                    "Kem",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size:",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 500000,
+                "sku_stock": 1051
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 500000,
+                "sku_stock": 1027
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 500000,
+                "sku_stock": 9710
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8191
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 500000,
+                "sku_stock": 7930
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2880
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 500000,
+                "sku_stock": 6875
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8148
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8646
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 500000,
+                "sku_stock": 1869
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 500000,
+                "sku_stock": 6725
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    5
+                ],
+                "sku_price": 500000,
+                "sku_stock": 5990
+            }
+        ]
+    },
+    {
+        "product_shop": "47831",
+        "product_name": "Giày Sandal 2 quai mảnh đá7F PABNO PN22008 ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/dc/72/0a/af12e668a50dc7c35e8975e54f58e23c.jpg",
+            "https://salt.tikicdn.com/ts/product/3f/f7/6d/21136ef2ac0cac140ed93bf861533f1f.jpg",
+            "https://salt.tikicdn.com/ts/product/ba/c4/a1/2d59fe01ccb3e51a4e7461a39a18696b.jpg"
+        ],
+        "product_description": "<p>Giày Sandal 2 quai mảnh đá7F PABNO PN22008 ----------  </p>\n<p>1. THÔNG TIN SẢN PHẨM:</p>\n<p>Sandal quai ngang không còn là sản phẩm xa lạ với các chị em phụ nữ, mẫu sandal thường được chọn phối cùng các trang phục như đầm xòe, váy chữ A, tạo thêm nét nữ tính cho phái nữ, duyên dáng thanh mãnh trong từng bước đi.</p>\n<p>Với chất liệu da tổng hợp, màu sắc nhã nhặn, đường nét tinh tế, giày sandal quai ngang ngang rắn có thể ôm trọn lấy đôi chân ngọc ngà của bạn. Đế vuông cũng là một lợi thế của sản phẩm, có thể giúp bạn di chuyển dễ dàng, không gây đau, mỏi chân.</p>\n<p>Khóa giày kim loại mạ màu vàng, hạn chế tình trạng gỉ sét, hư hỏng khi dùng lâu ngày.</p>\n<p>2. CHI TIẾT Giày Sandal 2 quai mảnh đá7F PABNO PN22008----------  </p>\n<p>1. THÔNG TIN SẢN PHẨM:</p>\n<p>Sandal quai ngang không còn là sản phẩm xa lạ với các chị em phụ nữ, mẫu sandal thường được chọn phối cùng các trang phục như đầm xòe, váy chữ A, tạo thêm nét nữ tính cho phái nữ, duyên dáng thanh mãnh trong từng bước đi.</p>\n<p>Với chất liệu da tổng hợp, màu sắc nhã nhặn, đường nét tinh tế, giày sandal quai ngang ngang rắn có thể ôm trọn lấy đôi chân ngọc ngà của bạn. Đế vuông cũng là một lợi thế của sản phẩm, có thể giúp bạn di chuyển dễ dàng, không gây đau, mỏi chân.</p>\n<p>Khóa giày kim loại mạ màu vàng, hạn chế tình trạng gỉ sét, hư hỏng khi dùng lâu ngày.</p>\n<p>2. CHI TIẾTGiày Sandal 2 quai mảnh đá7F PABNO PN22008</p>\n<p>Chất liệu: Da tổng hợp</p>\n<p>Thiết kế: Gót cao 7cm</p>\n<p>Màu sắc: Đen;Bạc</p>\n<p>Size: 35, 36, 37, 38, 39</p>\n<p>Đế Giày được làm bằng chất liệu cao su.</p>\n<p>Vân đế chống trượt không mài mòn.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/2c/32/68/ca5aed3876424908df9e7b84ee1f8e5d.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>3. HƯỚNG DẪN CHỌN SIZE Giày Sandal 2 quai mảnh đá7F PABNO PN22008</p>\n<p>• Size 35: Bàn chân 21-22cm</p>\n<p>• Size 36: Bàn chân 22-22.9cm</p>\n<p>• Size 37: Bàn chân 23.0-23.5cm</p>\n<p>• Size 38: Bàn chân 23.6-24.4cm</p>\n<p>• Size 39: Bàn chân 24.5-25cm</p>\n<p>4. HƯỚNG DẪN BẢO QUẢN Giày Sandal 2 quai mảnh đá7F PABNO PN22008</p>\n<p>Nên cất giữ sản phẩm ở nơi thoáng mát để giữ gìn chất lượng của sản phẩm ở mức tốt nhất.</p>\n<p>Lau chùi sản phẩm thường xuyên để tránh bụi bẩn.</p>\n<p>Bạn sử dụng một lượng nhẹ các loại xà bông, nước rửa chén, kem cạo râu để giặt.</p>\n<p>Chú ý là nên dùng bàn chải mềm hoặc khăn mềm để chà giặt sẽ tốt hơn nhé.</p>\n<p>Nên phơi đôi giày trong mát, không nên phơi trực tiếp dưới ánh nắng mặt trời trực tiếp</p>\n<p>Sau khi giặt xong để ráo nước sử dụng giấy mềm, thấm nước, cuốn 2-3 vòng phủ toàn đôi giày.</p>\n<p>5. CHÍNH SÁCH BẢO HÀNH - ĐỔI TRẢ</p>\n<p>• Sản phẩm được bảo hành 12 tháng với da và đế trên toàn quốc bởi PABNO</p>\n<p>• Đổi sản phẩm cùng mã, cùng size, cùng màu (trường hợp hàng bị lỗi kĩ thuật) hoàn toàn miễn phí.</p>\n<p>• Đổi sản phẩm khác mã, khác màu, khác size sẽ tính theo giá tại thời điểm đổi hàng</p>\n<p>• Đối với sản phẩm mua online: đổi trong vòng 7 ngày kể từ ngày nhận hàng (căn cứ trên vận đơn giao hàng).</p>\n<p>• Sản phẩm được đổi 1 lần duy nhất trong vòng 7 ngày kể từ ngày nhận hàng.</p>\n<p> </p>\n<p>PABNO - Leather collection là Thương Hiệu Giày Dép, Túi Xách,Ví ,Thắt Lưng và Phụ Kiện với 6 năm hoạt động trong lĩnh vực thời trang công sở. Tất cả sản phẩm của PABNO Store đều được làm từ Da Bò cao cấp và sản</p>\n<p>Chất liệu: Da tổng hợp</p>\n<p>Thiết kế: Gót cao 7cm</p>\n<p>Màu sắc: Đen;Bạc</p>\n<p>Size: 35, 36, 37, 38, 39</p>\n<p>Đế Giày được làm bằng chất liệu cao su.</p>\n<p>Vân đế chống trượt không mài mòn.</p>\n<p>3. HƯỚNG DẪN CHỌN SIZE Giày Sandal quai mảnh khóa8F PABNO PN22018</p>\n<p>• Size 35: Bàn chân 21-22cm</p>\n<p>• Size 36: Bàn chân 22-22.9cm</p>\n<p>• Size 37: Bàn chân 23.0-23.5cm</p>\n<p>• Size 38: Bàn chân 23.6-24.4cm</p>\n<p>• Size 39: Bàn chân 24.5-25cm</p>\n<p>4. HƯỚNG DẪN BẢO QUẢN Giày Sandal quai mảnh khóa8F PABNO PN22018</p>\n<p>Nên cất giữ sản phẩm ở nơi thoáng mát để giữ gìn chất lượng của sản phẩm ở mức tốt nhất.</p>\n<p>Lau chùi sản phẩm thường xuyên để tránh bụi bẩn.</p>\n<p>Bạn sử dụng một lượng nhẹ các loại xà bông, nước rửa chén, kem cạo râu để giặt.</p>\n<p>Chú ý là nên dùng bàn chải mềm hoặc khăn mềm để chà giặt sẽ tốt hơn nhé.</p>\n<p>Nên phơi đôi giày trong mát, không nên phơi trực tiếp dưới ánh nắng mặt trời trực tiếp</p>\n<p>Sau khi giặt xong để ráo nước sử dụng giấy mềm, thấm nước, cuốn 2-3 vòng phủ toàn đôi giày.</p>\n<p>5. CHÍNH SÁCH BẢO HÀNH - ĐỔI TRẢ</p>\n<p>• Sản phẩm được bảo hành 12 tháng với da và đế trên toàn quốc bởi PABNO</p>\n<p>• Đổi sản phẩm cùng mã, cùng size, cùng màu (trường hợp hàng bị lỗi kĩ thuật) hoàn toàn miễn phí.</p>\n<p>• Đổi sản phẩm khác mã, khác màu, khác size sẽ tính theo giá tại thời điểm đổi hàng</p>\n<p>• Đối với sản phẩm mua online: đổi trong vòng 7 ngày kể từ ngày nhận hàng (căn cứ trên vận đơn giao hàng).</p>\n<p>• Sản phẩm được đổi 1 lần duy nhất trong vòng 7 ngày kể từ ngày nhận hàng.</p>\n<p> </p>\n<p>PABNO - Leather collection là Thương Hiệu Giày Dép, Túi Xách,Ví ,Thắt Lưng và Phụ Kiện với 6 năm hoạt động trong lĩnh vực thời trang công sở. Tất cả sản phẩm của PABNO Store đều được làm từ Da Bò cao cấp và sản xuất tại Việt Nam.</p>\n<p>Quý khách hàng hãy tin dùng những sản phẩm của PABNO STORE để sở hữu những sản phẩm hàng da thật cao cấp với giá cả phải chăng nhé!</p>\n<p>6. THÔNG TIN VÀ CAM KẾT TỪ PABNO</p>\n<p>• Tất cả hình Sản Phẩm đều do Shop tự chụp</p>\n<p>• Cam Kết chất lượng sản phẩm \"Y Hình\" - \"Hoàn Tiền\" nếu nhận hàng không chất lượng.</p>\n<p>• Phân phối Sỉ - Lẻ trên Toàn quốc.</p>\n<p>• Sản phẩm bao gồm: Hộp, giày, tags... - TẤT CẢ ĐỀU CÓ LOGO CHÍNH HÃNG PABNO.</p>\n<p>Cảm ơn quý khách đã tin dùng sản phẩm của PABNO!</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 345000,
+        "product_quantity": 5852,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "PABNO",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "Da tổng hợp",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Bạc",
+                    "Đen."
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 345000,
+                "sku_stock": 9628
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 345000,
+                "sku_stock": 8982
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 345000,
+                "sku_stock": 8888
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 345000,
+                "sku_stock": 4796
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 345000,
+                "sku_stock": 2509
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 345000,
+                "sku_stock": 8802
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 345000,
+                "sku_stock": 7380
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 345000,
+                "sku_stock": 2564
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 345000,
+                "sku_stock": 7357
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 345000,
+                "sku_stock": 7364
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Cao Gót Da Bò BIGGBEN Cao 8 Phân SDCG138",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a4/70/55/f58973ff6bdc8c09d3e56425e853b664.jpg",
+            "https://salt.tikicdn.com/ts/product/2f/0f/45/7680fbfcda713a2bf281ea65da249149.jpg",
+            "https://salt.tikicdn.com/ts/product/54/78/df/f84b7a2639c36f0f74496252d108bebb.jpg",
+            "https://salt.tikicdn.com/ts/product/65/86/ef/af1e745c0ad89b16dae459771c043721.jpg",
+            "https://salt.tikicdn.com/ts/product/e0/82/ab/3f8eee4f0b02908500fda71a6214c6a9.jpg"
+        ],
+        "product_description": "<ul>\n<li>\n<p>Thương hiệu: BIGBEN</p>\n</li>\n<li>\n<p>Giày sandal cao gót</p>\n</li>\n<li>Chật Liệu: Da bò thật 100%</li>\n<li>\n<p>Giày Nữ với chất liệu Da Bò bền đẹp kết hợp đế cao su êm nhẹ chống trơn trượt giúp bạn Nam luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</p>\n</li>\n<li>\n<p>Giày được xử lý đặc biệt để tạo độ bóng mờ Nữ tính thích hợp cho mọi lứa tuổi.</p>\n</li>\n<li>\n<p>Đế cao Su cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</p>\n</li>\n<li>\n<p>Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</p>\n</li>\n<li>\n<p>Đế Cao 5 Phân</p>\n</li>\n<li>\n<p>Hướng dẫn chọn size:</p>\n</li>\n<li><img src=\"https://salt.tikicdn.com/ts/tmp/35/f3/79/d54d13a19ace6e5badca24c6147f04bc.jpg\" alt=\"\" width=\"750\" height=\"603\" /></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 500000,
+        "product_quantity": 2345,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDCG138",
+            "Chất liệu": "Da bò",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Size:",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 500000,
+                "sku_stock": 7466
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 500000,
+                "sku_stock": 3634
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2020
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8292
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2031
+            }
+        ]
+    },
+    {
+        "product_shop": "295095",
+        "product_name": "Giày hở mũi nữ cao gót 4 phân RO669 ROSATA tại BCASHOP thoải mái, đơn giản nhưng tôn chân và sang trọng, tinh tế",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/cf/9a/06/4fdb23ee92d5c751a5a3eef156cc6ca0.jpg",
+            "https://salt.tikicdn.com/ts/product/d5/7b/b0/742983b4ed9baf3855b046f47c5cd165.jpg",
+            "https://salt.tikicdn.com/ts/product/ce/fb/27/8f80c8285849cb9be4b0d37fe944a004.jpg",
+            "https://salt.tikicdn.com/ts/product/1b/cf/ce/170ff192872b4dd9bf628f2b0c781da8.jpg",
+            "https://salt.tikicdn.com/ts/product/f1/b0/1e/5d347473f307b87db7466d5501014dc4.jpg",
+            "https://salt.tikicdn.com/ts/product/cf/26/c7/58b6f38066790508c9353c9f95681e67.jpg"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/f1/b0/1e/b32306e13f124e19358e915294a2ec1f.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />------------------<br />Giày hở mũi nữ cao gót 4 phân RO669 ROSATA tại BCASHOP thoải mái, đơn giản nhưng tôn chân và sang trọng, tinh tế<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO669<br />- Cao gót: 4 cm<br />- Size: 35, 36, 37, 38, 39, 40<br />- Tất cả giày của thương hiệu ROSATA đều được làm từ chất liệu cao cấp như da nhân tạo cao cấp, nhựa mềm cao cấp, PU mềm cao cấp,... Nguyên liệu được nhập khẩu nên số lượng hàng hóa sản xuất cho 1 mẻ tương đối ít. Thời gian giữa các mẻ sản xuất còn tùy thuộc vào số lượng tiêu thụ và nguồn nguyên liệu của mỗi mã nên đôi khi các chị bỏ qua mẫu xong cứ hỏi em bao giờ sản xuất mẻ mới là em không trả lời được đâu ạ.<br />----<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất,.. bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ,... bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L= 21.2 cm =&gt; size 34/<br />L= 21.9 cm =&gt; size 35/<br />L= 22.5 cm =&gt; size 36/<br />L= 23.2 cm =&gt; size 37/<br />L= 23.9 cm =&gt; size 38/<br />L= 24.5 cm =&gt; size 39/<br />L= 25.2 cm =&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />Chúng tôi luôn mong muốn mang đến cho khách hàng những trải nghiệm tốt nhất nên hãy để lại ý kiến của bạn. Những ý kiến đóng góp của bạn là động lực để chúng tôi hoàn thiện, phát triển và phục vụ bạn được tốt hơn<br />-----<br />#rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap #giaynudep #giaynudepcaocap #giaynuchinhhang #botnutrungnien #bitmuicaogot #giaydepnu #giaynuhottrend #giayvanphong #heel #style #fashion #giayhot #giaycongsonu #GiayDepSangTrong #PhongCachThoiTrang #GiayDaHieu</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 379000,
+        "product_quantity": 3552,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Rosata",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "MÀU DA"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 379000,
+                "sku_stock": 4729
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 379000,
+                "sku_stock": 5917
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 379000,
+                "sku_stock": 8277
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 379000,
+                "sku_stock": 4415
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 379000,
+                "sku_stock": 4180
+            }
+        ]
+    },
+    {
+        "product_shop": "295095",
+        "product_name": "Giày cao gót nữ hở mũi 9 cm RO632 ROSATA tại BCASHOP quai ôm cổ chân đính kim sa lấp láp, tinh tế và đẳng cấp",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/22/4a/34/b2c7da216b747c49e9b36b30b8ddf971.jpg",
+            "https://salt.tikicdn.com/ts/product/a7/54/94/0b57ced45dcb778e364a598765faf641.jpg",
+            "https://salt.tikicdn.com/ts/product/d5/7a/9f/a89e7a8d0de155039f0c2f44505b1fb1.jpg",
+            "https://salt.tikicdn.com/ts/product/33/5a/7d/ac286703729aefa41e745eda80fec43d.jpg",
+            "https://salt.tikicdn.com/ts/product/97/79/60/c430377a930357a4660e5c6c8778a17c.jpg",
+            "https://salt.tikicdn.com/ts/product/10/18/62/8d7fffaa2ef7bb0182e2865fa582384f.jpg"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/97/79/60/72a17d1bf92195da79045ae2fa01bc6c.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />------------------<br />Giày cao gót nữ hở mũi 9 cm RO632 ROSATA tại BCASHOP quai ôm cổ chân đính kim sa lấp láp, sang trọng và thanh lịch<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO632<br />- Cao gót: 9 cm<br />- Size: 35, 36, 37, 38, 39, 40<br />- Tất cả giày của thương hiệu ROSATA đều được làm từ chất liệu cao cấp như da nhân tạo cao cấp, nhựa mềm cao cấp, PU mềm cao cấp,... Nguyên liệu được nhập khẩu nên số lượng hàng hóa sản xuất cho 1 mẻ tương đối ít. Thời gian giữa các mẻ sản xuất còn tùy thuộc vào số lượng tiêu thụ và nguồn nguyên liệu của mỗi mã nên đôi khi các chị bỏ qua mẫu xong cứ hỏi em bao giờ sản xuất mẻ mới là em không trả lời được đâu ạ.<br />----<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất,.. bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ,... bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L= 21.2 cm =&gt; size 34/<br />L= 21.9 cm =&gt; size 35/<br />L= 22.5 cm =&gt; size 36/<br />L= 23.2 cm =&gt; size 37/<br />L= 23.9 cm =&gt; size 38/<br />L= 24.5 cm =&gt; size 39/<br />L= 25.2 cm =&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />Chúng tôi luôn mong muốn mang đến cho khách hàng những trải nghiệm tốt nhất nên hãy để lại ý kiến của bạn. Những ý kiến đóng góp của bạn là động lực để chúng tôi hoàn thiện, phát triển và phục vụ bạn được tốt hơn<br />-----<br />#rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap #giaynudep #giaynudepcaocap #giaynuchinhhang #botnutrungnien #bitmuicaogot #giaydepnu #giaynuhottrend #giayvanphong #heel #style #fashion #giayhot #giaycongsonu</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 489000,
+        "product_quantity": 9154,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "1 Năm",
+            "Thương hiệu": "Rosata",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "MÀU TRẮNG",
+                    "MÀU ĐEN"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 489000,
+                "sku_stock": 7539
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 489000,
+                "sku_stock": 6184
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 489000,
+                "sku_stock": 6634
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 489000,
+                "sku_stock": 7331
+            }
+        ]
+    },
+    {
+        "product_shop": "295095",
+        "product_name": "Sandal nữ đế thấp 4 phân RO643 ROSATA tại BCASHOP hở mũi, phối màu tinh tế và thanh lịch lại rất tôn da",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/1f/5e/42/f7bc292ab75de1a789c25d623e9e6129.jpg",
+            "https://salt.tikicdn.com/ts/product/ab/75/a8/aa9856a5d6bf8b3ef3f6193a3c36cd2a.jpg",
+            "https://salt.tikicdn.com/ts/product/a7/fa/aa/3d9d2f7d1992bf6b0a7eb03c4856fb5f.jpg",
+            "https://salt.tikicdn.com/ts/product/24/55/11/ec36c56a970f41a85046f010c851f393.jpg",
+            "https://salt.tikicdn.com/ts/product/61/55/2f/8843fbbd73b5febad5d7140c7626b342.jpg",
+            "https://salt.tikicdn.com/ts/product/a2/a3/a4/5f3d4c027af03c8fb9d20e353db1a16a.jpg",
+            "https://salt.tikicdn.com/ts/product/0a/f7/8a/2d5d0cd459d4f142316476823b661dc5.jpg"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/a7/fa/aa/d33dbaa1ba803a6f3a1d2cd9c5d696f4.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />------------------<br />Xăng đan nữ hở mũi đế thấp 4 phân RO643 ROSATA tại BCASHOP quai sau cài xinh xắn, phối màu tinh tế rất tôn da, thoải mái<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO643<br />- Cao gót: 4 cm<br />- Size: 35, 36, 37, 38, 39, 40<br />- Tất cả giày của thương hiệu ROSATA đều được làm từ chất liệu cao cấp như da nhân tạo cao cấp, nhựa mềm cao cấp, PU mềm cao cấp, Nguyên liệu được nhập khẩu nên số lượng hàng hóa sản xuất cho 1 mẻ tương đối ít. Thời gian giữa các mẻ sản xuất còn tùy thuộc vào số lượng tiêu thụ và nguồn nguyên liệu của mỗi mã nên đôi khi các chị bỏ qua mẫu xong cứ hỏi em bao giờ sản xuất mẻ mới là em không trả lời được đâu ạ.<br />----<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất, bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ, bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L= 21.2 cm =&gt; size 34/<br />L= 21.9 cm =&gt; size 35/<br />L= 22.5 cm =&gt; size 36/<br />L= 23.2 cm =&gt; size 37/<br />L= 23.9 cm =&gt; size 38/<br />L= 24.5 cm =&gt; size 39/<br />L= 25.2 cm =&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />Chúng tôi luôn mong muốn mang đến cho khách hàng những trải nghiệm tốt nhất nên hãy để lại ý kiến của bạn. Những ý kiến đóng góp của bạn là động lực để chúng tôi hoàn thiện, phát triển và phục vụ bạn được tốt hơn<br />-----<br />#rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 399000,
+        "product_quantity": 4690,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Rosata",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Màu Trắng",
+                    "Màu Đen"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 399000,
+                "sku_stock": 8095
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 399000,
+                "sku_stock": 4479
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 399000,
+                "sku_stock": 1166
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 399000,
+                "sku_stock": 1624
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 399000,
+                "sku_stock": 6372
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 399000,
+                "sku_stock": 3134
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 399000,
+                "sku_stock": 4873
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 399000,
+                "sku_stock": 6845
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 399000,
+                "sku_stock": 2604
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 399000,
+                "sku_stock": 3892
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 399000,
+                "sku_stock": 6361
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    5
+                ],
+                "sku_price": 399000,
+                "sku_stock": 6576
+            }
+        ]
+    },
+    {
+        "product_shop": "295095",
+        "product_name": "Xăng đan dự tiệc nữ cao gót 8 phân RO640 ROSATA tại BCASHOP hở mũi, gót sau đính kim tuyến lung linh cực xinh",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c7/9d/b6/2507684f47a288675906ee4da14087fb.jpg",
+            "https://salt.tikicdn.com/ts/product/6b/aa/f8/54791dfbdde6591975c00f0f9bd7b2a0.jpg",
+            "https://salt.tikicdn.com/ts/product/34/88/b3/750da1db4daf93f609c9f7b5fc2764c7.jpg",
+            "https://salt.tikicdn.com/ts/product/e0/46/8e/3bce50278ebf51d4e8d3d8a724042d9e.jpg",
+            "https://salt.tikicdn.com/ts/product/49/55/f6/af671bdcb38ac3c03307e7f01811b89d.jpg",
+            "https://salt.tikicdn.com/ts/product/f5/f1/4e/275d6158d131aeae22e18773d873a4e6.jpg",
+            "https://salt.tikicdn.com/ts/product/99/6e/e5/2820f8e34b864041c77679cce1177cf2.jpg",
+            "https://salt.tikicdn.com/ts/product/80/5f/06/7f53bdc1baf6f085a37829e43d6b81d0.jpg",
+            "https://salt.tikicdn.com/ts/product/e4/1e/a3/aaac85697d871ac4de8bc271feb50e4d.jpg"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/f5/f1/4e/0732c58adbb8825adf67d9b2509f008e.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />------------------<br />Xăng đan dự tiệc nữ cao gót 8 phân RO640 ROSATA tại BCASHOP hở mũi, gót sau đính kim tuyến lung linh cực xinh<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO640<br />- Cao gót: 8 cm<br />- Size: 35, 36, 37, 38, 39, 40<br />- Tất cả giày của thương hiệu ROSATA đều được làm từ chất liệu cao cấp như da nhân tạo cao cấp, nhựa mềm cao cấp, PU mềm cao cấp, Nguyên liệu được nhập khẩu nên số lượng hàng hóa sản xuất cho 1 mẻ tương đối ít. Thời gian giữa các mẻ sản xuất còn tùy thuộc vào số lượng tiêu thụ và nguồn nguyên liệu của mỗi mã nên đôi khi các chị bỏ qua mẫu xong cứ hỏi em bao giờ sản xuất mẻ mới là em không trả lời được đâu ạ.<br />----<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất, bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ, bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L= 21.2 cm =&gt; size 34/<br />L= 21.9 cm =&gt; size 35/<br />L= 22.5 cm =&gt; size 36/<br />L= 23.2 cm =&gt; size 37/<br />L= 23.9 cm =&gt; size 38/<br />L= 24.5 cm =&gt; size 39/<br />L= 25.2 cm =&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />Chúng tôi luôn mong muốn mang đến cho khách hàng những trải nghiệm tốt nhất nên hãy để lại ý kiến của bạn. Những ý kiến đóng góp của bạn là động lực để chúng tôi hoàn thiện, phát triển và phục vụ bạn được tốt hơn<br />-----<br />#rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 449000,
+        "product_quantity": 7116,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Rosata",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Màu Trắng",
+                    "Màu Đen"
+                ]
+            },
+            {
+                "name": "Kích cỡ (Size)",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 449000,
+                "sku_stock": 7028
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 449000,
+                "sku_stock": 6533
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 449000,
+                "sku_stock": 5228
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 449000,
+                "sku_stock": 7332
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 449000,
+                "sku_stock": 5181
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 449000,
+                "sku_stock": 7409
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 449000,
+                "sku_stock": 9566
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 449000,
+                "sku_stock": 1292
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 449000,
+                "sku_stock": 4334
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 449000,
+                "sku_stock": 5186
+            }
+        ]
+    },
+    {
+        "product_shop": "295095",
+        "product_name": "Xăng đan nữ hở mũi cao gót 8 phân RO636 ROSATA tại BCASHOP kiểu dáng thanh lịch nhưng thời trang và chiều lòng khác",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/cb/09/bd/5c86911d9dba4ed9e51cdbedb8362d33.jpg",
+            "https://salt.tikicdn.com/ts/product/c3/20/cb/fe4812111245c09364f3b804e1a66fe1.jpg",
+            "https://salt.tikicdn.com/ts/product/ca/4b/86/7c6e1e03dc73db4be5cf37d253489033.jpg",
+            "https://salt.tikicdn.com/ts/product/dc/2c/64/37b233f4693715a21ccf9b52648495c3.jpg",
+            "https://salt.tikicdn.com/ts/product/de/2b/75/b57c27d3999713a3d1ba4793972329ff.jpg",
+            "https://salt.tikicdn.com/ts/product/a5/d1/3b/4f412d10f308079cd5277143f7b96bb3.jpg",
+            "https://salt.tikicdn.com/ts/product/9a/55/88/34df5bbf4d65f1d56a208705a6416a2a.jpg",
+            "https://salt.tikicdn.com/ts/product/25/11/5f/3d1d2bc042624ef5022dd2de551f2715.jpg"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/dc/2c/64/da57fd7736c437cf9cdaf4e0c079c9aa.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />------------------<br />Xăng đan nữ hở mũi cao gót 8 phân RO636 ROSATA tại BCASHOP kiểu dáng thanh lịch nhưng thời trang và chiều lòng khác<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO636<br />- Cao gót: 8 cm<br />- Size: 35, 36, 37, 38, 39, 40<br />- Tất cả giày của thương hiệu ROSATA đều được làm từ chất liệu cao cấp như da nhân tạo cao cấp, nhựa mềm cao cấp, PU mềm cao cấp, Nguyên liệu được nhập khẩu nên số lượng hàng hóa sản xuất cho 1 mẻ tương đối ít. Thời gian giữa các mẻ sản xuất còn tùy thuộc vào số lượng tiêu thụ và nguồn nguyên liệu của mỗi mã nên đôi khi các chị bỏ qua mẫu xong cứ hỏi em bao giờ sản xuất mẻ mới là em không trả lời được đâu ạ.<br />----<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất, bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ, bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L= 21.2 cm =&gt; size 34/<br />L= 21.9 cm =&gt; size 35/<br />L= 22.5 cm =&gt; size 36/<br />L= 23.2 cm =&gt; size 37/<br />L= 23.9 cm =&gt; size 38/<br />L= 24.5 cm =&gt; size 39/<br />L= 25.2 cm =&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />Chúng tôi luôn mong muốn mang đến cho khách hàng những trải nghiệm tốt nhất nên hãy để lại ý kiến của bạn. Những ý kiến đóng góp của bạn là động lực để chúng tôi hoàn thiện, phát triển và phục vụ bạn được tốt hơn<br />-----<br />#rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 449000,
+        "product_quantity": 7265,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Rosata",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ (Size)",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 449000,
+                "sku_stock": 1796
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 449000,
+                "sku_stock": 3983
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 449000,
+                "sku_stock": 7737
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 449000,
+                "sku_stock": 6944
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 449000,
+                "sku_stock": 5557
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 449000,
+                "sku_stock": 1061
+            }
+        ]
+    },
+    {
+        "product_shop": "9262",
+        "product_name": "Giày Sandal Cao Gót Da Bò BIGGBEN Cao 8 Phân SDCG116",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ba/e9/a2/ed938dec7d7722f967c8f151767041e7.jpg",
+            "https://salt.tikicdn.com/ts/product/f9/b1/ce/1dd69aa6c39530176a153975fdcceaef.jpg",
+            "https://salt.tikicdn.com/ts/product/2f/4b/4f/41c7a662aff24609eadd3c50d17e0fb6.jpg",
+            "https://salt.tikicdn.com/ts/product/99/bc/45/7757445b0f93408fccae3034a8f35a3d.jpg",
+            "https://salt.tikicdn.com/ts/product/7f/af/1d/c9266028b676685dbf87fa574ccd7d22.jpg"
+        ],
+        "product_description": "<ul>\n<li>\n<p>Thương hiệu: BIGBEN</p>\n</li>\n<li>\n<p>Giày sandal cao gót</p>\n</li>\n<li>Chật Liệu: Da bò thật 100%</li>\n<li>\n<p>Giày Nữ với chất liệu Da Bò bền đẹp kết hợp đế cao su êm nhẹ chống trơn trượt giúp bạn Nam luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</p>\n</li>\n<li>\n<p>Giày được xử lý đặc biệt để tạo độ bóng mờ Nữ tính thích hợp cho mọi lứa tuổi.</p>\n</li>\n<li>\n<p>Đế cao Su cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</p>\n</li>\n<li>\n<p>Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</p>\n</li>\n<li>\n<p>Đế Cao 8 Phân</p>\n</li>\n<li>\n<p>Hướng dẫn chọn size:</p>\n</li>\n<li><img src=\"https://salt.tikicdn.com/ts/tmp/87/95/5f/f9f8c2833a0d609979fd0c8be05a4c80.png\" alt=\"\" width=\"513\" height=\"503\" /></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 500000,
+        "product_quantity": 6250,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "BIGGBEN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "SDCG116",
+            "Chất liệu": "Da bò",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Màu.",
+                "options": [
+                    "Vàng bò",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size:",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2223
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2060
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 500000,
+                "sku_stock": 9409
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 500000,
+                "sku_stock": 1064
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8025
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 500000,
+                "sku_stock": 8985
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 500000,
+                "sku_stock": 2719
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 500000,
+                "sku_stock": 9311
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 500000,
+                "sku_stock": 5672
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 500000,
+                "sku_stock": 4124
+            }
+        ]
+    },
+    {
+        "product_shop": "295095",
+        "product_name": "Giày công chúa 6 phân RO540 ROSATA tại BCASHOP hở mũi, quai ngang lấp lánh, quai ôm cổ chân và dây kéo phía sau",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e0/c8/7c/dfd9591cae0bdd718c9f4e9bfad8486f.jpg",
+            "https://salt.tikicdn.com/ts/product/50/4f/de/a90646fae464592d5e8577a93273cd08.jpg",
+            "https://salt.tikicdn.com/ts/product/5b/c2/f6/a9d08f14dbe99c3bd5652aeecf4efe60.jpg",
+            "https://salt.tikicdn.com/ts/product/b2/b6/9d/3d60e4cc6afc5fb83de2bab4ddf4dca8.jpg",
+            "https://salt.tikicdn.com/ts/product/a4/fd/c2/9cb98d413c3db69bba5e319749538220.jpg",
+            "https://salt.tikicdn.com/ts/product/fd/5f/67/17be07a332a1f7f59d28a6d004cb3777.jpg",
+            "https://salt.tikicdn.com/ts/product/de/4e/78/ea5147fdeb174eae11aef4a06bf930c7.jpg",
+            "https://salt.tikicdn.com/ts/product/37/cd/d3/dcab48fb2a6b6ead0e51e0beade81616.jpg",
+            "https://salt.tikicdn.com/ts/product/a0/5c/4c/f31997ba4c58374b9a0912209ac6c941.jpg",
+            "https://salt.tikicdn.com/ts/product/4b/3e/57/003f7d2944e6d8c871169a2dbcbcfbe0.jpg",
+            "https://salt.tikicdn.com/ts/product/73/18/06/fe8f9813d10c880afa2c2ca7a0350bb2.jpg"
+        ],
+        "product_description": "<p>ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />----<br />Giày cao gót nữ 6p RO540 ROSATA tại BCASHOP hở mũi, quai ngang lấp lánh, quai ôm cổ chân và dây kéo phía sau, màu vàng<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO540<br />- Cao gót: 6 cm<br />- Size: 35, 36, 37, 38, 39, 40<br />---<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày theo đúng quy định<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất, bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ, bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L= 21.2 cm =&gt; size 34/<br />L= 21.9 cm =&gt; size 35/<br />L= 22.5 cm =&gt; size 36/<br />L= 23.2 cm =&gt; size 37/<br />L= 23.9 cm =&gt; size 38/<br />L= 24.5 cm =&gt; size 39/<br />L= 25.2 cm =&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />Chúng tôi luôn mong muốn mang đến cho khách hàng những trải nghiệm tốt nhất nên hãy để lại ý kiến của bạn. Những ý kiến đóng góp của bạn là động lực để chúng tôi hoàn thiện, phát triển và phục vụ bạn được tốt hơn<br />-----<br />#ro540 #rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap #xuhuongthoitrang</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 449000,
+        "product_quantity": 6086,
+        "product_category": [
+            "Giày - Dép nữ"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Rosata",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "RO540",
+            "Chất liệu": "Da nhân tạo cao cấp",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "39",
+                    "40"
+                ]
+            },
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "MÀU VÀNG",
+                    "MÀU ĐEN"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 449000,
+                "sku_stock": 3008
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 449000,
+                "sku_stock": 5295
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 449000,
+                "sku_stock": 7511
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 449000,
+                "sku_stock": 8140
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 449000,
+                "sku_stock": 5916
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 449000,
+                "sku_stock": 9587
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 449000,
+                "sku_stock": 9672
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 449000,
+                "sku_stock": 5574
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 449000,
+                "sku_stock": 4806
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 449000,
+                "sku_stock": 8828
+            }
+        ]
+    },
+    {
+        "product_shop": "295095",
+        "product_name": "Xăng đan nữ hở mũi 5p RO577 ROSATA tại BCASHOP kiểu dáng đế vuông, quai hậu thanh lịch và sang trọng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/be/ee/5b/247841b9ff3d4acd2054c831aa0e119e.jpg",
+            "https://salt.tikicdn.com/ts/product/1f/ef/7f/e2716ba4a79960b71099b3f8886657ec.jpg",
+            "https://salt.tikicdn.com/ts/product/3f/79/30/601218646116bef2df5b05724fecc1e7.jpg",
+            "https://salt.tikicdn.com/ts/product/a1/34/d6/066db722b3c7eca2537db54832a59679.jpg",
+            "https://salt.tikicdn.com/ts/product/6a/9e/fc/387c275070e5c4cb5e8da9b6ac903d7a.jpg"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/a1/34/d6/5ba55555a95d91088ccc2fcc209d4737.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />----<br />Xăng đan nữ 5p RO577 màu kem ROSATA tại BCASHOP kiểu dáng thanh lịch và sang trọng<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO577<br />- Cao gót: 5 cm<br />- Size: 35, 36, 37, 38, 39<br />---<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày theo đúng quy định<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất, bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ, bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L= 21.2 cm =&gt; size 34/<br />L= 21.9 cm =&gt; size 35/<br />L= 22.5 cm =&gt; size 36/<br />L= 23.2 cm =&gt; size 37/<br />L= 23.9 cm =&gt; size 38/<br />L= 24.5 cm =&gt; size 39/<br />L= 25.2 cm =&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />Chúng tôi luôn mong muốn mang đến cho khách hàng những trải nghiệm tốt nhất nên hãy để lại ý kiến của bạn. Những ý kiến đóng góp của bạn là động lực để chúng tôi hoàn thiện, phát triển và phục vụ bạn được tốt hơn<br />#rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap #xuhuongthoitrang</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 389000,
+        "product_quantity": 8278,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Rosata",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Màu Trắng",
+                    "Màu Đen"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 389000,
+                "sku_stock": 7537
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 389000,
+                "sku_stock": 5432
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 389000,
+                "sku_stock": 1916
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 389000,
+                "sku_stock": 4944
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 389000,
+                "sku_stock": 7724
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 389000,
+                "sku_stock": 4461
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 389000,
+                "sku_stock": 7282
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 389000,
+                "sku_stock": 3218
+            }
+        ]
+    },
+    {
+        "product_shop": "295095",
+        "product_name": "Giày sandal nữ cao gót 8p RO598 màu đen ROSATA tại BCASHOP kiểu dáng công sở thanh lịch và sang trọng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c8/1f/3d/eb92ed90122a4cbe6585007f9c9c0073.jpg",
+            "https://salt.tikicdn.com/ts/product/23/db/21/8b6345341a4105e64c16b37c52fec090.jpg",
+            "https://salt.tikicdn.com/ts/product/3f/d5/ee/b94dbee74caa9163c42a21424839ed8f.jpg",
+            "https://salt.tikicdn.com/ts/product/58/a7/5b/93cdf3d134fd37345eefa66a00f14494.jpg",
+            "https://salt.tikicdn.com/ts/product/be/7b/b2/4bcc79374c04de1d0d2d34680c53742f.jpg",
+            "https://salt.tikicdn.com/ts/product/82/bf/d9/5627ace3de7f47467f98f062368a694d.jpg",
+            "https://salt.tikicdn.com/ts/product/e6/5b/6c/f2feb14b729937e1c3da440e6fdbd9d2.jpg"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/c8/1f/3d/71d5abfaea612d080f7bd3e5237f9785.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />------------------<br />Giày sandal nữ cao gót 8p RO598 màu đen ROSATA tại BCASHOP kiểu dáng công sở thanh lịch và sang trọng<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO598<br />- Cao gót: 8 cm<br />- Size: 34, 35, 36, 37, 38, 39, 40<br />- Tất cả giày của thương hiệu ROSATA đều được làm từ chất liệu cao cấp như da nhân tạo cao cấp, nhựa mềm cao cấp, PU mềm cao cấp, Nguyên liệu được nhập khẩu nên số lượng hàng hóa sản xuất cho 1 mẻ tương đối ít. Thời gian giữa các mẻ sản xuất còn tùy thuộc vào số lượng tiêu thụ và nguồn nguyên liệu của mỗi mã nên đôi khi các chị bỏ qua mẫu xong cứ hỏi em bao giờ sản xuất mẻ mới là em không trả lời được đâu ạ.<br />----<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất, bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ, bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L= 21.2 cm =&gt; size 34/<br />L= 21.9 cm =&gt; size 35/<br />L= 22.5 cm =&gt; size 36/<br />L= 23.2 cm =&gt; size 37/<br />L= 23.9 cm =&gt; size 38/<br />L= 24.5 cm =&gt; size 39/<br />L= 25.2 cm =&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />Chúng tôi luôn mong muốn mang đến cho khách hàng những trải nghiệm tốt nhất nên hãy để lại ý kiến của bạn. Những ý kiến đóng góp của bạn là động lực để chúng tôi hoàn thiện, phát triển và phục vụ bạn được tốt hơn<br />-----<br />#rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 449000,
+        "product_quantity": 3763,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Rosata",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "34",
+                    "35",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 449000,
+                "sku_stock": 6590
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 449000,
+                "sku_stock": 3461
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 449000,
+                "sku_stock": 6758
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 449000,
+                "sku_stock": 1966
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 449000,
+                "sku_stock": 5166
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 449000,
+                "sku_stock": 6037
+            }
+        ]
+    },
+    {
+        "product_shop": "9606",
+        "product_name": "Giày nữ thời trang ELLY – EG230",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/70/43/f4/bf7bada74a6881c3c5232e4ea6a808a9.jpg"
+        ],
+        "product_description": "<p>– Thương hiệu: ELLY.</p>\n<p>– Sản xuất: Trung Quốc (theo tiêu chuẩn chất lượng của thương hiệu ELLY).</p>\n<p>– Kiểu dáng: Sandal cao gót.</p>\n<p>– Màu sắc: Đen, trắng.</p>\n<p>– Độ cao gót: 9 cm.</p>\n<p>– Size: 35, 36, 37, 38, 39.</p>\n<p>– Chất liệu: Da tổng hợp cao cấp nhập khẩu.</p>\n<p>– Trọn bộ sản phẩm gồm: 01 giày nữ thời trang cao cấp ELLY – EG230 + 01 hộp đựng sang trọng.</p>\n<p>– Bảo hành: 03 tháng (với lỗi do sản xuất)</p>\n<p>Chính sách mua hàng tại sàn TMĐT của ELLY:</p>\n<p>– Khách hàng đã nhận hàng và thanh toán tiền hàng sẽ không được trả lại hàng.</p>\n<p>– Trường hợp khách mua sản phẩm nguyên giá, ELLY sẽ hỗ trợ khách đổi sang sản phẩm khác hoặc đổi sang màu và size khác của sản phẩm đã mua. KH mua SP giảm giá sẽ không được hỗ trợ đổi, SP giày dép được hỗ trợ đổi size (SP theo CT giảm giá là SP mới nguyên tem mác)</p>\n<p>– Trường hợp khách hàng mua SP có lỗi, KH hãy liên hệ cho ELLY qua tin nhắn để được hãng tư vấn hỗ trợ bảo hành/ đổi hàng.</p>\n<p>– Trường hợp khách hàng yêu cầu hoan hàng tra tiền trên sàn TMĐT của ELLY, hãng sẽ để cho hệ thông sàn hoàn toàn quyết định về đơn hàng.</p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/70/43/f4/f7629df3e10ec47f36ebdd3adf50658d.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/7f/f3/f9/d6b3d329d2041bde12b92d6c5144486c.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/f6/ed/d9/3c0b73f16425f9bd8f07cb1609f4082f.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/8d/d9/aa/9a85b39248ddbd2735064a2e3358c850.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/94/32/5c/1da27b648e5298af560815082f21648e.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/76/21/05/75e51f0a5e665dfe120a1510ffad85e8.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/ce/a2/03/927a57ab9a1cad6444e333afb436faca.jpg\" alt=\"\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1099000,
+        "product_quantity": 7142,
+        "product_category": [
+            "Giày - Dép nữ"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "Elly",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "Da",
+            "Xuất xứ (Made in)": "Trung Quốc"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Trắng"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "35",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 1099000,
+                "sku_stock": 8301
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 1099000,
+                "sku_stock": 9974
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 1099000,
+                "sku_stock": 8058
+            }
+        ]
+    },
+    {
+        "product_shop": "295095",
+        "product_name": "Giày cao gót nữ màu ghi 7p RO386 ROSATA tại BCASHOP kiểu dáng sandal, hở mũi, mang vào nịnh chân và tôn dáng cực kì",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/57/ef/97/0da3ef0f22b94e819aa51a62daf912b3.jpg",
+            "https://salt.tikicdn.com/ts/product/c4/d0/60/bd036b70ecb542bb169a5f29aa62ac20.jpg",
+            "https://salt.tikicdn.com/ts/product/92/f4/14/c616413d98cefd6b8318c8f496742332.jpg"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/57/ef/97/151e9aa3950b944392784ab86619e55e.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />----<br />Giày cao gót nữ màu ghi 7p RO386 ROSATA tại BCASHOP kiểu dáng sandal, hở mũi, mang vào nịnh chân và tôn dáng cực kì<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO386<br />- Cao gót: 7 cm<br />- Size: 34, 35, 36, 37, 38, 39, 40<br />---<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày theo đúng quy định<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất, bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ, bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L= 21.2 cm =&gt; size 34/<br />L= 21.9 cm =&gt; size 35/<br />L= 22.5 cm =&gt; size 36/<br />L= 23.2 cm =&gt; size 37/<br />L= 23.9 cm =&gt; size 38/<br />L= 24.5 cm =&gt; size 39/<br />L= 25.2 cm =&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />Chúng tôi luôn mong muốn mang đến cho khách hàng những trải nghiệm tốt nhất nên hãy để lại ý kiến của bạn. Những ý kiến đóng góp của bạn là động lực để chúng tôi hoàn thiện, phát triển và phục vụ bạn được tốt hơn<br />-----<br />#rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap #xuhuongthoitrang</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 429000,
+        "product_quantity": 2867,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Rosata",
+            "Model": "RO386",
+            "Chất liệu": "Da nhân tạo cao cấp",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "34",
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 429000,
+                "sku_stock": 2708
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 429000,
+                "sku_stock": 7165
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 429000,
+                "sku_stock": 3542
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 429000,
+                "sku_stock": 5269
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 429000,
+                "sku_stock": 3148
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 429000,
+                "sku_stock": 9104
+            },
+            {
+                "sku_tier_idx": [
+                    6
+                ],
+                "sku_price": 429000,
+                "sku_stock": 3789
+            }
+        ]
+    },
+    {
+        "product_shop": "295095",
+        "product_name": "Giày cao gót nữ 5p RO539 ROSATA tại BCASHOP hở mũi, quai ngang 2 dây có thể mang theo nhiều kiểu, màu bạc",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/55/ee/78/49f10069d2ba21caed68c2a8b9fd0792.jpg",
+            "https://salt.tikicdn.com/ts/product/dd/bb/fe/747431690701dbb68f8da10387d46e18.jpg",
+            "https://salt.tikicdn.com/ts/product/37/34/d5/ff3a6fb6411364630bd7f1bfd7b9079d.png",
+            "https://salt.tikicdn.com/ts/product/a6/96/e4/b8333a823cc0bf7b4600208ec7a2c487.jpg",
+            "https://salt.tikicdn.com/ts/product/94/f6/0f/5df2b989e2b788fb9fc059393689105e.jpg",
+            "https://salt.tikicdn.com/ts/product/ff/69/96/13b693ed46b9821f5ec403a3151cd2a6.jpg",
+            "https://salt.tikicdn.com/ts/product/01/11/31/f20b06638e08ee4733ffa1877b53b41c.jpg",
+            "https://salt.tikicdn.com/ts/product/73/4b/18/cbe1c1922b529020ea43d38efd5aca4f.jpg",
+            "https://salt.tikicdn.com/ts/product/b3/a4/05/f8029f5da56427470e8fc65226f8b2de.jpg",
+            "https://salt.tikicdn.com/ts/product/08/da/37/c3f8f2d9713b8479b44aa42859b93a3c.jpg",
+            "https://salt.tikicdn.com/ts/product/4a/a7/b1/b07e2eb2129fbee4336d2dc2a722b01e.jpg",
+            "https://salt.tikicdn.com/ts/product/2a/c7/14/97912ef5d57de131a74207ecbe230f57.jpg",
+            "https://salt.tikicdn.com/ts/product/e6/09/f4/a6bacfa6388b4da8dc61ba6c4d01b3b3.jpg"
+        ],
+        "product_description": "<p>ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />----<br />Giày cao gót nữ 5p RO539 ROSATA tại BCASHOP hở mũi, quai ngang 2 dây có thể mang theo nhiều kiểu, màu bạc<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO539<br />- Cao gót: 5 cm<br />- Size: 35, 36, 37, 38, 39, 40<br />---<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày theo đúng quy định<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất, bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ, bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L= 21.2 cm =&gt; size 34/<br />L= 21.9 cm =&gt; size 35/<br />L= 22.5 cm =&gt; size 36/<br />L= 23.2 cm =&gt; size 37/<br />L= 23.9 cm =&gt; size 38/<br />L= 24.5 cm =&gt; size 39/<br />L= 25.2 cm =&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />Chúng tôi luôn mong muốn mang đến cho khách hàng những trải nghiệm tốt nhất nên hãy để lại ý kiến của bạn. Những ý kiến đóng góp của bạn là động lực để chúng tôi hoàn thiện, phát triển và phục vụ bạn được tốt hơn<br />-----<br />#rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap #xuhuongthoitrang</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 429000,
+        "product_quantity": 8924,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Rosata",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "RO539",
+            "Chất liệu": "Da nhân tạo cao cấp",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "36",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 429000,
+                "sku_stock": 1053
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 429000,
+                "sku_stock": 6244
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 429000,
+                "sku_stock": 2965
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 429000,
+                "sku_stock": 2453
+            }
+        ]
+    },
+    {
+        "product_shop": "311425",
+        "product_name": "Giày Sandal Nữ Quai Dây Mảnh TiTi ĐÔ Thời Trang Cao Cấp DNU2111d",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/16/6c/e3/567cd999fbbd596f72eb77ae7e7c9c12.jpg",
+            "https://salt.tikicdn.com/ts/product/a6/b9/3a/3febf44f1c8d3ce6ccaf8e6265221419.jpg",
+            "https://salt.tikicdn.com/ts/product/bd/5a/57/08a2f8029c36e5df38376cc0f1b694aa.jpg",
+            "https://salt.tikicdn.com/ts/product/b3/42/a8/00a4cc91ed6c286606833e42d7e1406f.jpg",
+            "https://salt.tikicdn.com/ts/product/5e/84/d0/7f6bc6ba95b595103c2c7eb211cd9c6d.jpg",
+            "https://salt.tikicdn.com/ts/product/ed/e0/80/6f4083cfdabf7c4b07da744a5685b4d4.jpg",
+            "https://salt.tikicdn.com/ts/product/fb/00/ea/6d754a489f2b31ec4e63c5ebea8a7701.jpg",
+            "https://salt.tikicdn.com/ts/product/75/72/c7/aaccc736f649d45e477acec07957f465.jpg"
+        ],
+        "product_description": "<p style=\"text-align:left;\">Giày Sandal Nữ Quai Dây Mảnh TiTi ĐÔ Thời Trang Cao Cấp DNU2111d</p>\n<p style=\"text-align:left;\">- Giày Dép Được Gia Công Tại Xưởng Shop</p>\n<p style=\"text-align:left;\">- Hoàn Trả Tiền 100% Hoặc 1 Đổi 1 Nếu Shop Giao Không Đúng Hàng, Không Đúng Như Mô Tả.</p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/ts/tmp/fb/00/ea/24e228d5f0a0c2e423211d8acb880c8c.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>+ THÔNG TIN SẢN PHẨM</p>\n<ul>\n<li>Chất liệu: + DA BÒ thật 100%</li>\n</ul>\n<p>                           + Đế chất liệu bằng cao su êm nhẹ chống trơn trượt</p>\n<ul>\n<li>Size: 35 đến 40</li>\n<li>Cao: 3cm</li>\n<li>Màu sắc : Vàng</li>\n<li>Hình ảnh shop tự chụp sản phẩm thật 100%</li>\n<li>Màu sắc : như hình</li>\n<li>Sản phẩm được bảo hành 1 năm</li>\n<li>Giày Dép đi nước thoải mái</li>\n<li>Xuất Xứ: Việt Nam</li>\n</ul>\n<p style=\"text-align:center;\"> </p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/ts/tmp/bd/5a/57/0242eb9a7c3ce9f980d8b4041b1ec6f2.jpg\" alt=\"\" width=\"750\" height=\"750\" /><img src=\"https://salt.tikicdn.com/ts/tmp/16/6c/e3/be60f84c94b7bb0ff97992ab494e4792.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"> <img src=\"https://salt.tikicdn.com/ts/tmp/16/6c/e3/e86c590251af4476273496f772abdc00.jpg\" alt=\"\" width=\"750\" height=\"750\" /><img src=\"https://salt.tikicdn.com/ts/tmp/b3/42/a8/f075b10805fb8937df8843b62d0512ac.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>+ HƯỚNG DẪN BẢO QUẢN.</p>\n<p>1)      Không nên để sản phẩm gần nơi có nhiệt độ cao để tránh sản phẩm bị khô, nứt và bị biến dạng.</p>\n<p>2)      Không nên để sản phẩm bị thấm nước, ẩm ướ để tránh sản phẩm bị phai màu, khô cứng. Nếu bị ướt, nên dùng vải khô thấm nước, và đem để nơi thoáng mát cho sản phẩm khô.</p>\n<p>3)      Không nên để sản phẩm tiếp xúc với bút màu, bút bi vì các vết này rất khó tẩy, làm ảnh hưởng đến vẻ đẹp của sản phẩm.</p>\n<p>4)      Không nên dùng sức kéo mạnh hay đựng đồ quá nặng, tránh vật thô cứng nhọn làm chầy mặt sản phẩm.</p>\n<p>5)      Nên thường xuyên dùng vải khô lau chùi các phần phụ kiện bằng kim loại để phần kim loại được bóng và không đổi màu.</p>\n<p>  QUÝ KHÁCH CÓ THỂ THAM KHẢO THÊM NHIỀU MẪU KHÁC TRONG GIAN HÀNG NHÉ  </p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/b3/02/cf/aef91cf18184fb3c232c66ee23984353.jpeg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 220000,
+        "product_quantity": 6709,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "HA NAM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "DNU2111d",
+            "Chất liệu": "Da bò",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Màu Vàng"
+                ]
+            },
+            {
+                "name": "Kích Thước",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 220000,
+                "sku_stock": 6115
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 220000,
+                "sku_stock": 2290
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 220000,
+                "sku_stock": 2488
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 220000,
+                "sku_stock": 7037
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 220000,
+                "sku_stock": 8024
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 220000,
+                "sku_stock": 6835
+            }
+        ]
+    },
+    {
+        "product_shop": "311425",
+        "product_name": "Giày Sandal Nữ Quai Dây Mảnh TiTi ĐÔ Thời Trang Cao Cấp DNU2113d",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/2f/7b/9b/c1e9aed384096f71a833362eed034089.jpg",
+            "https://salt.tikicdn.com/ts/product/c2/21/24/5bfd38d08f8ed3e05931abe00c43d435.jpg",
+            "https://salt.tikicdn.com/ts/product/e0/33/99/e397310ac558997c1efa5e31f420fa6c.jpg",
+            "https://salt.tikicdn.com/ts/product/9d/ba/1c/b9aec5f2ea955c626e9a5a931519e683.jpg",
+            "https://salt.tikicdn.com/ts/product/97/d1/ef/7e072f9e4f1a8ae1f6343bd1f8797a31.jpg",
+            "https://salt.tikicdn.com/ts/product/c4/f8/82/9f75b6b5badec540f2d30464aecb79b5.jpg",
+            "https://salt.tikicdn.com/ts/product/73/d3/5f/fd2db13ea8c68d76fc906ad59565261e.jpg",
+            "https://salt.tikicdn.com/ts/product/2b/fe/6f/7ef15411f2e3c78a8b3d2998218b6f83.png",
+            "https://salt.tikicdn.com/ts/product/a6/ee/08/85766f343c35966b5803949c25806060.png"
+        ],
+        "product_description": "<p style=\"text-align:left;\">Giày Sandal Nữ Quai Dây Mảnh TiTi ĐÔ Thời Trang Cao Cấp DNU2113d</p>\n<ul>\n<li style=\"text-align:left;\">- Giày Dép Được Gia Công Tại Xưởng Shop</li>\n<li style=\"text-align:left;\">- Hoàn Trả Tiền 100% Hoặc 1 Đổi 1 Nếu Shop Giao Không Đúng Hàng, Không Đúng Như Mô Tả.</li>\n</ul>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/ts/tmp/2b/fe/6f/2ef921b4395da8b0589014064e238094.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>+ THÔNG TIN SẢN PHẨM</p>\n<ul>\n<li>Chất liệu: + DA BÒ thật 100%</li>\n</ul>\n<p>                           + Đế chất liệu bằng cao su êm nhẹ chống trơn trượt</p>\n<ul>\n<li>Size: 35 đến 40</li>\n<li>Cao: 2cm</li>\n<li>Màu sắc : Đen</li>\n<li>Hình ảnh shop tự chụp sản phẩm thật 100%</li>\n<li>Màu sắc : như hình</li>\n<li>Sản phẩm được bảo hành 1 năm</li>\n<li>Giày Dép đi nước thoải mái</li>\n<li>Xuất Xứ: Việt Nam</li>\n</ul>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/ts/tmp/c2/21/24/b513da97e0aa56600635c09a96565ee6.jpg\" alt=\"\" width=\"750\" height=\"750\" /><img src=\"https://salt.tikicdn.com/ts/tmp/2f/7b/9b/d6ff49cc39a21a0439bbba6f9582f71f.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"> <img src=\"https://salt.tikicdn.com/ts/tmp/9d/ba/1c/c5a30472d6fc55d474eb5d1f62a20b1c.jpg\" alt=\"\" width=\"750\" height=\"750\" /><img src=\"https://salt.tikicdn.com/ts/tmp/97/d1/ef/fcbbac7b43f6e452d084e9b11366dbb1.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>+ HƯỚNG DẪN BẢO QUẢN.</p>\n<p>1)      Không nên để sản phẩm gần nơi có nhiệt độ cao để tránh sản phẩm bị khô, nứt và bị biến dạng.</p>\n<p>2)      Không nên để sản phẩm bị thấm nước, ẩm ướ để tránh sản phẩm bị phai màu, khô cứng. Nếu bị ướt, nên dùng vải khô thấm nước, và đem để nơi thoáng mát cho sản phẩm khô.</p>\n<p>3)      Không nên để sản phẩm tiếp xúc với bút màu, bút bi vì các vết này rất khó tẩy, làm ảnh hưởng đến vẻ đẹp của sản phẩm.</p>\n<p>4)      Không nên dùng sức kéo mạnh hay đựng đồ quá nặng, tránh vật thô cứng nhọn làm chầy mặt sản phẩm.</p>\n<p>5)      Nên thường xuyên dùng vải khô lau chùi các phần phụ kiện bằng kim loại để phần kim loại được bóng và không đổi màu.</p>\n<p>  QUÝ KHÁCH CÓ THỂ THAM KHẢO THÊM NHIỀU MẪU KHÁC TRONG GIAN HÀNG NHÉ  </p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/b3/02/cf/aef91cf18184fb3c232c66ee23984353.jpeg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 220000,
+        "product_quantity": 1491,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "HA NAM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "DNU2113D",
+            "Chất liệu": "Da bò",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Màu Vàng"
+                ]
+            },
+            {
+                "name": "Kích Thước",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 220000,
+                "sku_stock": 6445
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 220000,
+                "sku_stock": 6430
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 220000,
+                "sku_stock": 9192
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 220000,
+                "sku_stock": 3768
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 220000,
+                "sku_stock": 7627
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 220000,
+                "sku_stock": 2128
+            }
+        ]
+    },
+    {
+        "product_shop": "295095",
+        "product_name": "Giày cao gót nữ 7p RO480 ROSATA tại BCASHOP hở mũi gót nhọn, da kim tuyến, có quai ngang sành điệu và thời trang - màu vàng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/78/0f/c0/33f6116c7b9a4e968402352d3b98f709.jpg",
+            "https://salt.tikicdn.com/ts/product/3f/11/84/50d876d34e58758802c4524abe0a3dc3.jpg",
+            "https://salt.tikicdn.com/ts/product/c4/a6/2a/fde08ae41d99aade13c6d87d9461552b.jpg",
+            "https://salt.tikicdn.com/ts/product/4e/6c/01/b1da16e98bd3f4c6ba7ea5af1fb7c076.jpg"
+        ],
+        "product_description": "<p>BCASHOP luôn có chiết khấu ưu đãi dành cho CTV và Sỉ trên toàn quốc <br />---<br />ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />------------------<br />Giày cao gót nữ 7p RO480 ROSATA tại BCASHOP hở mũi gót nhọn, da kim tuyến, có quai ngang sành điệu và thời trang - màu vàng<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO480<br />- Cao gót: 7 cm<br />- Size: 35, 36, 37, 38, 39, 40<br />- Chi tiết nổi bậc: đế vuông cách điệu gắn quả cầu vàng, quai ngang dún sành điệu <br />----<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày theo đúng quy định<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất, bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ, bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L= 21.2 cm =&gt; size 34/<br />L= 21.9 cm =&gt; size 35/<br />L= 22.5 cm =&gt; size 36/<br />L= 23.2 cm =&gt; size 37/<br />L= 23.9 cm =&gt; size 38/<br />L= 24.5 cm =&gt; size 39/<br />L= 25.2 cm =&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />Chúng tôi luôn mong muốn mang đến cho khách hàng những trải nghiệm tốt nhất nên hãy để lại ý kiến của bạn. Những ý kiến đóng góp của bạn là động lực để chúng tôi hoàn thiện, phát triển và phục vụ bạn được tốt hơn<br />-----<br />#rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 399000,
+        "product_quantity": 8963,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Rosata",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "RO480",
+            "Chất liệu": "PU mềm cao cấp",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 399000,
+                "sku_stock": 8285
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 399000,
+                "sku_stock": 3631
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 399000,
+                "sku_stock": 2410
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 399000,
+                "sku_stock": 7954
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 399000,
+                "sku_stock": 5298
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 399000,
+                "sku_stock": 5508
+            }
+        ]
+    },
+    {
+        "product_shop": "311425",
+        "product_name": "Giày Sandal Nữ Quai Dây Mảnh TiTi ĐÔ Thời Trang Cao Cấp DNU2075d",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/be/5f/9c/4bef8d0e64448965633b3af24e9d6c79.jpg",
+            "https://salt.tikicdn.com/ts/product/41/62/51/fbe2d58af4160ec50790fd6ecb7a406d.jpg",
+            "https://salt.tikicdn.com/ts/product/ed/eb/20/c7c3a94f2205424a68762a706e60a90b.jpg",
+            "https://salt.tikicdn.com/ts/product/c4/67/1d/989b7e798b20db978f5d4984d466f218.jpg",
+            "https://salt.tikicdn.com/ts/product/4b/e7/9c/a455e94b6d00d76ef044bea618387a6d.jpg",
+            "https://salt.tikicdn.com/ts/product/48/06/5a/7415c4ac81e45e07989cb4c1c5c8ec95.jpg",
+            "https://salt.tikicdn.com/ts/product/f1/b7/f6/7fb40849cfd032bb77e4cbd7437c6619.jpg",
+            "https://salt.tikicdn.com/ts/product/c4/3a/99/072829c542a6b078da1f4956777b97be.jpg",
+            "https://salt.tikicdn.com/ts/product/50/68/7d/e6e1eb2a2ccc080fba3862a326822b47.png"
+        ],
+        "product_description": "<p style=\"text-align:left;\">Giày Sandal Nữ Quai Dây Mảnh TiTi ĐÔ Thời Trang Cao Cấp DNU2075d</p>\n<ul>\n<li style=\"text-align:left;\">- Giày Dép Được Gia Công Tại Xưởng Shop</li>\n<li style=\"text-align:left;\">- Hoàn Trả Tiền 100% Hoặc 1 Đổi 1 Nếu Shop Giao Không Đúng Hàng, Không Đúng Như Mô Tả.</li>\n</ul>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/ts/tmp/41/62/51/ea308fbb342467bfe4d0bf8ac3129907.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>+ THÔNG TIN SẢN PHẨM</p>\n<ul>\n<li>Chất liệu: + DA BÒ thật 100%</li>\n</ul>\n<p>                           + Đế chất liệu bằng cao su êm nhẹ chống trơn trượt</p>\n<ul>\n<li>Size: 35 đến 40</li>\n<li>Cao: 2cm</li>\n<li>Màu sắc : Đen</li>\n<li>Hình ảnh shop tự chụp sản phẩm thật 100%</li>\n<li>Màu sắc : như hình</li>\n<li>Sản phẩm được bảo hành 1 năm</li>\n<li>Giày Dép đi nước thoải mái</li>\n<li>Xuất Xứ: Việt Nam</li>\n</ul>\n<p style=\"text-align:center;\"> </p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/ts/tmp/c4/67/1d/d0fd07d1b76106ddb0d6d82076edf9b0.jpg\" alt=\"\" width=\"750\" height=\"750\" /><img src=\"https://salt.tikicdn.com/ts/tmp/41/62/51/4a0f77b6f88464d4b4af4df97b49517e.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p> </p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/ts/tmp/4b/e7/9c/9fc695e06e54dd3b16f76461bd19379f.jpg\" alt=\"\" width=\"750\" height=\"750\" /><img src=\"https://salt.tikicdn.com/ts/tmp/ed/eb/20/6b159804eeeec1a2206ab7a272a1514b.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>+ HƯỚNG DẪN BẢO QUẢN.</p>\n<p>1)      Không nên để sản phẩm gần nơi có nhiệt độ cao để tránh sản phẩm bị khô, nứt và bị biến dạng.</p>\n<p>2)      Không nên để sản phẩm bị thấm nước, ẩm ướ để tránh sản phẩm bị phai màu, khô cứng. Nếu bị ướt, nên dùng vải khô thấm nước, và đem để nơi thoáng mát cho sản phẩm khô.</p>\n<p>3)      Không nên để sản phẩm tiếp xúc với bút màu, bút bi vì các vết này rất khó tẩy, làm ảnh hưởng đến vẻ đẹp của sản phẩm.</p>\n<p>4)      Không nên dùng sức kéo mạnh hay đựng đồ quá nặng, tránh vật thô cứng nhọn làm chầy mặt sản phẩm.</p>\n<p>5)      Nên thường xuyên dùng vải khô lau chùi các phần phụ kiện bằng kim loại để phần kim loại được bóng và không đổi màu.</p>\n<p>  QUÝ KHÁCH CÓ THỂ THAM KHẢO THÊM NHIỀU MẪU KHÁC TRONG GIAN HÀNG NHÉ  </p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/tmp/b3/02/cf/aef91cf18184fb3c232c66ee23984353.jpeg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 220000,
+        "product_quantity": 7642,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "HA NAM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "DNU2075d",
+            "Chất liệu": "Da",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Màu Đen"
+                ]
+            },
+            {
+                "name": "Kích Thước",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 220000,
+                "sku_stock": 3627
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 220000,
+                "sku_stock": 9846
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 220000,
+                "sku_stock": 7462
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 220000,
+                "sku_stock": 2039
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 220000,
+                "sku_stock": 6145
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 220000,
+                "sku_stock": 6155
+            }
+        ]
+    },
+    {
+        "product_shop": "89749",
+        "product_name": "HC7046-47-50 - Giày nữ Huy Hoàng màu đỏ, đen, xanh",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/85/c6/ea/aaa1a368474d2f427c53f96c997d74ae.jpg",
+            "https://salt.tikicdn.com/ts/product/fc/69/3b/47244b31b4591f1d7fcbb9acd568643c.jpg",
+            "https://salt.tikicdn.com/ts/product/53/00/99/dde3331100b288c1fb75f5d88c31979c.jpg",
+            "https://salt.tikicdn.com/ts/product/47/a5/73/d0974a1dcbd2475a96cc5fc94c53d971.jpg",
+            "https://salt.tikicdn.com/ts/product/5d/b2/fd/0f64a3807da19c37110710f8e0d0ecc2.JPG",
+            "https://salt.tikicdn.com/ts/product/81/50/33/833ead583faa3f54383c2892a87afcf1.JPG"
+        ],
+        "product_description": "<p>Tất cả các dòng sản phẩm chính của công ty như ví da, thắt lưng, túi xách, giày dép,… đều được sản xuất bởi những thợ thủ công chuyên nghiệp, có tay nghề cao.</p>\n<p>- Giày nữ Huy Hoàng được làm từ chất liệu vải cao cấp nên càng sử dụng lâu bề mặt sẽ càng bóng đẹp tự nhiên. Vải mềm mại sẽ hạn chế tối đa tình trạng trầy xước khi sử dụng lâu ngày.</p>\n<p>- Giày nữ Huy Hoàng được sản xuất với những nguyên vật liệu tốt nhất nên giày mang lâu sẽ không bị hôi. Đường may chắc chắn, tỉ mỉ.</p>\n<p>- Giày nữ Huy Hoàng được xử lý đặc biệt để tạo độ bóng mờ thanh lịch và nữ tính thích hợp cho mọi lứa tuổi.</p>\n<p>- Mũi giày đầy đặn. Đế giày cao su chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</p>\n<p>- Giày có form dáng chuẩn, ôm gọn đôi bàn chân.</p>\n<p>- Kiểu dáng đơn giản để bạn dễ dàng mang vào chân và tháo ra, thật nhanh chóng và tiện lợi, thời trang nhưng không kém phần thanh lịch, sang trọng. Dễ dàng kết hợp với nhiều loại trang phục như váy, đầm, quần jeans, quần tây, quần để đi làm, xuống phố cùng bạn bè, hoặc tham dự những dịp quan trọng.</p>\n<p>Thông số sản phẩm:</p>\n<p>- Tên sản phẩm: HP7046-47-50 - Giày nữ Huy Hoàng màu đỏ, đen, xanh</p>\n<p>- Thương hiệu: Huy Hoàng</p>\n<p>- Mã sản phẩm: HP7046-47-50</p>\n<p>- Màu sắc: Đỏ, đen, xanh</p>\n<p>- Chất liệu: Vải</p>\n<p>- Size: 35, 36, 37, 38, 39, 40</p>\n<p>- Kích thước: 27 x 16 x 09 cm.</p>\n<p>- Kích thước đóng gói: 28 x 17 x 10 cm.</p>\n<p>- Khối lượng: 580 g</p>\n<p>- Xuất xứ: Việt Nam</p>\n<p>Bộ sản phẩm bao gồm:</p>\n<p>- 1 x Sản phẩm Huy Hoàng</p>\n<p>- 1 x Thẻ bảo hành 12 tháng (bung keo, súc chỉ)</p>\n<p>- 1 x Hộp đựng Huy Hoàng</p>\n<p>Hướng dẫn bảo quản :</p>\n<p>1) Không nên để sản phẩm gần nơi có nhiệt độ cao để tránh sản phẩm bị khô, nứt và bị biến dạng.</p>\n<p>2) Không nên để sản phẩm bị thấm nước, ẩm ướ để tránh sản phẩm bị phai màu, khô cứng. Nếu bị ướt, nên dùng vải khô thấm nước, và đem để nơi thoáng mát cho sản phẩm khô.</p>\n<p>3) Không nên để sản phẩm tiếp xúc với bút màu, bút bi vì các vết này rất khó tẩy, làm ảnh hưởng đến vẻ đẹp của sản phẩm.</p>\n<p>4) Không nên dùng sức kéo mạnh hay đựng đồ quá nặng, tránh vật thô cứng nhọn làm chầy mặt sản phẩm.</p>\n<p>5) Nên thường xuyên dùng vải khô lau chùi các phần phụ kiện bằng kim loại để phần kim loại được bóng và không đổi màu.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 459000,
+        "product_quantity": 8403,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Huy Hoàng",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Phiếu bảo hành",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Xanh",
+                    "Đỏ"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 459000,
+                "sku_stock": 1282
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 459000,
+                "sku_stock": 4613
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 459000,
+                "sku_stock": 9476
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 459000,
+                "sku_stock": 6830
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 459000,
+                "sku_stock": 4274
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 459000,
+                "sku_stock": 1825
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 459000,
+                "sku_stock": 4005
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 459000,
+                "sku_stock": 7335
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 459000,
+                "sku_stock": 2361
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 459000,
+                "sku_stock": 6433
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 459000,
+                "sku_stock": 2827
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    5
+                ],
+                "sku_price": 459000,
+                "sku_stock": 5517
+            }
+        ]
+    },
+    {
+        "product_shop": "9511",
+        "product_name": "Giày nữ cao cấp thời trang,trẻ trung đầy phong cách 21297",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/06/88/e1/a9227b8276ee61a249bf5ce32d46bc07.jpg",
+            "https://salt.tikicdn.com/ts/product/21/03/13/0ce4af321815852c060102e18cdcc9a1.jpg",
+            "https://salt.tikicdn.com/ts/product/52/68/b3/225dce2c2f8782cfeffa23251db7ce54.jpg",
+            "https://salt.tikicdn.com/ts/product/5f/33/9a/ad5790eb94d308bd7bd3b57a621048a0.jpg",
+            "https://salt.tikicdn.com/ts/product/a0/93/c1/c1e380332076a20928dfdada306cd2df.jpg",
+            "https://salt.tikicdn.com/ts/product/7a/de/90/cc05dc964334236803300474b1b2b3f4.jpg",
+            "https://salt.tikicdn.com/ts/product/65/28/2d/ffbea1dd39f9d4c4265332e006f06d0c.jpg",
+            "https://salt.tikicdn.com/ts/product/45/1d/55/197d69baf3900b3696d999682a1ab21e.jpg",
+            "https://salt.tikicdn.com/ts/product/6a/a0/44/0ed5a0c3c8c3d791771a5d1dc5a101af.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>*) THÔNG TIN SẢN PHẨM</p>\n   <p>• ✦ Giày nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.</p>\n   <p>• ✧ Chất liệu được làm từ da cao cấp</p>\n   <p>• ✧ Chức năng: giảm sốc, thoáng khí êm chân.</p>\n   <p>• ★ Style: Hàn Quốc</p>\n   <p>• ✧ Thời trang:giày Đi làm, Đi chơi, Du lịch, Dự tiệc, Dạo phố....</p>\n   <p>• ★ Gợi ý phối đồ Style Cho các nàng Dịu dàng:</p>\n   <p>• =&gt; Giày / Chân váy ngắn / áo sơ mi / túi</p>\n   <p>• ✧ Gợi ý phối đồ Style Cho các nàng Cá Tính:</p>\n   <p>• =&gt; Giày / Quần Jeans ngắn / áo phông form dài / túi / Kính</p>\n   <p>• ----------------------------------------------------* HIỂU ĐƯỢC TÂM LÍ KHI MUA HÀNG ONLINE SHOP CAM KẾT</p>\n   <p>• Cam kết sản phẩm giống ảnh 100%</p>\n   <p>• Tất cả hình ảnh đều là shop tự chụp nên khách hàng có thể hoàn toàn yên tâm chọn lựa</p>\n   <p>• Được kiểm tra hàng trước khi thanh toán</p>\n   <p>• Nhận hàng và thanh toán tại nhà</p>\n   <p>• Hỗ trợ đổi trả hàng nhanh chóng, thuận tiện nhất</p>\n   <p>• --------------------------------------------------</p>\n   <p>• *LƯU Ý</p>\n   <p>• - Hướng dẫn đặt mua nhiều màu, mẫu, kích thước trong 1 đơn hàng: Bạn phải chọn màu, mẫu hoặc kích thước bạn muốn rồi cho vào giỏ hàng. Sau khi chọn đủ thì vào giỏ hàng để tiến hành mua hàng. Có thể điều chỉnh số lượng mua trong giỏ hàng nếu muốn.</p>\n   <p>• - Đối với những sản phẩm có nhiều mẫu, màu sắc, nhiều kích thước. Quý khách vui lòng đặt mua đúng mẫu, màu, kích thước của sản phẩm trên hệ thống để tránh nhầm lẫn. Do Shop chủ yếu sắp hàng theo phiếu in từ hệ thống chứ không nhìn được vào ghi chú hay tin nhắn</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 310900,
+        "product_quantity": 8408,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ĐỒ DA THÀNH LONG TLG",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "màu sắc",
+                "options": [
+                    "Nude"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 310900,
+                "sku_stock": 9988
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 310900,
+                "sku_stock": 5515
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 310900,
+                "sku_stock": 4466
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 310900,
+                "sku_stock": 5364
+            }
+        ]
+    },
+    {
+        "product_shop": "9511",
+        "product_name": "Sandal cao gót nữ quai ngang hot trend  trẻ trung 20824",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/48/3a/cb/7e880f2e1cf4252d58b8a98463dadb48.jpg",
+            "https://salt.tikicdn.com/ts/product/1d/25/93/aaf21ff00250e4aa0929175d1ceb0c68.jpg",
+            "https://salt.tikicdn.com/ts/product/19/e0/5d/b88e6bf10cadb6ad4da9c9204c9ee1f2.jpg",
+            "https://salt.tikicdn.com/ts/product/e5/26/55/6c5ccccd3598a68e11f3e0894cb5dce5.jpg",
+            "https://salt.tikicdn.com/ts/product/01/8c/99/688194fe1672c7b0f6395e0156afbcc0.jpg",
+            "https://salt.tikicdn.com/ts/product/bf/06/11/90d87da7b662a2a5a47c0070806873d6.jpg",
+            "https://salt.tikicdn.com/ts/product/a1/73/a9/55d53e559acfadde4966012266666d7c.jpg",
+            "https://salt.tikicdn.com/ts/product/42/fe/47/3b5ee59d31bac2c3ffd0728d1a95f917.jpg",
+            "https://salt.tikicdn.com/ts/product/09/cd/72/5920d15b08021eafe01f74c8a9a3e729.jpg",
+            "https://salt.tikicdn.com/ts/product/af/20/96/4930207be9472043ad270923c5ab00f5.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>*) THÔNG TIN SẢN PHẨM</p>\n   <p>• ✦ Sandal nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.</p>\n   <p>• ✧ Chất liệu : Da bò cao cấp - chất liệu lót mềm mại</p>\n   <p>• ✧ Chức năng: giảm sốc, thoáng khí êm chân.</p>\n   <p>• ★ Style: Hàn Quốc</p>\n   <p>• ✧ Thời trang:giày Đi làm, Đi chơi, Du lịch, Dự tiệc, Dạo phố....</p>\n   <p>• ★ Gợi ý phối đồ Style Cho các nàng Dịu dàng:</p>\n   <p>• =&gt; Sandal / Chân váy ngắn / áo sơ mi / túi</p>\n   <p>• ✧ Gợi ý phối đồ Style Cho các nàng Cá Tính:</p>\n   <p>• =&gt; Sandal / Quần Jeans ngắn / áo phông form dài / túi / Kính</p>\n   <p>• Đặc điểm sản phẩm</p>\n   <p>✧ Thoáng mát , êm ái thoái mái sử dụng</p>\n   <p>✧ Sanda được thiết kế đẹp mắt , có tính thẩm mỹ cao , nhiều người yêu thích</p>\n   <p>✧ Đế có rãnh chống trơn trượt, đàn hồi tốt.</p>\n   <p>✧ Kiểu dáng hiện đai, trẻ trung, năng động</p>\n   <p>• -----------------------* HIỂU ĐƯỢC TÂM LÍ KHI MUA HÀNG ONLINE SHOP CAM KẾT-----------------------</p>\n   <p>• Cam kết sản phẩm giống ảnh 100%</p>\n   <p>• Tất cả hình ảnh đều là shop tự chụp nên khách hàng có thể hoàn toàn yên tâm chọn lựa</p>\n   <p>• Được kiểm tra hàng trước khi thanh toán</p>\n   <p>• Nhận hàng và thanh toán tại nhà</p>\n   <p>• Hỗ trợ đổi trả hàng nhanh chóng, thuận tiện nhất</p>\n   <p>• *LƯU Ý</p>\n   <p>• - Hướng dẫn đặt mua nhiều màu, mẫu, kích thước trong 1 đơn hàng: Bạn phải chọn màu, mẫu hoặc kích thước bạn muốn rồi cho vào giỏ hàng. Sau khi chọn đủ thì vào giỏ hàng để tiến hành mua hàng. Có thể điều chỉnh số lượng mua trong giỏ hàng nếu muốn.</p>\n   <p>• - Đối với những sản phẩm có nhiều mẫu, màu sắc, nhiều kích thước. Quý khách vui lòng đặt mua đúng mẫu, màu, kích thước của sản phẩm trên hệ thống để tránh nhầm lẫn. Do Shop chủ yếu sắp hàng theo phiếu in từ hệ thống chứ không nhìn được vào ghi chú hay tin nhắn</p>\n   <p>• Hướng dẫn bảo quản</p>\n   <p>★ Tránh mang sản phẩm khi trời mưa hoặc thời tiết xấu để chúng không bị ướt dẫn đến bong tróc.</p>\n   <p>✧ Bạn sử dụng các loại xà bông, nước rửa chén, kem cạo râu để giặt giày.</p>\n   <p>★ Chú ý là nên dùng bàn chải mềm hoặc khăn mềm để chà giặt sẽ tốt hơn.</p>\n   <p>✧ Nên phơi trong mát, không nên phơi trực tiếp dưới ánh nắng mặt trời.</p>\n   <p>★ Sau khi giặt xong để ráo nước sử dụng giấy mềm, thấm nước, cuốn 2-3 vòng phủ toàn đôi giày.</p>\n   <p>✧ Sau đó bạn có thể đem phơi trực tiếp dưới nắng mà không ảnh hưởng</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 292200,
+        "product_quantity": 7895,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ĐỒ DA THÀNH LONG TLG",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "màu sắc",
+                "options": [
+                    "nude"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "37",
+                    "38"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 292200,
+                "sku_stock": 3624
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 292200,
+                "sku_stock": 1779
+            }
+        ]
+    },
+    {
+        "product_shop": "9511",
+        "product_name": "Sandal 5 phân gót mika hot trend  trẻ trung năng động 21334",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/57/ed/51/f063ceb57a3ca5e9c52ba3d741598dae.jpg",
+            "https://salt.tikicdn.com/ts/product/f5/4a/93/804b971ba0f03bb64ddd84c11844f059.jpg",
+            "https://salt.tikicdn.com/ts/product/ea/f9/5f/b8d2f38921a70f5f6722145ce5a5c336.jpg",
+            "https://salt.tikicdn.com/ts/product/da/34/93/a20dcbf29cbe76fed8ee5d2c6efd137b.jpg",
+            "https://salt.tikicdn.com/ts/product/13/ba/cb/b582e0ac3c191492739f4fac2487055d.jpg",
+            "https://salt.tikicdn.com/ts/product/3f/27/f0/b2e4d181d026e4d07be13fab5d3e795c.jpg",
+            "https://salt.tikicdn.com/ts/product/34/db/c4/b6178ce126b50faeb3ceb73dabbc3955.jpg",
+            "https://salt.tikicdn.com/ts/product/5b/ad/98/235f3b0cd32626a6ad485ebb051091f9.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>*) THÔNG TIN SẢN PHẨM</p>\n   <p>• ✦ Sandal nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.</p>\n   <p>• ✧ Chất liệu : Da bò cao cấp - chất liệu lót mềm mại</p>\n   <p>• ✧ Chức năng: giảm sốc, thoáng khí êm chân.</p>\n   <p>• ★ Style: Hàn Quốc</p>\n   <p>• ✧ Thời trang:giày Đi làm, Đi chơi, Du lịch, Dự tiệc, Dạo phố....</p>\n   <p>• ★ Gợi ý phối đồ Style Cho các nàng Dịu dàng:</p>\n   <p>• =&gt; Sandal / Chân váy ngắn / áo sơ mi / túi</p>\n   <p>• ✧ Gợi ý phối đồ Style Cho các nàng Cá Tính:</p>\n   <p>• =&gt; Sandal / Quần Jeans ngắn / áo phông form dài / túi / Kính</p>\n   <p>• Đặc điểm sản phẩm</p>\n   <p>✧ Thoáng mát , êm ái thoái mái sử dụng</p>\n   <p>✧ Sandal được thiết kế đẹp mắt , có tính thẩm mỹ cao , nhiều người yêu thích</p>\n   <p>✧ Đế có rãnh chống trơn trượt, đàn hồi tốt.</p>\n   <p>✧ Kiểu dáng hiện đai, trẻ trung, năng động</p>\n   <p>• -----------------------* HIỂU ĐƯỢC TÂM LÍ KHI MUA HÀNG ONLINE SHOP CAM KẾT-----------------------</p>\n   <p>• Cam kết sản phẩm giống ảnh 100%</p>\n   <p>• Tất cả hình ảnh đều là shop tự chụp nên khách hàng có thể hoàn toàn yên tâm chọn lựa</p>\n   <p>• Được kiểm tra hàng trước khi thanh toán</p>\n   <p>• Nhận hàng và thanh toán tại nhà</p>\n   <p>• Hỗ trợ đổi trả hàng nhanh chóng, thuận tiện nhất</p>\n   <p>• *LƯU Ý</p>\n   <p>• - Hướng dẫn đặt mua nhiều màu, mẫu, kích thước trong 1 đơn hàng: Bạn phải chọn màu, mẫu hoặc kích thước bạn muốn rồi cho vào giỏ hàng. Sau khi chọn đủ thì vào giỏ hàng để tiến hành mua hàng. Có thể điều chỉnh số lượng mua trong giỏ hàng nếu muốn.</p>\n   <p>• Hướng dẫn bảo quản</p>\n   <p>★ Tránh mang sản phẩm khi trời mưa hoặc thời tiết xấu để chúng không bị ướt dẫn đến bong tróc.</p>\n   <p>✧ Bạn sử dụng các loại xà bông, nước rửa chén, kem cạo râu để giặt giày.</p>\n   <p>★ Chú ý là nên dùng bàn chải mềm hoặc khăn mềm để chà giặt sẽ tốt hơn.</p>\n   <p>✧ Nên phơitrong mát, không nên phơi trực tiếp dưới ánh nắng mặt trời.</p>\n   <p>★ Sau khi giặt xong để ráo nước sử dụng giấy mềm, thấm nước, cuốn 2-3 vòng phủ toàn đôi giày.</p>\n   <p>✧ Sau đó bạn có thể đem phơi trực tiếp dưới nắng mà không ảnh hưởng</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 150000,
+        "product_quantity": 2385,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "ĐỒ DA THÀNH LONG TLG",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "màu sắc",
+                "options": [
+                    "nude"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "36",
+                    "37",
+                    "38"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 7769
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 150000,
+                "sku_stock": 6849
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 150000,
+                "sku_stock": 5131
+            }
+        ]
+    },
+    {
+        "product_shop": "9511",
+        "product_name": "Sandal cao gót viền đồng hot trend  trẻ trung năng động 20825",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d0/9f/f1/bcfc706a764c9ceeeff3b6e799944ff3.jpg",
+            "https://salt.tikicdn.com/ts/product/f6/59/fe/1458484dd57cc8d7bfc354f82134a291.jpg",
+            "https://salt.tikicdn.com/ts/product/e0/06/c2/109526788603d9c151c415b46eb89be8.jpg",
+            "https://salt.tikicdn.com/ts/product/ca/32/86/3b44e45b114251428e657fdb5af6f85e.jpg",
+            "https://salt.tikicdn.com/ts/product/48/f4/b3/4255a3b33cf6bae978f9896f037a889f.jpg",
+            "https://salt.tikicdn.com/ts/product/37/33/2e/3a6d02cf90b3e152840dafe007889267.jpg",
+            "https://salt.tikicdn.com/ts/product/5f/1c/f3/9da7ffdd60ead566a5138b64ef933f06.jpg",
+            "https://salt.tikicdn.com/ts/product/43/79/ee/45ee2df72ef88cc1a5e57ce900e69919.jpg",
+            "https://salt.tikicdn.com/ts/product/56/4d/40/b476fe52a9082330e17a954e7e6fffdd.jpg",
+            "https://salt.tikicdn.com/ts/product/0d/de/81/af0ba0ad0d0d861adc2cc4630fc852df.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>*) THÔNG TIN SẢN PHẨM</p>\n   <p>• ✦ Sanda nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.</p>\n   <p>• ✧ Chất liệu : Da bò cao cấp - chất liệu lót mềm mại</p>\n   <p>• ✧ Chức năng: giảm sốc, thoáng khí êm chân.</p>\n   <p>• ★ Style: Hàn Quốc</p>\n   <p>• ✧ Thời trang:giày Đi làm, Đi chơi, Du lịch, Dự tiệc, Dạo phố....</p>\n   <p>• ★ Gợi ý phối đồ Style Cho các nàng Dịu dàng:</p>\n   <p>• =&gt; Sanda / Chân váy ngắn / áo sơ mi / túi</p>\n   <p>• ✧ Gợi ý phối đồ Style Cho các nàng Cá Tính:</p>\n   <p>• =&gt; Sanda / Quần Jeans ngắn / áo phông form dài / túi / Kính</p>\n   <p>• Đặc điểm sản phẩm</p>\n   <p>✧ Thoáng mát , êm ái thoái mái sử dụng</p>\n   <p>✧ Sanda được thiết kế đẹp mắt , có tính thẩm mỹ cao , nhiều người yêu thích</p>\n   <p>✧ Đế có rãnh chống trơn trượt, đàn hồi tốt.</p>\n   <p>✧ Kiểu dáng hiện đai, trẻ trung, năng động</p>\n   <p>• -----------------------* HIỂU ĐƯỢC TÂM LÍ KHI MUA HÀNG ONLINE SHOP CAM KẾT-----------------------</p>\n   <p>• Cam kết sản phẩm giống ảnh 100%</p>\n   <p>• Tất cả hình ảnh đều là shop tự chụp nên khách hàng có thể hoàn toàn yên tâm chọn lựa</p>\n   <p>• Được kiểm tra hàng trước khi thanh toán</p>\n   <p>• Nhận hàng và thanh toán tại nhà</p>\n   <p>• Hỗ trợ đổi trả hàng nhanh chóng, thuận tiện nhất</p>\n   <p>• *LƯU Ý</p>\n   <p>• - Hướng dẫn đặt mua nhiều màu, mẫu, kích thước trong 1 đơn hàng: Bạn phải chọn màu, mẫu hoặc kích thước bạn muốn rồi cho vào giỏ hàng. Sau khi chọn đủ thì vào giỏ hàng để tiến hành mua hàng. Có thể điều chỉnh số lượng mua trong giỏ hàng nếu muốn.</p>\n   <p>• Hướng dẫn bảo quản</p>\n   <p>★ Tránh mang sản phẩm khi trời mưa hoặc thời tiết xấu để chúng không bị ướt dẫn đến bong tróc.</p>\n   <p>✧ Bạn sử dụng các loại xà bông, nước rửa chén, kem cạo râu để giặt giày.</p>\n   <p>★ Chú ý là nên dùng bàn chải mềm hoặc khăn mềm để chà giặt sẽ tốt hơn.</p>\n   <p>✧ Nên phơitrong mát, không nên phơi trực tiếp dưới ánh nắng mặt trời.</p>\n   <p>★ Sau khi giặt xong để ráo nước sử dụng giấy mềm, thấm nước, cuốn 2-3 vòng phủ toàn đôi giày.</p>\n   <p>✧ Sau đó bạn có thể đem phơi trực tiếp dưới nắng mà không ảnh hưởng</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 261800,
+        "product_quantity": 2619,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ĐỒ DA THÀNH LONG TLG",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "màu sắc",
+                "options": [
+                    "hồng"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "37",
+                    "38"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 261800,
+                "sku_stock": 3909
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 261800,
+                "sku_stock": 7361
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 261800,
+                "sku_stock": 1295
+            }
+        ]
+    },
+    {
+        "product_shop": "9511",
+        "product_name": "Sandal 1 phân nữ phong cách hàn quốc",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d9/3d/1a/a6d9dbcbccd35909c548781a5c3dbdc7.jpg",
+            "https://salt.tikicdn.com/ts/product/ca/16/2e/5d92af8ce6de1974aa469e74e9711d0d.jpg",
+            "https://salt.tikicdn.com/ts/product/81/c7/c0/6c25f0a2bd0fc5660f0de145f86e599a.jpg",
+            "https://salt.tikicdn.com/ts/product/78/2e/a4/83a1a3dea3a997728215374c0dbafda7.jpg",
+            "https://salt.tikicdn.com/ts/product/48/8c/c2/e471d5868f48d444555c693ac5691622.jpg",
+            "https://salt.tikicdn.com/ts/product/bf/f3/58/de90bc7c8be3579dc67f8c25fc28b7b2.jpg",
+            "https://salt.tikicdn.com/ts/product/de/17/ff/63046fa513257ad24e099acc4ce8e5fe.jpg",
+            "https://salt.tikicdn.com/ts/product/63/5e/f0/2e979e237bdd2d78777f65561e2027d3.jpg",
+            "https://salt.tikicdn.com/ts/product/47/f6/94/ad57246ac6b57b9d2413bc70a992e340.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>*) THÔNG TIN SẢN PHẨM</p>\n   <p>• ✦ Sandal nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.</p>\n   <p>• ✧ Chất liệu : Da bò cao cấp - chất liệu lót mềm mại</p>\n   <p>• ✧ Chức năng: giảm sốc, thoáng khí êm chân.</p>\n   <p>• ★ Style: Hàn Quốc</p>\n   <p>• ✧ Thời trang:giày Đi làm, Đi chơi, Du lịch, Dự tiệc, Dạo phố....</p>\n   <p>• ★ Gợi ý phối đồ Style Cho các nàng Dịu dàng:</p>\n   <p>• =&gt; Sandal / Chân váy ngắn / áo sơ mi / túi</p>\n   <p>• ✧ Gợi ý phối đồ Style Cho các nàng Cá Tính:</p>\n   <p>• =&gt; Sandal / Quần Jeans ngắn / áo phông form dài / túi / Kính</p>\n   <p>• Đặc điểm sản phẩm</p>\n   <p>✧ Thoáng mát , êm ái thoái mái sử dụng</p>\n   <p>✧ Sandal được thiết kế đẹp mắt , có tính thẩm mỹ cao , nhiều người yêu thích</p>\n   <p>✧ Đế có rãnh chống trơn trượt, đàn hồi tốt.</p>\n   <p>✧ Kiểu dáng hiện đai, trẻ trung, năng động</p>\n   <p>• -----------------------* HIỂU ĐƯỢC TÂM LÍ KHI MUA HÀNG ONLINE SHOP CAM KẾT-----------------------</p>\n   <p>• Cam kết sản phẩm giống ảnh 100%</p>\n   <p>• Tất cả hình ảnh đều là shop tự chụp nên khách hàng có thể hoàn toàn yên tâm chọn lựa</p>\n   <p>• Được kiểm tra hàng trước khi thanh toán</p>\n   <p>• Nhận hàng và thanh toán tại nhà</p>\n   <p>• Hỗ trợ đổi trả hàng nhanh chóng, thuận tiện nhất</p>\n   <p>• *LƯU Ý</p>\n   <p>• - Hướng dẫn đặt mua nhiều màu, mẫu, kích thước trong 1 đơn hàng: Bạn phải chọn màu, mẫu hoặc kích thước bạn muốn rồi cho vào giỏ hàng. Sau khi chọn đủ thì vào giỏ hàng để tiến hành mua hàng. Có thể điều chỉnh số lượng mua trong giỏ hàng nếu muốn.</p>\n   <p>• Hướng dẫn bảo quản</p>\n   <p>★ Tránh mang sản phẩm khi trời mưa hoặc thời tiết xấu để chúng không bị ướt dẫn đến bong tróc.</p>\n   <p>✧ Bạn sử dụng các loại xà bông, nước rửa chén, kem cạo râu để giặt giày.</p>\n   <p>★ Chú ý là nên dùng bàn chải mềm hoặc khăn mềm để chà giặt sẽ tốt hơn.</p>\n   <p>✧ Nên phơitrong mát, không nên phơi trực tiếp dưới ánh nắng mặt trời.</p>\n   <p>★ Sau khi giặt xong để ráo nước sử dụng giấy mềm, thấm nước, cuốn 2-3 vòng phủ toàn đôi giày.</p>\n   <p>✧ Sau đó bạn có thể đem phơi trực tiếp dưới nắng mà không ảnh hưởng</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 299800,
+        "product_quantity": 6460,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "ĐỒ DA THÀNH LONG TLG",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Nude",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 299800,
+                "sku_stock": 8539
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 299800,
+                "sku_stock": 4385
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 299800,
+                "sku_stock": 4604
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 299800,
+                "sku_stock": 2209
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 299800,
+                "sku_stock": 1630
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 299800,
+                "sku_stock": 1466
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 299800,
+                "sku_stock": 4936
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 299800,
+                "sku_stock": 4875
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 299800,
+                "sku_stock": 1320
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 299800,
+                "sku_stock": 3092
+            }
+        ]
+    },
+    {
+        "product_shop": "9511",
+        "product_name": "Sandal nữ 10 phân quai chéo phong cách thời thượng 21771",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/77/b5/5b/c967ce249d9f73ceb83664688c9305be.jpg",
+            "https://salt.tikicdn.com/ts/product/76/5d/4a/7469668369b0b98f4b5dc3e4a04515e7.jpg",
+            "https://salt.tikicdn.com/ts/product/3a/c8/48/c859dd0d7cad8e98dc95b8ba3f0c0383.jpg",
+            "https://salt.tikicdn.com/ts/product/07/00/2d/8c33aa9233ee46f2bd8da32b19d19ced.jpg",
+            "https://salt.tikicdn.com/ts/product/ce/5b/87/efcab8c5550ab0398d987f2ce366fccc.jpg",
+            "https://salt.tikicdn.com/ts/product/43/d9/0f/46e7d1b1cc1d2bd40cc40b0a8d4b33fb.jpg",
+            "https://salt.tikicdn.com/ts/product/e8/a7/e2/b3710fd657b4736b7db98e062653e64c.jpg",
+            "https://salt.tikicdn.com/ts/product/4d/e9/24/c83f467cbc69241161e5e503dbc1f511.jpg",
+            "https://salt.tikicdn.com/ts/product/3a/73/bf/c75f72219573f8d50e2e836ff26b677f.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>*) THÔNG TIN SẢN PHẨM</p>\n   <p>• ✦ Sandal nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.</p>\n   <p>• ✧ Chất liệu : Da bò cao cấp - chất liệu lót mềm mại</p>\n   <p>• ✧ Chức năng: giảm sốc, thoáng khí êm chân.</p>\n   <p>• ★ Style: Hàn Quốc</p>\n   <p>• ✧ Thời trang:giày Đi làm, Đi chơi, Du lịch, Dự tiệc, Dạo phố....</p>\n   <p>• ★ Gợi ý phối đồ Style Cho các nàng Dịu dàng:</p>\n   <p>• =&gt; Sandal / Chân váy ngắn / áo sơ mi / túi</p>\n   <p>• ✧ Gợi ý phối đồ Style Cho các nàng Cá Tính:</p>\n   <p>• =&gt; Sandal / Quần Jeans ngắn / áo phông form dài / túi / Kính</p>\n   <p>• Đặc điểm sản phẩm</p>\n   <p>✧ Thoáng mát , êm ái thoái mái sử dụng</p>\n   <p>✧ Sandal được thiết kế đẹp mắt , có tính thẩm mỹ cao , nhiều người yêu thích</p>\n   <p>✧ Đế có rãnh chống trơn trượt, đàn hồi tốt.</p>\n   <p>✧ Kiểu dáng hiện đai, trẻ trung, năng động</p>\n   <p>• -----------------------* HIỂU ĐƯỢC TÂM LÍ KHI MUA HÀNG ONLINE SHOP CAM KẾT-----------------------</p>\n   <p>• Cam kết sản phẩm giống ảnh 100%</p>\n   <p>• Tất cả hình ảnh đều là shop tự chụp nên khách hàng có thể hoàn toàn yên tâm chọn lựa</p>\n   <p>• Được kiểm tra hàng trước khi thanh toán</p>\n   <p>• Nhận hàng và thanh toán tại nhà</p>\n   <p>• Hỗ trợ đổi trả hàng nhanh chóng, thuận tiện nhất</p>\n   <p>• *LƯU Ý</p>\n   <p>• - Hướng dẫn đặt mua nhiều màu, mẫu, kích thước trong 1 đơn hàng: Bạn phải chọn màu, mẫu hoặc kích thước bạn muốn rồi cho vào giỏ hàng. Sau khi chọn đủ thì vào giỏ hàng để tiến hành mua hàng. Có thể điều chỉnh số lượng mua trong giỏ hàng nếu muốn.</p>\n   <p>• Hướng dẫn bảo quản</p>\n   <p>★ Tránh mang sản phẩm khi trời mưa hoặc thời tiết xấu để chúng không bị ướt dẫn đến bong tróc.</p>\n   <p>✧ Bạn sử dụng các loại xà bông, nước rửa chén, kem cạo râu để giặt giày.</p>\n   <p>★ Chú ý là nên dùng bàn chải mềm hoặc khăn mềm để chà giặt sẽ tốt hơn.</p>\n   <p>✧ Nên phơitrong mát, không nên phơi trực tiếp dưới ánh nắng mặt trời.</p>\n   <p>★ Sau khi giặt xong để ráo nước sử dụng giấy mềm, thấm nước, cuốn 2-3 vòng phủ toàn đôi giày.</p>\n   <p>✧ Sau đó bạn có thể đem phơi trực tiếp dưới nắng mà không ảnh hưởng</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 150000,
+        "product_quantity": 4102,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ĐỒ DA THÀNH LONG TLG",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Nude",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 2517
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 150000,
+                "sku_stock": 4291
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 150000,
+                "sku_stock": 6152
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 150000,
+                "sku_stock": 6394
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 150000,
+                "sku_stock": 1947
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 4052
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 150000,
+                "sku_stock": 6896
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 150000,
+                "sku_stock": 5975
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 150000,
+                "sku_stock": 5367
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 150000,
+                "sku_stock": 3562
+            }
+        ]
+    },
+    {
+        "product_shop": "9511",
+        "product_name": "Sandal nữ quai da đế mica siêu dễ thương 21804",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/f5/34/a5/075cd9ed1c36659d5a090e363ddea3b9.jpg",
+            "https://salt.tikicdn.com/ts/product/7f/09/69/c566448a30cc84333f206b24618b8939.jpg",
+            "https://salt.tikicdn.com/ts/product/f6/17/b6/944b69ef428cf4dc98bc16e2a1907ec0.jpg",
+            "https://salt.tikicdn.com/ts/product/16/43/0f/0811ffe83c84dff07a4659bf386a151a.jpg",
+            "https://salt.tikicdn.com/ts/product/0c/9e/bc/7a7ba39ae685cbbb618ff4f3b6a79eb5.jpg",
+            "https://salt.tikicdn.com/ts/product/6e/ae/ef/fcfe41b87df89b12a6111755efe50b77.jpg",
+            "https://salt.tikicdn.com/ts/product/14/1e/9d/3992f9898776bd0e0865acdb556a8d06.jpg",
+            "https://salt.tikicdn.com/ts/product/90/86/ff/d9402f50fa6f96a0309d3365e778abdc.jpg",
+            "https://salt.tikicdn.com/ts/product/27/0a/81/7aa00c4d917f192de0e5d5730555406c.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>*) THÔNG TIN SẢN PHẨM</p>\n   <p>• ✦ Sandal nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.</p>\n   <p>• ✧ Chất liệu : Da bò cao cấp - chất liệu lót mềm mại</p>\n   <p>• ✧ Chức năng: giảm sốc, thoáng khí êm chân.</p>\n   <p>• ★ Style: Hàn Quốc</p>\n   <p>• ✧ Thời trang:giày Đi làm, Đi chơi, Du lịch, Dự tiệc, Dạo phố....</p>\n   <p>• ★ Gợi ý phối đồ Style Cho các nàng Dịu dàng:</p>\n   <p>• =&gt; Sandal / Chân váy ngắn / áo sơ mi / túi</p>\n   <p>• ✧ Gợi ý phối đồ Style Cho các nàng Cá Tính:</p>\n   <p>• =&gt; Sandal / Quần Jeans ngắn / áo phông form dài / túi / Kính</p>\n   <p>• Đặc điểm sản phẩm</p>\n   <p>✧ Thoáng mát , êm ái thoái mái sử dụng</p>\n   <p>✧ Sandal được thiết kế đẹp mắt , có tính thẩm mỹ cao , nhiều người yêu thích</p>\n   <p>✧ Đế có rãnh chống trơn trượt, đàn hồi tốt.</p>\n   <p>✧ Kiểu dáng hiện đai, trẻ trung, năng động</p>\n   <p>• -----------------------* HIỂU ĐƯỢC TÂM LÍ KHI MUA HÀNG ONLINE SHOP CAM KẾT-----------------------</p>\n   <p>• Cam kết sản phẩm giống ảnh 100%</p>\n   <p>• Tất cả hình ảnh đều là shop tự chụp nên khách hàng có thể hoàn toàn yên tâm chọn lựa</p>\n   <p>• Được kiểm tra hàng trước khi thanh toán</p>\n   <p>• Nhận hàng và thanh toán tại nhà</p>\n   <p>• Hỗ trợ đổi trả hàng nhanh chóng, thuận tiện nhất</p>\n   <p>• *LƯU Ý</p>\n   <p>• - Hướng dẫn đặt mua nhiều màu, mẫu, kích thước trong 1 đơn hàng: Bạn phải chọn màu, mẫu hoặc kích thước bạn muốn rồi cho vào giỏ hàng. Sau khi chọn đủ thì vào giỏ hàng để tiến hành mua hàng. Có thể điều chỉnh số lượng mua trong giỏ hàng nếu muốn.</p>\n   <p>• Hướng dẫn bảo quản</p>\n   <p>★ Tránh mang sản phẩm khi trời mưa hoặc thời tiết xấu để chúng không bị ướt dẫn đến bong tróc.</p>\n   <p>✧ Bạn sử dụng các loại xà bông, nước rửa chén, kem cạo râu để giặt giày.</p>\n   <p>★ Chú ý là nên dùng bàn chải mềm hoặc khăn mềm để chà giặt sẽ tốt hơn.</p>\n   <p>✧ Nên phơitrong mát, không nên phơi trực tiếp dưới ánh nắng mặt trời.</p>\n   <p>★ Sau khi giặt xong để ráo nước sử dụng giấy mềm, thấm nước, cuốn 2-3 vòng phủ toàn đôi giày.</p>\n   <p>✧ Sau đó bạn có thể đem phơi trực tiếp dưới nắng mà không ảnh hưởng</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 210500,
+        "product_quantity": 2886,
+        "product_category": [
+            "Giày cao gót hở mũi"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ĐỒ DA THÀNH LONG TLG",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Nude",
+                    "Xanh"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 210500,
+                "sku_stock": 5354
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 210500,
+                "sku_stock": 5996
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 210500,
+                "sku_stock": 1714
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 210500,
+                "sku_stock": 4941
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 210500,
+                "sku_stock": 3831
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 210500,
+                "sku_stock": 9674
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 210500,
+                "sku_stock": 7924
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 210500,
+                "sku_stock": 2731
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 210500,
+                "sku_stock": 4021
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 210500,
+                "sku_stock": 4456
+            }
+        ]
+    }
+]

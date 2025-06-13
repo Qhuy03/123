@@ -1,0 +1,276 @@
+[
+    null,
+    {
+        "product_shop": "11118",
+        "product_name": "Giày búp bê trơn da bò mũi vuông Trường Hải có 2 màu xanh ,đen GBB115",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/58/a1/4e/cb16a93c92bc6f738c1f3cecd939f43f.jpg",
+            "https://salt.tikicdn.com/ts/product/09/2c/4d/7658d1f8d7ca6fedfd853ae08e2dc86d.jpg",
+            "https://salt.tikicdn.com/ts/product/b1/5d/8c/9745473010a9583f7844e3fb3659244b.jpg",
+            "https://salt.tikicdn.com/ts/product/3b/12/af/9f6df259a973bd1517f3ae0bd2883fd8.jpg"
+        ],
+        "product_description": "<ul><li>Tên sản phẩm:Giày búp bê trơn da bò mũi vuông Trường Hải có 2 màu xanh ,đen GBB115 </li>\n<li>Chất liệu: giày được làm bằng da bò thật mềm mại tuyệt đối không bong tróc hay nổ da</li>\n<li>Đế : cao su non không trơn mềm dẻo êm ái</li>\n<li>phía trong lót bằng nguyên liệu cao cấp không hôi chân trong suốt thời gian sử dụng</li>\n<li>màu sắc sản phẩm như hình</li>\n<li>hình ảnh thật 100% không chỉnh sửa</li>\n<li>Màu : đen, xanh đen</li>\n<li>Size: 35-36-37-38-39</li>\n<li>Giày búp bê trơn da bò mũi vuông Trường Hải CÓ DÁNG FORM TO HƠN BÌNH THƯỜNG QUÝ KHÁCH LƯU Ý KHI CHỌN SIZE</li>\n<li>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/58/a1/4e/346eba02b9f2be9a3869e037354396e0.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/e4/de/94/cc683c7a3052081d332c6bee403a4f54.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/32/59/0b/cc5c70ad75a4b6dc1228252c561f0e2a.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/b1/5d/8c/29f7b0c13c0a8cb5d776f6407a92c71c.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/3b/12/af/70ca8c49dc1c1e0bc490bfe57db99d6e.jpg\" alt=\"\" /></p>\n</li>\n<li><img src=\"https://salt.tikicdn.com/ts/tmp/cf/27/9f/30ae1b35287e86f4236ba220309f9537.jpeg\" alt=\"\" width=\"750\" height=\"562\" /></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 285000,
+        "product_quantity": 5742,
+        "product_category": [
+            "Giày búp bê"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Trường Hải",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "giày búp bê nữ",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Xanh đen",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 285000,
+                "sku_stock": 3989
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 285000,
+                "sku_stock": 4209
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 285000,
+                "sku_stock": 4280
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 285000,
+                "sku_stock": 2560
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 285000,
+                "sku_stock": 7970
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 285000,
+                "sku_stock": 9223
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 285000,
+                "sku_stock": 4721
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 285000,
+                "sku_stock": 7465
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 285000,
+                "sku_stock": 4483
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 285000,
+                "sku_stock": 2382
+            }
+        ]
+    },
+    {
+        "product_shop": "89749",
+        "product_name": "HC7950-51-52 - Giày nữ hoa văn Huy Hoàng da bò màu da, đen, nâu đất",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/43/3c/dc/a0cee368ad37da77634595cf3784e689.jpg",
+            "https://salt.tikicdn.com/ts/product/5d/6e/aa/55488cf0ae4e9605ea95b6a7132f7199.jpg",
+            "https://salt.tikicdn.com/ts/product/e9/fa/97/3ef7581c2f983d55bc036fbd8cc3244a.jpg",
+            "https://salt.tikicdn.com/ts/product/39/70/77/7ab81bdb30842df7786be3b846d4504a.png",
+            "https://salt.tikicdn.com/ts/product/a0/df/82/ac7ef0910c2ed50359727aa1305dddf5.png",
+            "https://salt.tikicdn.com/ts/product/11/2d/52/619ceb3c2e90e8f68034f24db7f2ffa0.jpg",
+            "https://salt.tikicdn.com/ts/product/06/b1/16/14904de76369ceb0eb97838407d370d6.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Tất cả các dòng sản phẩm chính của công ty như ví da, thắt lưng, túi xách, giày dép,… đều được sản xuất bởi những thợ thủ công chuyên nghiệp, có tay nghề cao.</p>\n   <p>- Giày nữ Huy Hoàng được làm từ da bò cao cấp nên càng sử dụng lâu bề mặt sẽ càng bóng đẹp tự nhiên. Da bò mềm mại sẽ hạn chế tối đa tình trạng trầy xước khi sử dụng lâu ngày.</p>\n   <p>- Giày nữ Huy Hoàng được sản xuất với những nguyên vật liệu tốt nhất nên giày mang lâu sẽ không bị hôi. Đường may chắc chắn, tỉ mỉ.</p>\n   <p>- Giày nữ Huy Hoàng được xử lý đặc biệt để tạo độ bóng mờ thanh lịch và nữ tính thích hợp cho mọi lứa tuổi.</p>\n   <p>- Mũi giày đầy đặn. Đế giày cao su chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</p>\n   <p>- Giày có form dáng chuẩn, ôm gọn đôi bàn chân.</p>\n   <p>- Kiểu dáng đơn giản để bạn dễ dàng mang vào chân và tháo ra, thật nhanh chóng và tiện lợi, thời trang nhưng không kém phần thanh lịch, sang trọng. Dễ dàng kết hợp với nhiều loại trang phục như váy, đầm, quần jeans, quần tây, quần để đi làm, xuống phố cùng bạn bè, hoặc tham dự những dịp quan trọng.</p>\n   <p>Thông số sản phẩm:</p>\n   <p>- Tên sản phẩm: HP7950-51-52 - Giày nữ hoa văn Huy Hoàng da bò màu da, đen, nâu đất</p>\n   <p>- Thương hiệu: Huy Hoàng</p>\n   <p>- Mã sản phẩm: HP7950-51-52</p>\n   <p>- Màu sắc: Da, đen, nâu đất</p>\n   <p>- Chất liệu: Da bò</p>\n   <p>- Size: 35, 36, 37, 38, 39, 40</p>\n   <p>- Kích thước: 27 x 16 x 09 cm.</p>\n   <p>- Kích thước đóng gói: 28 x 17 x 10 cm.</p>\n   <p>- Khối lượng: 580 g</p>\n   <p>- Xuất xứ: Việt Nam</p>\n   <p>Bộ sản phẩm bao gồm:</p>\n   <p>- 01 x Sản phẩm Huy Hoàng</p>\n   <p>- 01 x Thẻ bảo hành 12 tháng (bung keo, súc chỉ)</p>\n   <p>- 01 x Hộp nhãn hiệu Huy Hoàng</p>\n   <p>Hướng dẫn bảo quản :</p>\n   <p>1) Không nên để sản phẩm gần nơi có nhiệt độ cao để tránh sản phẩm bị khô, nứt và bị biến dạng.</p>\n   <p>2) Không nên để sản phẩm bị thấm nước, ẩm ướ để tránh sản phẩm bị phai màu, khô cứng. Nếu bị ướt, nên dùng vải khô thấm nước, và đem để nơi thoáng mát cho sản phẩm khô.</p>\n   <p>3) Không nên để sản phẩm tiếp xúc với bút màu, bút bi vì các vết này rất khó tẩy, làm ảnh hưởng đến vẻ đẹp của sản phẩm.</p>\n   <p>4) Không nên dùng sức kéo mạnh hay đựng đồ quá nặng, tránh vật thô cứng nhọn làm chầy mặt sản phẩm.</p>\n   <p>5) Nên thường xuyên dùng vải khô lau chùi các phần phụ kiện bằng kim loại để phần kim loại được bóng và không đổi màu.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 489000,
+        "product_quantity": 4898,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Huy Hoàng",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "Da bò",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Phiếu bảo hành",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Nâu đất",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "35"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 489000,
+                "sku_stock": 6360
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 489000,
+                "sku_stock": 5538
+            }
+        ]
+    },
+    {
+        "product_shop": "9606",
+        "product_name": "Giày nữ cao cấp da thật ELLY – EGT102",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e9/32/27/0ab361aa079c098024c7906ff8210011.jpg",
+            "https://salt.tikicdn.com/ts/product/99/c8/f2/ebc4642f96e6fb4cdc0caa78d2b06130.jpg",
+            "https://salt.tikicdn.com/ts/product/89/04/88/bce2974cd54aeefa517d6c8cfa9b2052.jpg",
+            "https://salt.tikicdn.com/ts/product/24/a4/be/8c8583559c89f29f3c5c58e35df57ffe.jpg",
+            "https://salt.tikicdn.com/ts/product/aa/1e/36/27876e5bc00ecadc1c7be569b802439e.jpg",
+            "https://salt.tikicdn.com/ts/product/23/55/fd/b648bfc5611a7f73df41d34a8c41e192.jpg",
+            "https://salt.tikicdn.com/ts/product/0c/72/11/7c198852ea2c1a12812af91c2ce63b5e.jpg",
+            "https://salt.tikicdn.com/ts/product/72/8f/35/bced4441a99d9848813fd4b3799ecef0.jpg"
+        ],
+        "product_description": "<p><span class=\"text_exposed_show\"><strong>– Thương hiệu: </strong>ELLY.<br /><strong>– Sản xuất:</strong> Việt Nam.<br /><strong>– Kiểu dáng:</strong> Giày đế bệt<br /><strong>– Độ cao gót:</strong> 1 cm.<br /><strong>– Màu sắc:</strong> Đen, nude.<br /><strong>– Size:</strong> 35, 36, 37, 38, 39.<br /><strong>– Chất liệu:</strong> Da bò cao cấp nhập khẩu.<br /><strong>– Trọn bộ sản phẩm gồm:</strong> 01 giày nữ cao cấp da thật ELLY – EGT102 + 01 hộp đựng + túi vải sang trọng.</span><br /><strong>– Bảo hành: </strong>06 tháng (với lỗi do sản xuất).</p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/fa/f3/45/824e7e6aacad6c41706e938cdd37a541.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/c9/f4/a4/c9f44c684b082d7ecb7eefb98f8274e2.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/4e/19/56/a146103ae599d311df67eaa1e75f6baa.jpg\" alt=\"\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1399000,
+        "product_quantity": 6381,
+        "product_category": [
+            "Thời Trang"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Elly",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "6 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 1399000,
+                "sku_stock": 7482
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 1399000,
+                "sku_stock": 1411
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 1399000,
+                "sku_stock": 2836
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 1399000,
+                "sku_stock": 1373
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 1399000,
+                "sku_stock": 3954
+            }
+        ]
+    }
+]

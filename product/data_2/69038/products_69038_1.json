@@ -1,0 +1,43 @@
+[
+    {
+        "product_shop": "206600",
+        "product_name": "[Chỉ giao HN] Kim chi cải thảo 300g",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/20/fb/04/8c8cc891b8b0881d147fe8d931c655c5.jpg"
+        ],
+        "product_description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Kim chi cải thảo 300g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 44000,
+        "product_quantity": 9684,
+        "product_category": [
+            "NGON"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "SUMO Yakiniku",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "143112",
+        "product_name": "[Chỉ Giao Hà Nội] Kim chi cải thảo Hàn Quốc 500g",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/4c/4d/9e/80834c7b796db495d1b6793d9b0efaa5.jpg"
+        ],
+        "product_description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Đơn vị tính:&nbsp;gram\n<br>Khối lượng: 500g\n<br>Mô tả:&nbsp;đóng hộp \n<br>CÁCH SỬ DỤNG: \n<br>• Ăn liền và ăn kèm các món nướng \n<br>CÁCH BẢO QUẢN: \n<br>• Bảo quản trong ngăn mát tủ mát 0 độ đến 7 độ c\n<br>Kích cỡ:&nbsp;500g/hộp\n<br>- Hạn sử dụng: 3 tháng từ ngày sản xuất<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 55000,
+        "product_quantity": 9092,
+        "product_category": [
+            "Rau củ muối"
+        ],
+        "product_attributes": {
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Thương hiệu": "AnThinhFood",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    }
+]

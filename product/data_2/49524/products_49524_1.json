@@ -1,0 +1,3372 @@
+[
+    {
+        "product_shop": "93096",
+        "product_name": "Set áo sơ mi nam dài tay mix quần short lưng thun có túi chất liệu Linen mát mịn phong cách Hàn",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a3/64/41/d4b86a7c4913cab2dc5d0cdfa979979e.jpg"
+        ],
+        "product_description": "<p>MÔ TẢ SẢN PHẨM<br />1. Tên sản phẩm: Áo Sơ Mi Nam + Quần short<br />Dáng áo: form suông<br />Dáng quần: suông<br />Màu sắc: màu trắng, màu xám, màu đen, màu xanh than<br />Chất vải: Vải linen bột cao cấp<br />Họa Tiết: Trơn</p>\n<p>Hướng dẫn chọn size:<br />SIZE M: &lt; 60 Kg<br />SIZE L: 61Kg - 68 Kg<br />SIZE XL: 68 Kg - 73 Kg<br />SIZE XXL:73 kg - 80kg<br />✪ Size có thể thay đổi tùy vào chiều cao mỗi người. Các nàng tham khảo bảng size gợi ý nhé<br />✪ Các bạn khó chọn SIZE hoặc phân vân đừng ngại ngần cứ chat với Shop để tư vấn chọn size chuẩn và hướng dẫn các vấn đề sau khi mua hàng nhé<br />2. Hướng dẫn sử dụng:<br />Nên treo sản phẩm trong tủ khi không sử dụng<br />Có thể giặt tay hoặc giặt máy<br />Không giặt chung với những sản phẩm ra mầu<br />Không dùng chất tẩy rửa, không ngâm quá lâu ngày<br />Không phơi dưới nhiệt độ cao, nắng gắt<br />Nên là ủi thường xuyên<br />-----------------------------------<br />#setnam#aosominam #quanshort #formrong #unisex</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 550000,
+        "product_quantity": 7562,
+        "product_category": [
+            "Bộ quần áo nam kích cỡ lớn"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "China / Vietnam",
+            "Chất liệu": "Linen",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "ĐŨI VIỆT"
+        },
+        "product_variations": [
+            {
+                "name": "màu sắc",
+                "options": [
+                    "Trắng",
+                    "Xanh Than",
+                    "Xám",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "M",
+                    "XL",
+                    "XXL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 550000,
+                "sku_stock": 6858
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 550000,
+                "sku_stock": 2994
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 550000,
+                "sku_stock": 4150
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 550000,
+                "sku_stock": 9201
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 550000,
+                "sku_stock": 3040
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 550000,
+                "sku_stock": 2257
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 550000,
+                "sku_stock": 1767
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 550000,
+                "sku_stock": 3083
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 550000,
+                "sku_stock": 9829
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 550000,
+                "sku_stock": 6799
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 550000,
+                "sku_stock": 7936
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 550000,
+                "sku_stock": 8124
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 550000,
+                "sku_stock": 9006
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 550000,
+                "sku_stock": 3899
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 550000,
+                "sku_stock": 1487
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 550000,
+                "sku_stock": 7098
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "Quần short jean vải cotton tông màu xanh bigsize nam tới 140kg",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/f8/4e/99/8bf9c76422574ebc99db3de3ccbdfe46.jpg",
+            "https://salt.tikicdn.com/ts/product/12/e3/a8/b5b9b49e79d193eddbe3ac9d69e5ec80.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chọn size</p>\n   <p>Size 36 : 80 - 90kg</p>\n   <p>Size 38 : 90 - 100kg</p>\n   <p>Size 40 : 100 - 110kg</p>\n   <p>Size 42 : 110 - 120kg</p>\n   <p>Size 44 : 120 - 130kg</p>\n   <p>ĐẶC ĐIỂM NỔI BẬT</p>\n   <p>- Chất liệu vải bền, đẹp, không gây kích ứng da.</p>\n   <p>- Form quần đứng, vừa vặn với cơ thể người mặc.</p>\n   <p>- Quần jean dễ dàng phối hợp cùng áo phông, áo sơ mi, giày thể thao, giày lười…</p>\n   <p>- Quần thích hợp mặc đi làm, đi chơi, tiệc tùng, sự kiện…</p>\n   <p>HƯỚNG DẪN BẢO QUẢN</p>\n   <p>- Nên giặt bằng tay để trang phục có độ bền cao</p>\n   <p>- Giặt máy với chu kỳ trung bình và vòng quay ngắn</p>\n   <p>- Giặt với nhiệt độ tối đa 30 độ C</p>\n   <p>- Sấy ở nhiệt độ thường</p>\n   <p>- Là ủi ở nhiệt độ thấp</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 285000,
+        "product_quantity": 8407,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "DAM",
+                    "NHAT"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "40",
+                    "42",
+                    "44"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 285000,
+                "sku_stock": 6509
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 285000,
+                "sku_stock": 5658
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 285000,
+                "sku_stock": 8024
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 285000,
+                "sku_stock": 7924
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 285000,
+                "sku_stock": 5649
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 285000,
+                "sku_stock": 9754
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "Quần short tây, short âu bigsize nam form thời trang từ 75 đến 140kg",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/97/66/e8/a3571430ce1e3f0387ac23d474a12116.jpg",
+            "https://salt.tikicdn.com/ts/product/0b/d6/90/a6c3f9e26f4a4d5cdf44d1c716e7be70.jpg",
+            "https://salt.tikicdn.com/ts/product/de/86/eb/db173cfe2cc00ee2916db9cd2e066ce6.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>CÁCH CHỌN SIZE :</p>\n   <p>Sz 36 75-85kg</p>\n   <p>Sz 38 85-95kg</p>\n   <p>Sz 40 95-105kg</p>\n   <p>Sz 42 105-115kg</p>\n   <p>Sz 44 115-125kg</p>\n   <p>*** CHÍNH SÁCH ĐỔI TRẢ HÀNG QUẦN ÁO :</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 270000,
+        "product_quantity": 3019,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "NAU",
+                    "XAM DAM",
+                    "XAM NHAT",
+                    "ĐEN"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 270000,
+                "sku_stock": 8894
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 270000,
+                "sku_stock": 3073
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 270000,
+                "sku_stock": 6084
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 270000,
+                "sku_stock": 2794
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 270000,
+                "sku_stock": 2400
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 270000,
+                "sku_stock": 6291
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 270000,
+                "sku_stock": 8969
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 270000,
+                "sku_stock": 1505
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 270000,
+                "sku_stock": 5974
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 270000,
+                "sku_stock": 9237
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 270000,
+                "sku_stock": 6660
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 270000,
+                "sku_stock": 1781
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 270000,
+                "sku_stock": 3389
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 270000,
+                "sku_stock": 8302
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 270000,
+                "sku_stock": 1048
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 270000,
+                "sku_stock": 8895
+            }
+        ]
+    },
+    {
+        "product_shop": "40793",
+        "product_name": "Bộ trang phục ông già Noel nhung 7 món/ quần áo ông già Noel hoá trang giáng sinh",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/43/c0/3c/24373afe5cc7ceaee8f1abc93047b331.jpeg",
+            "https://salt.tikicdn.com/ts/product/6a/46/89/2a40c7b7371a008e70f9ab71f1a05c25.jpeg",
+            "https://salt.tikicdn.com/ts/product/4d/d9/14/0fdf14e25387e3d2c8cc6f76f2721e8f.jpeg",
+            "https://salt.tikicdn.com/ts/product/c6/75/59/678a872cbe0b6d2fa8f7b69d97b2ac0b.jpeg"
+        ],
+        "product_description": "<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">Bộ quần áo ông già noel chất liệu Nhung và vải nỉ freesize cho người dưới 90kg tuỳ theo chiều cao</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">Bộ gồm:</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- quần</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- áo</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- mũ</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- râu</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- đai</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- bộ dạ nỉ 5 món như ghi chi tiết trên ảnh</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- Bộ 5 món như ghi chi tiết trên</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">-Bộ 6 món thêm túi quà</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">- bộ 7 món thêm đôi ủng , túi quà</div>\n<div style=\"font-style:normal;font-weight:400;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;color:#000000;font-family:Arial, Helvetica, sans-serif;\">Hàng như hình shop chụp đăng bán</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 135000,
+        "product_quantity": 8594,
+        "product_category": [
+            "Bộ quần áo nam kích cỡ lớn"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "HK/TQ",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Tùy chọn",
+                "options": [
+                    "Bộ nhung 5 món",
+                    "Bộ nhung 6 món",
+                    "Bộ nhung 7 món",
+                    "Bộ nỉ dạ 5 món"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 135000,
+                "sku_stock": 6599
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 135000,
+                "sku_stock": 5853
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 135000,
+                "sku_stock": 4722
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 135000,
+                "sku_stock": 2742
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "SHORT THUN BIG SIZE NAM 80 ĐẾN 140KG CHỮ SPORT PRO",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c6/35/69/d511d65916a10e8fce19d4c64252cf96.jpg",
+            "https://salt.tikicdn.com/ts/product/02/e4/fa/5d7db4c7d6344f057b4694ec36103a1b.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>MÔ TẢ SẢN PHẨM</p>\n   <p>**** CÁCH CHỌN SIZE, Shop đã phân loại size đi kèm số kg của khách :</p>\n   <p>sz 5x : 85 - 95kg</p>\n   <p>sz 6x : 95 - 105kg</p>\n   <p>sz 7x : 105 - 115kg</p>\n   <p>sz 8x : 115 - 125kg</p>\n   <p>sz 9x : 125- 135kg</p>\n   <p>Sz 10: 130-140kg</p>\n   <p>- Chọn đúng size như ghi chú : mặc thoải mái</p>\n   <p>- Khách mún vừa vặn lùi 1 size.</p>\n   <p>MÔ TẢ SẢN PHẨM</p>\n   <p>️ FreeSize phù hợp cho những người từ 85-140kg</p>\n   <p>️ Được may từ chất liệu vải thun UMI cao cấp thấm hút mồ hôi, co giãn, thoáng mát khi mặc</p>\n   <p>️ Giúp bạn trở nên năng động, khỏe khoắn và thu hút mọi ánh nhìn.</p>\n   <p>️ Có túi 2 bên, chứa được cả ví, điện thoại vẫn còn rộng rãi. Đặc biệt không gây cộm, khó chịu cho người mặc, tuy chứa đồ nhưng nhìn vào vẫn thấy form quần đẹp như không chứa gì trong đó.</p>\n   <p>️ Thích hợp mặc trong nhiều môi trường khác nhau như đi dã ngoại, chơi thể thao hay mặc ở nhà</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 185000,
+        "product_quantity": 9715,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "BE",
+                    "XAM"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "5XL",
+                    "6XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 185000,
+                "sku_stock": 7510
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 185000,
+                "sku_stock": 3730
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 185000,
+                "sku_stock": 6164
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 185000,
+                "sku_stock": 2342
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO THUN ĐEN TAY NGẮN CỔ TRÒN IN CHỮ PHẢN QUANG BIG SIZE NAM 80 ĐẾN 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/74/4c/6d/404e45787514a64e150d799968b88eab.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chất liệu cotton , không xù, không bai nhão, thấm hút mồ hôi</p>\n   <p>Size</p>\n   <p>4xl 85-95kg ngang áo 58</p>\n   <p>5xl 95-105kg ngang áo 60</p>\n   <p>6xl 105-115kg ngang áo 62</p>\n   <p>7xl 115-125kg ngang áo 65</p>\n   <p>Sai số 1cm</p>\n   <p>Chiều cao trung bình m68-m8</p>\n   <p>Khách thấp hơn hoặc có bụng to nhiều có thể nhít lên 1 size cho thoải mái ạ</p>\n   <p>*** Chính sách đổi hàng từ Big Men</p>\n   <p>- Hàng hoá vẫn còn mới, chưa qua sử dụng</p>\n   <p>- Hàng hoá bị lỗi hoặc hư hỏng do vận chuyển hoặc do nhà sản xuất</p>\n   <p>2. Trường hợp được chấp nhận:</p>\n   <p>- Hàng không đúng size, kiểu dáng như quý khách đặt hàng</p>\n   <p>- Không đủ số lượng, không đủ bộ như trong đơn hàng</p>\n   <p>- Quá 07 ngày kể từ khi Quý khách nhận hàng</p>\n   <p>- Gửi lại hàng không đúng mẫu mã, không phải sản phẩm của Harcode</p>\n   <p>- Không thích, không hợp, đặt nhầm mã, nhầm màu,</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 175000,
+        "product_quantity": 4065,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "DEN"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "4XL",
+                    "6XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 175000,
+                "sku_stock": 3297
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 175000,
+                "sku_stock": 1119
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "Quần thun dài jogger vải nỉ big size nam 80-130kg",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/95/b3/51/11890dfcbfceb43a875e6b69129f4a19.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Quần thun bigsize nam</p>\n   <p>Chất liệu nỉ, đẹp, đường may chất lượng</p>\n   <p>Chọn size</p>\n   <p>5XL : 90-100kg</p>\n   <p>6XL : 100-110kg</p>\n   <p>7XL : 110-120kg</p>\n   <p>8XL : 120-130kg</p>\n   <p>*** Chính sách đổi hàng</p>\n   <p>- Hàng hoá vẫn còn mới, chưa qua sử dụng</p>\n   <p>- Hàng hoá bị lỗi hoặc hư hỏng do vận chuyển hoặc do nhà sản xuất</p>\n   <p>2. Trường hợp được chấp nhận:</p>\n   <p>- Hàng không đúng size, kiểu dáng như quý khách đặt hàng</p>\n   <p>- Không đủ số lượng, không đủ bộ như trong đơn hàng</p>\n   <p>- Quá 07 ngày kể từ khi Quý khách nhận hàng</p>\n   <p>- Gửi lại hàng không đúng mẫu mã, không phải sản phẩm của Harcode</p>\n   <p>- Không thích, không hợp, đặt nhầm mã, nhầm màu,</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 215000,
+        "product_quantity": 4178,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Nỉ",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "ĐEN"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "5XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 215000,
+                "sku_stock": 8829
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "Áo khoác sweater  màu nâu nhạt phối big size 85-130kg",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/95/f9/19/1fc95f4a4b3182459a224891daf32f81.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Áo sweater unisex form bigsize 85-125kg</p>\n   <p>Phù hợp thời tiết giao mùa</p>\n   <p>Một màu trắng duy nhất ạ</p>\n   <p>size</p>\n   <p>M : 85-95kg ngang áo 60cm</p>\n   <p>L : 95-105kg ngang áo 63cm</p>\n   <p>XL : 105-130kg ngang áo 66cm</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 200000,
+        "product_quantity": 1281,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Nỉ",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "NAU"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 200000,
+                "sku_stock": 4740
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO THUN TRƠN CỔ TRÒN TAY NGẮN CHẤT COTTON 100% BIG SIZE NAM TỪ 80 ĐẾN 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d5/ab/43/ed75b1bbbace08368e17a69667ffa1c7.jpg",
+            "https://salt.tikicdn.com/ts/product/31/f3/fe/c05fb8b2a0658e647670e2b1360b75fb.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>4xl 80-90kg ngang áo 56</p>\n   <p>5xl 90-100kg ngang áo 60</p>\n   <p>6xl 100-110kg ngang áo 62</p>\n   <p>7xl 110-120kg ngang áo 64</p>\n   <p>8xl 120-130kg ngang áo 68</p>\n   <p>Sai số 1cm</p>\n   <p>Chiều cao trung bình m68-m8</p>\n   <p>Khách thấp hơn hoặc có bụng to nhiều có thể nhít lên 1 size cho thoải mái ạ</p>\n   <p>*** Chính sách đổi hàng từ Big Men</p>\n   <p>- Hàng hoá vẫn còn mới, chưa qua sử dụng</p>\n   <p>- Hàng hoá bị lỗi hoặc hư hỏng do vận chuyển hoặc do nhà sản xuất</p>\n   <p>2. Trường hợp được chấp nhận:</p>\n   <p>- Hàng không đúng size, kiểu dáng như quý khách đặt hàng</p>\n   <p>- Không đủ số lượng, không đủ bộ như trong đơn hàng</p>\n   <p>- Quá 07 ngày kể từ khi Quý khách nhận hàng</p>\n   <p>- Gửi lại hàng không đúng mẫu mã, không phải sản phẩm của Harcode</p>\n   <p>- Không thích, không hợp, đặt nhầm mã, nhầm màu,</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 190000,
+        "product_quantity": 1272,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "BE",
+                    "NAU ĐAM",
+                    "REU",
+                    "ĐEN"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "5XL",
+                    "6XL",
+                    "7XL",
+                    "8XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 190000,
+                "sku_stock": 9874
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 190000,
+                "sku_stock": 8540
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 190000,
+                "sku_stock": 1353
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 190000,
+                "sku_stock": 8430
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 190000,
+                "sku_stock": 6139
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 190000,
+                "sku_stock": 2572
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 190000,
+                "sku_stock": 1591
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 190000,
+                "sku_stock": 6951
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 190000,
+                "sku_stock": 8418
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 190000,
+                "sku_stock": 9897
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 190000,
+                "sku_stock": 2162
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 190000,
+                "sku_stock": 5439
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 190000,
+                "sku_stock": 9139
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 190000,
+                "sku_stock": 5738
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 190000,
+                "sku_stock": 1756
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 190000,
+                "sku_stock": 4943
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO THUN XANH LÁ ĐẬM IN CHỮ CỔ TRÒN TAY NGẮN BIG SIZE NAM TỪ 80 ĐẾN 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ce/58/02/246eac6300c2d6f93ee96a32c6e3669a.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>4xl 75-85kg ngang áo 56</p>\n   <p>5xl 85-95kg ngang áo 58</p>\n   <p>6xl 95-105kg ngang áo 60</p>\n   <p>7xl 105-115kg ngang áo 62</p>\n   <p>8xl 115-125kg ngang áo 65</p>\n   <p>Sai số 1cm</p>\n   <p>Chiều cao trung bình m68-m8</p>\n   <p>Khách thấp hơn hoặc có bụng to nhiều có thể nhít lên 1 size cho thoải mái ạ</p>\n   <p>*** Chính sách đổi hàng từ Big Men</p>\n   <p>- Hàng hoá vẫn còn mới, chưa qua sử dụng</p>\n   <p>- Hàng hoá bị lỗi hoặc hư hỏng do vận chuyển hoặc do nhà sản xuất</p>\n   <p>2. Trường hợp được chấp nhận:</p>\n   <p>- Hàng không đúng size, kiểu dáng như quý khách đặt hàng</p>\n   <p>- Không đủ số lượng, không đủ bộ như trong đơn hàng</p>\n   <p>- Quá 07 ngày kể từ khi Quý khách nhận hàng</p>\n   <p>- Gửi lại hàng không đúng mẫu mã, không phải sản phẩm của Harcode</p>\n   <p>- Không thích, không hợp, đặt nhầm mã, nhầm màu,</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 170000,
+        "product_quantity": 8515,
+        "product_category": [
+            "Áo nam kích cỡ lớn"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "XANH"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "4XL",
+                    "5XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 170000,
+                "sku_stock": 2578
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 170000,
+                "sku_stock": 8950
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "QUẦN JOGGER KAKI KHÔNG TÚI HỘP DÀI ĐỦ MÀU BIG SIZE NAM TỪ 80 ĐẾN 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/8f/56/6c/454a9499e8434b7a26e36e8a9f8d4d96.jpg",
+            "https://salt.tikicdn.com/ts/product/c0/a0/5a/c7ab6f5e6f1e8a8e5170b374033d522b.jpg",
+            "https://salt.tikicdn.com/ts/product/0f/ff/2c/9f3b5176e77acf89d3f2d750dbb0fdef.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chất: Kaki có co giãn</p>\n   <p>SIZE 36 (80-90KG)</p>\n   <p>SIZE 38 (90-100KG)</p>\n   <p>SIZE 40 (100-110KG)</p>\n   <p>SIZE 42 (110-120KG)</p>\n   <p>SIZE 44 (120-130KG)</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 320000,
+        "product_quantity": 8521,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "DEN"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "36",
+                    "38",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 320000,
+                "sku_stock": 5496
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 320000,
+                "sku_stock": 1525
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 320000,
+                "sku_stock": 4317
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "SHORT THUN RUNNING MÀU XÁM LƯNG ĐẬM BIG SIZE NAM TỪ 80 ĐẾN 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/7a/b2/0a/2e08e1dd5df696dbfb92511126f7f9e2.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>CHẤT: THUN CO GIÃN</p>\n   <p>SIZE 5XL (80-95KG)</p>\n   <p>SIZE 6XL (95-105KG)</p>\n   <p>SIZE 7XL (105-115KG)</p>\n   <p>SIZE 8XL (115-125KG)</p>\n   <p>SIZE 9XL (125-135KG)</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 185000,
+        "product_quantity": 8014,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "XAM DAM"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "5XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 185000,
+                "sku_stock": 2468
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "KAKI DÀI MẪU MỚI FORM SLIM FIT BIG SIZE NAM 80 ĐẾN 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/07/90/a2/8eaf37730e61b70ef827c915ae3d1f21.jpg",
+            "https://salt.tikicdn.com/ts/product/3d/3c/d3/bbcb17243c58f207ef7de12b9a863e77.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>SIZE 36 (80-90KG)</p>\n   <p>SIZE 38 ( 90-100KG)</p>\n   <p>SIZE 40 ( 100-110KG)</p>\n   <p>SIZE 42 (110-120KG)</p>\n   <p>SIZE 44 ( 120-130KG)</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 320000,
+        "product_quantity": 4132,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "kaki",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "NAU",
+                    "XAM"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "36",
+                    "38",
+                    "42",
+                    "44"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 320000,
+                "sku_stock": 5553
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 320000,
+                "sku_stock": 2374
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 320000,
+                "sku_stock": 1000
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 320000,
+                "sku_stock": 6175
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 320000,
+                "sku_stock": 1527
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 320000,
+                "sku_stock": 3045
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 320000,
+                "sku_stock": 2889
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 320000,
+                "sku_stock": 1811
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO THUN NÂU IN HÌNH TRƯỚC BIG SIZE NA TỪ 80 ĐẾN 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/f0/03/f2/9c034b8211f84370d7e1b0b3a83a06c8.jpg",
+            "https://salt.tikicdn.com/ts/product/71/ba/5f/826b658d544eb5bf985d4e04990c9aa5.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>THUN COTTON CO GIÃN ĐA CHIỀU</p>\n   <p>IN SẮC NÉT KHÔNG BONG TRÓC</p>\n   <p>SIZE 4XL (80-95KG)</p>\n   <p>SIZE 5XL ( 95-105KG)</p>\n   <p>SIZE 6XL( 105-115KG)</p>\n   <p>SIZE 7XL (115-130KG)</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 200000,
+        "product_quantity": 3030,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "NAU 1"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "4XL",
+                    "5XL",
+                    "6XL",
+                    "7XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 200000,
+                "sku_stock": 9011
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 200000,
+                "sku_stock": 4111
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 200000,
+                "sku_stock": 1547
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 200000,
+                "sku_stock": 6704
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "SHORT JEAN ĐEN BẠC RÁCH NHẸ BIG SIZE NAM TỪ 80 ĐẾN 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/0d/15/14/dc6b11f63ca98be4834c0ccb045a3328.jpg",
+            "https://salt.tikicdn.com/ts/product/0f/ff/2c/021e290c0156a8fbb807ffd07b9a9f22.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>****** BẢNG SIZE ( DÙNG ĐỂ THAM KHẢO ) :</p>\n   <p>Size 36 Từ 80 - 90kg, tùy chiều cao ( ib shop chiều cao, cân nặng shop tư vấn sz chính xác )</p>\n   <p>Size 38 Từ 85- 100kg, tùy chiều cao ( ib shop chiều cao, cân nặng shop tư vấn sz chính xác )</p>\n   <p>Size 40 Từ 90 - 110kg, tùy chiều cao ( ib shop chiều cao, cân nặng shop tư vấn sz chính xác )</p>\n   <p>Size 42 Từ 95 - 120kg, tùy chiều cao ( ib shop chiều cao, cân nặng shop tư vấn sz chính xác )</p>\n   <p>Size 44 Từ 115 - 130kg, tùy chiều cao ( ib shop chiều cao, cân nặng shop tư vấn sz chính xác )</p>\n   <p>**** Có các sz từ 36 đến 44</p>\n   <p>️ Loại : Quần Jean</p>\n   <p>️ Kiểu dáng :, Đi Chơi, Công Sở, Đời Thường</p>\n   <p>️Chất liệu : Vải Jean</p>\n   <p>️Thích hợp : 4 mùa</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 200000,
+        "product_quantity": 1072,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "ĐEN"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "38",
+                    "40",
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 200000,
+                "sku_stock": 3688
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 200000,
+                "sku_stock": 3781
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 200000,
+                "sku_stock": 7760
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "SHORT JEAN XANH IN CHỮ HIỆN ĐẠI BIG SIZE NAM 80 ĐẾN 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/1a/1d/32/5326bd325197a2505676feaa2707ce91.jpg",
+            "https://salt.tikicdn.com/ts/product/0f/ff/2c/7bc64825819570d4c54e226497493987.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>****** BẢNG SIZE ( DÙNG ĐỂ THAM KHẢO ) :</p>\n   <p>Size 36 Từ 80 - 90kg, tùy chiều cao ( ib shop chiều cao, cân nặng shop tư vấn sz chính xác )</p>\n   <p>Size 38 Từ 85- 100kg, tùy chiều cao ( ib shop chiều cao, cân nặng shop tư vấn sz chính xác )</p>\n   <p>Size 40 Từ 90 - 110kg, tùy chiều cao ( ib shop chiều cao, cân nặng shop tư vấn sz chính xác )</p>\n   <p>Size 42 Từ 95 - 120kg, tùy chiều cao ( ib shop chiều cao, cân nặng shop tư vấn sz chính xác )</p>\n   <p>Size 44 Từ 115 - 130kg, tùy chiều cao ( ib shop chiều cao, cân nặng shop tư vấn sz chính xác )</p>\n   <p>**** Có các sz từ 36 đến 44</p>\n   <p>️ Loại : Quần Jean</p>\n   <p>️ Kiểu dáng :, Đi Chơi, Công Sở, Đời Thường</p>\n   <p>️Chất liệu : Vải Jean</p>\n   <p>️Thích hợp : 4 mùa</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 285000,
+        "product_quantity": 7837,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "XANH"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 285000,
+                "sku_stock": 7664
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 285000,
+                "sku_stock": 1262
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 285000,
+                "sku_stock": 8867
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 285000,
+                "sku_stock": 8232
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO THUN XANH CHẤT COTTON THOÁNG MÁT BIG SIZE NAM 80 TỚI 135KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/03/24/6e/0b4d7269e6ca02aba3af83548f9259dd.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chất : cotton</p>\n   <p>Áo có size:</p>\n   <p>4XL: 70 - 80kg</p>\n   <p>5XL: 80 - 90 kg</p>\n   <p>6XL: 90 -100kg</p>\n   <p>7XL: 100 -115kg</p>\n   <p>8x : 115 - 125kg</p>\n   <p>Dài áo 70 - 77 tùy size</p>\n   <p>Chiều cao người mặc trung bình là 1m70-1m75</p>\n   <p>Khách muốn mặc thoải mái form rộng, khách có bụng to hay nhỏ có thể tăng hoặc giảm 1 size tùy</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 150000,
+        "product_quantity": 5454,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "XANH"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "5XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 5653
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO THUN ĐEN CỔ TRÒN IN CHỮ BIG SIZE NAM TỪ 80 TỚI 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/23/05/76/20feab7241d3be5a24c4c00f3c7cf011.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>ÁO THUN ĐEN CHẤT COTTON 100%</p>\n   <p>SIZE 4XL(80-95KG)</p>\n   <p>SIZE 5XL(95-105KG)</p>\n   <p>SIZE 6XL( 105-115KG)</p>\n   <p>SIZE 7XL (115-130KG)</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 170000,
+        "product_quantity": 5389,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "ĐEN"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "4XL",
+                    "5XL",
+                    "6XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 170000,
+                "sku_stock": 6194
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 170000,
+                "sku_stock": 9256
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 170000,
+                "sku_stock": 7867
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO THUN ĐEN CỔ TRÒN RẰN RI SIZE 80 ĐẾN 140KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a1/51/5b/a5fa4a6e9de3865821f8c20d99490e1e.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>SIZE 4XL ( 80-90KG) NGANG ÁO 58 CM</p>\n   <p>SIZE 5XL( 90-100KG) NGANG ÁO 60CM</p>\n   <p>SIZE 6XL (100-110KG) NGANG ÁO 62CM</p>\n   <p>SIZE 7XL( 110-125KG) NGANG ÁO 65CM</p>\n   <p>SIZE 8XL (125-135KG) NGANG ÁO 68CM</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 150000,
+        "product_quantity": 7965,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "ĐEN"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "4XL",
+                    "5XL",
+                    "6XL",
+                    "7XL",
+                    "8XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 3882
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 150000,
+                "sku_stock": 8620
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 150000,
+                "sku_stock": 5308
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 150000,
+                "sku_stock": 7708
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 150000,
+                "sku_stock": 1007
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "JEAN DÀI XANH TRƠN MỚI SIZE 80 ĐẾN 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c4/32/a2/06e5993ebec6540a120a2f6a81932cb0.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>SIZE 36 (80-90KG)</p>\n   <p>SIZE 38 (90-100KG)</p>\n   <p>SIZE 40 (100-110KG)</p>\n   <p>SIZE 42 ( 110-120KG)</p>\n   <p>SIZE 44 ( 120-130KG)</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 300000,
+        "product_quantity": 1566,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "XANH"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 300000,
+                "sku_stock": 2308
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "JEAN DÀI RÁCH FORM SLIMFIT NHIỀU MÀU SIZE 80 ĐẾN 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a2/1c/2b/80e15ecd03d70207a2a859cfc5aa8441.jpg",
+            "https://salt.tikicdn.com/ts/product/b3/80/3e/b09e545914e859edcd3f774d7350877a.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chọn size</p>\n   <p>Size 36 : 80 - 90kg</p>\n   <p>Size 38 : 90 - 100kg</p>\n   <p>Size 40 : 100 - 110kg</p>\n   <p>Size 42 : 110 - 120kg</p>\n   <p>Size 44 : 120 - 130kg</p>\n   <p>ĐẶC ĐIỂM NỔI BẬT</p>\n   <p>- Chất liệu vải bền, đẹp, không gây kích ứng da.</p>\n   <p>- Form quần đứng, vừa vặn với cơ thể người mặc.</p>\n   <p>- Quần jean dễ dàng phối hợp cùng áo phông, áo sơ mi, giày thể thao, giày lười…</p>\n   <p>- Quần thích hợp mặc đi làm, đi chơi, tiệc tùng, sự kiện…</p>\n   <p>HƯỚNG DẪN BẢO QUẢN</p>\n   <p>- Nên giặt bằng tay để trang phục có độ bền cao</p>\n   <p>- Giặt máy với chu kỳ trung bình và vòng quay ngắn</p>\n   <p>- Giặt với nhiệt độ tối đa 30 độ C</p>\n   <p>- Sấy ở nhiệt độ thường</p>\n   <p>- Là ủi ở nhiệt độ thấp</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 320000,
+        "product_quantity": 1511,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "RACH 1",
+                    "RACH 2"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 320000,
+                "sku_stock": 3604
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 320000,
+                "sku_stock": 5919
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 320000,
+                "sku_stock": 3940
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 320000,
+                "sku_stock": 6511
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 320000,
+                "sku_stock": 1714
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 320000,
+                "sku_stock": 5740
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 320000,
+                "sku_stock": 9867
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 320000,
+                "sku_stock": 1226
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO KHOẮC HODIES TRƠN ĐỦ MÀU VẢI MỀN MÁT BIG SIZE NAM TỚI 140KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b9/e0/0d/7762c9cfc7e2cf9115d5337b0a164dae.jpg",
+            "https://salt.tikicdn.com/ts/product/a4/87/88/53be4bb93a12279b0d54b0932627a3c4.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>ÁO KHOẮC XUẤT DƯ</p>\n   <p>size XL ngang áo 60 cm (90-105kg)</p>\n   <p>size 2XL ngang áo 65cm (105-120kg)</p>\n   <p>size 3XL ngang áo 70cm (120-140kg)</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 220000,
+        "product_quantity": 5390,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Nỉ mỏng",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "GHI",
+                    "REU",
+                    "XANH",
+                    "ĐEN"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "2XL",
+                    "3XL",
+                    "XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 220000,
+                "sku_stock": 6880
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 220000,
+                "sku_stock": 8101
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 220000,
+                "sku_stock": 5083
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 220000,
+                "sku_stock": 7591
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 220000,
+                "sku_stock": 3781
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 220000,
+                "sku_stock": 2355
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 220000,
+                "sku_stock": 7488
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 220000,
+                "sku_stock": 6546
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 220000,
+                "sku_stock": 8064
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 220000,
+                "sku_stock": 2445
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 220000,
+                "sku_stock": 9791
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 220000,
+                "sku_stock": 3947
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "Áo thun cổ tròn big size nam màu xanh tới 130kg",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/f2/3b/38/bcd11306a89057d7dd8926103aa7f2ee.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chất : cotton</p>\n   <p>Áo có size:</p>\n   <p>4XL: 70 - 80kg</p>\n   <p>5XL: 80 - 90 kg</p>\n   <p>6XL: 90 -100kg</p>\n   <p>7XL: 100 -115kg</p>\n   <p>8x : 115 - 125kg</p>\n   <p>Dài áo 70 - 77 tùy size</p>\n   <p>Chiều cao người mặc trung bình là 1m70-1m75</p>\n   <p>Khách muốn mặc thoải mái form rộng, khách có bụng to hay nhỏ có thể tăng hoặc giảm 1 size tùy</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 150000,
+        "product_quantity": 6545,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Color",
+                "options": [
+                    "4XL",
+                    "5XL"
+                ]
+            },
+            {
+                "name": "Kích thước",
+                "options": [
+                    "Xanh"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 1143
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 6046
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "Áo thun nam bigsize tay ngắn form unisex Angel devil big size nam tới 130kg",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ce/ee/ab/2c7f99df57e0303668be4bd73aa00c63.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chất : cotton 100%</p>\n   <p>Áo có size:</p>\n   <p>4XL: 70 - 80kg</p>\n   <p>5XL: 80 - 90 kg</p>\n   <p>6XL: 90 -100kg</p>\n   <p>7XL: 100 -115kg</p>\n   <p>8x : 115 - 125kg</p>\n   <p>Dài áo 70 - 77 tùy size</p>\n   <p>Chiều cao người mặc trung bình là 1m70-1m75</p>\n   <p>Khách muốn mặc thoải mái form rộng, khách có bụng to hay nhỏ có thể tăng hoặc giảm 1 size tùy</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 180000,
+        "product_quantity": 8223,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "màu",
+                "options": [
+                    "TRANG",
+                    "ĐEN"
+                ]
+            },
+            {
+                "name": "size",
+                "options": [
+                    "6XL",
+                    "7XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 180000,
+                "sku_stock": 1169
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 180000,
+                "sku_stock": 9769
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 180000,
+                "sku_stock": 1887
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 180000,
+                "sku_stock": 4212
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO SƠ MI BBR TAY NGẮN MÀU MỚI BIG SIZE NAM TỚI 135KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/36/0f/c0/985a4fb6ca01443fd2addd000381f55c.jpg"
+        ],
+        "product_description": "\n  <ul><li><p>CHỌN SIZE</p>\n   <p>2X : 75 - 85KG</p>\n   <p>3X : 85 - 95KG</p>\n   <p>4X : 95 - 105KG</p>\n   <p>5X : 105 - 115KG</p>\n   <p>6X : 115 - 125KG</p>\n   <p>7X : 125 - 135KG</p>\n   <p>*** Chất liệu : COTTON</p>\n   <p>**** Hướng dẫn chọn size áo chính xác 99% bằng 1 trong 2 cách sau :</p>\n   <p>Cách 1: cung cấp giúp shop số đo bề ngang bụng áo (áo đang mặc cảm thấy thoải mái nhất)</p>\n   <p>Cách 2 : cung cấp giúp shop số đo vòng bụng trên body.</p>\n   <p>NẾU thể sử dụng cách 1 và cách 2 vẫn còn Cách 3, chính xác 80%</p>\n   <p>Cách 3 : cung cấp giúp shop chiều cao cân nặng.</p>\n   <p>*** CHÍNH SÁCH ĐỔI TRẢ HÀNG QUẦN ÁO :</p>\n  </li></ul>\n <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 260000,
+        "product_quantity": 5297,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "NAU",
+                    "XANH TRANG",
+                    "XANH XAM"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "2XL",
+                    "6XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 260000,
+                "sku_stock": 8756
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 260000,
+                "sku_stock": 1748
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 260000,
+                "sku_stock": 9210
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 260000,
+                "sku_stock": 9792
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 260000,
+                "sku_stock": 4152
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 260000,
+                "sku_stock": 6745
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO THUN XÁM TAY NGẮN CỔ TRÒN CHỮ TIME BIG SIZE NAM TỚI 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/50/fb/bc/e7d9f2ddbc22e6659790d142fe26dc49.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chất : cotton</p>\n   <p>Áo có size:</p>\n   <p>4XL: 70 - 80kg</p>\n   <p>5XL: 80 - 90 kg</p>\n   <p>6XL: 90 -100kg</p>\n   <p>7XL: 100 -115kg</p>\n   <p>8x : 115 - 125kg</p>\n   <p>Dài áo 70 - 77 tùy size</p>\n   <p>Chiều cao người mặc trung bình là 1m70-1m75</p>\n   <p>Khách muốn mặc thoải mái form rộng, khách có bụng to hay nhỏ có thể tăng hoặc giảm 1 size tùy</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 150000,
+        "product_quantity": 4872,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "XAM"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "7XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 1022
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "SƠ MI ĐEN TAY NGẮN IN CHỮ QUANH NGỰC MỚI BIG SIZE NAM TỚI KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/80/8a/cb/a1c8719cd8285a6121c544ede2922d47.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>- Sz 2XL : 80 - 90kg, tùy chiều cao</p>\n   <p>- Sz 3XL: 90 - 100kg, tùy chiều cao</p>\n   <p>- Sz 4XL: 100 - 110kg, tùy chiều cao</p>\n   <p>- Sz 5XL : 110 - 120kg, tùy chiều cao</p>\n   <p>- sz 6XL : 120 -130kg, tùy chiều cao</p>\n   <p>- sz 7XL : 130 -140kg, tùy chiều cao</p>\n   <p>*** Chất liệu : kate lụa</p>\n   <p>**** Hướng dẫn chọn size áo chính xác 99% bằng 1 trong 2 cách sau :</p>\n   <p>Cách 1: cung cấp giúp shop số đo bề ngang bụng áo (áo đang mặc cảm thấy thoải mái nhất)</p>\n   <p>Cách 2 : cung cấp giúp shop số đo vòng bụng trên body.</p>\n   <p>NẾU thể sử dụng cách 1 và cách 2 vẫn còn Cách 3, chính xác 80%</p>\n   <p>Cách 3 : cung cấp giúp shop chiều cao cân nặng.</p>\n   <p>*** CHÍNH SÁCH ĐỔI TRẢ HÀNG QUẦN ÁO :</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 150000,
+        "product_quantity": 5309,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "ĐEN"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "2XL",
+                    "4XL",
+                    "7XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 7134
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 150000,
+                "sku_stock": 7216
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 150000,
+                "sku_stock": 7029
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "Sơ mi nam tay dài màu xanh dương big size nam tới 130kg",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/96/9f/09/bf88a05e070e00d35e5fba91b6edeb26.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Áo sơmi nam nhiều màu (L-8XL)</p>\n   <p>Do ánh đèn nên có sự chênh lệch về màu sắc thực tế, áo trắng này là trắng tinh nhé khách!</p>\n   <p>+Chất vải đẹp và form áo chất chuẩn</p>\n   <p>+Đường chỉ may rất chắn chắn, không phải loại rẻ mà bung xúc</p>\n   <p>45kg &lt; L &lt; 50kg</p>\n   <p>50kg &lt; XL &lt; 55kg</p>\n   <p>56kg &lt; XXL &lt; 61kg</p>\n   <p>62kg &lt; XXXL &lt; 68kg</p>\n   <p>69kg &lt; 4XL &lt; 75kg</p>\n   <p>78kg &lt; 5XL &lt; 95kg (tuỳ chiều cao) (95kg 1m65-68 size 6XL giúp shop ạ)</p>\n   <p>96kg &lt; 6XL &lt; 100kg (tuỳ chiều cao)</p>\n   <p>100kg &lt; 7XL &lt; 110kg</p>\n   <p>111kg &lt; 8XL &lt; 120kg</p>\n   <p>121kg &lt; 9XL &lt; 130kg</p>\n   <p>(TUỲ CHIỀU CAO NỮA NHA KHÁCH ƠI)</p>\n   <p>Đây là bảng tính chất tham khảo còn tùy vào chiều cao của khách.</p>\n   <p>- Áo giao cho khách sẽ có chất vải y như mô tả và trong hình, chỉ có thể khác tag vì tùy đợt làm hàng!</p>\n   <p>•Khách hàng cần tư vấn xin vui lòng nhắn tin trực tiếp cho shop</p>\n   <p>•Hình ảnh là do shop tự chụp, màu có thể chỉ sê dịch với thực tế một chút.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 195000,
+        "product_quantity": 3978,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Color",
+                "options": [
+                    "6XL",
+                    "8XL"
+                ]
+            },
+            {
+                "name": "Kích thước",
+                "options": [
+                    "Xanh"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 195000,
+                "sku_stock": 4008
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 195000,
+                "sku_stock": 1776
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO SƠ MI MÀU XÁM XANH TAY NGẮN CỔ BẺ BIG SIZE NAM TỚI 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/3b/6e/81/074535b9af660f39ebf501f624a90c80.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Áo sơmi nam TAY NGẮN không có túi! có túi thì sẽ ghi có túi nhé ạ!</p>\n   <p>+Có 6 màu: xanh đen, xám, trắng, xanh biển, đen, đỏ đô</p>\n   <p>+Chất vải và form áo chất lượng</p>\n   <p>78kg &lt; 5XL &lt; 95kg (tuỳ chiều cao) (95kg 1m65-68 size 6XL giúp shop ạ)</p>\n   <p>96kg &lt; 6XL &lt; 100kg (tuỳ chiều cao)</p>\n   <p>100kg &lt; 7XL &lt; 110kg</p>\n   <p>111kg &lt; 8XL &lt; 120kg</p>\n   <p>121kg &lt; 9XL &lt; 125kg</p>\n   <p>(TUỲ CHIỀU CAO NỮA NHA KHÁCH ƠI)</p>\n   <p>•Khách hàng cần tư vấn xin vui lòng nhắn tin trực tiếp cho shop</p>\n   <p>•Hình ảnh là do shop tự chụp, màu có thể chỉ sê dịch với thực tế một chút.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 195000,
+        "product_quantity": 1974,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Khác",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "xam xanh"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "5XL",
+                    "6XL",
+                    "7XL",
+                    "8XL",
+                    "9XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 195000,
+                "sku_stock": 7627
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 195000,
+                "sku_stock": 7252
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 195000,
+                "sku_stock": 6746
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 195000,
+                "sku_stock": 7071
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 195000,
+                "sku_stock": 5034
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO KHOẮC HODIES MÀU ĐEN IN LƯNG MỚI BIG SIZE NAM TỚI 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a4/46/77/cd1d064d74c1d2af0d6bc1be6ec82e02.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chất : nỉ bông</p>\n   <p>L : 90 - 105kg</p>\n   <p>XL : 105 - 120kg</p>\n   <p>2XL : 120 - 130kg</p>\n   <p>ÁO HOODIE UNISEX FORM RỘNG</p>\n   <p>- Chất liệu: Vải Nỉ Cotton 100%</p>\n   <p>- Màu sắc: xám</p>\n   <p>- Form: Local Brand - Unisex</p>\n   <p>- Bảo quản: Có thể giặt máy &amp; giặt ngâm</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 320000,
+        "product_quantity": 4792,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Nỉ",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "ĐEN"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "2XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 320000,
+                "sku_stock": 1183
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "Áo thun polo trơn trắng đen chất cotton 65/35 nam bigsize tới 130kg",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/3a/08/aa/22aca4bbe32609196f295ceb8098bfcb.jpg",
+            "https://salt.tikicdn.com/ts/product/82/22/1e/41ab6cb2489625e0577dafda5628d3e6.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chọn size :</p>\n   <p>4x : 80 - 90kg</p>\n   <p>5x : 90 - 100kg</p>\n   <p>6x : 100 - 110kg</p>\n   <p>7x : 110 - 120kg</p>\n   <p>8x : 120 - 130kg</p>\n   <p>- Mang lại cảm giác thoáng mát, thoải mái và dễ dàng trong phối đồ.</p>\n   <p>- Loại vải được nhiều nhãn hiệu thời trang chọn là chất liệu để sản xuất các loại áo thun nhằm đem đến sự an toàn và dễ chịu cho khách hàng</p>\n   <p>- Khả năng thấm hút mồ hôi nhanh chóng</p>\n   <p>- Thích hợp mặc hoạt động trong môi trường khắc nghiệt, vận động thể thao hoặc thời tiết nóng.</p>\n   <p>- Kháng khuẩn tốt</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 250000,
+        "product_quantity": 3189,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Color",
+                "options": [
+                    "trang",
+                    "đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "4XL",
+                    "5XL",
+                    "6XL",
+                    "7XL",
+                    "8XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 250000,
+                "sku_stock": 7547
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 250000,
+                "sku_stock": 1012
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 250000,
+                "sku_stock": 2044
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 250000,
+                "sku_stock": 2330
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 250000,
+                "sku_stock": 9720
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 250000,
+                "sku_stock": 4057
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 250000,
+                "sku_stock": 8555
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 250000,
+                "sku_stock": 4160
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 250000,
+                "sku_stock": 6519
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 250000,
+                "sku_stock": 9537
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "Áo sơ mi nam trơn tay ngắn không túi màu đỏ BIGSIZE tới 135kg",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/33/2b/5e/51555b34e22cbf1ba792e65152e7608f.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>78kg &lt; 5XL &lt; 95kg (tuỳ chiều cao) (95kg 1m65-68 size 6XL giúp shop ạ)</p>\n   <p>96kg &lt; 6XL &lt; 100kg (tuỳ chiều cao)</p>\n   <p>100kg &lt; 7XL &lt; 110kg</p>\n   <p>111kg &lt; 8XL &lt; 120kg</p>\n   <p>121kg &lt; 9XL &lt; 130kg</p>\n   <p>(TUỲ CHIỀU CAO NỮA NHA KHÁCH ƠI)</p>\n   <p>•Khách hàng cần tư vấn xin vui lòng nhắn tin trực tiếp cho shop</p>\n   <p>•Hình ảnh là do shop tự chụp, màu có thể chỉ sê dịch với thực tế một chút.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 185000,
+        "product_quantity": 8001,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Khác",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "ĐO"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "5XL",
+                    "9XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 185000,
+                "sku_stock": 2618
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 185000,
+                "sku_stock": 8053
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO THUN ĐEN CỔ TRÒN IN LƯNG ĐẸP CHẤT COTTON MỊN BIG SIZE NAM TỚI 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/fc/4f/68/982a00c5655640be5581f19821fc6f4a.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chọn size :</p>\n   <p>3XL : 75 - 80kg</p>\n   <p>4XL: 80 - 95kg</p>\n   <p>5XL: 95 - 105 kg</p>\n   <p>6XL: 105 - 115kg</p>\n   <p>7XL: 115 - 125kg</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 180000,
+        "product_quantity": 7583,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "ĐEN"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "4XL",
+                    "7XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 180000,
+                "sku_stock": 4947
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 180000,
+                "sku_stock": 9197
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO KHOẮC KHÓA KÉO VNXK VẢI ĐẸP MỀN MỊN BIG SIZE NAM TỚI 140KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b9/e0/0d/418fbbe48fe582cdf007c1bd1c6e9ee7.jpg",
+            "https://salt.tikicdn.com/ts/product/13/41/c6/ff1a286ef1ad9b0d505862f6b87e8cd5.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>ÁO KHOẮC XUẤT DƯ</p>\n   <p>size XL ngang áo 60 cm (90-105kg)</p>\n   <p>size 2XL ngang áo 65cm (105-120kg)</p>\n   <p>size 3XL ngang áo 70cm (120-140kg)</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 240000,
+        "product_quantity": 2273,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Nỉ",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "GHI",
+                    "REU"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "2XL",
+                    "3XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 240000,
+                "sku_stock": 8130
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 240000,
+                "sku_stock": 4002
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 240000,
+                "sku_stock": 7158
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 240000,
+                "sku_stock": 6956
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO BA LỖ NAM IN 3 SỌC NGỰC BIG SIZE NAM TỚI 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/9b/a4/28/54397af3b099c8327caf4153ebdb957d.jpg",
+            "https://salt.tikicdn.com/ts/product/bd/78/ed/6fa389debda5a239e551e4971562cf86.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>CHỌN SIZE :</p>\n   <p>1X : 90 - 105KG</p>\n   <p>2X : 105 - 115KG</p>\n   <p>3X : 115 - 125KG</p>\n   <p>4X : 125 - 135KG</p>\n   <p>Chất : thun mè</p>\n   <p>SX : Việt Nam</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 135000,
+        "product_quantity": 7633,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "XAM"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "2XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 135000,
+                "sku_stock": 6417
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO BA LỖ NAM CHẤT COTTON BIG SIZE TỚI 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/91/89/3d/abbe7880c7d0003993755e81bdc2ac30.jpg",
+            "https://salt.tikicdn.com/ts/product/91/30/2c/731ac3868dce79b24da3523f82694ce0.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chọn size</p>\n   <p>4x : 90 - 100kg</p>\n   <p>5x : 100 - 110kg</p>\n   <p>6x : 110 - 120kg</p>\n   <p>7x : 120 - 130kg</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 240000,
+        "product_quantity": 3342,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU",
+                "options": [
+                    "XAM",
+                    "ĐEN",
+                    "ĐEN 1"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "7XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 240000,
+                "sku_stock": 6483
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 240000,
+                "sku_stock": 1594
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 240000,
+                "sku_stock": 4890
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "ÁO THUN NAM TAY NGẮN FORM UNISEX CHẤT COTTON BIG SIXE TỚI 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/da/9c/e8/55b996f51e8fd2d1699ea4970a1dfbdc.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chất : cotton</p>\n   <p>Áo có size:</p>\n   <p>4XL: 70 - 80kg</p>\n   <p>5XL: 80 - 90 kg</p>\n   <p>6XL: 90 -100kg</p>\n   <p>7XL: 100 -115kg</p>\n   <p>8x : 115 - 125kg</p>\n   <p>Dài áo 70 - 77 tùy size</p>\n   <p>Chiều cao người mặc trung bình là 1m70-1m75</p>\n   <p>Khách muốn mặc thoải mái form rộng, khách có bụng to hay nhỏ có thể tăng hoặc giảm 1 size tùy</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 150000,
+        "product_quantity": 7160,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Cotton",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU SẮC",
+                "options": [
+                    "XANH"
+                ]
+            },
+            {
+                "name": "SIZE",
+                "options": [
+                    "6XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 150000,
+                "sku_stock": 5244
+            }
+        ]
+    },
+    {
+        "product_shop": "272383",
+        "product_name": "JEAN DÀI MÀU XANH BẠC CHÂN BIG SIZE NAM TỚI 130KG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/99/d1/d0/27c9c480d8acac881b40363837c9dc38.jpg",
+            "https://salt.tikicdn.com/ts/product/0f/ff/2c/26dd934ec6657d8858a6fdf45b9358a2.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Chọn size</p>\n   <p>Size 36 : 80 - 90kg</p>\n   <p>Size 38 : 90 - 100kg</p>\n   <p>Size 40 : 100 - 110kg</p>\n   <p>Size 42 : 110 - 120kg</p>\n   <p>Size 44 : 120 - 130kg</p>\n   <p>**** Có các sz từ 36 đến 44</p>\n   <p>️ Loại : Quần Jean</p>\n   <p>️ Kiểu dáng :, Đi Chơi, Công Sở, Đời Thường</p>\n   <p>️Chất liệu : Vải Jean</p>\n   <p>️Thích hợp : 4 mùa</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 370000,
+        "product_quantity": 8370,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "MÀU SẮC",
+                "options": [
+                    "XANH"
+                ]
+            },
+            {
+                "name": "KÍCH THƯỚC",
+                "options": [
+                    "42"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 370000,
+                "sku_stock": 1582
+            }
+        ]
+    },
+    {
+        "product_shop": "263248",
+        "product_name": "Bộ Quần Áo Nam Lính Mỹ US ARMY  Kiểu Dáng Túi Hộp, Chất Liệu Kaki Cao Cấp Phong Cách Lính Cực Ngầu (Tặng dây lưng) - HÀNG CHÍNH HÃNG",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ec/dd/ec/a333a8722ead4165f40ac8157113cd3c.jpg",
+            "https://salt.tikicdn.com/ts/product/52/db/15/47bcece8b0db0b04b14789680ca24768.jpg",
+            "https://salt.tikicdn.com/ts/product/62/b3/01/aa3a864c81547e492f892e252726e1b9.jpg",
+            "https://salt.tikicdn.com/ts/product/4f/7c/4e/e2e49a624f024d8dea4d9b9c11a8b6ef.jpg",
+            "https://salt.tikicdn.com/ts/product/50/3e/fc/1ef8927e17a70fdd8be41a9b2350a00d.jpg",
+            "https://salt.tikicdn.com/ts/product/51/40/30/b53eeb63f286aecc4e7c882cb3e3b156.jpg",
+            "https://salt.tikicdn.com/ts/product/02/f4/49/0c7b613cee6d4105fb238c334e7ad269.jpg",
+            "https://salt.tikicdn.com/ts/product/58/00/96/137650cc74695456e6722eb87bfa0d60.jpg",
+            "https://salt.tikicdn.com/ts/product/4d/39/73/e94c8f293b04673138616db22e30ea30.jpg",
+            "https://salt.tikicdn.com/ts/product/85/4e/12/fdb24e92ea06e724b51be7d7417cf40a.jpg",
+            "https://salt.tikicdn.com/ts/product/86/13/ea/c4c9e80fb96a3cf91d7ab9d53f64d532.jpg",
+            "https://salt.tikicdn.com/ts/product/91/cb/67/5570fb8215994e72d9beaac96894c174.jpg",
+            "https://salt.tikicdn.com/ts/product/c2/d7/f1/5059a5dc986a65e72b065b806339c9fc.jpg",
+            "https://salt.tikicdn.com/ts/product/03/16/e1/0894cbf527bba2ad0bb002bb0bbd87dc.jpg",
+            "https://salt.tikicdn.com/ts/product/f4/be/49/372b05da707e37edbaa422e5f02b074a.jpg"
+        ],
+        "product_description": "<p><strong>CAM KẾT CỦA USARMY:</strong></p>\n<p>BẢNG SIZE CHUẨN THEO SỐ ĐO NGƯỜI VIỆT NAM.</p>\n<p>HOÀN 100% GIÁ TRỊ ĐƠN HÀNG NẾU KHÔNG GIỐNG MÔ TẢ</p>\n<p>HỖ TRỢ MIỄN PHÍ ĐỔI - TRẢ SẢN PHẨM MỌI TRƯỜNG HỢP</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/4f/7c/4e/4636c317ccc1bb45030afb7877dcd40e.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>THÔNG TIN SẢN PHẨM:</strong></p>\n<p>+ Tên sản phẩm: Bộ Quần Áo KaKi Lính Mỹ US ARMY U569 Kiểu Dáng Túi Hộp Chiến Thuật, Chất Liệu Kaki Cao Cấp Phong Cách Lính Cực Ngầu</p>\n<p>+ Chất liệu: Kaki cao cấp</p>\n<p>+ Màu sắc: 2 Màu (Đen và xanh rêu)</p>\n<p>+ Size: S – M – L – XL – 2XL</p>\n<p>+ Xuất xứ: Nhập khẩu Quảng Châu</p>\n<p>+ Bộ Quần áo Lính dạng hộp độc đáo, phong cách lính khỏe khoắn, mạnh mẽ.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/58/00/96/a163073bc22ceed2876f5aa6a118c7a4.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>TÍNH</strong><strong> NĂNG NỔI BẬT:</strong></p>\n<p>+ Thiết kế theo phong cách thời trang lính Mỹ, trẻ trung, năng động, mạnh mẽ, tôn được vẻ nam tính của người đàn ông</p>\n<p>+ Lớp vải dệt mật độ cao với kỹ thuật dệt vải nano nhập khẩu</p>\n<p>+ Đường may tỉ mỉ chi tiết đến từng đường kim mũi chỉ </p>\n<p>+ Chất vải Kaki pha thoáng khí, thấm hút ẩm tốt, không gây kích ứng, không tĩnh điện, xù lông.</p>\n<p>+ Kiểu dáng áo: áo dài tay, dáng đứng, suông, cổ bẻ, có túi </p>\n<p>+ Bạn là dân chơi ĐỒ LÍNH</p>\n<p>️ Bạn là Phượt Thủ mê du lịch</p>\n<p>️ Bạn là những tay chơi moto phân khối lớn, dân chơi xe minsk .</p>\n<p>️ Hay bạn chỉ đơn giản là Bạn thích ĐỒ LÍNH</p>\n<p>Hãy đến với chúng tôi để có bộ đồ ưng ý nhất </p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/4d/39/73/941addc3b062e00596328e5459eaa067.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>HƯỚNG</strong><strong> DẪN SỬ DỤNG:</strong></p>\n<p>+ Giặt máy với chu kỳ trung bình và vòng quay ngắn</p>\n<p>+ Giặt với nhiệt độ tối đa 30 độ C</p>\n<p>+ Sấy nhẹ ở nhiệt độ thường</p>\n<p>+ Là ủi không quá 110 độ C</p>\n<p>+ Phơi bằng móc dưới bóng râm</p>\n<p>+ Không sử dụng chất tẩy</p>\n<p> <strong>LƯU</strong><strong> Ý NHỎ:</strong></p>\n<p>+ Không giặt chung với đồ dễ xước</p>\n<p>+ Cẩn thận vướng mắc khi phơi</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/03/16/e1/923f4c470afa64639c253c09e62f9e53.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>CHÍNH SÁCH ĐỔI- TRẢ:</strong></p>\n<p>+ US ARMY hỗ trợ đổi- trả trong mọi trường hợp: mặc không vừa, không ưng sản phẩm đã đặt, muốn đổi sang sản phẩm khác, khi sản phẩm còn nguyên tem mác và chưa qua sử dụng.</p>\n<p>+ Nếu có bất kì khiếu nại cần US ARMY hỗ trợ về sản phẩm, khi MỞ sản phẩm Quý khách NÊN quay lại video quá trình mở hàng để được đảm bảo 100% vấn đề sẽ được giải quyết.</p>\n<p><strong>ƯU ĐÃI KHI MUA TẠI US ARMY:</strong></p>\n<p>+ Click “Theo dõi” shop để nhận ngay VOUCHER giảm giá.</p>\n<p>** US ARMY cảm ơn quý khách hàng đã tin tưởng và đồng hành cùng shop. Chúc bạn có một ngày mua sắm thật thoải mái cùng Shop nhé! Đừng ngần ngại nhắn tin cho shop để được hỗ trợ nhanh nhất bạn nhé!</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1798000,
+        "product_quantity": 5394,
+        "product_category": [
+            "Bộ quần áo nam kích cỡ lớn"
+        ],
+        "product_attributes": {
+            "Thời gian bảo hành": "3 Tháng",
+            "Hình thức bảo hành": "Phiếu bảo hành",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Xuất xứ (Made in)": "Thái Lan / Trung Quốc",
+            "Chất liệu": "Kaki cao cấp",
+            "Kích thước": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/f4/be/49/2c45f605762585b6041761c7d6853744.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>",
+            "Thương hiệu": "US ARMY"
+        },
+        "product_variations": [
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "2XL",
+                    "L",
+                    "M",
+                    "S",
+                    "XL"
+                ]
+            },
+            {
+                "name": "Màu",
+                "options": [
+                    "xanh rêu",
+                    "đen"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 7676
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 8557
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 6354
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 5863
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 8841
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 9038
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 5596
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 3464
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 7545
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 1798000,
+                "sku_stock": 7974
+            }
+        ]
+    },
+    {
+        "product_shop": "182854",
+        "product_name": "Đồ Lam Đi Chùa # Lãnh Tụ Phối Nam # Đồ Bộ Nam # Quần Áo",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/74/40/f6/d7e5cefa686cde8510b60dcabd4983e1.jpg",
+            "https://salt.tikicdn.com/ts/product/ad/9d/1e/7f8f265f6f38dad3c108ee447b15978a.jpg",
+            "https://salt.tikicdn.com/ts/product/97/e2/38/b1fb5091d1ad193a2e99ac0def4e2734.jpg",
+            "https://salt.tikicdn.com/ts/product/ee/72/f2/194b0ca68005fb4d5f4ddc240abc5799.jpg",
+            "https://salt.tikicdn.com/ts/product/36/32/43/caf8319846ab06ecb6ff33c82c877177.jpg",
+            "https://salt.tikicdn.com/ts/product/54/9b/cd/e6e9d682d0c1cd1e5b01bc95d483fec9.jpg",
+            "https://salt.tikicdn.com/ts/product/84/89/f5/4128179f3a5e5dc3df97c74a0ea335bd.jpg",
+            "https://salt.tikicdn.com/ts/product/59/9f/36/6aa5d4209f3d5bc3583ca5c88374e1ea.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>BÁN LẺ GIÁ SỈ</p>\n   <p>Chú Ý Khi Đặt Hàng Nhớ Chọn Lấy Mã Miễn Phí Vận Chuyển Và Áp Dụng Mã Miễn Phí Vận Chuyển Bạn Nhé !!</p>\n   <p>Hàng Shop Gửi Đi Cho Khách Gói Trong Bịch Trắng, Khách Có Thể Thấy Đồ Bên Trong Màu Gì, Kiểu Gì, Size Gì, Có Thể Thấy Đồ Của Mình Trước Khi Nhận. Shop Mua Bán Minh Bạch Rõ Ràng, Cho Nên Khách Hàng Yên Tâm ah.</p>\n   <p>Size Chữ và Số Tương Nhau:</p>\n   <p>Size Xs- 1 - 24</p>\n   <p>Size S - 2 - 26</p>\n   <p>Size M - 3 - 28</p>\n   <p>Size L - 4 - 30</p>\n   <p>Size Xl - 5 - 32</p>\n   <p>Size XXL - 6 - 34</p>\n   <p>- [ ] ️CƠ SỞ SẢN XUẤT MAY VÀ BÁN</p>\n   <p>+ Phí ship đổi khách trả.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 204000,
+        "product_quantity": 8882,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Chất liệu": "Kate Mịn",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Thương hiệu": "OEM"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Ca Cao",
+                    "Lam phối xanh",
+                    "Lam phối đồng",
+                    "Nâu",
+                    "Vàng Bò Đậm",
+                    "Vàng Cfe Sữa",
+                    "Xanh Đá",
+                    "Đất"
+                ]
+            },
+            {
+                "name": "Kích cỡ",
+                "options": [
+                    "Size 1- 50kí Trở Lại",
+                    "Size 2- 57Kí Trở Lại",
+                    "Size 3- 62kí Trở Lại",
+                    "Size 4- 71kí Trở Lại",
+                    "Size 5- 75kí Trở Lại",
+                    "Size 6- 84kí Trở Lại"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 4005
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 4686
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 5264
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 5648
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 6610
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7819
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 5825
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 3499
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 1546
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 9732
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 2885
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 3899
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 2282
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7377
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 8406
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 1965
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 3178
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 9639
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 3161
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7874
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 3602
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 4031
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 1965
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 3023
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 3273
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 3965
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7450
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 4848
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 8765
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 6866
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 3425
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 1136
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 6402
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 1550
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7968
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 3730
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 1177
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 7420
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 6071
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 1402
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 6931
+            },
+            {
+                "sku_tier_idx": [
+                    6,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 2337
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    0
+                ],
+                "sku_price": 204000,
+                "sku_stock": 8085
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    1
+                ],
+                "sku_price": 204000,
+                "sku_stock": 4624
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    2
+                ],
+                "sku_price": 204000,
+                "sku_stock": 6598
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    3
+                ],
+                "sku_price": 204000,
+                "sku_stock": 9783
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    4
+                ],
+                "sku_price": 204000,
+                "sku_stock": 9115
+            },
+            {
+                "sku_tier_idx": [
+                    7,
+                    5
+                ],
+                "sku_price": 204000,
+                "sku_stock": 2666
+            }
+        ]
+    }
+]

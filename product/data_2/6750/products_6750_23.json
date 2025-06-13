@@ -1,0 +1,867 @@
+[
+    {
+        "product_shop": "118250",
+        "product_name": "Sách - Ngày Tháng Năm - Diêm Liên Khoa - Nhà Xuất Bản Hội Nhà Văn - Tao Đàn",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/2e/cc/f9/3dabfb639ae616f83d80df3d91f87698.png"
+        ],
+        "product_description": "<p><strong>NGÀY THÁNG NĂM</strong> đã thể hiện sức mạnh và vẻ đẹp của một vùng đất trong cơn đại hạn đang bị mặt trời thiêu đốt. Lối tự sự táo bạo, chủ nghĩa hiện thực hiện đại cùng thủ pháp kinh điển, chỉ thông qua một cây ngô, một ông già, một con chó mù và một thôn trang hoang vu, nhà văn <em><strong>Diêm Liên Khoa</strong></em> đã vẽ nên một bức tranh tuyệt mỹ về sự tồn sinh của con người, đưa câu chuyện thành một bản tụng ca sự sống cùng ý chí ngoan cường của nhân loại. Ngày Tháng Năm là Sisyphus của Trung Quốc, nhưng đồng thời cũng khiến mỗi người trong chúng ta đều cảm thấy mình là một Sisyphus đáng thương.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 95900,
+        "product_quantity": 6460,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Tao Đàn",
+            "Nhà xuất bản": "Nhà Xuất Bản Hội Nhà Văn"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "40395",
+        "product_name": "Bộ Sách Câu Chuyện Về Những Em Bé",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/55/71/c2/a31f3a0bcf35d34b493c4753fb2b22a9.jpg",
+            "https://salt.tikicdn.com/ts/product/69/62/20/7de46eb3b635dabf3f67c29dc2f5dc91.jpg",
+            "https://salt.tikicdn.com/ts/product/38/10/e2/34c8df8ba2ea1b3020b17d8c03e0dbec.jpg",
+            "https://salt.tikicdn.com/ts/product/a3/a4/b0/f9714fe86a3b5df39f72c987aee742e3.jpg"
+        ],
+        "product_description": "<h3 class=\"QN2lPu\">Giới thiệu</h3>\n<p class=\"QN2lPu\">Những cuốn sách của Sibylle von Olfers kể những câu chuyện huyền diệu về gió, bươm bướm, tuyết, giống như những truyện cổ thường được đọc trước giờ đi ngủ. Với tông màu ấm áp, cách vẽ mơ màng cùng giọng văn rủ rỉ tràn đầy yêu thương, những cuốn sách của Sibylle von Olfers được rất nhiều thế hệ bạn đọc thế giới yêu mến.</p>\n<p class=\"QN2lPu\">Combo Câu Chuyện Về Những Em Bé (3 Cuốn)gồm:</p>\n<ul>\n<li class=\"QN2lPu\">Câu chuyện về những em bé bươm bướm</li>\n<li class=\"QN2lPu\">Câu chuyện về những em bé gió</li>\n<li class=\"QN2lPu\">Câu chuyện về những em bé tuyết</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 30000,
+        "product_quantity": 5269,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Kim Đồng",
+            "Nhà xuất bản": "Nhà Xuất Bản Kim Đồng"
+        },
+        "product_variations": [
+            {
+                "name": "Tập",
+                "options": [
+                    "Combo 3 cuốn",
+                    "Em Bé Bươm Bướm",
+                    "Em Bé Gió",
+                    "Em Bé Tuyết"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 30000,
+                "sku_stock": 1863
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 30000,
+                "sku_stock": 7669
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 30000,
+                "sku_stock": 1887
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 30000,
+                "sku_stock": 1027
+            }
+        ]
+    },
+    {
+        "product_shop": "124",
+        "product_name": "Đường Xa Nắng Mới (PB)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d0/6f/86/bdd82199adcca84bdb8aa159a9cbdbe3.png"
+        ],
+        "product_description": "<div><span>Thông tin chi tiết</span></div>\n<div><span>Mã hàng 8936144202210</span></div>\n<div><span>Tên Nhà Cung Cấp Phanbook</span></div>\n<div><span>Tác giả Nguyễn Tường Bách</span></div>\n<div><span>NXB Hội Nhà Văn</span></div>\n<div><span>Năm XB 2024</span></div>\n<div><span>Ngôn Ngữ Tiếng Việt</span></div>\n<div><span>Trọng lượng (gr) 440</span></div>\n<div><span>Kích Thước Bao Bì 20.5 x 13 x 2.1 cm</span></div>\n<div><span>Số trang 420</span></div>\n<div><span>Hình thức Bìa Mềm</span></div>\n<div> </div>\n<div><span>Mô tả sản phẩm</span></div>\n<div><span>Đường Xa Nắng Mới</span></div>\n<div> </div>\n<div><span>- Tác giả Nguyễn Tường Bách sinh năm 1948 tại Thừa Thiên Huế, ông du học ở Đức năm 1967, hiện đang sinh sống tại CHLB Đức. Ông là tác giả của các tựa sách nổi tiếng như Mùi Hương Trầm, Mộng đời bất tuyệt, Lưới trời ai dệt, Đêm qua sân trước một cành mai.</span></div>\n<div> </div>\n<div><span>- Đường xa nắng mới của Nguyễn Tường Bách không chỉ đưa độc giả phiêu lãng khắp nơi qua những chuyến du hành thú vị, mà còn chia sẻ với người đọc những trải nghiệm sâu sắc trên con đường ngao du thế giới bên ngoài để chứng nghiệm những đổi thay trong nội tâm.</span></div>\n<div> </div>\n<div><span>- Hơn phân nửa tập sách là bút ký ghi lại cuộc hành hương chiêm bái núi Kailash (Tây Tạng) ở độ cao trên 5.000m do tác giả và 21 người Việt Nam cùng tổ chức đi vào tháng 8-2011. Do vậy, tập bút ký vừa mang tính thời sự vừa ướp đậm những trải nghiệm tâm linh với nét nhìn tinh tế trong mỗi sự vật.</span></div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 223000,
+        "product_quantity": 6441,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "CÔNG TY TNHH PHAN LỆ & FRIENDS",
+            "Loại bìa": "Bìa mềm",
+            "Số trang": "420",
+            "Nhà xuất bản": "Nhà Xuất Bản Hội Nhà Văn"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "33717",
+        "product_name": "Hoàng Lê Nhất Thống Chí (Sbooks)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/38/75/98/e95b6cd1984d388b718bc2533a68e05c.jpg",
+            "https://salt.tikicdn.com/ts/product/94/7f/60/4a04a04f0c2e55b1c54c62a377a08053.jpg",
+            "https://salt.tikicdn.com/ts/product/2c/20/1c/7920992e84be9710242ff9e80b4b71b4.jpg",
+            "https://salt.tikicdn.com/ts/product/23/4c/ce/d56025d07e46096f82cfa3907d677cfd.jpg",
+            "https://salt.tikicdn.com/ts/product/69/a1/99/d419ad5ab3fe278b6e0135ac743b957a.jpg",
+            "https://salt.tikicdn.com/ts/product/3f/64/02/8d7f5e34f68d2a5545d51d31af0cee92.jpg"
+        ],
+        "product_description": "<p style=\"text-align:center;\"><span style=\"color:#ff0000;\"><strong>Hoàng Lê Nhất Thống Chí</strong></span></p>\n<p style=\"text-align:left;\"><span style=\"color:#000000;\"><strong>GIỚI THIỆU SÁCH:</strong></span></p>\n<p style=\"text-align:left;\">Ngày nay, ai có để ý đến rừng sách cũ nước nhà, chắc đã đọc qua, hoặc đã trông thấy, hay đã nghe nói đến bộ <strong>Ngô Gia Văn Phái</strong>. Đó là một lô sách riêng của họ Ngô Thì làng Tả Thanh Oai. Toàn bộ rất hùng vĩ, có thể đứng sau cái kho tác phẩm của Lê Quý Đôn.</p>\n<p><em><strong>Hoàng Lê Nhất Thống Chí</strong></em> chính là một tập trong bộ sách đó. Cũng như các tập khác của Ngô gia văn phái, sách này chỉ có bản viết, không có bản in. Trong những bản lưu truyền đến nay, có bản lại đề tên là An Nam nhất thống chí. Tên tuy khác, nội dung vẫn đúng như nhau, toàn tập có mười bảy hồi…</p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/ts/product/07/b6/3d/70a7667c1dd494fef85dfc2ee904bf69.jpg\" alt=\"hoang-le-nhat-thong-chi-sbooks-8.jpg\" /></p>\n<p>Tuy rằng thể tài của nó theo lối diễn nghĩa, mỗi hồi đều khởi đầu bằng hai câu mào, và kết thúc bằng hai câu thơ, giống như tiểu thuyết của Tàu, nhưng nội dung thì là một bộ truyện chí, chép toàn sự thật, không bịa đặt, không tây vị. Như việc Ngô Thì Nhậm bị Trần Danh Án nói mỉa trong khi ông này định gọi ông kia về làm tôi nhà Tây Sơn, ở đây cũng có chép rõ.</p>\n<p>Bởi nó là thứ truyện chí, chép những sự thật, có thể giúp cho chính sử, vả lại, công việc trong hồi Lê mạt, chỉ có tập này ghi lại tường tận mà thôi, cho nên các nhà chép sử sau này đều có dùng làm tài liệu. Với giá trị ấy, sách này rất đáng tồn tại sau khi chữ Hán đã hết ở đất Việt Nam. Chính vì lẽ đó mà có bản dịch sau đây.</p>\n<p>Một điều nên nói thêm là: Trong bản dịch này, tôi vì muốn nó khỏi bị liệt vào hạng tiểu thuyết, cho nên, về việc chia thiên, không theo nguyên văn, gặp chỗ dứt mạch thì ngắt ra làm một đoạn, bất kì dài ngắn, và những câu mào ở đầu hồi, câu thơ ở cuối hồi, đều bỏ không dịch, thỉnh thoảng gặp chỗ mạch văn không tiếp tục, cũng có thêm bớt vài chữ cho khỏi ngớ ngẩn.</p>\n<p>Làm vậy, tôi cũng biết là đắc tội với cổ nhân. Bởi muốn tăng thêm phẩm giá của nguyên văn, khiến cho người ta biết nó là bộ truyện chí, quan hệ với sử học giới, nên tôi không tránh lỗi đó.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 138000,
+        "product_quantity": 4728,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "SBOOKS",
+            "Loại bìa": "Bìa mềm",
+            "Số trang": "412",
+            "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "314216",
+        "product_name": "Đỉnh Gió Hú song ngữ Anh - Việt - Wuthering Heights - Đồi Gió Hú song ngữ Anh - Việt - Emily Bronte",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/77/d5/e5/09a417096f2589fb4b9784bd990a57b2.jpg"
+        ],
+        "product_description": "<h1 class=\"Title__TitledStyled-sc-c64ni5-0 iXccQY\">Wuthering Heights - Đồi Gió Hú - Đỉnh Gió Hú - SONG NGỮ ANH VIỆT</h1>\n<p><strong>Wuthering Heights</strong> is a house on the lonely moors of Yorkshire. Here a tragic love story unfolds as Catherine Earnshaw and Heathcliffe fall in love, but Cathy marries another man, Edgar Linton, and breaks Heathcliffe's heart. Returning years later, he takes his revenge on the Linton family. \"Penguin Readers\" is a series of simplified novels, film novelizations and original titles that introduce students at all levels to the pleasures of reading in English. Originally designed for teaching English as a foreign language, the series' combination of high interest level and low reading age makes it suitable for both English-speaking teenagers with limited reading skills and students of English as a second language.</p>\n<p>Many titles in the series also provide access to the pre-20th century literature strands of the National Curriculum English Orders. \"Penguin Readers\" are graded at seven levels of difficulty, from \"Easystarts\" with a 200-word vocabulary, to Level 6 (Advanced) with a 3000-word vocabulary. In addition, titles fall into one of three sub-categories: \"Contemporary\", \"Classics\" or \"Originals\". At the end of each book there is a section of enjoyable exercises focusing on vocabulary building, comprehension, discussion and writing. Some titles in the series are available with an accompanying audio cassette, or in a book and cassette pack. Additionally, selected titles have free accompanying \"Penguin Readers Factsheets\" which provide stimulating exercise material for students, as well as suggestions for teachers on how to exploit the Readers in class.</p>\n<div class=\"styles__RatingStyled-sc-1onuk2l-0 eLAYuU\">\n<div>\n<div class=\"styles__StyledReview-sc-1onuk2l-1 dRFsZg\"> </div>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 204000,
+        "product_quantity": 1350,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "An Nam Books",
+            "Ngày xuất bản": "2023-08-04 10:43:39",
+            "Kích thước": "<p>15  X 24 CM</p>",
+            "Loại bìa": "Bìa mềm",
+            "Số trang": "350",
+            "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "282399",
+        "product_name": "Cho Tôi Xin Một Vé Đi Tuổi Thơ (NXB Trẻ)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/af/22/b3/030338f7a441a1917a026f4b21161d94.jpg",
+            "https://salt.tikicdn.com/ts/product/0d/be/6c/edc2f5817b4990fbbabf08fba7119cee.jpg",
+            "https://salt.tikicdn.com/ts/product/6b/08/9e/1a755b2d90490adbd645351cf9ee2335.jpg",
+            "https://salt.tikicdn.com/ts/product/bf/62/27/5a8989b75c854f9052bfeadefd166192.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <p><strong>Sách-Cho Tôi Xin Một Vé Đi Tuổi Thơ (Bìa mềm)</strong></p> \n  <p>------------</p> \n  <p><br> </p> \n  <p>Tác giả: Nguyễn Nhật Ánh</p> \n  <p>Khổ sách: 13x20cm</p> \n  <p>Số trang: 208</p> \n  <p>ISBN: 978-604-1-00475-7</p> \n  <p>Năm: 2020</p> \n  <p>NXB: NXB Trẻ</p> \n  <p>NPH: NXB Trẻ</p> \n  <p>Giới thiệu tóm tắt tác phẩm:</p> \n  <p>Truyện Cho tôi xin một vé đi tuổi thơ là sáng tác mới nhất của nhà văn Nguyễn Nhật Ánh. Nhà văn mời người đọc lên chuyến tàu quay ngược trở lại thăm tuổi thơ và tình bạn dễ thương của 4 bạn nhỏ.</p> \n  <p>Không chỉ thích hợp với người đọc trẻ, cuốn sách còn có thể hấp dẫn và thực sự có ích cho người lớn trong quan hệ với con mình.</p> \n  <p><br> </p> \n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng)</p>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 90000,
+        "product_quantity": 6285,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Trẻ",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "9778",
+        "product_name": "Sách Hay Của Tác Giả Nguyễn Nhật Ánh:  Con Chó Nhỏ Mang Giỏ Hoa Hồng",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/bc/dc/e9/e61a5e23df4245d44a2973116a668656.jpg"
+        ],
+        "product_description": "<p><strong>Sách Hay Của Tác Giả Nguyễn Nhật Ánh: Con Chó Nhỏ Mang Giỏ Hoa Hồng</strong></p>\n<p>Cái tựa sách quả là có sức gợi tò mò.</p>\n<p>Tại sao lại là con chó mang giỏ hoa hồng? Nó mang cho bạn nó, hay cho những ai biết yêu thương nó?  </p>\n<p>Câu chuyện về 5 chú chó đầy thú vị và cũng không kém cảm xúc lãng mạn- tác phẩm mới nhất của nhà văn bestseller Nguyễn Nhật Ánh sẽ khiến bạn thay đổi nhiều trong cách nhìn về loài thú cưng số 1 thế giới này.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 95000,
+        "product_quantity": 9747,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Trẻ",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    null,
+    {
+        "product_shop": "7082",
+        "product_name": "Sách Mùa Xuân Ở Căn Nhà Cũ   - Bản Quyền",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/0f/5c/92/d9902e7ad10268276b7412083c2b1226.jpg"
+        ],
+        "product_description": "<div>\n<p><br />Năm hai mươi tám tuổi, Trình Nặc quyết định ly hôn sau khi phát hiện ra chồng ngoại tình và có con riêng với người bạn thân thiết nhất của mình. Cô chẳng còn thiết tha gì với cuộc sống nơi phố thị, đi khắp đó đây mà chẳng có mục đích gì. Cuối cùng dưới sự run rủi của số phận, cô đã tới cù lao Hà Diệp và mua lại một căn nhà cũ tại đây.<br />Trình Nặc bắt đầu một cuộc sống mới. Sửa nhà, trồng rau, nuôi gà nuôi vịt, chẻ củi nấu cơm, trải qua những tháng ngày bình dị khiến lòng cô thư thái nhẹ nhõm hơn nhiều. Cô vô tình nổi tiếng trên mạng xã hội nhờ những hình ảnh và video ghi lại cuộc sống thường ngày. Và cũng chính tại nơi đây, cô đã gặp được Tông Lãng - người khiến cô một lần nữa tin vào tình yêu và dám vượt qua nỗi sợ hãi của bản thân để đón nhận lại hạnh phúc.<br />Tông Lãng vui vẻ tiễn Trình Nặc đến tận cửa nhà chú Lưu rồi giao túi đồ đã mua cho cô. Cô nhận lấy, toan bước vào thì chợt bị anh kéo lại.<br />“Đợi đã.” Anh soi điện thoại lên mặt cô, nói bằng giọng kỳ lạ: “Hình như trên mặt em thiếu thứ gì thì phải?”<br />Trình Nặc đưa tay sờ mặt, tự hỏi liệu trên mặt có thể thiếu gì được chứ, không lẽ thiếu mũi sao. Bất ngờ thay anh đã xích lại gần rồi nhanh chóng đặt một nụ hôn lên mặt cô.<br />Anh cười: “Thì ra thiếu một nụ hôn.”<br /><br /></p>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 209000,
+        "product_quantity": 2468,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Skybooks",
+            "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+        },
+        "product_variations": [
+            {
+                "name": "khác",
+                "options": [
+                    "Bản Thường"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 209000,
+                "sku_stock": 4723
+            }
+        ]
+    },
+    {
+        "product_shop": "314216",
+        "product_name": "Họ Trở Thành Nhân Vật Của Tôi - TRẺ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/1f/7c/6e/31d602f9f0e942171e1fc8569bb31d0b.jpg"
+        ],
+        "product_description": "<p style=\"text-align:center;\"><span style=\"color:#ff0000;\"><strong>Họ Trở Thành Nhân Vật Của Tôi</strong></span></p>\n<p style=\"text-align:center;\"><span style=\"color:#ff0000;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/1f/7c/6e/b24f9403808c173a1a15f94a496f3b61.jpg\" alt=\"\" width=\"750\" height=\"1179\" /></strong></span></p>\n<p> </p>\n<p>Giới thiệu tóm tắt tác phẩm:<br /><br />Tất cả những con người vốn tự mình sáng tạo ra cả một thế giới nhân vật, lần này chính họ lại trở thành nhân vật trong tay người khác. (Trích đề từ của cuốn sách)</p>\n<p>Tức là trong tay Hồ Anh Thái, các nhà văn, nghệ sĩ được thành một nhân vật- là chính họ, nhưng được nhìn từ những góc khác nhau của con mắt nhà văn.</p>\n<p>Bức chân dung (của Tô Hoài, Ma Văn Kháng, Nguyễn Thị Thu Huệ, Nguyễn Thị Minh Thái, Ý Nhi, Lê Minh Khuê, Nguyễn Thế Hoàng Linh, Việt Linh, Lê Dung, Chí Trung, Trần Đại Thắng, Nguyễn Ngọc Thuần, Aziz Nesin, George Evans, Bodil Malmsten, Maxine Hong Kingston, G.Emerson, S.Lidman…) do Hồ Anh Thái vẽ bằng lời theo cách giản dị của mình, đoạn kể, đoạn đối thoại, chỗ tô đậm, chỗ chỉ là nét phác qua… Tác giả và nhân vật đối thoại với nhau về nghề, về đời văn, về một cuốn sách, về một người bạn, hoặc đơn giản là những câu chuyện đời thường, những chi tiết hành xử, có khi chỉ là vài câu nói… Chân dung hay ký họa những nhân vật nổi tiếng trong giới văn chương, nghệ sĩ, trong và ngoài nước được thành hình từ những chi tiết đó, không phải lúc nào cũng ở thế nhìn thẳng, có khi nhìn nghiêng, nhưng đủ để hình dung người ấy rõ ràng với đầy đủ tính cách đời thường, và những thành tựu của họ trong công việc, sinh động lấp lánh “như cá tươi”!</p>\n<p>Thể loại chân dung thường cho thấy tình cảm của người viết và người được viết. Trong tập sách này cũng không ngoại lệ. Một bức chân dung đầy đủ, không quá lời, và tất nhiên, nó khác với các hình chân dung người khác vẽ. Sự ưu ái, nếu cần nói, là ở chính những nhân vật mà Hồ Anh Thái chọn, là chính các nhà văn, họa sỹ nghệ sỹ này, chứ không phải người kia, người khác. Thấy rõ cái tình âu yếm của tác giả viết về những người bạn nhà văn, nghệ sĩ của mình, không chỉ trong những thán phục ngầm ẩn, mà đặc biệt trong cách chọn từ để nói những ý không phải là ca ngợi về người mình đang kể về.</p>\n<p>Phần cuối của Họ trở thành nhân vật của tôi với tên gọi “Chốc lát những bến bờ” được viết theo thể du ký – là những ghi chép về các chuyến đi. Với Hồ Anh Thái, những chuyến đi về đất Phật Ấn Độ, đến Ba Tư quê hương của những câu chuyện thần kỳ với những khu chợ và những tấm thảm, sang đất cố đô Lào “cũng ngồi với nhau ở miền Đông Nam Á”, đến Hàn Quốc, hay sang châu Mỹ, châu Úc, châu Âu… đều tưng bừng hấp dẫn với muôn vẻ màu sắc bởi nét bí ẩn đầy ngạc nhiên của từng vùng văn hóa đặc sắc. Đọc du ký của Hồ Anh Thái, lại thấy thôi thúc muốn lên đường, đến nơi mà anh đã đến, để thấy “Văn hóa là cuộc gặp gỡ con người với con người”.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 133000,
+        "product_quantity": 7504,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Trẻ",
+            "Loại bìa": "Bìa mềm",
+            "Số trang": "464",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "325289",
+        "product_name": "Sách - Cắt Sâu Mãi Mãi - Đỗ Trung, Fantacy Việt - Lightbooks",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a7/b1/cb/f3aa435ab5a0c71a864c04052357bfaa.jpg",
+            "https://salt.tikicdn.com/ts/product/b9/e3/ea/05006fe08cd705c20109c8be0895eeac.jpg",
+            "https://salt.tikicdn.com/ts/product/08/c0/1d/eebc3383ce689691a62498257cc6f8f2.jpg"
+        ],
+        "product_description": "<p class=\"QN2lPu\">\"Vết cắt trong tim luôn là vết cắt sâu mãi mã\"</p>\n<p class=\"QN2lPu\">Mở đầu câu chuyện là cuộc sống yên bình của Zero Gristendusd, con trai của một trong bảy vị Thủ linh tối cao. Cậu có những người bạn tốt như Crystals, Martin, một cô em gái xinh đẹp tên là Kyra và một ngôi nhà tràn ngập hạnh phúc. Thế nhưng niềm vui ấy chẳng tày gang, biến cố nối tiếp nhau ập đến, gia đình ly tán, bạn bè xa cách.</p>\n<p class=\"QN2lPu\">Zero phải đối mặt với Chúa tể Slayveter, kẻ đã gây ra cơn ác mộng đang hoành hành trên thế giới đồng thời, chàng thanh niên phát hiện ra bí mật khủng khiếp của dòng họ. Đối diện với quá khứ bi thương, Zero buộc phải lựa chọn hành động hay cam chịu số phận.</p>\n<p class=\"QN2lPu\">Theo chân Zero cùng các bạn, độc giả sẽ được chiêm ngưỡng một thế giới khoa học kĩ thuật giả tưởng nhiều bất ngờ và muôn phần gay cấn.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 168000,
+        "product_quantity": 3351,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "CÔNG TY CỔ PHẦN SÁCH LIGHTBOOKS",
+            "Ngày xuất bản": "2024-03-01 17:50:53",
+            "Loại bìa": "Bìa mềm",
+            "Số trang": "410",
+            "Nhà xuất bản": "Nhà Xuất Bản Hồng Đức"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "56771",
+        "product_name": "Sách - Hippie những kẻ lãng du (Paulo Coelho) - Nhã Nam Official",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/48/6d/69/a1932050ee031db4ee632dbc675eb866.jpg",
+            "https://salt.tikicdn.com/ts/product/9c/45/d6/a2a4450f4a9c9964e91390a36b12425d.jpg"
+        ],
+        "product_description": "<p>Tác giả: PAULO COELHO</p>\n<p>Dịch giả: TRẦN HẢI ĐỨC</p>\n<p>Nhà xuất bản: Hội Nhà Văn</p>\n<p>Kích thước: 14x20.5cm</p>\n<p>Số trang: 368</p>\n<p>Ngày phát hành: 2024</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/9c/45/d6/f0838f159c0f54ad008319e9e0870b73.jpg\" alt=\"\" width=\"750\" height=\"326\" /></p>\n<p>“Một câu chuyện mới mẻ như muốn nhắc nhớ chúng ta rằng viết từ trái tim là cách tốt nhất để giao tiếp bằng mọi ngôn ngữ, cũng như để sống mãi.”</p>\n<p>- Elle - </p>\n<p>Hippie – Những kẻ lãng du đưa ta đến với những con người hoàn toàn xa lạ, với những mục đích khác nhau nhưng cùng hướng đến vùng đất xa xôi Nepal trên con đường mòn hippie huyền thoại. Trong hành trình đó, chàng trai Brazil tên Paulo gầy gò có chòm râu dê và mái tóc dài bồng bềnh, mơ ước trở thành nhà văn đã gặp gỡ Karla, cô gái Hà Lan ở độ tuổi đôi mươi đang tìm kiếm bạn đồng hành cho chuyến đi.</p>\n<p>Sau khi gặp nhau ở Amsterdam, cô thuyết phục Paulo cùng cô lên chiếc Xe buýt Diệu kỳ đi từ Amsterdam đến Istanbul và qua Trung Á đến Kathmandu. Khi cùng nhau bắt đầu cuộc hành trình này, Paulo và Karla đã khám phá ra mối tình đánh thức họ ở mọi phương diện, đồng thời dẫn đến những lựa chọn và quyết định sẽ định hướng cho cuộc sống của họ sau này.</p>\n<p> </p>\n<p>#sách #sach #sachnhanam #nhanam</p>\n<p>#PauloCoelho #hippie #vanhoc #nuocngoai</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 127245,
+        "product_quantity": 2802,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Nhã Nam",
+            "Dịch Giả": "TRẦN HẢI ĐỨC",
+            "Loại bìa": "Bìa mềm",
+            "Số trang": "368",
+            "Nhà xuất bản": "Nhà Xuất Bản Hội Nhà Văn"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "90454",
+        "product_name": "1Q84 - Tập 2 - Haruki Murakami - Lục Hương dịch - (bìa mềm)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/91/4d/19/a443af43c37decc608d360cef20b68e6.jpg",
+            "https://salt.tikicdn.com/ts/product/16/40/40/c746049d967dbe013c4641d6b6cfcea1.jpg"
+        ],
+        "product_description": "<h2 style=\"text-align:justify;\">Giới thiệu sách 1Q84 - Tập 2</h2>\n<p style=\"text-align:justify;\">Vậy là Aomame sắp sửa làm một việc hệ trọng. Nàng đã từng nhiều lần làm những việc tương tự, tuy nhiên lần này khác hẳn - một việc mà, nếu hoàn thành được, nàng sẽ không bao giờ còn có thể tiếp tục cuộc sống bình thường như trước… Đồng thời, dù cho chuyện gì xảy đến với nàng đi nữa, nàng không bao giờ ngừng nghĩ đến người con trai nàng đã từng nắm tay một lần duy nhất hồi tiểu học, và rồi, một cách hết sức bất ngờ, nàng biết được bằng cách nào nàng có thể tự coi như mình đang ở cùng anh…</p>\n<p style=\"text-align:justify;\">Những chuyện bất ngờ không ngừng xảy đến với Tengo. Dần dần anh cũng biết được vai trò của mình trong guồng quay của các sự kiện, và nhận ra rốt cuộc thì thực tại quanh anh không giống như anh nghĩ. Đồng thời, bên cạnh đó, anh cũng dần hiểu ra trên thực tế, suốt những năm qua, hình ảnh ai đã luôn luôn trong tâm khảm anh, là cái neo tinh thần cho anh. Giữa vòng xoáy những bất an ngày một vây chặt lấy Tengo, anh khắc khoải đi tìm người đó…</p>\n<p style=\"text-align:justify;\">Chậm rãi, thâm trầm, hấp dẫn, bất ngờ, 1Q84 - Tập 2 tiếp tục khiến người đọc không thể buông rời câu chuyện về những gì xảy ra với Aomame và Tengo trong cái thế giới mà họ không còn có thể thoát ra.</p>\n<p style=\"text-align:justify;\">***</p>\n<p style=\"text-align:justify;\">Đừng chỉ đọc các trích đoạn nho nhỏ đăng trên những trang báo, tin tức, giới thiệu sách. Hãy mang một quyển về nhà và tự chiêm nghiệm, để thấy được tài năng của Murakami, cũng như để không bỏ lỡ một câu chuyện được kể một cách rất xuất sắc.</p>\n<p style=\"text-align:justify;\">Bất chấp thể loại bạn yêu thích là lãng mạn, kỳ bí hay điều tra vụ án, 1Q84 đều sẽ đáp ứng được. Nói cách khác, quyển sách có đầy đủ các yếu tố hấp dẫn mọi thể loại độc giả.</p>\n<p style=\"text-align:justify;\">Bên trong quyển sách, có một câu chuyện tình. Đó là chuyện tình từ khi còn rất nhỏ giữa Aomame và Tengo. Một khoảnh khắc nắm tay để rồi mãi hàng chục năm sau, cả hai vẫn mang trong lòng nỗi mong mỏi được gặp lại, được bộc bạch nỗi lòng với người kia.</p>\n<p style=\"text-align:justify;\">Có một câu chuyện huyền bí về giáo phái Sakikage, về Người Tí Hon dệt nên Nhộng Không Khí, về thế giới có hai mặt trăng cùng tồn tại, nơi khiến người ta nghi ngờ về logic trong chính đầu óc của mình - đến mức Aomame không còn tin rằng mình đang sống ở năm 1984, rằng cô đang tồn tại ở một không gian gọi là năm 1Q84 (Q nghĩa là Question).</p>\n<p style=\"text-align:justify;\">Rồi lại có những tội lỗi đan xen. Một Bà chủ muốn đưa những gã đàn ông đốn mạt sang thế giới khác trong yên lặng, và Aomame là cánh tay đắc lực của bà với ngón nghề điêu luyện. Một Lãnh tụ tà giáo cưỡng bức trẻ em mà không ai hay biết. Một quyển tiểu thuyết được chỉnh sửa để thắng giải Tác giả mớivà trở thành Best-sellers đình đám. Vẫn chưa hế</p>\n<p style=\"text-align:justify;\">Còn có cả một câu chuyện nhân văn về cuộc đời. Tengo, Aomame, và cả những nhân vật ngỡ-là-phụ khác đều cảm nhận cuộc sống theo cách riêng của họ, với những trải nghiệm và suy tư rất <em>\"người,\"</em> đầy trăn trở, đầy day dứt về lẽ sống, cách sống của bản thân. Họ khao khát một đối tượng để yêu thương, dù đó là người khác giới – như Aomame, Tengo; một con vật – như Tamaru yêu quý con chó giữ nhà; hay một đứa con – như Bà chủ. Cuộc sống của họ ngỡ vô cùng phức tạp, phóng túng, nhưng xét đến cùng, đều được xây dựng trên những triết lý đơn giản về cuộc sống.</p>\n<p style=\"text-align:justify;\">Với rất nhiều nguyên liệu chọn lọc, Murakami đã kể một câu chuyện hấp dẫn, pha trộn giữa huyền bí, siêu thực với cuộc sống nội tâm của con người và những biến cố kì lạ trong cuộc sống.</p>\n<p style=\"text-align:justify;\">Nếu bạn chưa từng đọc tác phẩm nào của Murakami, đây sẽ là thiên truyện khiến bạn phải ngưỡng mộ và lùng sục để được đọc thêm nhiều tác phẩm khác. Còn nếu bạn đã biết đến ông, thì càng dứt khoát nên sở hữu đủ bộ 1Q84, vì phải nói, cho đến nay, đây thực sự là tiểu thuyết thể hiện tài năng kể chuyện của Murakami tới mức cao nhất, tinh tuý nhất.</p>\n<p style=\"text-align:justify;\">Sách được Nhã Nam thực hiện với công tác biên dịch – biên tập rất tốt. Đọc từ đầu đến cuối, bạn sẽ không tìm thấy một lỗi sai nào về từ vựng (thậm chí không có cả lỗi type hay chính tả), chất lượng văn phong cũng rất cao, truyền tải được tốt ý đồ của câu chuyện. Nhìn toàn cục, đây xứng đáng là quyển tiểu thuyết cần-phải-có dành cho bạn.</p>\n<p style=\"text-align:justify;\">Cuốn 1Q84 kể về quá trình một tổ chức cánh tả biến đổi thành một giáo phái của những kẻ điên rồ và những tên sát nhân, ám chỉ giáo phái Aum – giáo phái đã gây nên vụ đầu độc kinh hoàng trong hệ thống xe điện ngầm ở Tokyo năm 1995 khiến 12 người thiệt mạng và hàng trăm người chịu những di chứng nặng nề về thể chất và tinh thần.</p>\n<p style=\"text-align:justify;\">Khi giải thích ý đồ cuốn tiểu thuyết, Haruki Murakami cho biết ông muốn cảnh báo mọi người về nguy cơ của chủ nghĩa chính thống và khuynh hướng xuất hiện các giáo phái trong bối cảnh khủng hoảng toàn cầu của thế giới hiện đại.</p>\n<p style=\"text-align:justify;\">Cho tới nay, chỉ trong vòng nửa năm, số lượng bản in 1Q84 đã lên tới con số kỷ lục là 3,23 triệu bản. Ngay sau khi ra mắt bạn đọc hồi cuối tháng 5 năm nay, cuốn 1Q84 đã ngay lập tức được người dân Nhật tranh nhau tìm mua và mau chóng biến mất khỏi các quầy sách, bởi vậy đã phải liên tục tái bản nhiều lần.</p>\n<p style=\"text-align:justify;\">Kỷ lục của cuốn tiểu thuyết 1Q84 còn có ý nghĩa hơn nữa bởi vì đây là tác phẩm văn học đầu tiên kể từ năm 1990 giành được danh hiệu <em>“cuốn sách bán chạy nhất trong năm”</em> ở Nhật.</p>\n<p style=\"text-align:justify;\">Trước đó, danh hiệu này thường chỉ thuộc về các loại sách tra cứu mang tính giải trí, các cuốn hồi ký chính trị hoặc tư liệu. Ngay cả năm nay cũng vậy, tuy được thừa nhận là bestseller nhưng 1Q84 vẫn thua kém chút ít cuốn sách tra cứu những từ tượng hình khó đọc.</p>\n<p style=\"text-align:justify;\">Theo lời nhà văn Haruki Murakami, cuốn 1Q84 có thể coi là câu trả lời độc đáo đối với cuốn 1984, cuốn tiểu thuyết được coi là kinh điển của văn hào Anh George Orwell. (Cũng nên biết thêm trong tiếng Nhật, chữ Q phát âm gần giống cách phát âm số 9 trong tiếng Anh).</p>\n<p style=\"text-align:justify;\">Haruki Murakami năm nay đã 60 tuổi. Ông là nhà văn Nhật được biết đến nhiều nhất ở nước ngoài. Tất cả các cuốn tiểu thuyết của ông đều bán rất chạy, chẳng hạn như các cuốn Biên niên ký chim vặn dây cót, Rừng Na Uy, Kafka bên bờ biển.</p>\n<p style=\"text-align:justify;\">Ông cũng được coi là một trong những ứng cử viên nặng ký cho giải Nobel văn học trong tương lai mặc dù ông đã có lần tuyên bố không coi trọng các giải thưởng văn học. Theo lời ông, phần thưởng lớn nhất đối với nhà văn là được độc giả yêu mến.</p>\n<h2 style=\"text-align:justify;\">Nhận xét đánh giá về cuốn sách 1Q84</h2>\n<p style=\"text-align:justify;\"><em>“Cuốn hút. 1Q84 là một tiểu thuyết lớn theo mọi nghĩa. Độc giả một khi đã sa chân vào dòng chảy thời gian của nó thì khó lòng bước lên bờ.”</em> - <strong>Sherryl Connelly</strong>, New York Daily News</p>\n<p style=\"text-align:justify;\"><em>“Murakami giống như một nhà ảo thuật đang diễn giải những gì mình thực hiện trong lúc biểu diễn song vẫn khiến người ta tin rằng ông sở hữu một sức mạnh siêu nhiên… Trong khi bất cứ ai cũng có thể kể một câu chuyện giống như một giấc mơ, ông là một trong số ít nghệ sĩ có thể khiến chúng ta thấy mình thực sự đang mơ, giống như với tiểu thuyết này.”</em> - <strong>The New York Times Book Review</strong></p>\n<p style=\"text-align:justify;\"><em>“1Q84 là một trong những cuốn sách nhanh chóng biến mất khỏi tay bạn, lôi bạn vào sự huyền bí của nó với một tốc độ và kỹ năng khiến bạn chẳng thể nhận ra rằng nhiều giờ đã trôi qua và hàng núi trang sách đã bị ngốn sạch ”</em> - <strong>Rob Brunner</strong>, Entertainment Weekly</p>\n<p style=\"text-align:justify;\"><em>“Murakami biết cách kể một câu chuyện mà không cần phải làm dáng. Ông hiểu làm thế nào để pha trộn hiện thực với huyền ảo với một tỉ lệ chính xác. Và ông có biệt tài viết về những điều thường nhật như làm bữa tối hay đi dạo sao cho, dù gần gũi và tầm thường đến mấy, chúng cũng không bao giờ tẻ nhạ”</em> - <strong>Malcolm Jones</strong>, Newsweek</p>\n<div class=\"author-wrap clearfix\">\n<h2 class=\"author-heading\" style=\"text-align:justify;\">Thông tin tác giả Haruki Murakami</h2>\n<div class=\"author-about\">\n<p style=\"text-align:justify;\">Sinh ngày 12/1/1949 tại Kyoto, lớn lên ở thành phố Ashiya, tỉnh Hyogo nhưng phần lớn thời thanh xuân lại trải qua ở Tokyo. Murakami từng học về kịch tại đại học Waseda, Tokyo. Khi đang còn là sinh viên tại đại học Waseda, ông mở một quán nhạc Jazz có tên là Peter Cat và bắt đầu viết tiểu thuyết. Văn phong của ông chịu ảnh hưởng lớn từ văn học Mỹ, các tác phẩm của ông chủ yếu miêu tả cuộc sống và con người ở đô thị hiện đại.</p>\n<p style=\"text-align:justify;\">Các tác phẩm khác của Haruki Murakami do Nhã Nam xuất bản:</p>\n<ul>\n<li style=\"text-align:justify;\">Lắng nghe gió hát</li>\n<li style=\"text-align:justify;\">Cuộc săn cừu hoang</li>\n<li style=\"text-align:justify;\">Xứ sở diệu kỳ tàn bạo và chốn tận cùng thế giới</li>\n<li style=\"text-align:justify;\">Rừng Na Uy</li>\n<li style=\"text-align:justify;\">Nhảy nhảy nhảy</li>\n<li style=\"text-align:justify;\">Phía Nam biên giới, phía Tây mặt trời</li>\n<li style=\"text-align:justify;\">Biên niên ký chim vặn dây cót</li>\n<li style=\"text-align:justify;\">Ngầm</li>\n<li style=\"text-align:justify;\">Người tình Sputnik</li>\n<li style=\"text-align:justify;\">Kafka bên bờ biển</li>\n<li style=\"text-align:justify;\">Tôi nói gì khi nói về chạy bộ</li>\n<li style=\"text-align:justify;\">1Q84</li>\n<li style=\"text-align:justify;\">Tazaki Tsukuru không màu và những năm tháng hành hương</li>\n<li style=\"text-align:justify;\">Những người đàn ông không có đàn bà</li>\n</ul>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 150000,
+        "product_quantity": 2627,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Dịch vụ nổi bật 2": "Không",
+            "Dịch vụ nổi bật 3": "Không",
+            "Công ty phát hành": "Nhã Nam",
+            "Ngày xuất bản": "2023-08-01 00:00:00",
+            "Dịch Giả": "Lục Hương",
+            "Loại bìa": "Bìa mềm",
+            "Số trang": "418",
+            "Nhà xuất bản": "Nhà Xuất Bản Tổng hợp TP.HCM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "124",
+        "product_name": "Học Sâu",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e6/43/6b/3c5e529b9db7eecf5e0322d220108bca.jpg",
+            "https://salt.tikicdn.com/ts/product/fd/fb/d1/426bbdd7feb8118ceb6ee9c2c1ebeb83.jpg"
+        ],
+        "product_description": "I.GIỚI THIỆU SÁCH\n<br />Một Cải Tiến Đơn Giản Có Thể Biến Đổi Việc Dạy Học Kieran Egan là một nhà triết học giáo dục người Ireland. Ông viết về các vấn đề trong giáo dục và sự phát triển của trẻ em.\n<p>Kiran Egan đã nêu ra vấn đề nhức nhối trong giáo dục hiện nay: Những người trẻ mang trong mình sự thiếu hiểu biết trầm trọng về thế giới xung quanh, mặc dù nhà trường không ngừng mở rộng khối lượng kiến thức truyền đạt đến học sinh. Học sinh dường như vứt bỏ, quên đi hết kiến thức mình đã học được ngay khi kì kiểm tra cuối kì kết thúc. Theo Kieran Egan, nguyên nhân nằm ở chỗ kiến thức được dạy quá dàn trải mà thiếu đi trọng tâm. Vì vậy, ông đề ra chương trình Học sâu.</p>\n<p>Có thể tóm tắt chương trình Học Sâu như sau:</p>\n<p>Trẻ em được phân công ngẫu nhiên trong những ngày đầu đến trường một đề tài cụ thể để tìm hiểu nghiên cứu trong suốt 12 năm học phổ thông, ngoài chương trình học thông thường. Đề tài có thể là: táo, bụi, đường sắt, lá cây, tàu thủy, mèo, gia vị, Học sinh sẽ gặp giáo viên giám sát thường xuyên để được giúp đỡ. Nhiệm vụ của chúng là xây dựng một tập hồ sơ cá nhân về đề tài. Mục đích của chương trình là để đến cuối học trình, học sinh sẽ có được sự tinh thông thực sự về đề tài gần với một chuyên gia.</p>\n<p>Việc học có hai tiêu chí: chiều rộng và chiều sâu. Nếu như chỉ học về chiều rộng, ta sẽ luôn phải dựa vào sự tinh thông của người khác. Học sâu giúp ta phát triển sự tinh thông của chính mình bằng cách nắm bắt được một điều gì đó từ bên trong. Không chỉ như một phương pháp học kiến thức, Học sâu còn giúp rèn luyện học sinh trở thành con người có chiều sâu, khiêm tốn, trọng sự thật và có khả năng đắm chìm vào một điều gì đó bên ngoài bản thân.</p>\n<p>Tuy chỉ mới nằm trong quá trình thử nghiệm, dự án Học Sâu của ông dù gặp không ít ý kiến cho rằng là quá lý tưởng hóa và khó thực thi nhưng nhiều gợi ý của Egan trong cuốn sách này là rất đáng suy ngẫm. Chương trình Học sâu đề xuất một cải tiến nhỏ nhưng có thể đem lại sự thay đổi lớn trong quan niệm và thái độ học tập của học sinh.</p>\n<p>II.THÔNG TIN CHI TIẾT</p>\n<p>Mã hàng 8935069922197<br />Tên Nhà Cung Cấp Phụ Nữ<br />Tác giả Kieran Egan<br />Người Dịch Nguyễn Hữu Thọ<br />NXB Phụ Nữ Việt Nam<br />Năm XB 2022<br />Ngôn Ngữ Tiếng Việt<br />Trọng lượng (gr) 385<br />Kích Thước Bao Bì 20.5 x 13.5 x 1.9 cm<br />Số trang 382<br />Hình thức Bìa Mềm</p>\n<p>-----------------------------------------<br />#hocsau #sachhay #sachrenluyenkinang #nxbphunuvietnam</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 128000,
+        "product_quantity": 9916,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Phụ Nữ",
+            "Dịch Giả": "Nguyễn Hữu Thọ",
+            "Loại bìa": "Bìa mềm",
+            "Số trang": "382",
+            "Nhà xuất bản": "Nhà Xuất Bản Phụ Nữ Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "148433",
+        "product_name": "Lời Nguyện Cầu Chernobyl",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/36/97/98/618ee7c0d29525238102f1023fd895d2.jpg",
+            "https://salt.tikicdn.com/ts/product/aa/5f/fe/6c5ad7b4a2be7cfee29c8e77bf5fc8c7.jpg"
+        ],
+        "product_description": "I. GIỚI THIỆU\n<br />Tác phẩm\n<p>Lời nguyện cầu Chernobyl có thể được coi là một bản dịch mới so với ấn bản Lời nguyện cầu từ Chernobyl cũng do Nhà xuất bản Phụ nữ Việt Nam ấn hành năm 2016. Chính tác giả Svetlana Alexievich đã chỉnh sửa, bổ sung đáng kể cho tác phẩm phi hư cấu đặc biệt này: Bà bổ sung một chương tác giả tự phỏng vấn bản thân và phần “Thay cho lời kết” cùng một số câu, đoạn trong các cuộc độc thoại; đồng thời cũng thay đổi hầu hết tên những cuộc độc thoại trong tác phẩm. Lời nguyện cầu Chernobyl ra mắt dựa trên tinh thần trung thành hết mức có thể với nguyên tác và phần cập nhật đầy đủ – là tâm huyết của hai dịch giả Phạm Ngọc Thạch và Nguyễn Bích Lan.</p>\n<p>Lựa chọn Svetlana Alexievich là tác giả nhận giải Nobel Văn chương năm 2015, Viện Hàn lâm Thụy Điển nhận định rằng: “Svetlana Alexievich được trao giải vì những trang viết đa dạng về giọng điệu, một biểu tượng mẫu mực về sức chịu đựng và lòng can đảm trong thời đại của chúng ta.”</p>\n<p>Trong số những tác phẩm đáng giá của bà, có thể nhắc tới Lời nguyện cầu Chernobyl như một thí dụ tiêu biểu cho thể loại phi-hư cấu song lại giàu sức lay động không thua kém một sáng tác văn chương có giá trị nào.</p>\n<p>Tờ Publishers Weekly coi Lời nguyện cầu Chernobyl là “cuộc chiếu X quang tâm hồn Nga”, trong đó, tác giả đã kiên trì và thầm lặng thực hiện những cuộc phỏng vấn với 500 nhân chứng có liên quan tới thảm họa nhân loại tàn khốc này: lính cứu hỏa, đội cứu hộ, chính trị gia, nhà vật lí, nhà tâm lí  và những thường dân. Nhìn từ góc độ chính trị, “có lẽ không phải cuộc cải tổ của Gorbachev, Chernobyl mới chính là nguyên nhân thực sự khiến Liên bang Xô viết sụp đổ” (Political Affairs). Nhìn từ lăng kính xã hội, đây là thành quả gom nhặt hơn 10 năm những nỗi đau “tàn khốc và dữ dội” (New York Times Book Review) khiến cả thế giới một lần nữa phải bàng hoàng.</p>\n<p>Có lẽ Alexievich đã quyết tâm truyền đi Lời nguyện cầu Chernobyl không phải ở tư cách một nhà báo hay nhà văn, mà trước hết ở tư cách một người Belarus ghi chép về “sự sống và cái chết của đồng bào mình” (The Nation). Chính vì vậy, không khó hiểu khi bà khơi sâu được “cảm giác lặng đi chẳng nói nên lời, cái ‘khôn tả’, tính anh hùng và niềm đau thương” (The Telegraph).</p>\n<p>Tác giả</p>\n<p>Svetlana Alexievich (31/5/1948) – nhà văn, nhà báo người Belarus từng được trao các giải thưởng:</p>\n<p>- Giải thưởng Văn học Nikolay Ostrovskiy, Liên Xô (1984)</p>\n<p>- Giải thưởng Lenin Komsomol (1986)</p>\n<p>- Giải thưởng văn học Literaturnaya Gazeta (1887)</p>\n<p>- Giải thưởng Sách Leipziger vì sự hiểu biết tại châu Âu (1998)</p>\n<p>- Giải thưởng của Hiệp hội các nhà phê bình sách quốc gia, Mĩ (2013)</p>\n<p>- Giải Nobel Văn chương 2015</p>\n<p>Các tác phẩm tiêu biểu:</p>\n<p>- The Unwomanly Face of War (Chiến tranh không mang khuôn mặt phụ nữ)</p>\n<p>- The Chernobyl Prayer (Lời nguyện cầu Chernobyl)</p>\n<p>- Zinky Boys (Những chàng trai kẽm)</p>\n<p>- The Last Witnesses (Những nhân chứng cuối cùng)</p>\n<p>- The Last of Soviets (Những người Xô viết cuối cùng)</p>\n<p>Trang bản quyền:</p>\n<p>The Chernobyl Prayer</p>\n<p> 2013 by Svetlana Alexievich</p>\n<p>Dịch từ bản tiếng Anh: The Chernobyl Prayer</p>\n<p>Bản quyền tiếng Việt Ó Nhà xuất bản Phụ nữ Việt Nam, 2020</p>\n<p>Bìa 4:</p>\n<p>“Svetlana Alexievich được trao giải Nobel vì những trang viết đa dạng về giọng điệu, một biểu tượng mẫu mực về sự chịu đựng và lòng can đảm trong thời đại của chúng ta.” - Trích Thông cáo về Giải Nobel Văn chương 2015</p>\n<p>“ một cuộc chiếu X quang tâm hồn Nga.” - Publishers Weekly</p>\n<p>“Có lẽ không phải cuộc cải tổ của Gorbachev, Chernobyl mới chính là nguyên nhân thực sự dẫn đến sự sụp đổ của Liên bang Xô viết. Chúng ta hãy đọc rồi sẽ biết!” - Political Affairs</p>\n<p>“Tàn khốc và dữ dội, những câu chuyện phát triển qua từng trang như các nuclit cư trú trong cơ thể những người sống sót.” - New York Times Book Review</p>\n<p>“Kĩ thuật của Alexievich là sự đan dệt đầy sức mạnh của tài hùng biện, cảm giác lặng đi không nói lên lời, cái bất lực trong miêu tả mà người ta gọi là ‘khôn tả’, tính anh hùng và niềm đau thương. Từ những phần độc thoại của các nhân chứng bà đã tạo ra một lịch sử mà người đọc, dù ở bất cứ khoảng cách nào so với các sự kiện, đều có thể tiếp cận. Nếu bạn có chút tò mò về tương lai thì tôi thúc giục bạn đọc cuốn sách này.” - Julian Evans, The Telegraph</p>\n<p>“Cuốn sách xuất sắc này nói về sự sống và cái chết của những đồng bào Belarus của Svetlana Alexievich… Bộ sưu tập lời chứng có một không hai.” - The Nation<br />II. THÔNG TIN CHI TIẾT<br />Mã hàng 9786045685594<br />Tên Nhà Cung Cấp Phụ Nữ<br />Tác giả Svetlana Alexievich<br />Người Dịch Phạm Ngọc Thạch, Nguyễn Bích Lan<br />NXB NXB Phụ Nữ Việt Nam<br />Năm XB 2020<br />Ngôn Ngữ Tiếng Việt<br />Trọng lượng (gr) 500<br />Kích Thước Bao Bì 24 x 16 x 0.5 cm<br />Số trang 364<br />Hình thức Bìa Mềm</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 132200,
+        "product_quantity": 8956,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Phụ Nữ",
+            "Loại bìa": "Bìa mềm",
+            "Số trang": "364",
+            "Nhà xuất bản": "Nhà Xuất Bản Phụ Nữ Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "124",
+        "product_name": "Số Đỏ (HH) - Tái Bản",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/10/45/88/f216cc7a19e74993373ea454a6b078d3.png",
+            "https://salt.tikicdn.com/ts/product/c3/07/e6/d1683f0d88fc5312de71430db6d1e91f.png"
+        ],
+        "product_description": "<p>Thông tin chi tiết <br />Mã hàng 8935095633746 <br />Tên Nhà Cung Cấp Huy Hoang Bookstore <br />Tác giả Vũ Trọng Phụng <br />NXB Văn Hoc <br />Năm XB 2024 <br />Ngôn Ngữ Tiếng Việt <br />Trọng lượng (gr) 230 <br />Kích Thước Bao Bì 20.5 x 13.5 x 1 cm <br />Số trang 215 <br /><br />Mô tả sản phẩm <br />Số Đỏ</p>\n<p>Số đỏ là một tiểu thuyết văn học của nhà văn Vũ Trọng Phụng, đăng ở Hà Nội báo từ số 40 ngày 7 tháng 10 1936 và được in thành sách lần đầu vào năm 1938. Nhiều nhân vật và câu nói trong tác phẩm đã đi vào cuộc sống đời thường và tác phẩm đã được dựng thành kịch, phim. Nhân vật chính của Số đỏ là Xuân - biệt danh là Xuân Tóc đỏ, từ chỗ là một kẻ bị coi là hạ lưu, bỗng nhảy lên tầng lớp danh giá của xã hội nhờ trào lưu Âu hóa của giới tiểu tư sản Hà Nội khi đó. Tác phẩm Số đỏ, cũng như các tác phẩm khác của Vũ Trọng Phụng đã từng bị cấm lưu hành tại Việt Nam Dân chủ Cộng hòa trước năm 1975 cũng như tại Việt Nam thống nhất cho đến năm 1986</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 65000,
+        "product_quantity": 6861,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Huy Hoàng Bookstore",
+            "Loại bìa": "Bìa mềm",
+            "Số trang": "215",
+            "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "259313",
+        "product_name": "Vì Tôi Ghét Hàn Quốc -  Bản Quyền",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/12/93/b2/58b011f83427622f1ab1f95d83344d0a.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  Công ty phát hành Nhã Nam\n  <br> Tác giả Chang Kang-Myoung\n  <br> Ngày xuất bản 09-2018\n  <br> Kích thước 14 x 20.5cm\n  <br> Nhà xuất bản Nhà Xuất Bản Hà Nội\n  <br> Dịch Giả Hà Linh\n  <br> Loại bìa Bìa mềm\n  <br> Số trang 204\n  <br> \n  <br> GIỚI THIỆU SÁCH\n  <br> Vì Tôi Ghét Hàn Quốc\n  <br> \n  <br> “Em chẳng quan tâm chỉ số hạnh phúc của Hàn Quốc xếp hạng mấy trên thế giới. Em chỉ muốn em hạnh phúc hơn thôi. Mà ở đây thì em không thể hạnh phúc được.” Quyết tâm lựa chọn hạnh phúc lạ lẫm nơi đất khách thay vì bất hạnh quen thuộc chốn quê nhà, Kye Na rời bỏ Hàn Quốc và từ bỏ mọi thứ mình có ở Hàn Quốc – gia đình, tình yêu, công việc – để sang Úc sống một cuộc sống mới, mà theo cô là, hạnh phúc hơn. Nhưng di dân có phải là câu trả lời cho những bất hạnh tại cố quốc? Hành trình Úc tiến của Kye Na, rốt cuộc, là một cuộc chạy trốn hay kiếm tìm hạnh phúc đích thực cho bản thân? Mỗi bước, mỗi va vấp của Kye Na trên hành trình ấy sẽ vừa là một lời đáp cũng vừa là một câu hỏi tiếp nối, không ngừng đẩy cô tiến gần hơn tới cái kết mình khao khát. \n  <p>Gooda tin rằng cuốn sách sẽ mang lại kiến thức thật bổ ích cùng những trải nghiệm thật tuyệt vời, hy vọng đây sẽ là 1 cuốn sách quý trên kệ sách của bạn!</p> \n  <p> </p> \n  <p>QUYỀN LỢI KHÁCH HÀNG KHI MUA SÁCH TẠI SHOP GOODA THƯ VIỆN SÁCH QUÝ:</p> \n  <p> </p> \n  <p>1. Đảm bảo 100% sách gốc bản quyền từ NXB</p> \n  <p>2. Quy cách đóng gói cẩn thận, trận trọng từng quyển sách</p> \n  <p>3. Xử lí đơn đặt hàng nhanh</p> \n  <p>4. Chính sách hỗ trợ đổi sách cho khách hàng thuận tiện khi gặp sự cố</p>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 85000,
+        "product_quantity": 2993,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Nhã Nam",
+            "Nhà xuất bản": "Nhà Xuất Bản Hà Nội"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "118250",
+        "product_name": "Em sẽ đến cùng cơn mưa (Ichikawa Takuji) (TB 2023) - Bản Quyền",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d5/e8/3d/820d491a9dcba2be6b5900e7e0a4d88d.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <div>\n   Tác giả: Ichikawa Takuji\n   <br> Dịch giả: Mộc Miên\n   <br> Nhà xuất bản: Văn học\n   <br> Số trang: 332\n   <br> Kích thước: 13 x 20.5 cm\n   <br> Ngày phát hành: 03-2023\n   <br> “Hôm nay là lần đầu tiên chúng mình gặp nhau với đôi giầy có cổ và có gót. Cũng phải nói thêm, hôm nay cũng là lần đầu tiên anh thấy em mặc chiếc váy liền màu đỏ sẫm. Lần đầu tiên anh thấy em tô son. Lần đầu tiên anh thấy mái tóc em đung đưa mỗi lần em nghiêng đầu, lần đầu tiên anh cảm thấy bồn chồn không yên khi nói chuyện với em.\n   <br> Tất cả đều là lần đầu tiên, đến nỗi mà khó tìm được một thứ không phải lần đầu tiên.’’\n   <br> \n   <br> *********\n   <br> Nhận định\n   <br> “Một câu chuyện tình tinh tế và ngọt ngào đến nỗi ngay cả cái chết rình rập cũng đem lại những an ủi dịu dàng.”\n   <br> - Le Monde\n   <br> \n   <br> “Vừa phi thực vừa chân thực, một câu chuyện ngọt dịu về sự trường tồn của tình yêu.”\n   <br> -\n   <br> \n   <br> “Hành trình khám phá, một lần nữa, về tình yêu đã mất.”\n   <br> -\n   <br> \n   <br> “Kết hợp hài hòa giữa những điều có và không thể, một câu chuyện bình dị dành cho bất kỳ ai.”\n   <br> -\n  </div> \n  <p>Gooda tin rằng cuốn sách sẽ mang lại kiến thức thật bổ ích cùng những trải nghiệm thật tuyệt vời, hy vọng đây sẽ là 1 cuốn sách quý trên kệ sách của bạn!</p> \n  <p> </p> \n  <p>QUYỀN LỢI KHÁCH HÀNG KHI MUA SÁCH TẠI SHOP GOODA THƯ VIỆN SÁCH QUÝ:</p> \n  <p> </p> \n  <p>1. Đảm bảo 100% sách gốc bản quyền từ NXB</p> \n  <p>2. Quy cách đóng gói cẩn thận, trận trọng từng quyển sách</p> \n  <p>3. Xử lí đơn đặt hàng nhanh</p> \n  <p>4. Chính sách hỗ trợ đổi sách cho khách hàng thuận tiện khi gặp sự cố</p>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 91616,
+        "product_quantity": 5681,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Nhã Nam",
+            "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "268132",
+        "product_name": "Những chàng trai xấu tính",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/92/15/a3/b0a8911e56ae61f87378018481a95029.jpg"
+        ],
+        "product_description": "<p>Ở hồ bơi công cộng trong những ngày hè nóng nực, câu chuyện kề về cuộc gặp gỡ và tình cảm gian nan nhưng không kém phần tinh nghịch với một cô gái đẹp như “nữ minh tinh Hollywood” của hai cậu bạn thân tên Biền và Tưởng. Mỗi ngày hai cậu bạn đều rủ nhau đi bơi và đã trót “phải lòng” cô gái ấy, nhưng có một điều khiến cả hai chàng trai không ít lần hoang mang và khó hiểu là sự thay đổi “như thời tiết” xảy ra mỗi ngày trong tính cách của “nữ minh tinh”, cùng với đó là tình cảm của cô nàng với họ cũng thay đổi đến chóng mặt, khiến họ theo không kịp và nhiều lúc xảy ra xích mích. Biền và Tường làm đủ mọi cách, bày đủ trò tinh quái để tìm hiểu nguyên nhân về cô nàng kỳ lạ n</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 85000,
+        "product_quantity": 3300,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Công ty cổ phần Đầu tư và Phát triển Giáo dục Hà Nội",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "314365",
+        "product_name": "Ngày Xưa Có Một Chuyện Tình",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/14/85/40/6bbc29ccd7532c6aab3e5e52a1b97aab.jpg"
+        ],
+        "product_description": "<p><strong>NGÀY XƯA CÓ MỘT CHUYỆN TÌNH</strong> là tác phẩm mới tinh thứ 2 trong năm 2016 của nhà văn Nguyễn Nhật Ánh dài hơn 300 trang, được coi là tập tiếp theo của tập truyện <em>Mắt biếc</em>. Có một tình yêu dữ dội, với em,  của một người yêu em hơn chính bản thân mình - là anh.</p>\n<p><em>Ngày xưa có một chuyện tình</em> có phải là một câu chuyện cảm động  khi người ta yêu nhau, nỗi khát khao một hạnh phúc êm đềm ấm áp đến thế; hay đơn giản chỉ là chuyện ba người - anh, em, và người ấy…?</p>\n<p>Bạn hãy mở sách ra, để chứng kiến làn gió tình yêu chảy qua như rải nắng trên khuôn mặt mùa đông của cô gái; nụ hôn đầu tiên ngọt mật, cái ôm đầu tiên, những giọt nước mắt và cái ôm xiết cuối cùng… rồi sẽ tìm thấy câu trả lời, cho riêng mình.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 135000,
+        "product_quantity": 7442,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Công ty cổ phần Đầu tư và Phát triển Giáo dục Hà Nội",
+            "Loại bìa": "Bìa mềm",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "9778",
+        "product_name": "Combo 2 Cuốn Văn Học Thiếu Nhi: Totto - Chan Bên Cửa Sổ + Anne Tóc Đỏ Dưới Chái Nhà Xanh",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d6/99/5e/59d4fadfbd60c71aa92c7c1554000a55.png"
+        ],
+        "product_description": "<p><strong>1. Totto - Chan Bên Cửa Sổ</strong></p>\n<p>Không còn cách nào khác, mẹ đành đưa Totto-chan đến một ngôi trường mới, trường Tomoe. Đấy là một ngôi trường kỳ lạ, lớp học thì ở trong toa xe điện cũ, học sinh thì được thoả thích thay đổi chỗ ngồi mỗi ngày, muốn học môn nào trước cũng được, chẳng những thế, khi đã học hết bài, các bạn còn được cô giáo cho đi dạo. Đặc biệt hơn ở đó còn có một thầy hiệu trưởng có thể chăm chú lắng nghe Totto-chan kể chuyện suốt bốn tiếng đồng hồ! Chính nhờ ngôi trường đó, một Totto-chan hiếu động, cá biệt đã thu nhận được những điều vô cùng quý giá để lớn lên thành một con người hoàn thiện, mạnh mẽ.</p>\n<p>Totto-chan bên cửa sổ là cuốn sách gối đầu giường của nhiều thế hệ trẻ em trên toàn thế giới suốt ba mươi năm nay. Sau khi xuất bản lần đầu vào năm 1981, cuốn sách đã gây được tiếng vang lớn không chỉ ở Nhật Bản mà còn trên toàn thế giới. Tính đến năm 2001, tổng số bản sách bán ra ở Nhật đã lên đến 9,3 triệu bản, trở thành một trong những cuốn sách bán chạy nhất trong lịch sử ngành xuất bản nước này. Cuốn sách đã được dịch ra 33 thứ tiếng khác nhau, như Anh, Pháp, Đức, Hàn Quốc, Trung Quốc…Khi bản tiếng Anh của Totto-chan được xuất bản tại Mỹ, tờ New York Times đã đăng liền hai bài giới thiệu trọn trang, một “vinh dự” hầu như không tác phẩm nào có được.</p>\n<p><strong>2. Anne Tóc Đỏ Dưới Chái Nhà Xanh</strong></p>\n<p>Khi Matthew và Marilla Cuthbert ngỏ lời với một trại trẻ mồ côi để xin một cậu bé về đỡ đần họ tại nông trang Green Gables, cả hai sửng sốt khi thấy bước ra khỏi tàu là một cô bé lắm mồm, tên là Anne.</p>\n<p>Anne, tóc đỏ, hay gây gổ và lãng mạn vô phương cứu chữa - cô đã xáo trộn cả Green Gable lẫn ngôi làng quanh đó. Nhưng sự hóm hỉnh và thiện tính trong cô lại khiến cô được yêu mến không ngớt, không chỉ với cộng đồng tưởng tượng của Đảo Hoàng tử Edward, mà còn với bao thế hệ độc giả khắp bên kia bờ Đại Tây Dương, suốt một thế kỷ nay, kể từ ngày cuốn Anne Tóc đỏ đầu tiên ra đời năm 1908.<br /><br />-----<br /><br />“Cuốn sách thiếu nhi dễ thương nhất, thắm đượm tình cảm nhất.”<br />- Mark Twain</p>\n<p>“Với tư cách một độc giả sách thiếu nhi, tôi chờ đời từng cuốn như khi chờ Wendy trong truyện Peter Pan lớn lên.”<br />- Margaret Atwood</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 223500,
+        "product_quantity": 5365,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Nhã Nam",
+            "Nhà xuất bản": "Nhà Xuất Bản Hội Nhà Văn"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "33717",
+        "product_name": "CUỐN THEO CHIỀU GIÓ TRỌN BỘ 2 TẬP ( BÌA CỨNG)_KV",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a9/8a/07/96a22543d5830a2978c5cc9ebde2d0c7.jpg",
+            "https://salt.tikicdn.com/ts/product/7c/88/da/6444a0840ab7fe20101113bb7db7c1d6.jpg",
+            "https://salt.tikicdn.com/ts/product/8d/f0/73/985bf7433d3e3d2f8c2628eb7d6864cd.jpg",
+            "https://salt.tikicdn.com/ts/product/0f/4b/99/a2046769e30b1efe86736830ae46fd89.jpg",
+            "https://salt.tikicdn.com/ts/product/31/e5/6e/0122ebb1ed3c0ea9c986a3cb4909ecbe.jpg",
+            "https://salt.tikicdn.com/ts/product/70/3f/2b/60d211209a93633e7446850bc33f47b6.jpg",
+            "https://salt.tikicdn.com/ts/product/70/3f/2b/110c12481e802cff791cd87f14be09b4.jpg",
+            "https://salt.tikicdn.com/ts/product/c6/9a/70/b72e1d2ed83b01ed4a36147914bafed2.jpg",
+            "https://salt.tikicdn.com/ts/product/e4/d1/44/fc6fcd48307dbbfe953fdf9a06186f0d.jpg",
+            "https://salt.tikicdn.com/ts/product/e4/d1/44/4df74349e6a9099753f00396e1b1a7b8.jpg",
+            "https://salt.tikicdn.com/ts/product/9e/0c/39/4e1bcb239a5992e35ed49233b4a83525.jpg",
+            "https://salt.tikicdn.com/ts/product/9e/0c/39/377b2fc4a506c96ca3e0df9366592e8e.jpg",
+            "https://salt.tikicdn.com/ts/product/4b/4d/8c/21a3529a898b44d6f2e8999854e18b92.jpg",
+            "https://salt.tikicdn.com/ts/product/21/6b/84/6b87f8fcbe637315041ab42fa8bce8c9.jpg"
+        ],
+        "product_description": "<p style=\"text-align:center\"><span style=\"color:#ff0000\">Cuốn Theo Chiều Gió Trọn Bộ 2 Tập ( Bìa Cứng)</span><br /><br />Có lẽ chẳng còn ai yêu  mà chưa nghe nói đến quyển sách<strong> Cuốn Theo Chiều Gió</strong> để tìm đọc nó. Bởi vì đến hôm nay, đã 80 năm trôi qua, mỗi năm nó vẫn đều đặn được in ra ngót 250.000 bản được dich bằng 30 thứ tiếng khác nhau trên khắp thế giới.<strong> Cuốn Theo Chiều Gió</strong> ra mắt năm 1936, một năm sau đoạt Pulitzer, giải thưởng Văn chương cao quý nhất nước Mỹ. Ba năm sau, bộ phim cùng tên làm theo cuốn sách, đoạt 10 Oscar, giải thưởng cao nhất của Điện ảnh Mỹ, và có lẽ của cả thế giới.<br /><br /><strong>Cuốn Theo chiều Gió</strong> lấy bối cảnh từ cuộc nội chiến vô cùng khốc liệt giữa Bắc và Nam Mỹ. Với cốt truyện rõ ràng, logic, dễ hiểu, đã khắc họa một cách tài tình tâm trạng, tính cách và thân phận của nhiều lớp người trong chiến tranh và thời hậu chiến. Quyển sách kể về chuyện tình của cô gái Scarlett Ohara cùng với Rhett Butler, có sức sống kỳ lạ, truyền cảm hứng và sức lôi cuốn bền bỉ đối với hàng triệu trái tim độc giả trên toàn thế giới trong gần một thế kỷ qua.<br /><br /><strong>Cuốn Theo Chiều Gió</strong> có sức hấp dẫn mãnh liệt giới trẻ Mỹ cũng như thanh niên toàn thế giới vì đây là cuốn tiểu thuyết tình yêu đặc sắc. Lạ kỳ thay, trong chiến tranh và những năm hậu chiến vô cùng gian khổ, tình yêu lại luôn luôn chói ngời, trở thành động lực giúp cho con người vượt qua chết chóc, đói khổ và sự hèn hạ... Không chỉ có tình yêu trai gái, Cuốn theo chiều gió còn là bài ca của tình yêu quê hương đất nước, tình tương thân tương ái. <br /><br />Không thể nào &#34;khoe&#34; hết những ngợi ca của quyển sách suốt 80 năm qua, chỉ xin mượn lời của nhà nghiên cứu nổi tiếng <em><strong>Debra J. Freer </strong></em>viết trong công trình của mình. <em>“Mãi mãi nhân loại không có được <strong>Margaret Mitchell</strong> thứ hai cũng như Văn học mãi mãi không có nổi </em>Cuốn Theo Chiều Gió<em> nào khác...” </em>Khi bà qua đời, tờ <strong><em>Washington Post</em></strong><strong> </strong>chạy hàng chữ lớn ở trang nhất:&#34; <em>HIẾM CÓ NHÂN VẬT NÀO ĐƯỢC MỌI NGƯỜI Ở</em><em> MỌI NƠI YÊU MẾN VÀ TIẾC THƯƠNG NHƯ TÁC GIẢ CUỐN THEO CHIỀU GIÓ&#34;</em></p>\n<p><br />Cuốn theo chiều gió xứng đáng có mặt trên giá sách của mọi độc giả yêu văn chương nói chung cũng như văn học lãng mạn nói riêng.</p>\n<p> </p>\n<p> </p>\n<p style=\"text-align:center\"> </p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 240000,
+        "product_quantity": 8724,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Khang Việt",
+            "Loại bìa": "Bìa cứng",
+            "Nhà xuất bản": "Nhà Xuất Bản Văn Học"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "282399",
+        "product_name": "Buổi Chiều Windows - Nguyễn Nhật Ánh",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/df/7c/e7/75487bdf607b2609e30316aee263b8b6.jpg"
+        ],
+        "product_description": "<h1 style=\"text-align:justify;\"><strong>Buổi Chiều Windows - Nguyễn Nhật Ánh</strong></h1>\n<div style=\"text-align:justify;\">Truyện kể về ba cô nàng tinh nghịch Xuyến, Thục và Cúc Hương dù không biết gì về tin học nhưng dám liều mình xin làm việc ở một công ty máy tính trong mấy tháng nghỉ hè. Theo chân ba cô nàng tinh nghịch, chứng kiến những tình huống khôi hài, những vụng về trong công việc cùng sự lém lỉnh của ba cô học trò “nhất quỷ nhì ma” và những rung động tình cảm đầu đời mộng mơ của họ chắc chắn sẽ làm nhiều độc giả thấy được hình ảnh của mình. Đó là một thời học sinh đầy tiếng cười, những cảm xúc buồn vui lẫn lộn và những tình cảm lãng mạn của những năm tháng cắp sách tới trường.</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 110000,
+        "product_quantity": 7526,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Nhà Xuất Bản Trẻ",
+            "Loại bìa": "Bìa mềm",
+            "Số trang": "228",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "345330",
+        "product_name": "Sách: Khuôn Mặt Người Khác",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/f8/07/74/949313e6ff38ebc916fbe2bb1125772c.jpg",
+            "https://salt.tikicdn.com/ts/product/35/d1/98/3a53be4dbb09e2e3dcd95f6f9574832a.jpg"
+        ],
+        "product_description": "<p><strong>Khuôn Mặt Người Khác</strong></p><p>------------</p><p><br /> </p><p><strong>TÁC GIẢ</strong></p><p>Kobo Abe là một trong những tác giả quan trọng nhất của văn chương Nhật Bản thế kỷ XX. Ông được so sánh với Franz Kafka và Alberto Moravia về tính nhạy cảm theo trường phái hiện đại cùng với tính siêu thực hiển hiện rõ trong các tác phẩm. Chẳng thế mà người ta thấy rõ được chất liệu hiện sinh qua các sáng tác của ông.</p><p>Chủ đề trung tâm trong các tác phẩm của Kōbō Abe có lẽ chính là sự lạc lõng của thân phận con người trong guồng quay nghiệt ngã của đời sống. Họ luôn bị mặc cảm, tự xa lánh mình khỏi cái xã hội xa lạ ấy, để rồi họ phải \"chuốc\" lấy sự cô độc khủng khiếp, như cơn \"say đời\" khiến họ mất phương hướng, để rồi hoàn toàn lạc lối.</p><p>Các tác phẩm của ông được đón nhận nhiều ở phương Tây, tiêu biểu như: Khuôn mặt người khác, Người đàn bà trong cồn cát.</p><p><strong>NỘI DUNG</strong></p><p>Khuôn mặt người khác là câu chuyện kể về nhân vật người đàn ông - chủ nhiệm một phòng nghiên cứu hóa chất phân tử. Vào một lần thí nghiệm chẳng may xảy ra vụ nổ oxy lỏng khiến khuôn mặt anh bị hủy hoại nghiêm trọng. May mắn thay, mắt anh không bị ảnh hưởng nhờ đeo kính. Thoạt nhìn bề ngoài, anh cố giữ được vẻ bình thản với khuôn mặt bị biến dạng, nhưng tất cả chỉ là sự giả tạo cố che giấu sự đớn đau và tuyệt vọng ẩn sâu bên trong, âm ỉ như ngon núi lửa đang chực chờ để phun trào.</p><p>Anh luôn bùng nổ những cơn bão của tâm trạng dằn vặt, dữ dội, khổ đau xen lẫn sự hoài nghi ở thái độ mọi người đối với bộ mặt kỳ dị của mình. Anh nghi ngờ cả sự gần gũi chăm sóc của người vợ vẫn chung sống cùng anh sau khi anh bị tai nạn. Và trước biến cố đó, anh đã âm thầm tìm cách nghiên cứu và đã chế tạo thành công một bộ mặt nạ hoàn toàn giống mặt người, có khả năng biểu cảm linh hoạt hết gương mặt thật, với mong muốn vớt vát cuộc đời này.</p><p>Nhưng để rồi, khuôn mặt ấy như một cái tôi thứ 2, khiến cho người ta trăn trở rằng, liệu anh đang sở hữu khuôn mặt hay khuôn mặt đang sở hữu linh hồn của anh? Bằng lối trần thuật độc đáo, tinh tế, Kobo Abe đã dẫn dắt người đọc vào một mê cung vừa ảo, vừa thực, thế giới của sự suy nghiệm, chiêm nghiệm về chính tâm hồn và cuộc đời này.</p><p><br /> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 84822,
+        "product_quantity": 1232,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Bách Việt",
+            "Nhà xuất bản": "Nhà Xuất Bản Dân Trí"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "51001",
+        "product_name": "Trước Vòng Chung Kết (Tái Bản 2022)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/33/b3/6e/21c7c9b0a23f2dadc9b8db3e0fb31cbe.jpg",
+            "https://salt.tikicdn.com/ts/product/ac/04/50/4e8e09cf7f4d1374247a72702fe4765e.jpg",
+            "https://salt.tikicdn.com/ts/product/c1/05/e8/dc37fb4c9ec0ccac2db855408370c8fd.jpg",
+            "https://salt.tikicdn.com/ts/product/97/d6/6c/09d20768cf6e1efafba8deed5610dc88.jpg",
+            "https://salt.tikicdn.com/ts/product/91/fc/53/df40c04509f5df6e9c654a26690208f8.jpg",
+            "https://salt.tikicdn.com/ts/product/9f/7f/25/f72bc1429f31f579545a67175f11e5f1.jpg",
+            "https://salt.tikicdn.com/ts/product/ca/b3/2c/2963c5c9f6f4902b81e9fbc80a0b1e71.jpg",
+            "https://salt.tikicdn.com/ts/product/bc/c6/89/753d49c1ccdd31b0048038e698cac0bf.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <p style=\"text-align: justify;\"><strong>Trước Vòng Chung Kết</strong></p> \n  <p style=\"text-align: justify;\">Tràn ngập không khí bóng đá, không khí vỉa hè… đậm mùi hào hiệp, thượng võ.</p> \n  <p style=\"text-align: justify;\">Lẽ dĩ nhiên như cuộc đời, có đâu đó những mưu toan nhỏ nhen, những trò chơi bẩn… không đáng mặt anh hào.</p> \n  <p style=\"text-align: justify;\">Nhưng…. (chữ nhưng dành cho sự khám phá của các bạn)</p>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 50000,
+        "product_quantity": 4598,
+        "product_category": [
+            "Nhà Sách Tiki"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Trẻ",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    null,
+    null,
+    {
+        "product_shop": "314216",
+        "product_name": "Bóng Đêm Của Diệu - Tiểu thuyết của Thương Hà",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/59/9d/70/7a5d68a9e3b8732e9d8ca73e2e350593.jpg",
+            "https://salt.tikicdn.com/ts/product/c1/27/be/9586cd0a97d3ae11de7d85e198043fa5.jpg"
+        ],
+        "product_description": "<p>Thương Hà là nhà văn trẻ, lâu nay tôi chỉ biết đến chị như thế, qua trang cá nhân. Và rồi tôi bất ngờ thực sự khi năm 2021, chị cho xuất bản một lúc bốn tiểu thuyết \"Người PTSD\", \"NALIS xô dạt bờ định mệnh\", \"Một con đường\", \"Bóng đêm của Diệu\", đều có giấy phép của NXB Hội Nhà văn Việt Nam.</p>\n<p>Viết lẻ tẻ thì đã rất nhiều. Nhưng xuất bản thành tác phẩm dày dặn, thì tôi biết, đến nay còn ít. Về văn, viết thành tiểu thuyết, có lẽ Thương Hà là nhà văn đầu tiên thực hiện.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 138000,
+        "product_quantity": 4523,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "An Nam Books",
+            "Ngày xuất bản": "2022-04-01 10:00:51",
+            "Loại bìa": "Bìa mềm",
+            "Số trang": "420",
+            "Nhà xuất bản": "Nhà Xuất Bản Hội Nhà Văn"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "90454",
+        "product_name": "Cho Tôi Xin Một Vé Đi Tuổi Thơ (Tái Bản)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/f4/6f/29/375a02590304d9a77425a8ba9956cb3c.jpg"
+        ],
+        "product_description": "<p style=\"text-align: justify;\"><span style=\"color: #ff0000;\">Cho Tôi Xin Một Vé Đi Tuổi Thơ (Tái Bản)</span></p>\n<p style=\"text-align: justify;\">Truyện Cho tôi xin một vé đi tuổi thơ là sáng tác mới nhất của nhà văn Nguyễn Nhật Ánh. Nhà văn mời người đọc lên chuyến tàu quay ngược trở lại thăm tuổi thơ và tình bạn dễ thương của 4 bạn nhỏ. Những trò chơi dễ thương thời bé, tính cách thật thà, thẳng thắn một cách thông minh và dại dột, những ước mơ tự do trong lòng… khiến cuốn sách có thể làm các bậc phụ huynh lo lắng rồi thở phào. Không chỉ thích hợp với người đọc trẻ, cuốn sách còn có thể hấp dẫn và thực sự có ích cho người lớn trong quan hệ với con mình.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 80000,
+        "product_quantity": 8409,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Trẻ",
+            "Ngày xuất bản": "2022-02-28 00:00:00",
+            "Loại bìa": "Bìa mềm",
+            "Số trang": "208",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "64",
+        "product_name": "Thung lũng bất hạnh - Agatha Christie",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ef/de/5a/3d1bed9554e3b0fa967abcf195ea9a6c.jpg"
+        ],
+        "product_description": "&nbsp;\n<table>\n <tbody>\n  <tr>\n   <td>Mã hàng</td>\n   <td>8934974174493</td>\n  </tr>\n  <tr>\n   <td>Tên Nhà Cung Cấp</td>\n   <td>NXB Trẻ</td>\n  </tr>\n  <tr>\n   <td>Tác giả</td>\n   <td>Agatha Christie</td>\n  </tr>\n  <tr>\n   <td>Người Dịch</td>\n   <td>Quang Kường</td>\n  </tr>\n  <tr>\n   <td>NXB</td>\n   <td>NXB Trẻ</td>\n  </tr>\n  <tr>\n   <td>Năm XB</td>\n   <td>2021</td>\n  </tr>\n  <tr>\n   <td>Trọng lượng (gr)</td>\n   <td>350</td>\n  </tr>\n  <tr>\n   <td>Kích Thước Bao Bì</td>\n   <td>20 x 13 cm</td>\n  </tr>\n  <tr>\n   <td>Số trang</td>\n   <td>328</td>\n  </tr>\n  <tr>\n   <td>Hình thức</td>\n   <td>Bìa Mềm</td>\n  </tr>\n </tbody>\n</table>\n<div>\n <p>Khi có mặt tại trang viên Thung Lũng để ăn trưa theo lời mời của bà Lucy Angkatell, thám tử Hercule Poirot không mấy vui khi thấy những vị khách đã dàn dựng một hiện trường án mạng bên hồ bơi để trêu chọc mình.<br>Thật không may, đó là thật. Lúc những giọt máu loang xuống nước, nạn nhân cũng thì thầm từ cuối “Henrietta”. Khẩu súng trên tay người vợ, vật chứng số một, trong lúc bối rối cũng bị rơi xuống nước.<br>Điều tra của Poirot cho thấy mọi chuyện phức tạp hơn ông tưởng. Có vẻ như ai cũng có động cơ gây án, và trong đại gia đình nhiều bí ẩn này, mỗi người đều là nạn nhân của tình yêu.</p>\n <p>“Một cuốn sách lạ lùng và sâu sắc; như một đại dương sâu thẳm với những dòng chảy ngầm mạnh mẽ.”<strong>&nbsp;– Tác giả đoạt giải thưởng quốc tế Michel Houellebecq</strong></p>\n <p>“Một cốt truyện hạng A – hay nhất của Christie trong nhiều năm.”<strong>&nbsp;- San Francisco Chronicle</strong></p>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 120000,
+        "product_quantity": 4991,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Trẻ",
+            "Nhà xuất bản": "oem"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "90454",
+        "product_name": "Nguyễn Nhật Ánh - Chuyện Cổ Tích Dành Cho Người Lớn",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/79/05/de/4189847d20d0db7b9ba5f7be08a9f873.jpg"
+        ],
+        "product_description": "<p>Tác phẩm gồm 20 truyện ngắn về những chuyện của người lớn dưới con mắt nhìn của tuổi mới lớn. Văn phong dí dỏm cuốn hút người đọc.</p>\n<p><strong>Chuyện Cổ Tích Dành Cho Người Lớn (In Lần Thứ 44)</strong><br></p>\n<p>Tác phẩm gồm 20 truyện ngắn về những chuyện của người lớn dưới con mắt nhìn của tuổi mới lớn. Văn phong dí dỏm cuốn hút người đọc.<br></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 85000,
+        "product_quantity": 2022,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Trẻ",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "90454",
+        "product_name": "Cho Tôi Xin Một Vé Đi Tuổi Thơ - Phiên Bản Màu Đặc Biệt",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d3/03/74/750aab79e80b853a3ac5540fc58eb144.jpg"
+        ],
+        "product_description": "<div class=\"product_view_tab_content_ad\">\n<div id=\"product_tabs_description_contents\">\n<div id=\"desc_content\" class=\"std\">\n<p>Cho Tôi Xin Một Vé Đi Tuổi Thơ - Phiên Bản Đặc Biệt</p>\n<p align=\"left\">Truyện Cho tôi xin một vé đi tuổi thơ là một trong những tác phẩm bán chạy nhất nhà văn Nguyễn Nhật Ánh. Nhà văn mời người đọc lên chuyến tàu quay ngược trở lại thăm tuổi thơ và tình bạn dễ thương của 4 bạn nhỏ. Những trò chơi dễ thương thời bé, tính cách thật thà, thẳng thắn một cách thông minh và dại dột, những ước mơ tự do trong lòng… khiến cuốn sách có thể làm các bậc phụ huynh lo lắng rồi thở phào. Không chỉ thích hợp với người đọc trẻ, cuốn sách còn có thể hấp dẫn và thực sự có ích cho người lớn trong quan hệ với con mình.</p>\n<p align=\"left\">Tác phẩm đạt giải thưởng văn học Asean 2010.</p>\n<p align=\"left\"><em>Cho tôi xin một vé đi tuổi thơ</em> đã được chuyển ngữ sang nhiều thứ tiếng như Tiếng Anh, Nhật, Hàn, Thái và phát hành tại nhiều nước thế giới.</p>\n<p align=\"left\"><em>“Một câu chuyện ngụ ngôn làm say lòng người lớn và trẻ em. Cho tôi xin một vé đi tuổi thơ sẽ chiếm cảm tình của độc giả Mỹ - Amazon.</em></p>\n<p align=\"left\"><em>Tác phẩm đầy mê hoặc này - gợi nhớ đến Hoàng tử bé của Saint-Exupery – đã khắc họa một cách tài tình sự đa cảm của tuổi thơ đối lập với những phi lý của thế giới người lớn – Publishers Weekly”</em></p>\n<p align=\"left\">Phiên bản đặc biệt kỷ niệm 40 năm ngày thành lập NXB Trẻ được in màu hoàn toàn với những tranh minh họa mới của họa sĩ Đỗ Hoàng Tường.</p>\n</div>\n</div>\n</div>\n<div>\n<div class=\"product_view_tab_content_ad_more\">\n<div id=\"product_tabs_description_contents\">\n<div id=\"desc_content\" class=\"std\">\n<p align=\"left\"> </p>\n</div>\n</div>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 465000,
+        "product_quantity": 1895,
+        "product_category": [
+            "Sách tiếng Việt"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Trẻ",
+            "Loại bìa": "Bìa cứng",
+            "Số trang": "200",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "90454",
+        "product_name": "Sách - Harry Potter và Phòng Chứa Bí Mật - Tập 2",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/13/65/04/9172bb4575b4a236265be5486b5c1f4b.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>THÔNG TIN CHI TIẾT</p>\n   <p>Công ty phát hành NXB Trẻ</p>\n   <p>Tác giả J. K. Rowling</p>\n   <p>Ngày xuất bản 02-2017</p>\n   <p>Kích thước 14x20cm</p>\n   <p>Nhà xuất bản Nhà Xuất Bản Trẻ</p>\n   <p>Loại bìa Bìa mềm</p>\n   <p>Số trang 430 trang</p>\n   <p>Giới thiệu sách</p>\n   <p>Harry Potter Và Phòng Chứa Bí Mật - Tập 2 (Tái Bản 2017)</p>\n   <p>Trở lại trường học, Harry nghe một tin đồn đang lan truyền về phòng chứa bí mật, nơi cất giữ những bí ẩn đáng sợ dành cho giới phù thủy có nguồn gốc Muggle. Có kẻ nào đó đang phù phép làm tê liệt mọi người, khiến họ gần như đã chết, và một lời cảnh báo kinh hoàng được tìm thấy trên bức tường. Mối nghi ngờ hàng đầu – và luôn luôn sai lầm – là Harry. Nhưng một việc còn đen tối hơn thế đã được hé mở.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 170000,
+        "product_quantity": 2933,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Trẻ",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "90454",
+        "product_name": "Sách - Những Chàng Trai Xấu Tính ( Truyện Dài )",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/2e/a1/36/69643d1a527653b6576421fe63a6d1ce.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Công ty phát hành NXB Trẻ</p>\n   <p>Tác giả Nguyễn Nhật Ánh</p>\n   <p>Ngày xuất bản 12-2018</p>\n   <p>Kích thước 12 x 20 cm</p>\n   <p>Nhà xuất bản Nhà Xuất Bản Trẻ</p>\n   <p>Loại bìa Bìa mềm</p>\n   <p>Số trang 198</p>\n   <p>Từ những lần gặp gỡ thường xuyên ở hồ bơi, có một cuộc chiến tranh tưởng bùng nổ giữa hai chàng trai vốn là “chiến hữu”. Tất cả chỉ là vì một cô gái có hành tung khó hiểu và tính nết thay đổi liên tục. Sự hiểu lầm ấy may thay không kéo dài lâu quá, bởi vì sau cùng hai chàng trai xấu tính ấy hiểu ra, họ đang yêu hai chị em sinh đôi.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 85000,
+        "product_quantity": 3892,
+        "product_category": [
+            "Truyện dài"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Trẻ",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "9778",
+        "product_name": "Bộ 3 cuốn sách văn học cực hay: Chiến Binh Cầu Vồng + Tôi Thấy Hoa Vàng Trên Cỏ Xanh + Làm Bạn Với Bầu Trời (Bìa Mềm) ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/82/00/a9/e45fbe0e37a1205467c44b51e5fe810f.jpg"
+        ],
+        "product_description": "<p><span style=\"color: #339966;\"><strong>1.Chiến Binh Cầu Vồng</strong></span></p>\n<p><span style=\"color: #000000;\">Một tác phẩm có tầm ảnh hưởng sâu rộng nhất Indonesia<br /><br />“Thầy Harfan và cô Mus nghèo khổ đã mang đến cho tôi tuổi thơ đẹp nhất, tình bạn đẹp nhất, và tâm hồn phong phú, một thứ gì đó vô giá, thậm chí còn có giá trị hơn những khao khát mơ ước. Có thể tôi lầm, nhưng theo ý tôi, đây thật sự là hơi thở của giáo dục và linh hồn của một chốn được gọi là trường học.”<br />- (Trích tác phẩm)<br /><br />***<br /><br />Trong ngày khai giảng, nhờ sự xuất hiện vào phút chót của cậu bé thiểu năng trí tuệ Harun, trường Muhammadiyah may mắn thoát khỏi nguy cơ đóng cửa. Nhưng ước mơ dạy và học trong ngôi trường Hồi giáo ấy liệu sẽ đi về đâu, khi ngôi trường xập xệ dường như sẵn sàng sụp xuống bất cứ lúc nào, khi lời đe dọa đóng cửa từ viên thanh tra giáo dục luôn lơ lửng trên đầu, khi những cỗ máy xúc hung dữ đang chực chờ xới tung ngôi trường để dò mạch thiếc…? Và liệu niềm đam mê học tập của những Chiến binh Cầu vồng đó có đủ sức chinh phục quãng đường ngày ngày đạp xe bốn mươi cây số, rồi đầm cá sấu lúc nhúc bọn ăn thịt người, chưa kể sự mê hoặc từ những chuyến phiêu lưu chết người theo tiếng gọi của ngài pháp sư bí ẩn trên đảo Hải Tặc, cùng sức cám dỗ khôn cưỡng từ những đồng tiền còm kiếm được nhờ công việc cu li toàn thời gian<br /><br />Chiến binh Cầu vồng có cả tình yêu trong sáng tuổi học trò lẫn những trò đùa tinh quái, cả nước mắt lẫn tiếng cười – một bức tranh chân thực về hố sâu ngăn cách giàu nghèo, một tác phẩm văn học cảm động truyền tải sâu sắc nhất ý nghĩa đích thực của việc làm thầy, việc làm trò và việc học.<br /><br />Tác phẩm đã bán được trên năm triệu bản, được dịch ra 26 thứ tiếng, là một trong những đại diện xuất sắc nhất của văn học Indonesia hiện đại.</span></p>\n<p><span style=\"color: #339966;\"><strong>2.Tôi Thấy Hoa Vàng Trên Cỏ Xanh</strong></span></p>\n<p>Ta bắt gặp trong Tôi Thấy Hoa Vàng Trên Cỏ Xanh một thế giới đấy bất ngờ và thi vị non trẻ với những suy ngẫm giản dị thôi nhưng gần gũi đến lạ. Câu chuyện của Tôi Thấy Hoa Vàng Trên Cỏ Xanh có chút này chút kia, để ai soi vào cũng thấy mình trong đó, kiểu như lá thư tình đầu đời của cu Thiều chẳng hạ ngây ngô và khờ khạo.</p>\n<p>Nhưng Tôi Thấy Hoa Vàng Trên Cỏ Xanh hình như không còn trong trẻo, thuần khiết trọn vẹn của một thế giới tuổi thơ nữa. Cuốn sách nhỏ nhắn vẫn hồn hậu, dí dỏm, ngọt ngào nhưng lại phảng phất nỗi buồn, về một người cha bệnh tật trốn nhà vì không muốn làm khổ vợ con, về một người cha khác giả làm vua bởi đứa con tâm thầm của ông luôn nghĩ mình là công chúa, Những bài học về luân lý, về tình người trở đi trở lại trong day dứt và tiếc nuối.</p>\n<p>Tôi Thấy Hoa Vàng Trên Cỏ Xanh lắng đọng nhẹ nhàng trong tâm tưởng để rồi ai đã lỡ đọc rồi mà muốn quên đi thì thật khó.</p>\n<p> </p>\n<p>“Tôi thấy hoa vàng trên cỏ xanh” truyện dài mới nhất của nhà văn vừa nhận giải văn chương ASEAN Nguyễn Nhật Ánh - đã được Nhà xuất bản Trẻ mua tác quyền và giới thiệu đến độc giả cả nước.</p>\n<p>Cuốn sách viết về tuổi thơ nghèo khó ở một làng quê, bên cạnh đề tài tình yêu quen thuộc, lần đầu tiên Nguyễn Nhật Ánh đưa vào tác phẩm của mình những nhân vật phản diện và đặt ra vấn đề đạo đức như sự vô tâm, cái ác. 81 chương ngắn là 81 câu chuyện nhỏ của những đứa trẻ xảy ra ở một ngôi làng: chuyện về con cóc Cậu trời, chuyện ma, chuyện công chúa và hoàng tử, bên cạnh chuyện đói ăn, cháy nhà, lụt lội, <em>“Tôi thấy hoa vàng trên cỏ xanh”</em>hứa hẹn đem đến những điều thú vị với cả bạn đọc nhỏ tuổi và người lớn bằng giọng văn trong sáng, hồn nhiên, giản dị của trẻ con cùng nhiều tình tiết thú vị, bất ngờ và cảm động trong suốt hơn 300 trang sách. Cuốn sách, vì thế có sức ám ảnh, thu hút, hấp dẫn không thể bỏ qua.</p>\n<p><span style=\"color: #339966;\"><strong>3.Làm Bạn Với Bầu Trời (Bìa Mềm)</strong></span></p>\n<p><span style=\"color: #000000;\">Một câu chuyện giản dị, chứa đầy bất ngờ cho tới trang cuối cùng. Vẻ đẹp lộng lẫy, vì lòng vị tha và tình yêu thương, khiến mắt rưng rưng vì một nỗi mừng vui hân hoan. Cuốn sách như một đốm lửa thắp lên lòng khát khao sống tốt trên đời.<br /><br />Viết về điều tốt đã không dễ, viết sao cho người đọc có thể đón nhận đầy cảm xúc tích cực, và muốn được hưởng, được làm những điều tốt dù nhỏ bé mới thật là khó. Làm bạn với bầu trời của Nguyễn Nhật Ánh đã làm được điều này.<br /><br />Như nhà văn từng phát biểu “điểm mạnh của văn chương nằm ở khả năng thẩm thấu. Bằng hình thức đặc thù của mình, văn chương góp phần mài sắc các ý niệm đạo đức nơi người đọc một cách vô hình. Bồi đắp tâm hồn và nhân cách một cách âm thầm và bền bỉ, đó là chức năng gốc rễ của văn chương, đặc biệt là văn chương viết cho thanh thiếu niên.”</span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 309500,
+        "product_quantity": 2485,
+        "product_category": [
+            "Nhà Sách Tiki"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Nhiều công ty phát hành",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "26242",
+        "product_name": "Combo Sách Văn Học Hay Của Tác Giả NGUYỄN NHẬT ÁNH: Ngày Xưa Có Một Chuyện Tình (Phần hai của Mắt Biếc) + Cô Gái Đến Từ Hôm Qua + Ngồi Khóc Trên Cây / Top những cuốn sách hay nhất của Nguyễn Nhật Ánh",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/1c/72/cc/9f9907839cf441280ea81bec7459e2a0.png",
+            "https://salt.tikicdn.com/ts/product/bb/ff/af/2eaa6af89f8f3407fe4ec85985a732d9.jpg",
+            "https://salt.tikicdn.com/ts/product/bb/ff/af/fa7cb33527522cd03daaba9d7445c0d4.jpg",
+            "https://salt.tikicdn.com/ts/product/bb/ff/af/0b14a4e7a4f441890df72c8d12698755.jpg"
+        ],
+        "product_description": "<p><em><strong>Combo Sách Văn Học Hay Của Tác Giả NGUYỄN NHẬT ÁNH: Ngày Xưa Có Một Chuyện Tình (Phần hai của Mắt Biếc) + Cô Gái Đến Từ Hôm Qua + Ngồi Khóc Trên Cây / Top những cuốn sách hay nhất của Nguyễn Nhật Ánh</strong></em></p>\n<p><span style=\"color:#ff0000;\"><em><strong>Ngày Xưa Có Một Chuyện Tình (Phần hai của Mắt Biếc)</strong></em></span></p>\n<p>NGÀY XƯA CÓ MỘT CHUYỆN TÌNH là tác phẩm mới tinh thứ 2 trong năm 2016 của nhà văn Nguyễn Nhật Ánh dài hơn 300 trang, được coi là tập tiếp theo của tập truyện Mắt biếc. Có một tình yêu dữ dội, với em, của một người yêu em hơn chính bản thân mình - là anh.</p>\n<p>Ngày xưa có một chuyện tình có phải là một câu chuyện cảm động khi người ta yêu nhau, nỗi khát khao một hạnh phúc êm đềm ấm áp đến thế; hay đơn giản chỉ là chuyện ba người - anh, em, và người ấy…?</p>\n<p>Bạn hãy mở sách ra, để chứng kiến làn gió tình yêu chảy qua như rải nắng trên khuôn mặt mùa đông của cô gái; nụ hôn đầu tiên ngọt mật, cái ôm đầu tiên, những giọt nước mắt và cái ôm xiết cuối cùng… rồi sẽ tìm thấy câu trả lời, cho riêng mình.</p>\n<p><span style=\"color:#ff0000;\"><em><strong> Cô Gái Đến Từ Hôm Qua</strong></em></span></p>\n<p>Nếu ngày xưa còn bé, Thư luôn tự hào mình là cậu con trai thông minh có quyền bắt nạt và sai khiến các cô bé cùng lứa tuổi thì giờ đây khi lớn lên, anh luôn khổ sở khi thấy mình ngu ngơ và bị con gái “xỏ mũi”. Và điều nghịch lý ấy xem ra càng “trớ trêu’ hơn, khi như một định mệnh, Thư nhận ra Việt An, cô bạn học thông minh thường làm mình bối rối bấy lâu nay chính là Tiểu Li, con bé hàng xóm ngốc nghếch từng hứng chịu những trò nghịch ngợm của mình hồi xưa.</p>\n<p><span style=\"color:#ff0000;\"><em><strong>Ngồi Khóc Trên Cây</strong></em></span></p>\n<p>Mở đầu là kỳ nghỉ hè tại một ngôi làng thơ mộng ven sông với nhân vật là những đứa trẻ mới lớn có vô vàn trò chơi đơn sơ hấp dẫn ghi dấu mãi trong lòng.   Mối tình đầu trong veo của cô bé Rùa và chàng sinh viên quê học ở thành phố có giống tình đầu của bạn thời đi học? Và cái cách họ thương nhau giấu giếm, không dám làm nhau buồn, khát khao hạnh phúc đến nghẹt thở có phải là câu chuyện chính?</p>\n<p>\"Nồng nàn lên với</p>\n<p>Cốc rượu trên tay</p>\n<p>Xanh xanh lên với</p>\n<p>Trời cao ngàn ngày</p>\n<p>Dài nhanh lên với</p>\n<p>Tóc xõa ngang mày</p>\n<p>Lớn nhanh lên với</p>\n<p>Bé bỏng chiều nay”</p>\n<p>Bạn sẽ được tác giả dẫn đi liền một mạch trong một thứ cảm xúc rưng rưng của tình yêu thương. Bạn sẽ thấy may mắn vì đang đuợc sống trong cuộc sống này, thấy yêu thế những tấm tình người… tất cả đều đẹp hồn hậu một cách giản dị.</p>\n<p>Với cuốn sách này, một lần nữa người đọc lại được Nguyễn Nhật Ánh tặng món quà quý giá: lòng tin vào điều tốt có thật trên đời.</p>\n<p><span style=\"color:#ff0000;\"><em>* Nội dung không thay đổi. Bìa sản phẩm thay đổi theo từng đợt nhập hàng*</em></span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 291500,
+        "product_quantity": 8870,
+        "product_category": [
+            "Sách tiếng Việt"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Trẻ",
+            "Loại bìa": "Bìa mềm",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "9778",
+        "product_name": "Combo Truyện: Em Vốn Thích Cô Độc, Cho Đến Khi Có Anh + Thất Tịch Không Mưa + Sự Dịu Dàng Khó Cưỡng + Anh Không Muốn Để Em Một Mình (Bộ 4 Cuốn)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/30/d4/7d/51b4165a4dfcfc07a2864756919567fb.jpg"
+        ],
+        "product_description": "<p>Combo Truyện: Em Vốn Thích Cô Độc, Cho Đến Khi Có Anh + Thất Tịch Không Mưa + Sự Dịu Dàng Khó Cưỡng + Anh Không Muốn Để Em Một Mình (Bộ 4 Cuốn)</p>\n<p> </p>\n<p>1, Em Vốn Thích Cô Độc, Cho Đến Khi Có Anh</p>\n<p>Một hôm, tôi đi làm lại quên mang điện thoại. Tôi muốn về nhà lấy, nhưng lại bận không dứt ra được, đang lúc băn khoăn thì nhìn thấy Kẻ phiền phức bước thẳng vào phòng, điềm đạm đặt chiếc di động mà tôi đang cần lên bàn.</p>\n<p>Yêu anh quá đi!” Tôi vội vàng thì thầm vào tai hắn, rồi lập tức lấy điện thoại xem.</p>\n<p>Rốt cuộc thì có chuyện gì em mới không quên đây hả?” Kẻ phiền phức chán nản nói.</p>\n<p>Tôi lặng lẽ liếc nhìn hắn một cái, nói nhỏ: “… Yêu anh!”</p>\n<p>Mặt hắn đang hầm hầm bỗng trở nên rạng rỡ.</p>\n<p>Lúc rời khỏi văn phòng tôi, khóe mắt hắn còn mang ý cười.</p>\n<p> </p>\n<p>2, Sự Dịu Dàng Khó Cưỡng</p>\n<p>Sinh nhật lần thứ 14, Quan Tiểu Úc gặp tình yêu sét đánh tại Bule Pub. Anh chàng lạ mắt trông cao quý và hấp dẫn đã thu hút ánh nhìn và trái tim cô bé mới lớn. Rồi khi nhìn chàng trai xa lạ kia khoác vai người đẹp rời đi, “mối tình đầu thơ ngây” của cô bỗng tan thành mây khói.<br /><br />Năm cô 22 tuổi, bố mẹ cô sắp xếp một cuộc gặp mặt với Âu Dương Y Phàm, anh chàng nổi tiếng đẹp trai, giỏi giang, con nhà gia, hai nhà đã có hẹn ước với nhau từ nhỏ. Nhưng vì nghe nói anh ta là một “hoa hoa công tử”, thay người yêu còn nhanh hơn cả thay áo, Quan Tiểu Úc chưa kịp gặp mặt đã lén trốn đi mất. Cô rất ghét loại người như anh ta.<br /><br />Rời khỏi quán trà, cô vô tình đụng phải Ivan, anh chàng đẹp trai cô tình cờ gặp trong bữa tiệc sinh nhật một người bạn. Và trong lúc “nguy cấp”, cô đã lên xe anh ta để chạy trốn khỏi cuộc gặp không mong muốn. Tiếp xúc nhiều với Ivan, cô mới hiểu đằng sau khuôn mặt bất cần đời, luôn ung dung, tươi cười kia là một người hết lòng vì bạn bè, một con người quyết đoán trong công việc đầy áp lực và hơn hết là một trái tim si tình trong tình yêu. Dần dần cô có cảm tình rồi rung động trước Ivan, quyết định cho anh cơ hội để có thể trở thành bạn trai của cô.<br /><br />Nhưng định mệnh thật trớ trêu khi đến sinh nhật lần thứ 23, Tiểu Úc phát hiện tên hoa hoa công tử Âu Dương Y Phàm và Ivan hóa ra chỉ là một người…</p>\n<p> </p>\n<p>3, Thất Tịch Không Mưa</p>\n<p>Từ nhỏ cô đã thầm yêu anh, như số kiếp không thể thay đổi Tình yêu trong sáng ấy, như lần đầu được nếm mùi vị của quả khế mới chín. Sau đó cô và anh xa nhau, gặp lại đều cách nhau ba năm.</p>\n<p>Tình yêu, giống như lần đầu được nếm thử quả khế mới chín.</p>\n<p>Chua chua, chát chát, nhưng không kìm được, vẫn muốn nếm thêm lần nữa.</p>\n<p>Trong quả khế chát xanh xanh, nụ cười ngốc nghếch, ngọt ngào của anh, tình đầu thơ ngây, trong sáng của em lặng lẽ nảy mầm.</p>\n<p> </p>\n<p>4, <strong>Anh Không Muốn Để Em Một Mình </strong></p>\n<p><br />Cuộc đời con người ngắn ngủi, chúng ta luôn cố gắng tiến về phía trước, hy vọng phía cuối con đường nhìn thấy phong cảnh đẹp. Nhưng khi chúng ta thực sự đến điểm cuối đó, chờ đợi chúng ta lại là phong cảnh nào? Tôi không thể nghĩ ra nên nói chuyện với một vài ngườ là những người bước lên “chuyến tàu cuối” của cuộc đời. Đối với họ, hành trình sinh mệnh chỉ còn lại trạm cuối cùng, họ muốn dừng chân, ngắm thật nhiều phong cảnh hai bên đường, cho dù chỉ là một bông hoa nở, một chiếc lá rơi…<br />Thì ra, câu chuyện của cuộc đời không giống như tiểu thuyết, câu chuyện của cuộc đời luôn không biết lúc nào thì đột nhiên dừng lại, chỉ còn lại là bông pháo hoa rực rỡ và ngắn ngủi trong ký ức mỗi người.<br />Tôi viết cuốn sách này là muốn ghi lại những bông pháo hoa xán lạn, rực rỡ nhất ấy.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 401500,
+        "product_quantity": 1969,
+        "product_category": [
+            "Sách tiếng Việt"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Đinh Tị",
+            "Loại bìa": "Bìa mềm",
+            "Nhà xuất bản": "Nhà Xuất Bản Phụ Nữ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "26242",
+        "product_name": "Combo Đảo Mộng Mơ + Tôi Thấy Hoa Vàng Trên Cỏ Xanh (Bộ 2 Cuốn)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/61/93/6f/7bac5e8e2f74054a390b3db3cc86a668.jpg",
+            "https://salt.tikicdn.com/ts/product/94/c5/c5/2e6b7fe64fe6648ed83e649fd0603129.jpg",
+            "https://salt.tikicdn.com/ts/product/81/9f/74/6e922c05ed8a89afe22f87b12dad34e8.jpg",
+            "https://salt.tikicdn.com/ts/product/f8/0f/eb/2d54a433b2c4c74e74d2c2b2fa9e6fe0.jpg"
+        ],
+        "product_description": "<p style=\"text-align: justify;\"><strong><em>Combo Đảo Mộng Mơ + Tôi Thấy Hoa Vàng Trên Cỏ Xanh (Bộ 2 Cuốn)</em></strong></p> \n  <p style=\"text-align: justify;\"></p> \n  <p style=\"text-align: justify;\">Đảo Mộng Mơ là một lát cắt đời sống của những đứa trẻ lên 10 giàu trí tưởng tượng như tất cả mọi đứa trẻ. Chúng mơ mộng, tưởng tượng, và tự làm \"hiện thực hóa\" những khao khát của mình.</p> \n  <p style=\"text-align: justify;\">Câu chuyện bắt đầu từ một đống cát, và được diễn ra theo nhân vật tôi - cu Tin. Có một hòn đảo hoang, trên đảo có Chúa đảo, phu nhân Chúa đảo, và một chàng Thứ Bảy. Hàng ngày vợ chồng Chúa đảo và Thứ Bảy vẫn phải đi học, nhưng sau giờ học là một thế giới khác, của đảo, của biển có cá mập, và rừng có thú dữ. Hấp dẫn, đầy quyến rũ, có cãi vã, có cai trị, có yêu thương, có ẩu đả, và cảững nụ hôn!</p> \n  <p style=\"text-align: justify;\">Tuổi thơ trong Đảo Mộng mơ như trong những tác phẩm khác của Nguyễn Nhật Ánh, trong veo và ngọt ngào. Những muốn bé lại bằng cu Tin để được cười, được khóc, được làm Chúa đảo thích đọc sách và biết đánh lại lưu manh, bắt giam kẻ cắp. Để được hiểu rằng, đối với trẻ con, nhu cầu được tôn trọng đôi khi lớn hơn gấp bội so với nhu cầu được yêu thương.</p> \n  <p style=\"text-align: justify;\">Văn Nguyễn Nhật Ánh vẫn luôn thế, trong sáng, dí dỏm, đầy ắp thực tế tâm lý, hành động và ngôn ngữ của trẻ. Hy vọng Đảo Mộng mơ thỏa mãn những khao khát \"được chơi\", được thỏa chí tưởng tượng mà không bị mắng là \"hâm\", là \"bốc phét\" của trẻ, cũng như những băn khoăn của các bậc cha mẹ, làm sao có thể giữ gìn sự trong trẻo hồn nhiên mãi cho con mình.</p> \n  <p style=\"text-align: justify;\"><strong><em><span></span></em></strong></p> \n  <p style=\"text-align: justify;\">Những câu chuyện nhỏ xảy ra ở một ngôi làng nhỏ: chuyện người, chuyện cóc, chuyện ma, chuyện công chúa và hoàng tử , rồi chuyện đói ăn, cháy nhà, lụt lội, Bối cảnh là trường học, nhà trong xóm, bãi tha ma. Dẫn chuyện là cậu bé 15 tuổi tên Thiều. Thiều có chú ruột là chú Đàn, có bạn thân là cô bé Mận. Nhưng nhân vật đáng yêu nhất lại là Tường, em trai Thiều, một cậu bé học không giỏi. Thiều, Tường và những đứa trẻ sống trong cùng một làng, học cùng một trường, có biết bao chuyện chung. Chúng nô đùa, cãi cọ rồi yêu thương nhau, cùng lớn lên theo năm tháng, trải qua bao sự kiện biến cố của cuộc đời.</p> \n  <p style=\"text-align: justify;\">Tác giả vẫn giữ cách kể chuyện bằng chính giọng trong sáng hồn nhiên của trẻ con. 81 chương ngắn là 81 câu chuyện hấp dẫn với nhiều chi tiết thú vị, cảm động, có những tình tiết bất ngờ, từ đó lộ rõ tính cách người. Cuốn sách, vì thế, có sức ám ảnh.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 202500,
+        "product_quantity": 9187,
+        "product_category": [
+            "Sách tiếng Việt"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Trẻ",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Nhà xuất bản": "Nhiều Nhà Xuất Bản"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "148433",
+        "product_name": "Combo Trại Hoa Vàng + Hoa Hồng Xứ Khác (Bộ 2 Cuốn)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/54/f3/7a/1fe3a962ab0731d44e987e5cb185b5d1.jpg",
+            "https://salt.tikicdn.com/ts/product/03/1e/5d/afa0fd1f6f74f72221485b752b51b4ac.jpg",
+            "https://salt.tikicdn.com/ts/product/f5/da/f1/5858846497dd31fb0f115ceb20ad770c.jpg",
+            "https://salt.tikicdn.com/ts/product/e0/1b/e2/b5685398feb359f440c2f6261a9ef0d6.jpg",
+            "https://salt.tikicdn.com/ts/product/7a/77/70/06ad76f50901a582057b72c4745f3a91.jpg"
+        ],
+        "product_description": "<p style=\"text-align:justify;\"><em><strong>Combo Trại Hoa Vàng + Hoa Hồng Xứ Khác (Bộ 2 Cuốn)</strong></em></p>\n<p style=\"text-align:justify;\"> </p>\n<p style=\"text-align:justify;\">Truyện đã được đăng dài kỳ trên báo Mực Tím. Chuẩn nhà nghèo, học không khá lắm, nhưng có nhiều bạn. Yêu hoa, Chuẩn đã tự trồng được một vườn hoa vàng. Có cô</p>\n<p style=\"text-align:justify;\">bé tên Thảo hàng xóm thường hay sang chơi cùng chăm sóc hoa với Chuẩn. Một hôm, Thảo ngỏ ý xin một đóa hồng, Chuẩn đã ngần ngại vì nghĩ hoa hồng chỉ tặng cho</p>\n<p style=\"text-align:justify;\">người mình yêu…. Lúc đó, Chuẩn đã phải lòng Cẩm Phô – một người bạn gái học chung từng bênh vực cho Chuẩn. Và…</p>\n<p style=\"text-align:justify;\"> </p>\n<p style=\"text-align:justify;\">Trong truyện, Ngữ, Khoa và Hòa lé đều say mê cô bạn cùng lớp Gia Khanh. Cái cô gái bị ba người cùng theo đó sẽ phải làm sao. Ba anh chàng làm gì để “chiến thắng”.</p>\n<p style=\"text-align:justify;\">Điều lý thú là gần như tác giả tái hiện lại thời học trò của mình với ngôn ngữ thời bây giờ nên các bạn đọc trẻ sẽ tìm thấy hình bóng của chính mình trong đó.</p>\n<p style=\"text-align:justify;\"> </p>\n<p style=\"text-align:justify;\">Trong truyện, Ngữ, Khoa và Hòa lé đều say mê cô bạn cùng lớp Gia Khanh. Cái cô gái bị ba người cùng theo đó sẽ phải làm sao. Ba anh chàng làm gì để “chiến thắng”. Điều lý thú là gần như tác giả tái hiện lại thời học trò của mình với ngôn ngữ thời bây giờ nên các bạn đọc trẻ sẽ tìm thấy hình bóng của chính mình trong đó.</p>\n<h2>Hoa Hồng Xứ Khác - Tái Bản 2022</h2>\n<p>Trong truyện, Ngữ, Khoa và Hòa lé đều say mê cô bạn cùng lớp Gia Khanh. Cái cô gái bị ba người cùng theo đó sẽ phải làm sao. Ba anh chàng làm gì để <em>“chiến thắng”</em>. Điều lý thú là gần như tác giả tái hiện lại thời học trò của mình với ngôn ngữ thời bây giờ nên các bạn đọc trẻ sẽ tìm thấy hình bóng của chính mình trong đó.</p>\n<div class=\"author-wrap clearfix\">\n<h2 class=\"author-heading\">Thông tin tác giả</h2>\n<div class=\"logo\"><img class=\"b-lazy b-loaded\" src=\"https://www.netabooks.vn/data/author/1503/logo-nguyen-nhat-anh.jpg\" alt=\"Tác giả Nguyễn Nhật Ánh\" /></div>\n<div class=\"author-about\">\n<h3 class=\"author-name\">Nguyễn Nhật Ánh</h3>\n<p>Sinh ngày 7 tháng 5 năm 1955 là một nhà văn người Việt. Ông được biết đến qua nhiều tác phẩm văn học về đề tài tuổi mới lớn, các tác phẩm của ông rất được độc giả ưa chuộng và nhiều tác phẩm đã được chuyển thể thành phim.</p>\n<p>Ông lần lượt viết về sân khấu, phụ trách mục tiểu phẩm, phụ trách trang thiếu nhi và hiện nay là bình luận viên thể thao trên báo Sài Gòn Giải phóng Chủ nhật với bút danh Chu Đình Ngạn. Ngoài ra, ông còn có những bút danh khác như Anh Bồ Câu, Lê Duy Cật, Đông Phương Sóc, Sóc Phương Đông,...</p>\n<p>Năm 13 tuổi, ông đăng báo bài thơ đầu tiên. Tác phẩm đầu tiên in thành sách là một tập thơ tên <em>Thành phố tháng tư</em> (Nhà xuất bản Tác phẩm mới, 1984, in chung với Lê Thị Kim). Truyện dài đầu tiên của ông là tác phẩm <em>Trước vòng chung kết </em>(Nhà xuất bản Măng Non, 1984). Hai mươi năm trở lại đây, ông tập trung viết văn xuôi, chuyên sáng tác về đề tài thanh thiếu niên.</p>\n<p>Năm 1990, truyện dài <em>Chú bé rắc rối</em> của ông được Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh trao giải thưởng Văn học Trẻ hạng A. Năm 1995, ông được bình chọn là nhà văn được yêu thích nhất trong 20 năm (1975-1995) qua cuộc trưng cầu ý kiến bạn đọc về các gương mặt trẻ tiêu biểu trên mọi lĩnh vực của Thành Đoàn Thành phố Hồ Chí Minh và báo Tuổi Trẻ, đồng thời được Hội Nhà Văn Thành phố Hồ Chí Minh bình chọn là một trong 20 nhà văn trẻ tiêu biểu trong 20 năm (1975-1995).</p>\n<p>Năm 1998, ông được Nhà xuất bản Kim Đồng trao giải Nhà văn có sách bán chạy nhất. Năm 2003, bộ truyện nhiều tập <em>Kính vạn hoa</em> được Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh trao huy chương Vì thế hệ trẻ và được Hội Nhà Văn Việt Nam trao giải thưởng. Đến nay ông đã xuất bản gần 100 tác phẩm và từ lâu đã trở thành nhà văn thân thiết của các bạn đọc nhỏ tuổi ở Việt Nam.</p>\n<p>Năm 2004, Nhật Ánh ký hợp đồng với Nhà xuất bản Kim Đồng tiếp tục cho xuất bản bộ truyện dài gồm 4 phần mang tên <em>Chuyện xứ Lang Biang</em> nói về hai cậu bé lạc vào thế giới phù thủy. Đây là lần đầu tiên ông viết một bộ truyện hoàn toàn dựa trên trí tưởng tượng. Vì vậy, để chuẩn bị cho tác phẩm này, ông đã phải mất 6 tháng nghiên cứu tài liệu và đọc sách báo liên quan như Phù thủy và Pháp sư, Các huyền thoại phương Đông, Ma thuật và thuật phù thủy...</p>\n<p>Sau Chuyện xứ Lang Biang, tác phẩm tiếp theo của ông là bút ký của một chú cún có tên <em>Tôi là Bêtô</em>.</p>\n<p>Năm 2008, ông cho ra đời tác phẩm <em>Cho tôi xin một vé đi tuổi thơ</em>, được báo Người lao động bình chọn là tác phẩm hay nhất năm 2008.</p>\n<p>Năm 2012, Nhật Ánh cho ra mắt truyện dài <em>Có hai con mèo ngồi bên cửa sổ.</em> Các tác phẩm ra đời gần đây nhất là <em>Ngồi khóc trên cây</em> (tháng 6 năm 2013), <em>Chúc một ngày tốt lành </em>(tháng 3 năm 2014), <em>Bảy bước tới mùa hè </em>(tháng 3 năm 2015), <em>Con chó nhỏ mang giỏ hoa hồng</em> (28 tháng 2 năm 2016), <em>Cây chuối non đi giày xanh </em>(7 tháng 1 năm 2018) và <em>Làm bạn với bầu trời </em>(tháng 9 năm 2019).</p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/03/1e/5d/cff8ba7f4782ac986e3fbd2c85a6e22f.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/f5/da/f1/6ced056b8f600837591b8ece554dad39.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 203400,
+        "product_quantity": 6198,
+        "product_category": [
+            "Sách tiếng Việt"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "NXB Trẻ",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Nhà xuất bản": "NXB Trẻ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "26242",
+        "product_name": "Sherlock Holmes (Trọn Bộ 3 Tập)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/4d/8a/d5/e77fc1a710f05f6d51abd34ba039e7c1.jpg",
+            "https://salt.tikicdn.com/media/catalog/product/s/h/sherlock-holme-1.u4939.d20170630.t113348.643376.jpg",
+            "https://salt.tikicdn.com/media/catalog/product/s/h/sherlock-holme-2.u4939.d20170630.t113348.713567.jpg",
+            "https://salt.tikicdn.com/media/catalog/product/s/h/sherlock-holme-3.u4939.d20170630.t113348.758727.jpg",
+            "https://salt.tikicdn.com/media/catalog/product/s/h/sherlock-holme-4.u4939.d20170630.t113348.805670.jpg",
+            "https://salt.tikicdn.com/media/catalog/product/s/h/sherlock-holme-5.u4939.d20170630.t113348.852727.jpg"
+        ],
+        "product_description": "<p><strong>Sherlock Holmes (Trọn Bộ 3 Tập)</strong></p>\n<p>Từ khi xuất hiện lần đầu tiên vào năm 1887, thám tử Sherlock Holmes đã trở thành một trong những nhân vật hư cấu được yêu thích nhất. Là bậc thầy về khoa học suy luận, có thể làm sáng tỏ ngay cả những vụ án khó và phức tạp nhất bằng cách phát hiện ra những manh mối mà với người khác là quá mơ hồ và không thể nhận biết, thám tử Sherlock Holmes là nhân vật chính trong bộ tác phẩm gồm sáu mươi câu chuyện được viết bởi Sir Arthur Conan Doyle từ năm 1887 đến năm 1927. Với sự giúp đỡ của người bạn tận tụy và trung thành là bác sĩ Watson, thám tử Sherlock Holmes đã khiến vô số những kẻ lừa đảo, kẻ cướp và kẻ sát nhân bị đưa ra truy tố trước pháp luật. Nhiều câu chuyện về Sherlock Holmes đã được xếp vào hàng những tác phẩm trinh thám hư cấu hay nhất mọi thời đại, trong số đó có “Chiếc nhẫn tình cờ”, “Vụ bê bối ở Bohemia”, “Dải băng lốm đốm” và “Con chó săn của dòng họ Baskerville”.</p>\n<p>Bộ Sherlock Holmes toàn tập được Đinh Tị Books xuất bản lần này sẽ giới thiệu với bạn đọc trọn bộ tác phẩm gồm 56 truyện ngắn và 4 tiểu thuyết, được sắp xếp theo trình tự thời gian xuất bản. Tập một: Chiếc nhẫn tình cờ (tiểu thuyết), Dấu bộ tứ (tiểu thuyết), Những cuộc phiêu lưu của Sherlock Holmes (12 truyện ngắn). Tập hai: Hồi ức của Sherlock Holmes (11 truyện ngắn), Sherlock Holmes trở về (13 truyện ngắn), Con chó săn của dòng họ Baskerville (tiểu thuyết). Tập ba: Thung lũng khủng khiếp (tiểu thuyết), Cung đàn sau cuối (18 truyện ngắn), Tàng thư của Sherlock Holmes (12 truyện ngắn). Hy vọng bộ sách này sẽ mang đến cho độc giả những giờ phút thư giãn thú vị và trở thành một phần không thể thiếu trong tủ sách của mỗi gia đình.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 390500,
+        "product_quantity": 4241,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Nhiều công ty phát hành",
+            "Ngày xuất bản": "2017-05-03 00:00:00",
+            "Kích thước": "16 x 24 cm",
+            "Dịch Giả": "Vũ Ngọc Huyền, Đặng Thị Huệ",
+            "Loại bìa": "Bìa mềm",
+            "Nhà xuất bản": "Nhiều Nhà Xuất Bản"
+        },
+        "product_variations": null,
+        "sku_list": null
+    }
+]

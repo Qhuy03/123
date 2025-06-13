@@ -1,0 +1,717 @@
+[
+    {
+        "product_shop": "13929",
+        "product_name": "[COMBO 5] Hộp quần lót nữ cotton dáng hipster mềm mại, lành tính thoáng mát ONOFF 16UV24A321-16UV24A217",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c2/4c/77/50403f497d57f96289b310f909fdb70b.png",
+            "https://salt.tikicdn.com/ts/product/47/e7/0c/7827837624edce0379f09cad0188712e.jpg"
+        ],
+        "product_description": "<p>ONOFF ra mắt dòng sản phẩm pack đóng hộp gọn gàng, sang trọng, kín đáo, chất lượng nhưng giá Siêu tiết kiệm đến khách hàng.</p>\n<p>Thành phần: 95% Cotton và 5% Spandex</p>\n<p>Chất liệu Cotton USA mềm xốp cùng khả năng thấm hút tốt, kết hợp 5% Spandex co giãn, đàn hồi, mang lại cảm giác thoải mái dễ chịu, an toàn cho làn da nhạy cảm.</p>\n<p>Thiết kế Hipter tối giản kết hợp chun mềm mại. Lựa chọn hoàn hảo nàng cần có trong tủ đồ của mình.</p>\n<p>Thiết kế phù hợp cho các hoạt động hằng ngày</p>\n<p>Sản phẩm được đóng hộp tiện lợi với quy cách</p>\n<p>Pack 3 (combo 3): 3 sản phẩm/ hộp</p>\n<p>Pack 5 (combo 5): 5 sản phẩm/ hộp</p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/e7/fe/68/935bc9f7e2902f36c33ba235ba2802ae.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/fd/be/d8/8257055e123c1a8979258874ef51f5a4.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/0d/72/a6/9b02a546142a2b92fac89d3775e46dab.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/ed/7d/92/d8797765cc7f55d55144a110c3f49bd8.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/5e/c8/48/2c5339f87a90ce5f3d12c32691616ac4.jpg\" alt=\"\" width=\"750\" height=\"1125\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/5e/48/f9/681df35419b0ee33de5c6df3e86f0d83.jpg\" alt=\"\" width=\"750\" height=\"1125\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/e1/8f/4c/26200735c7a0eaedec8c4019505942fd.jpg\" alt=\"\" width=\"750\" height=\"1125\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 209000,
+        "product_quantity": 4841,
+        "product_category": [
+            "Quần lót hispter"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ONOFF",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Pack/Màu",
+                "options": [
+                    "Pack 3 MX008",
+                    "Pack 5 MX011",
+                    "Pack 5 da",
+                    "pack 3 Da"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "M",
+                    "S",
+                    "XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 209000,
+                "sku_stock": 7165
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 209000,
+                "sku_stock": 8643
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 209000,
+                "sku_stock": 2655
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 209000,
+                "sku_stock": 3265
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 209000,
+                "sku_stock": 1547
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 209000,
+                "sku_stock": 1348
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 209000,
+                "sku_stock": 5075
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 209000,
+                "sku_stock": 4480
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 209000,
+                "sku_stock": 9210
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 209000,
+                "sku_stock": 4878
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 209000,
+                "sku_stock": 8244
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 209000,
+                "sku_stock": 7090
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 209000,
+                "sku_stock": 9803
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 209000,
+                "sku_stock": 2170
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 209000,
+                "sku_stock": 5393
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 209000,
+                "sku_stock": 8688
+            }
+        ]
+    },
+    {
+        "product_shop": "12228",
+        "product_name": "Quần mặc váy cotton 100% annie QE 2166 che chắn tốt, an toàn không bị hở, không sợ gió, thoáng mát, thoải mái vận động",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/f2/12/33/d9bdcf8675e2955da3ead5483fef429d.jpg",
+            "https://salt.tikicdn.com/ts/product/ae/b6/47/e0cf9f8ba47e0161b1323c3992db4ce3.jpg",
+            "https://salt.tikicdn.com/ts/product/5d/45/8c/48f46a0f9ae6c9510741cb22b33a9441.jpg",
+            "https://salt.tikicdn.com/ts/product/c6/e0/c6/68748e0649d16d316caa631dd9b54835.jpg"
+        ],
+        "product_description": "\n  <p>Toàn bộ ảnh shop cung cấp là tự chụp 100%</p>\n   <p>️ Hãy FOLLOW shop để nhận Voucher ưu đãi của shop</p>\n   <p>————— ️——————</p>\n   <p>️ THÔNG TIN SẢN PHẨM:</p>\n   <p>- Màu sắc: Trắng, da hồng, đen</p>\n   <p>- Size: M - L - XL</p>\n   <p>SHOP CAM KẾT</p>\n   <p>️ Hàng Chính Hãng - Giá ưu đãi</p>\n   <p>️ Giao hàng tận NHÀ- Ship 100% trên toàn Quốc</p>\n   <p>️ Luôn có đội ngũ trực tin nhắn Tư vấn, chăm sóc và giải đáp thắc mắc - HOÀN TOÀN MIỄN PHÍ</p>\n   <p>Shop xin cảm ơn bạn đã tin tưởng và chọn sản phẩm của Shop.</p>\n   <p>Mỗi đơn hàng đến bạn là tâm huyết của shop, là món quà shop gửi đến bạn.</p>\n   <p>Hy vọng bạn hài lòng với sản phẩm của Shop và đừng quên giới thiệu bạn bè của bạn nhé!</p>\n   <p>Nếu ưng ý về sản phẩm, rất mong Quý Khách đánh giá 5 Sao để Shop có thêm động lực để nâng cao chất lượng phục vụ Khách hàng.</p>\n   <p>Chúc các bạn có những trải nghiệm vui vẻ khi mua hàng tại gian hàng của Nội Y Cao Cấp Annie Shop.</p>\n   <p>Rất mong nhận được sự quan tâm và ủng hộ của Quý Khách .</p>\n   <p>Xin chân thành cảm ơn .</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 119000,
+        "product_quantity": 2687,
+        "product_category": [
+            "Thời trang nữ"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Annie",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Da hồng",
+                    "Trắng",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "M",
+                    "XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 119000,
+                "sku_stock": 8917
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 119000,
+                "sku_stock": 5090
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 119000,
+                "sku_stock": 3649
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 119000,
+                "sku_stock": 1828
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 119000,
+                "sku_stock": 1287
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 119000,
+                "sku_stock": 2562
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 119000,
+                "sku_stock": 5497
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 119000,
+                "sku_stock": 4710
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 119000,
+                "sku_stock": 2171
+            }
+        ]
+    },
+    {
+        "product_shop": "161474",
+        "product_name": "Quần Lót Nữ Kháng Khuẩn Vicose Viền Ren Mềm Mại Thoáng Khí Hút Ẩm Phong Cách Nhật Bản P192",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/50/52/18/c2e462eb4d31f7581c337b066c2f1c18.jpg",
+            "https://salt.tikicdn.com/ts/product/4d/ca/a1/42edd5b68d9c137a193618bc5eb6d41a.jpg",
+            "https://salt.tikicdn.com/ts/product/6f/a0/fb/4a8c3a12ed2ad4f03201d4291f8cc191.jpg",
+            "https://salt.tikicdn.com/ts/product/f7/53/7f/c29ecc0207e7d9383dff58c750c35cb3.jpg",
+            "https://salt.tikicdn.com/ts/product/4e/39/dd/b0f59931b5c96a0e56b607dbf57d9921.jpg",
+            "https://salt.tikicdn.com/ts/product/2b/a2/58/baca3ce059e5e96a3caabc582a9e6e01.jpg",
+            "https://salt.tikicdn.com/ts/product/72/7b/f6/d8375b0f301ca22f02a28b542298e698.jpg",
+            "https://salt.tikicdn.com/ts/product/39/38/44/c7b6577abf5468d191b7e84e9482acbb.jpg",
+            "https://salt.tikicdn.com/ts/product/14/bf/d3/c2b29c387b80f9fad8d2f470fa7fbc92.jpg",
+            "https://salt.tikicdn.com/ts/product/77/4d/0e/06bed18d27bf51be98fd531c9c9428d7.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Quần Lót Nữ Kháng Khuẩn Vicose Viền Ren Mềm Mại Thoáng Khí Hút Ẩm Phong Cách Nhật Bản P192</p>\n   <p> Chất liệu chủ yếu là vicose, mềm mại, thoáng mát, kết hợp 1 phần nhỏ spandex tạo tính đàn hồi cho sản phẩm.</p>\n   <p> Quần cạp vừa, viền ren mềm, thêm nơ nhỏ dễ thương</p>\n   <p> Tông màu ấm, trẻ trung thanh lịch</p>\n   <p> Quần freesize, co giãn tốt, cạp quần 28cm, dài 22cm, thích hợp với cân nặng từ 40-65kg</p>\n   <p> Rosie Bra</p>\n   <p> Chuyên đồ lót- đồ ngủ- đồ mặc nhà- đồ tập </p>\n   <p>ÔNG TIN SẢN PHẨM ;</p>\n   <p>- Nhập khẩu bởi : CÔNG TY TNHH MTV HẢI TIẾN THÀNH LS</p>\n   <p>2.Đơn vị chịu trách nhiệm về sản phẩm</p>\n   <p>- Shop : </p>\n   <p>- Địa chỉ :Phan Đình Giót - La Khê - Hà Đông – Hà Nội</p>\n   <p>3. Xuất xứ hàng hóa : Trung Quốc.</p>\n   <p>4. Nội dung sản phẩm :</p>\n   <p>ành phần :Cotton, Polyester và Spandex.</p>\n   <p>ông số kỹ thuật:</p>\n   <p>Quần freesize, co giãn tốt, cạp quần 28cm, dài 22cm, thích hợp với cân nặng từ 40-65kg</p>\n   <p>ông tin cảnh báo:</p>\n   <p>- Với tất cả các sản phẩm thời trang -&gt;Giặt 1 lần trước khi mặc để đảm bảo an toàn cho da.</p>\n   <p>d.Hướng dẫn sử dụng, hướng dẫn bảo quản:</p>\n   <p>- Có thể giặt máy - Không giặt chung với chất tẩy rửa mạnh.</p>\n   <p>e.Năm sản xuất: 2022.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 34000,
+        "product_quantity": 9432,
+        "product_category": [
+            "Quần lót hispter"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Xuất xứ (Made in)": "Trung Quốc"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Vàng",
+                    "Xanh cốm",
+                    "Xanh lục"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 34000,
+                "sku_stock": 3080
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 34000,
+                "sku_stock": 7129
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 34000,
+                "sku_stock": 3754
+            }
+        ]
+    },
+    {
+        "product_shop": "161474",
+        "product_name": "Quần Lót Nữ Giấu Viền Vải Modal Kháng Khuẩn Co Giãn Siêu Mềm Mịn Phong Cách Nhật Bản P188",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/56/6e/9b/8b8970ed47e58720f4f4e1a5b262e4ae.jpg",
+            "https://salt.tikicdn.com/ts/product/ef/33/26/a2047a3915573ff271916cb4304495f8.jpg",
+            "https://salt.tikicdn.com/ts/product/bf/ac/f2/f8af777809a7dc2366624ade1bb8d75c.jpg",
+            "https://salt.tikicdn.com/ts/product/51/da/25/1249b8d1c174c30c23074b6aa9a3c97d.jpg",
+            "https://salt.tikicdn.com/ts/product/81/57/78/d978ab10b8944bfa4f15a0b053006e0e.jpg",
+            "https://salt.tikicdn.com/ts/product/97/28/16/05d4cde40140a7a05a518ba9a7d5ba10.jpg",
+            "https://salt.tikicdn.com/ts/product/55/87/54/40e2069f73898ca318ed5a4d693a0128.jpg",
+            "https://salt.tikicdn.com/ts/product/15/91/b0/d497a8bdaa89ef2220df3259e4800549.jpg",
+            "https://salt.tikicdn.com/ts/product/00/93/fe/e3a4fb81b6c1e23177ac63b0fc48c274.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p> Cạp quần cao vừa, thiết kế ôm sát, ôm trọn vòng 3 tạo cảm giác an toàn, dễ chịu</p>\n   <p> Phần cạp và đùi không có viền may, không bị lộ viền khi mặc với các trang phục mỏng, bó</p>\n   <p> Đũng quần thông khí, kháng khuẩn</p>\n   <p> Quần co giãn nhiều, freesize cho cân nặng từ 40-65kg</p>\n   <p> Rosie Bra</p>\n   <p> Chuyên đồ lót- đồ ngủ- đồ mặc nhà- đồ tập </p>\n   <p>ÔNG TIN SẢN PHẨM ;</p>\n   <p>- Nhập khẩu bởi : CÔNG TY TNHH MTV HẢI TIẾN THÀNH LS</p>\n   <p>2.Đơn vị chịu trách nhiệm về sản phẩm</p>\n   <p>- Shop : </p>\n   <p>- Địa chỉ :Phan Đình Giót - La Khê - Hà Đông – Hà Nội</p>\n   <p>3. Xuất xứ hàng hóa : Trung Quốc.</p>\n   <p>4. Nội dung sản phẩm :</p>\n   <p>ành phần :Cotton, Polyester và Spandex.</p>\n   <p>ông số kỹ thuật:</p>\n   <p>Size M thích hợp với cân nặng 40-52kg</p>\n   <p>Size L thích hợp với cân nặng 52-62kg</p>\n   <p>ông tin cảnh báo:</p>\n   <p>- Với tất cả các sản phẩm thời trang -&gt;Giặt 1 lần trước khi mặc để đảm bảo an toàn cho da.</p>\n   <p>d.Hướng dẫn sử dụng, hướng dẫn bảo quản:</p>\n   <p>- Có thể giặt máy - Không giặt chung với chất tẩy rửa mạnh.</p>\n   <p>e.Năm sản xuất: 2022.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+        "product_price": 42000,
+        "product_quantity": 1269,
+        "product_category": [
+            "Quần lót hispter"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Xuất xứ (Made in)": "Trung Quốc"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Hồng nhạt",
+                    "Hồng đậu",
+                    "Nâu nhạt",
+                    "Nâu đậm",
+                    "Rêu ghi",
+                    "Xanh ghi",
+                    "Xanh lục"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 42000,
+                "sku_stock": 6607
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 42000,
+                "sku_stock": 9410
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 42000,
+                "sku_stock": 3765
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 42000,
+                "sku_stock": 6473
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 42000,
+                "sku_stock": 8008
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 42000,
+                "sku_stock": 2092
+            },
+            {
+                "sku_tier_idx": [
+                    6
+                ],
+                "sku_price": 42000,
+                "sku_stock": 9322
+            }
+        ]
+    },
+    {
+        "product_shop": "111485",
+        "product_name": "Quần đùi váy LUPERI SP125 chất cotton tự nhiên co giãn thoáng khí kháng khuẩn khử mùi tốt",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/34/d2/f8/4d98d4c7b223ceb6fdd7ff3168da4446.jpg",
+            "https://salt.tikicdn.com/ts/product/56/30/84/441476ebe709a2f3b21cc11ae2457880.jpg",
+            "https://salt.tikicdn.com/ts/product/c4/e2/ca/615db00dd8d2b3df9e1f24138642d131.jpg",
+            "https://salt.tikicdn.com/ts/product/44/a8/dd/e74ce103a3510ed0093d9116c09ea81c.jpg",
+            "https://salt.tikicdn.com/ts/product/4b/c2/46/b06d2b5b1d3b396327a0f35a04d1f371.jpg",
+            "https://salt.tikicdn.com/ts/product/d7/24/27/b7dc47070aadd4c1f4ca75459b61f5de.jpg",
+            "https://salt.tikicdn.com/ts/product/4d/01/a6/83bd2911314a8469e20392ca108a5c7e.jpg",
+            "https://salt.tikicdn.com/ts/product/c5/2b/37/ccce5dabe2bd935806f2511e1d3a7272.jpg",
+            "https://salt.tikicdn.com/ts/product/7c/a1/5b/17c7605b537bc883ef6a5ced3dab075d.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Quần đùi váy LUPERI SP125 chất cotton tự nhiên co giãn thoáng khí kháng khuẩn khử mùi tốt</p>\n   <p>Mã sản phẩm: SP125</p>\n   <p>Thương hiệu: Luperi</p>\n   <p>- Kiểu dáng: Đùi mặc váy</p>\n   <p>- Chất liệu: 95% cotton, 5% spandex</p>\n   <p>- Quy cách: Quần rời</p>\n   <p>- Quần được làm từ chất liệu cotton tự nhiên, có tính kháng khuẩn cao</p>\n   <p>- Chất liệu co giãn tuyệt vời, thoáng khí.</p>\n   <p>- Độ dài vừa, đáp ren gấu chống gập cuộn ống.</p>\n   <p>- Màu sắc : Da, đen.</p>\n   <p>- Size: M,L,XL</p>\n   <p>-------------</p>\n   <p>LUPERI - CHẤT LƯỢNG LÀM NÊN THƯƠNG HIỆU</p>\n   <p>️ Cập nhật xu hướng mới nhất</p>\n   <p>️ Form dáng phù hợp với mọi độ tuổi</p>\n   <p>️ Thiết kế có tính ứng dụng cao, đường may tỉ mỉ, tinh tế làm nổi bật nét thanh lịch, trẻ trung và tự tin và hiện đại của người phụ nữ.</p>\n   <p>️ Chất lượng hàng đầu - Vận chuyển nhanh nhất.</p>\n   <p>-------------------------</p>\n   <p>Luperi là thương hiệu độc quyền của Công Ty TNHH GUSTO</p>\n   <p>Địa chị: Số 20, ngách 41, ngõ 381 Đường Nguyễn Khang, Phường Yên Hòa, Quận Cầu Giấy, TP Hà Nội</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 65000,
+        "product_quantity": 7881,
+        "product_category": [
+            "Quần lót hispter"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "LUPERI",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Da",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "M",
+                    "XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 65000,
+                "sku_stock": 9406
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 65000,
+                "sku_stock": 5393
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 65000,
+                "sku_stock": 5285
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 65000,
+                "sku_stock": 6892
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 65000,
+                "sku_stock": 7078
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 65000,
+                "sku_stock": 9303
+            }
+        ]
+    },
+    {
+        "product_shop": "13929",
+        "product_name": "Quần lót nữ cotton Mỹ kháng khuẩn ONOFF mỏng nhẹ, mềm mại - 16UV24A242",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/9e/3a/d8/45608e08c77e5175688158c2cc5fb34f.jpg"
+        ],
+        "product_description": "<p><strong>Cotton USA là</strong> Là Bông được trồng ở Mỹ , với các tiêu chuẩn khắt khe từ chọn giống bông, chăm sóc, thu hoạch và chế biến để tạo ra Bông Cotton USA chất lượng tốt nhất thế giới </p>\n<p>Sản phẩm của ONOFF đã được Hiệp hội Bông Mỹ cấp giấy Chứng nhận hàng năm từ nhiều năm qua và có Thẻ treo Cotton USA.</p>\n<p>Với đặc tính nổi trội:</p>\n<ul>\n<li>Mềm mịn thoáng mát, thấm hút vượt trội</li>\n<li>Co dãn đàn hồi tốt</li>\n<li>Thấm hút vượt trội, An toàn cho da</li>\n<li>Quần lót nữ kiểu đáng hipster nữ tính, Lưng chun rời thiết kế bắt mắt, gắn logo ONOF</li>\n</ul>\n<p>Chất liệu:</p>\n<p>94% Cotton USA 6% Spandex</p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/7f/e1/03/c0d40c3b35321e1b237ffdd1fa73e68c.jpg\" alt=\"\" width=\"750\" height=\"1001\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/60/91/38/964da9c6a91149801ef38ce44cee5a15.jpg\" alt=\"\" width=\"750\" height=\"1001\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/4a/b1/b8/cac57afed3b4215a0156753e23b5d615.jpg\" alt=\"\" width=\"750\" height=\"955\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/6a/ed/61/e6938c484d6b90ac7544b9a627ecd188.jpg\" alt=\"\" width=\"750\" height=\"311\" /></p>\n<p>--------------------</p>\n<p>Hướng dẫn bảo quản:</p>\n<p>Không giật tag (mác) - cắt bằng kéo</p>\n<p>Giặt máy với chu kỳ trung bình và vòng quay ngắn</p>\n<p>Giặt với nhiệt độ tối đa 30 độ C</p>\n<p>Sấy ở nhiệt độ thường</p>\n<p>Là ủi ở nhiệt độ thấp</p>\n<p>--------------------</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 79000,
+        "product_quantity": 3208,
+        "product_category": [
+            "Thời trang nữ"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "ONOFF",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Model": "H16BU19242"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Da nhạt",
+                    "Hồng",
+                    "Xám",
+                    "Đen"
+                ]
+            },
+            {
+                "name": "Size",
+                "options": [
+                    "L",
+                    "M",
+                    "S",
+                    "XL"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 79000,
+                "sku_stock": 7981
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 79000,
+                "sku_stock": 2629
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 79000,
+                "sku_stock": 8817
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    3
+                ],
+                "sku_price": 79000,
+                "sku_stock": 8980
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 79000,
+                "sku_stock": 8821
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 79000,
+                "sku_stock": 1470
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 79000,
+                "sku_stock": 9148
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    3
+                ],
+                "sku_price": 79000,
+                "sku_stock": 5895
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 79000,
+                "sku_stock": 2953
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 79000,
+                "sku_stock": 4567
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    2
+                ],
+                "sku_price": 79000,
+                "sku_stock": 8650
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    3
+                ],
+                "sku_price": 79000,
+                "sku_stock": 3362
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 79000,
+                "sku_stock": 7912
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 79000,
+                "sku_stock": 7530
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    2
+                ],
+                "sku_price": 79000,
+                "sku_stock": 8836
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    3
+                ],
+                "sku_price": 79000,
+                "sku_stock": 2707
+            }
+        ]
+    },
+    {
+        "product_shop": "9257",
+        "product_name": "Combo 10 quần lót nữ cao cấp sexy ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/38/d7/9b/8e8545afde9c5e174fcba621a812bbdb.jpg"
+        ],
+        "product_description": "<p>Đẹp hớp hồn người luôn ạ.</p>\n<p>Chỉ là đồ lót thôi mà sao đẹp thế hả các bác. </p>\n<p>Nó đẹp kiểu sexy mà k đơn điệu ý. </p>\n<p>Hoạ tiết ren hoa bắt mắt cực kỳ luôn , lưng thun co giãn ren mềm mại lắm ấy. Bảng màu quá Tây quá chuẩn</p>\n<p>Chị e diện lên cứ gọi là thích cực luôn ý. Sexy phải biết. Chị e diện vào e đố các ông chồng k yêu cho đc </p>\n<p>- Hàng xuất chất cực đẹp, đảm bảo các chị nhận hàng là mê ạ.</p>\n<p>Free size dưới 55kg</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 389000,
+        "product_quantity": 1485,
+        "product_category": [
+            "Quần lót hispter"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    }
+]

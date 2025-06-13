@@ -1,0 +1,71 @@
+[
+    {
+        "product_shop": "12362",
+        "product_name": "Sách đọc tiếng Pháp: Clés pour la France",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a1/bc/21/e1dc1d5c498ade9fbcc743e150108940.jpg",
+            "https://salt.tikicdn.com/ts/product/7b/6f/9b/a450a59b80dedff984401d675851b85a.jpg",
+            "https://salt.tikicdn.com/ts/product/d2/6f/88/2810d2844f1b81a2d6be5a1ecbd15c03.jpg"
+        ],
+        "product_description": "<div class=\"col-sm-6 \">\n<div class=\"field field-name-title-field field-type-text field-label-hidden\">\n<div class=\"field-items\">\n<div class=\"field-item even\">\n<h1>Clés pour la France</h1>\n</div>\n</div>\n</div>\n<div class=\"field field-name-hw-intervenants field-type-entityreference field-label-inline clearfix clearfix\">\n<div class=\"field-label\">AUTEUR(S): </div>\n<div class=\"field-items\">\n<div class=\"field-item even\"></div>\n</div>\n</div>\n<div class=\"field field-name-hw-presentation-editoriale field-type-text-long field-label-hidden\">\n<div class=\"field-items\">\n<div class=\"field-item even\">\n<p><strong><big><em>Un ouvrage indispensable pour se plonger dans la découverte de la culture française, par le spécialiste des représentations culturelles, Prof. Denis C. Meyer (Université de Hong-Kong)...</em></big></strong></p>\n<p><strong>Structure :</strong></p>\n<p>- Une organisation simple en forme de fiches<br />- 1 icône culturelle traîtée par fiche, avec des activités autour de chaque icône en 3 étapes : <em>Lire</em>, <em>Parler</em>, <em>Rechercher  </em>- Des annexes très riches : un quiz pour faire le point et identifier les liens entres les icônes, une carte de France et un plan de Paris pour situer les icônes, une cartographie des icônes qui montre les relations thématiques entre elles, des corrigés des activités</p>\n<p><strong>Description :</strong></p>\n<p>- Cet ouvrage constitue la base d'un cours de la culture française ou d'expression orale, aussi bien qu'un complément de méthode<br />- 80 textes illustrés accompagnés d'activités favorisent la compréhension et les échanges<br />- Des icônes culturelles sont des figures emblématiques (objets, personnages, idées, événements, rituels) qui jouent un rôle essentiel dans la construction de l'identité nationale et de l'imaginaire collectif français<br />- Une façon motivante de travailler les compétences linguistiques, culturelles et interculturelles</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-3 \">\n<div class=\"field field-name-hw-education-classe field-type-taxonomy-term-reference field-label-hidden\"> </div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1005750,
+        "product_quantity": 5588,
+        "product_category": [
+            "Travel & Holiday"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Hachette",
+            "Nhà xuất bản": "Hachette",
+            "ISBN-13": "9782011557360",
+            "Số trang": "192"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "43",
+        "product_name": "Eat Like a Local PARIS",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/18/80/bf/1ca297e2b2b06e2d81810d483e58859f.jpg"
+        ],
+        "product_description": "<p>Eat Like a Local is a series of stylish travel guides that focus on the culinary scenes of the world's most-visited cities. The first of their kind, these books act as a food tour in your pocket, giving you inside knowledge to eat, drink, shop and cook like a local. </p>\n<p>Contents include over 100 listings for the best restaurants, cafes, bars, markets and street food as recommended by savvy locals native to the city; short essays that give a real insight into the ins and outs of the city's idiosyncratic food cultures; plus a handful of iconic recipes to cook from your holiday kitchen or back home. <br /><br />Whether you're visiting for a weekend or a week, these sleek little guides will equip you with everything you need to get off the well-worn tourist track and under the skin of the city's food scene, leaving you feeling satisfied that you've eaten your way through the very best the city has to offer.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 186000,
+        "product_quantity": 2656,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Bloomsbury",
+            "Nhà xuất bản": "Bloomsbury",
+            "ISBN-13": "9781408893241",
+            "Kích thước": "178 x 111 mm",
+            "Loại bìa": "Paperback",
+            "ISBN-10": "9781408893241"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "43",
+        "product_name": "Eat Like a Local LONDON",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/cd/84/d0/6981ca295284bdeead09c27838d3bb1c.jpg"
+        ],
+        "product_description": "<p>Eat Like a Local is a series of stylish travel guides that focus on the culinary scenes of the world's most-visited cities. The first of their kind, these books act as a food tour in your pocket, giving you inside knowledge to eat, drink, shop and cook like a local. <br /><br />Contents include over 100 listings for the best restaurants, cafes, bars, markets and street food as recommended by savvy locals native to the city; short essays that give a real insight into the ins and outs of the city's idiosyncratic food cultures; plus a handful of iconic recipes to cook from your holiday kitchen or back home. <br /><br />Whether you're visiting for a weekend or a week, these sleek little guides will equip you with everything you need to get off the well-worn tourist track and under the skin of the city's food scene, leaving you feeling satisfied that you've eaten your way through the very best the city has to offer.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 186000,
+        "product_quantity": 2705,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Bloomsbury",
+            "Nhà xuất bản": "Bloomsbury",
+            "ISBN-13": "9781408893234",
+            "Kích thước": "178 x 111 mm",
+            "Loại bìa": "Paperback",
+            "ISBN-10": "9781408893234"
+        },
+        "product_variations": null,
+        "sku_list": null
+    }
+]

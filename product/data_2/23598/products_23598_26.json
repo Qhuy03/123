@@ -1,0 +1,1954 @@
+[
+    {
+        "product_shop": "15145",
+        "product_name": "Nệm Foam Cao Cấp Ru9 Original Pro 25cm - Trắng Xanh | Lớp Foam 3 vùng | Tùy chỉnh độ êm | 6 Kích Thước",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/3d/d8/a9/8d12f4f52d00e97b36072b2c8a88db61.jpg",
+            "https://salt.tikicdn.com/ts/product/28/08/92/0702ba33fb7b9b2f8a8f94209146a818.jpg",
+            "https://salt.tikicdn.com/ts/product/92/de/c5/8d3a9ca1818c4a735c6bf83a57ad3467.jpg",
+            "https://salt.tikicdn.com/ts/product/fd/31/b2/87127a611537cc4533b773b312c28a58.jpg",
+            "https://salt.tikicdn.com/ts/product/23/08/21/7bdeed7ca9180cd732fec6617b41b63e.jpg",
+            "https://salt.tikicdn.com/ts/product/3b/c3/80/bcd8b2dde63ea31eba61a52dfc5f0282.jpg",
+            "https://salt.tikicdn.com/ts/product/23/4d/c0/dd68d738bbaba86dc071f17b59409747.jpg",
+            "https://salt.tikicdn.com/ts/product/3d/69/66/acb0bfa3da76270bd47e1c9ddd88eef2.jpg",
+            "https://salt.tikicdn.com/ts/product/e2/62/61/579a0fd021d88af39a1f206735ea3f3a.jpg"
+        ],
+        "product_description": "<p><strong>KHÔNG ÁP DỤNG CHÍNH SÁCH 100 ĐÊM NGỦ THỬ.</strong></p>\n<article class=\"4ever-article\">\n<p>Thông tin sản phẩm: Nệm Original Pro với thiết kế 3 vùng nâng đỡ dành cho đầu - thân - chân, ôm trọn cơ thể. Công nghệ Graphene Memory Foam độc quyền giúp nệm luôn mát mẻ và thoáng khí. Cùng 2 sự lựa chọn độ êm Firm (chắc chắn hơn) hoặc Medium (mềm mại hơn) phù hợp với nhu cầu và sở thích, giúp bạn có giấc ngủ hoàn hảo. </p>\n<p>-------------------------------------</p>\n<p>Lưu ý:</p>\n<p>- Để nệm nở đều cần từ 2-3 ngày</p>\n<p>- Mở nệm ra khỏi lớp hút chân không trong tháng đầu mua nệm để đảm bảo chất lượng</p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 12990000,
+        "product_quantity": 1960,
+        "product_category": [
+            "Giường King/Queen"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Ru9",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Quy cách đóng gói": "<p>Quy cách đóng gói: </p>\n<p>- Nệm và topper được cuộn và gấp đôi, đóng chung thùng</p>\n<p>- Phụ kiện (dao nhựa, handbook)</p>\n<p> </p>",
+            "Chất liệu": "<p>Memory Foam</p>",
+            "Hướng dẫn sử dụng": "<p>Hướng dẫn sử dụng:</p>\n<p>- Khi cần sử dụng, sau khi lấy nệm ra khỏi thùng, cắt lớp bọc hút chân không để nệm phồng lên</p>\n<p> </p>",
+            "Hướng dẫn bảo quản": "<p>Hướng dẫn bảo quản và vệ sinh sản phẩm:</p>\n<p>- Chỉ giặt vỏ nệm, không giặt các phần bên trong</p>\n<p>- Không làm đổ chất lỏng lên nệm</p>\n<p>- Trở đầu nệm sau một thời gian sử dụng</p>\n<p>- Sử dụng tấm bảo vệ nệm giúp kéo dài tuổi thọ nệm</p>\n<p> </p>",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "10 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Kích thước",
+                "options": [
+                    "Full - 140x200cm",
+                    "King - 180x200cm",
+                    "Queen - 160x200cm",
+                    "Single - 120x200cm",
+                    "Square King - 200x200cm",
+                    "Super King -220 x 200cm"
+                ]
+            },
+            {
+                "name": "Độ êm",
+                "options": [
+                    "Firm Topper",
+                    "Medium Topper"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 12990000,
+                "sku_stock": 3179
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 12990000,
+                "sku_stock": 6700
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 12990000,
+                "sku_stock": 6080
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 12990000,
+                "sku_stock": 1806
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    0
+                ],
+                "sku_price": 12990000,
+                "sku_stock": 7795
+            },
+            {
+                "sku_tier_idx": [
+                    2,
+                    1
+                ],
+                "sku_price": 12990000,
+                "sku_stock": 1713
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    0
+                ],
+                "sku_price": 12990000,
+                "sku_stock": 9664
+            },
+            {
+                "sku_tier_idx": [
+                    3,
+                    1
+                ],
+                "sku_price": 12990000,
+                "sku_stock": 4851
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    0
+                ],
+                "sku_price": 12990000,
+                "sku_stock": 5306
+            },
+            {
+                "sku_tier_idx": [
+                    4,
+                    1
+                ],
+                "sku_price": 12990000,
+                "sku_stock": 7628
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    0
+                ],
+                "sku_price": 12990000,
+                "sku_stock": 6103
+            },
+            {
+                "sku_tier_idx": [
+                    5,
+                    1
+                ],
+                "sku_price": 12990000,
+                "sku_stock": 7010
+            }
+        ]
+    },
+    {
+        "product_shop": "100733",
+        "product_name": "Kệ Đựng Mỹ Phẩm 3 Tầng Hộp Đựng Đồ Trang Điểm Cá Nhân Để Bàn Hình Tai Thỏ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/35/b3/99/608b5848eeb1c14b7e20d1c148dd3676.jpg",
+            "https://salt.tikicdn.com/ts/product/37/40/3e/490b81290542e787cf89a3f4ae0338e4.jpg",
+            "https://salt.tikicdn.com/ts/product/1e/56/25/9036086543b1c0a321809302ee213268.jpg",
+            "https://salt.tikicdn.com/ts/product/73/c4/40/3cc0a9dfaf6221b178c9e620ad77406f.jpg",
+            "https://salt.tikicdn.com/ts/product/1e/56/25/e162eeafc6493750865ec3f2ef5a0eab.jpg",
+            "https://salt.tikicdn.com/ts/product/45/66/92/afea274f9c1abc11869bf12ef5d1c3f2.jpg",
+            "https://salt.tikicdn.com/ts/product/c8/39/d6/9d33747e0ac843528df5950eb047c5d6.jpg",
+            "https://salt.tikicdn.com/ts/product/a5/a6/11/96cb282431c0ab0fe9fa031d7cfe2ec7.jpg",
+            "https://salt.tikicdn.com/ts/product/3d/0d/3a/5039c20b0681b312b2e03d098175d260.jpg",
+            "https://salt.tikicdn.com/ts/product/13/c4/59/d8fd473092581aa3b9511377657f471f.jpg",
+            "https://salt.tikicdn.com/ts/product/2c/ff/eb/f33c39ff02814ae34d091568be2ce716.jpg"
+        ],
+        "product_description": "<p><strong>Hộp Đựng Đồ Để Bàn 3 Tầng Hình Tai Thỏ Ngăn Kéo Tiện Dụng.</strong></p>\n<div class=\"syl-image-wrapper\" align=\"left\"><img src=\"https://salt.tikicdn.com/ts/product/a6/af/c4/1d85f304a1cabfab06049460c783ce27.jpeg?from=476444299\" width=\"750\" height=\"750\" align=\"left\" alt=\"d40f60a7a8024d25885fb43d0307c76b~tplv-o3syd03w52-origin-jpeg.jpeg?from=476444299\" /></div>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>THÔNG TIN SẢN PHẨM:</p>\n<p>• Tên Sản Phẩm:Hộp Đựng Đồ Để Bàn 3 Tầng Hình Tai Thỏ Ngăn Kéo Tiện Dụng.</p>\n<p>• Màu sắc: Hộp Trắng Phối Màu ( Hồng + Vàng + Xanh )</p>\n<p>• Chất liệu: Nhựa Mica thân thiện an toàn cho người sử dụng</p>\n<p>• Kích Thước: 31 x 23 x 18 cm</p>\n<div class=\"syl-image-wrapper\" align=\"left\"><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/f8/a3/51/3a02562fdcb9f905299969905ff66089.jpeg?from=476444299\" width=\"750\" height=\"750\" align=\"left\" alt=\"cd6656eb33b54d67a3f98deb8cc7b8db~tplv-o3syd03w52-origin-jpeg.jpeg?from=476444299\" /></div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<div class=\"syl-image-wrapper\" align=\"left\"> </div>\n<p>- Hộp đựng mỹ phẩm, kẹp tóc được thiết kế với 3 ngăn kéo, có thể đựng được nhiều vật dụng nhỏ và tiết kiệm diện tích giúp cho căn phòng luôn gọn gàng và ngăn nắp.</p>\n<p>- Sản Phẩm Được Thiết Kế Thông Minh rất gọn và tiện lợi.Có thể để được ở mọi nơi trong nhà.</p>\n<p>- Tháo lắp sản phẩm và lau chùi cực kỳ dễ dàng. Với 1-3 tầng ngăn cực kỳ rộng rãi bạn có thể để bất cứ gì.</p>\n<div class=\"syl-image-wrapper\" align=\"left\"><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/a9/e7/db/8c778ce013980885912a93eae5b0fd62.jpeg?from=476444299\" width=\"1024\" height=\"1024\" align=\"left\" alt=\"85050ee463fc4262aff2c33269b4085e~tplv-o3syd03w52-origin-jpeg.jpeg?from=476444299\" /></div>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>- Giúp không gian để đồ của bạn gọn gàng ngăn nắp hơn.</p>\n<p>- Hộp kín chống bụi bẩn vi khuẩn hơi nước.</p>\n<p>- Nhiều Màu Sắc Tươi Sáng Trẻ Trung Để Lựa Chọn.</p>\n<p>- Làm đồ Decor bàn học hoặc bàn làm việc.</p>\n<div class=\"syl-image-wrapper\" align=\"left\"><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/a1/89/0b/b4fc4fd0efdd88a0146f966210136910.jpeg?from=476444299\" width=\"800\" height=\"800\" align=\"left\" alt=\"63cd6d2aee8649bfaee5d3dcfacb19ac~tplv-o3syd03w52-origin-jpeg.jpeg?from=476444299\" /></div>\n<div class=\"syl-image-wrapper\" align=\"left\"><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/67/ef/66/a95533ea05ecaf1854eeb3c45d3d64e7.jpeg?from=476444299\" width=\"800\" height=\"800\" align=\"left\" alt=\"dc24a8cfe4cc49e7bc2a775fa4f5d1b2~tplv-o3syd03w52-origin-jpeg.jpeg?from=476444299\" /></div>\n<p> </p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 285000,
+        "product_quantity": 9302,
+        "product_category": [
+            "Nội thất phòng ngủ khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "PEAFLO",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "Nhựa ABS",
+            "Kích thước (Dài x Rộng x Cao)": "31 x 23 x 18 cm",
+            "Xuất xứ (Made in)": "Trung Quốc / Singapore / Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "126883",
+        "product_name": "Khay Đựng Son , Đồ Trang Điểm 24 Ô Bằng Mica Chắc Chắn - PaKaSa",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/93/f9/67/3190f5d8bb8d51c958a3e6768b9d5cee.jpg",
+            "https://salt.tikicdn.com/ts/product/c0/6b/ec/fcbc9c51e5fee3aac31c5bd4094c9a95.jpg",
+            "https://salt.tikicdn.com/ts/product/06/e2/95/fb816dc30338681419b66a2f05b65cfe.jpg",
+            "https://salt.tikicdn.com/ts/product/eb/23/46/1e735beb36711d761a25deab5d1e3883.jpg",
+            "https://salt.tikicdn.com/ts/product/70/c0/0f/4955a18658e53c1cef1b5904cf6e8f21.jpg",
+            "https://salt.tikicdn.com/ts/product/32/e8/0b/3b07ea09959e9cdfa85113cc1bba5ccc.jpg",
+            "https://salt.tikicdn.com/ts/product/1f/86/ff/7f0cbb48765ea4edfce990ab9d18658e.jpg",
+            "https://salt.tikicdn.com/ts/product/93/cc/f0/83c7d32366b5a8d971fd5e804e7be194.jpg",
+            "https://salt.tikicdn.com/ts/product/fc/c6/a3/29f17fb74ba9f2e1d2bc0cf687cd287c.jpg"
+        ],
+        "product_description": "<p>Khay đựng son 24 ô với chất liệu dày dặn hơn các loại khay đựng mỹ phẩm khác trên thị trường với chất liệu trong suốt, không hề bị đục hay gợn sóng.</p>\n<p>Khay đựng son được chia làm 24 ô đều nhau với thích hợp chuyên đựng son môi, nhũ tay và các loại phụ kiện mỹ phẩm khác rất thích hợp với các bạn nữ có nhiều son môi và các shop bán đồ mỹ phẩm cần sử dụng khay để trưng bày.</p>\n<p>Chất liệu và kiểu dáng của khay đựng son 24 ô khá ưa mắt và sắp xếp dễ nhìn các loại mỹ phẩm khác nhau của mình.</p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/c0/6b/ec/f7ecc3f2f8fd23e8de9d0db7a9dd6173.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/06/e2/95/ddd573e8852c0e382bc92950700802dd.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/eb/23/46/b84e6ab5fd02c583f631b508a984f324.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/70/c0/0f/865dfd9cd74b9c9fef8e079536a3ef06.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/32/e8/0b/1a311c02661df4c122dce6c4eef47da8.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/1f/86/ff/3e035599d28dc369b32d0f87dfb21aba.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/93/cc/f0/c12fe9dcb7422a53d04d3572f5a90da0.jpg\" alt=\"\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/fc/c6/a3/03dc1fb086b92d9ee087da7ac92f1615.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/93/f9/67/a53fe7f968fca6a228edfc39433a0bf5.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>Một số phản hồi của khách hàng tại shop:</p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/9a/6d/dd/82228d00b84f13b081eb6f67e356d187.jpg\" alt=\"\" width=\"750\" height=\"602\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/27/59/fa/8de5226f9db1250c5e51571176a531f1.jpg\" alt=\"\" width=\"750\" height=\"608\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/3b/c3/46/b462c96261bdf1699cc53d253482a2b4.jpg\" alt=\"\" width=\"750\" height=\"607\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/d6/f2/41/976a9616efd41def8b4b7d1fa15078bb.jpg\" alt=\"\" width=\"750\" height=\"607\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/72/bb/85/db4e0de459785c247a55d84caeb75ada.jpg\" alt=\"\" width=\"750\" height=\"597\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/ff/6b/ac/bfba6ee6cd84025a62c5f1a1b4f2de68.jpg\" alt=\"\" width=\"750\" height=\"599\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 78000,
+        "product_quantity": 4822,
+        "product_category": [
+            "Nội thất phòng ngủ khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "PaKaSa",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "mica",
+            "Hướng dẫn sử dụng": "<p>Đựng son , đồ trang điểm cá nhân</p>",
+            "Kích thước (Dài x Rộng x Cao)": "14*10*7cm",
+            "Xuất xứ (Made in)": "Thailand / China / Malaysia (Tùy từng đợt nhập hàng)",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "3 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "8396",
+        "product_name": "[Miễn phí vận chuyển & lắp đặt] Giường ngủ bệt thông minh kiểu Nhật cao cấp  Ohaha - GB009",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6a/23/18/9cee48d60d657ced1f93fdf2a63e1e67.png",
+            "https://salt.tikicdn.com/ts/product/6d/f1/fa/afe821e2c222a17d3def4099b3e0bc6a.png",
+            "https://salt.tikicdn.com/ts/product/ff/7f/d9/4837f1712463dd1e7eef53a1e7f4a73a.png",
+            "https://salt.tikicdn.com/ts/product/08/7e/27/66e08b5a8628cfe94a86e00049be6af5.png"
+        ],
+        "product_description": "<ul>\n<li style=\"text-align:justify;\">Thương hiệu: OHAHA</li>\n<li style=\"text-align:justify;\">Chất liệu: Gỗ công nghiệp MDF lõi xanh phủ Melamine 2 mặt chống ẩm mốc, trầy xước</li>\n<li style=\"text-align:justify;\">Phong cách: Nhật Bản, Hiện Đại, Bắc Âu</li>\n<li style=\"text-align:justify;\">Màu sắc: Như hình hoặc đổi theo màu khách yêu cầu</li>\n<li style=\"text-align:justify;\">Sản phẩm thân thiện với môi trường, đạt tiêu chuẩn xuất khẩu</li>\n<li style=\"text-align:justify;\">Đã qua xử lý chống cong vênh, chống mọt</li>\n<li style=\"text-align:justify;\">Bảo hành chính hãng 24 tháng</li>\n<li style=\"text-align:justify;\">Size lọt nệm: (R x D x C) \n<ul>\n<li>\n<p><strong>1m2 x 2m x 18cm</strong></p>\n</li>\n<li>\n<p><strong>1m4 x 2m x 18cm</strong></p>\n</li>\n<li>\n<p><strong>1m6 x 2m x 18cm</strong></p>\n</li>\n<li>\n<p><strong>1m8 x 2m x 18cm</strong></p>\n</li>\n<li>\n<p><strong>2m x 2m x 18cm</strong></p>\n</li>\n</ul>\n</li>\n<li style=\"text-align:justify;\">\n<p>- Sản phẩm giao và lắp đặt miễn phí tại TP.HCM và một số tỉnh lân cận.</p>\n<p>- Các tỉnh khác có thể phát sinh chi phí vận chuyển (200k-500k). </p>\n<p>- Hướng dẫn video lắp đặt chi tiết đơn giản đối với khách tỉnh.</p>\n</li>\n</ul>\n<p style=\"text-align:justify;\">-----</p>\n<h1 style=\"text-align:justify;\"><strong>GIƯỜNG NGỦ BỆT KIỂU NHẬT - NƠI NGHỈ DƯỠNG LÝ TƯỞNG KẾT HỢP GIỮA TRUYỀN THỐNG &amp; HIỆN ĐẠI.</strong></h1>\n<p style=\"text-align:justify;\"><em>JAPANESE-STYLE PLATFORM BED - THE IDEAL RESTING PLACE COMBINING TRADITION &amp; MODERNITY.</em></p>\n<p style=\"text-align:justify;\"><strong>Giường ngủ bệt kiểu Nhật gỗ công nghiệp Ohaha - GB009 </strong>là 1 mẫu giường hiện đại với thiết kế thông minh nhưng không kém phần sang trọng và bắt mắt. Đặc trưng phổ biến của mẫu giường ngủ bệt gỗ công nghiệp kiểu Nhật phải được đặt sát xuống sàn nhà giúp không gian trở nên thoáng mát, đặc biệt điểm nhấn với màu vàng gỗ mang đậm phong cách Bắc Âu. </p>\n<p style=\"text-align:justify;\"><em>(The Ohaha Japanese-style industrial wood platform bed - GB009 is a modern bed with a smart design that doesn't skimp on luxury and visual appeal. A hallmark of this type of Japanese industrial wood platform bed is its placement close to the floor, which aids in making the space feel cooler and more spacious. Particularly distinctive is the wood's yellow color, which adds a strong Nordic style to the design.</em>)</p>\n<p style=\"text-align:justify;\"> </p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/product/6d/cb/c3/55e55481fce8b3eaafba5b1a817c5d2f.png\" width=\"600\" height=\"600\" alt=\"giuong-ngu-bet-kieu-nhat-go-cong-nghiep-ohaha-gb009-03_3bc968203baf47b6b83901beccf51957_grande.png\" /></p>\n<h2 style=\"text-align:justify;\"><strong>Đặc điểm nổi bật của giường ngủ bệt kiểu Nhật nhà Ohaha</strong></h2>\n<ul style=\"text-align:justify;\">\n<li><strong>Thiết Kế Sang Trọng và Tiện Nghi</strong>: GB009 được thiết kế với phong cách tinh tế, bệt sát sàn như truyền thống Nhật Bản tạo nên sự tiện lợi và thoải mái tối ưu.</li>\n<li><strong>Chất Liệu Cao Cấp</strong>: Sản phẩm được làm từ chất liệu gỗ MDF lõi xanh cao cấp phủ 2 mặt Melamine, không chỉ bền bỉ với thời gian mà còn thân thiện với môi trường, đảm bảo sức khỏe cho người sử dụng.</li>\n<li><strong>Phong Cách Bắc Âu Độc Đáo</strong>: Vách đầu giường mang đậm phong cách Bắc Âu, kết hợp hài hòa với thiết kế giường ngủ bệt, tạo nên một không gian sống độc đáo và nổi bật.</li>\n</ul>\n<h4 style=\"text-align:justify;\"><em><strong>(Why Choose the GB009 Model?</strong></em></h4>\n<p style=\"text-align:justify;\"><em><strong>- Luxurious and Convenient Design:</strong> The GB009 is designed with a refined style, low to the floor in traditional Japanese fashion creating optimal convenience and comfort.</em></p>\n<p style=\"text-align:justify;\"><em><strong>- High-Quality Material:</strong> The product is made from premium green-core MDF material coated on both sides with Melamine, not only durable over time but also environmentally friendly, ensuring the health of its users.</em></p>\n<p style=\"text-align:justify;\"><em><strong>- Unique Nordic Style: </strong>The headboard features a distinct Nordic style, harmoniously combined with the platform bed design, creating a unique and standout living space.)</em></p>\n<p style=\"text-align:justify;\"> </p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/product/07/06/07/a04893837d6b03fac4727ebe2930f819.png\" alt=\"giường ngủ bệt kiểu Nhật gỗ công nghiệp Ohaha - GB009\" width=\"600\" height=\"600\" /></p>\n<p style=\"text-align:justify;\"> </p>\n<h2 style=\"text-align:justify;\"><strong>Tại sao chọn giường ngủ bệt kiểu Nhật Ohaha - GB009?</strong></h2>\n<p style=\"text-align:justify;\">Khi tìm kiếm giường ngủ bệt kiểu Nhật, khách hàng thường quan tâm đến sự kết hợp giữa phong cách và chất lượng. GB009 không chỉ đáp ứng mọi yêu cầu về thẩm mỹ và chất lượng mà còn mang đến sự tiện nghi vượt trội, làm nổi bật không gian sống của bạn.</p>\n<p style=\"text-align:justify;\"><strong>Giường ngủ bệt kiểu Nhật GB009</strong> là sự lựa chọn hoàn hảo cho những ai yêu thích phong cách Nhật Bản kết hợp với tiện nghi hiện đại. Với chất liệu gỗ MDF lõi xanh cao cấp và thiết kế thông minh, sản phẩm này không chỉ đẹp mắt mà còn bền bỉ và thân thiện với môi trường. Đừng bỏ lỡ cơ hội làm mới không gian sống của bạn với <strong>Giường ngủ bệt kiểu Nhật GB009</strong>. </p>\n<p style=\"text-align:justify;\"><em>( The Japanese-style Platform Bed GB009 is the perfect choice for those who appreciate the Japanese aesthetic combined with modern conveniences. Made from high-quality green core MDF wood and designed with intelligence, this product is not only visually appealing but also durable and environmentally friendly. Don't miss the opportunity to refresh your living space with the Japanese-style Platform Bed GB009.)</em></p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/product/f4/87/fa/d39e1993227039281adf8751bd3b03db.png\" alt=\"GIƯỜNG NGỦ BỆT KIỂU NHẬT GỖ CÔNG NGHIỆP OHAHA - GB009\" width=\"600\" height=\"600\" /></p>\n<h2 style=\"text-align:justify;\"><strong>Mua giường ngủ bệt gỗ công nghiệp uy tín, chất lượng ở đâu?</strong></h2>\n<p style=\"text-align:justify;\">Bạn hoàn toàn có thể tìm mua tại những cửa hàng bán nội thất uy tín trên toàn quốc. Một trong những địa chỉ uy tín mà bạn có thể tham khảo là Ohaha tại các cửa hàng trên toàn quốc hoặc truy cập trang web của chúng tôi để đặt hàng trực tuyến.</p>\n<p style=\"text-align:justify;\"><strong>OHAHA</strong> là đơn vị chuyên <strong>thiết kế thi công nội thất</strong> có kinh nghiệm lâu năm trong nghề. Chúng tôi luôn đưa đến đa dạng thiết kế mẫu mã hiện đại, bắt kịp xu hướng thị trường đi kèm với đó là chất lượng sản phẩm uy tín, giá cả cạnh tranh. Chắc chắn OHAHA sẽ là sự lựa chọn tuyệt vời và thông minh dành cho quý khách hàng đang có nhu cầu tân trang, đổi mới không gian sống đẹp.</p>\n<h3 style=\"text-align:justify;\"><strong>Đến với OHAHA Khách hàng sẽ được gì?</strong></h3>\n<ul style=\"text-align:justify;\">\n<li>Miễn phí giao hàng và lắp đặt TP. HCM và một số vùng lân cận.</li>\n<li>Bảo hành chính hãng 2 năm miễn phí tất cả sản phẩm.</li>\n<li>Sản xuất sản phẩm theo yêu cầu khách hàng.</li>\n<li>Thiết kế 2D, 3D miễn phí 100%.</li>\n<li>Hỗ trợ Khách hàng thanh toán trả góp với lãi suất 0%.</li>\n<li>Xưởng sản xuất 100%, không qua trung gian.</li>\n<li>Miễn phí tư vấn, khảo sát đo đạc tại công trình.</li>\n</ul>\n<p style=\"text-align:justify;\"><u><em><strong>CÓ GIÁ TỐT CHO KHÁCH HÀNG SỈ / KHÁCH SẠN / NHÀ NGHỈ MUA SỐ LƯỢNG LỚN</strong></em></u></p>\n<p style=\"text-align:justify;\"><em>( Where to buy reputable, high-quality industrial wood platform beds? </em></p>\n<p style=\"text-align:justify;\"><em>You can find them at reputable furniture stores nationwide. </em></p>\n<p style=\"text-align:justify;\"><em>OHAHA is a company specializing in interior design and construction with years of experience in the industry. We always offer a variety of modern designs that keep up with market trends, along with reputable product quality and competitive prices. OHAHA will definitely be an excellent and smart choice for customers looking to refurbish and innovate their beautiful living space.</em></p>\n<p style=\"text-align:justify;\"><em>What will customers get with OHAHA? </em></p>\n<p style=\"text-align:justify;\"><em>- Free shipping and installation in Ho Chi Minh City and some neighboring areas. </em></p>\n<p style=\"text-align:justify;\"><em>- A 2-year warranty free of charge on all products. </em></p>\n<p style=\"text-align:justify;\"><em>- Product customization according to customer requests. Free 100% 2D, 3D design. </em></p>\n<p style=\"text-align:justify;\"><em>- Support for installment payments with 0% interest rate. 100% production factory, no intermediaries. </em></p>\n<p style=\"text-align:justify;\"><em>- Free consultation and measurement survey at the site. </em></p>\n<p style=\"text-align:justify;\"><em>SPECIAL PRICES FOR WHOLESALE CUSTOMERS / HOTELS / MOTELS BUYING IN BULK)</em></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 5000000,
+        "product_quantity": 1076,
+        "product_category": [
+            "Giường đơn"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OHAHA",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "24 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Kích thước (M)",
+                "options": [
+                    "1m x 2m",
+                    "1m2 x 2m",
+                    "1m4 x 2m",
+                    "1m6 x 2m",
+                    "1m8 x 2m",
+                    "2m x 2m",
+                    "2m2 x 2m"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 5000000,
+                "sku_stock": 1144
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 5000000,
+                "sku_stock": 6402
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 5000000,
+                "sku_stock": 2526
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 5000000,
+                "sku_stock": 8611
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 5000000,
+                "sku_stock": 3625
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 5000000,
+                "sku_stock": 7444
+            },
+            {
+                "sku_tier_idx": [
+                    6
+                ],
+                "sku_price": 5000000,
+                "sku_stock": 8437
+            }
+        ]
+    },
+    {
+        "product_shop": "8396",
+        "product_name": "TỦ QUẦN ÁO GỖ CÔNG NGHIỆP CAO CẤP 4 CÁNH OHAHA - TQA002",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/eb/9a/96/acf75b05e9fe33afc66e6f009e9f9558.png",
+            "https://salt.tikicdn.com/ts/product/2c/83/3e/a15dcae151fe003d39177faed48b13c4.png",
+            "https://salt.tikicdn.com/ts/product/fa/29/d6/16862e72e667f119d4b5f8e1c023056c.png",
+            "https://salt.tikicdn.com/ts/product/46/d8/95/807d0d8463d5ea8717c8177722f64df8.png",
+            "https://salt.tikicdn.com/ts/product/20/5d/ef/0e39aed5407e3b40bfffcd280978e194.png",
+            "https://salt.tikicdn.com/ts/product/2b/41/32/4dc708fbf420c55698cd058786bf6d88.png",
+            "https://salt.tikicdn.com/ts/product/5e/5b/5c/1b83390a31277d4c0bdf3c175640321f.png",
+            "https://salt.tikicdn.com/ts/product/9b/a3/72/e8821e3cb23681ae439fb9cfc8f9e0d7.png"
+        ],
+        "product_description": "<ul>\n<li style=\"text-align:justify;\">Sản phẩm thân thiện với môi trường</li>\n<li style=\"text-align:justify;\">Sản phẩm đạt tiêu chuẩn xuất khẩu, đóng gói theo chuẩn xuất khẩu.</li>\n<li style=\"text-align:justify;\">Chất liệu: Gỗ MDF lõi xanh được phủ Melamine 2 mặt chống thấm</li>\n<li style=\"text-align:justify;\">Đã qua xử lý chống cong vênh, chống mọt.</li>\n<li style=\"text-align:justify;\">Khó trầy xước, những vết xước nhẹ sẽ không ảnh hưởng đến sản phẩm</li>\n<li style=\"text-align:justify;\">Thiết kế thông minh, tinh tế và sang trọng</li>\n<li style=\"text-align:justify;\">Kích thước: (Ngang x Sâu x Cao) \n<ul>\n<li><strong>180 x 60 x 200cm</strong></li>\n<li><strong>200 x 60 x 220cm</strong></li>\n</ul>\n</li>\n<li style=\"text-align:justify;\">Lắp đặt đơn giản (có hướng dẫn lắp đặt đính kèm)</li>\n<li style=\"text-align:justify;\">Bảo hành chính hãng: 24 tháng</li>\n<li style=\"text-align:justify;\"><em>Sản phẩm được giao và lắp đặt miễn phí tại TP.HCM và một số tỉnh lân cận, các tỉnh khác có thể phát sinh chi phí thêm (200k-800k)</em></li>\n</ul>\n<p style=\"text-align:justify;\"><em>---</em></p>\n<h1 style=\"text-align:center;\"><strong>Tổ chức không gian sống thông minh với tủ quần áo gỗ công nghiệp Ohaha</strong></h1>\n<p style=\"text-align:justify;\">Xu hướng sử dụng tủ quần áo gỗ công nghiệp đang trở nên phổ biến hơn trong thời gian gần đây, và không khó hiểu khi nhìn vào những lợi ích mà chúng mang lại. Bạn đang tìm kiếm một giải pháp lưu trữ thông minh cho không gian sống của mình? <strong>Tủ quần áo gỗ công nghiệp Ohaha</strong> sẽ là lựa chọn hoàn hảo.</p>\n<p style=\"text-align:justify;\">Không chỉ có vẻ ngoài sang trọng và đẳng cấp, mà tủ này còn có thiết kế thông minh giúp tiết kiệm không gian, tối ưu hóa việc sắp xếp và bảo quản quần áo. Đặc biệt, với nguyên liệu từ gỗ công nghiệp cao cấp, <strong>Ohaha </strong>mang đến sự bền bỉ và độ bền cao chưa từng có.</p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/product/57/8b/5b/d2faba8529708f578ff2f840702c0f3e.png\" width=\"600\" height=\"600\" alt=\"05_8bd122c9498c43359f2b9b72e8c9c68f_grande.png\" /></p>\n<p style=\"text-align:justify;\"> </p>\n<h2 style=\"text-align:justify;\"><strong>Thiết kế tủ quần áo gỗ công nghiệp đa dạng, thông minh</strong></h2>\n<p style=\"text-align:justify;\"><strong>Tủ quần áo gỗ công nghiệp Ohaha</strong> ra đời với mục tiêu không chỉ là nơi lưu trữ quần áo mà còn làm đẹp cho không gian sống. Bằng thiết kế đa dạng và thông minh, sản phẩm này mang lại lợi ích và thẩm mỹ tối ưu cho người sử dụng. Với kệ đa năng và phong cách hiện đại giúp tối ưu hóa diện tích phòng ngủ và bảo quản quần áo hàng ngày một cách hiệu quả.</p>\n<p style=\"text-align:justify;\">Bạn có thể lựa chọn tủ quần áo gỗ công nghiệp 4 cánh cửa mở Ohaha - TQA002 với khối tủ nhiều ngăn kéo và khoang lưu trữ quần áo và các vật dụng cá nhân khác.</p>\n<h2 style=\"text-align:justify;\"><strong>Kiểu dáng đơn giản sang trọng, thẩm mỹ cao</strong></h2>\n<p style=\"text-align:justify;\"><strong>Tủ quần áo gỗ công nghiệp Ohaha</strong> được thiết kế theo phong cách Châu Âu với màu sắc tự nhiên tươi sáng, trẻ trung, không chỉ giúp để đồ mà còn góp phần tô điểm cho không gian sống thêm sinh động, ấn tượng và dưạ vào nhu cầu và thói quen của ngươi tiêu dùng.</p>\n<p style=\"text-align:justify;\">Ngoài ra, sản phẩm được trau chuốt về góc cạnh – Giúp an toàn cho trẻ nhỏ, giúp Bạn và gia đình luôn cảm thấy thoải mái khi sử dụng. </p>\n<p style=\"text-align:justify;\"><em><strong>Tủ quần áo gỗ công nghiệp 4 cánh cửa mở Ohaha - TQA002 </strong></em> kết cấu theo module sản xuất hàng loạt bằng robot hiện đại. Tất cả những phụ kiện bản lề, ray trượt giảm chấn nhập khẩu từ châu Âu, đảm bảo an toàn và chất lượng. </p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/product/c2/21/20/d6312415bb42a2a6798641d8e83a7813.png\" width=\"600\" height=\"600\" alt=\"06_0e1070c4638945db9dc654b74079fc9d_grande.png\" /></p>\n<p style=\"text-align:justify;\"> </p>\n<h2 style=\"text-align:justify;\"><strong>Chất liệu gỗ công nghiệp cao cấp, bền bỉ</strong></h2>\n<p style=\"text-align:justify;\"><em><strong>Tủ quần áo gỗ công nghiệp 4 cánh cửa mở Ohaha - TQA002  </strong></em>là loại tủ được thiết kế phù hợp với những căn phòng chật hẹp hay muốn tiết kiệm không gian. Nguyên liệu được làm từ <strong>gỗ công nghiệp MDF </strong>lõi xanh được phủ Melamine 2 mặt chống thấm đạt tiêu chuẩn chất lượng xuất khẩu, giúp sản phẩm không chỉ đẹp hơn về mỹ quan mà còn mang lại độ bền chắc lâu dài. </p>\n<p style=\"text-align:justify;\"><em><strong>Tủ quần áo gỗ công nghiệp 4 cánh cửa mở Ohaha - TQA002 </strong></em>bên mặt được phủ bóng chống hút ẩm, dễ lau chùi và hạn chế trầy xước, độ chịu nhiệt, chịu nước cao. Sản phẩm qua xử lý chống cong vênh, chống mọt bằng công nghệ của Đức, thân thiện và an toàn cho sức khỏe gia đình và môi trường.</p>\n<p style=\"text-align:justify;\"><strong>- Sản phẩm được bảo hành theo chính sách từ công ty: 24 tháng</strong></p>\n<p style=\"text-align:justify;\"><strong>Tủ quần áo gỗ công nghiệp Ohaha</strong> sử dụng các loại phụ kiện cao cấp nhập khẩu, bền bỉ theo thời gian. Hãy để \"Ohaha - TQA002\" là điểm nhấn tuyệt vời cho cuộc sống của bạn</p>\n<p style=\"text-align:justify;\"><em><u>**</u></em><u><em>Tủ quần áo gỗ công nghiệp 4 cánh cửa mở Ohaha - TQA002 </em></u><em><u>bao 1 gồm tủ, <strong>không bao gồm </strong>các vật dụng trang trí khác kèm theo.**</u></em></p>\n<p style=\"text-align:justify;\"><em>* Giá sản phẩm trên OHAHA chưa bao gồm thuế theo luật hiện hành. Tuy nhiên tuỳ vào từng loại sản phẩm hoặc phương thức. Địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển…</em></p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"https://salt.tikicdn.com/ts/product/39/e3/1c/3f0905352ded505c73192fbc92f120d8.png\" width=\"600\" height=\"600\" alt=\"03_122e40c18b5d420a8a384de60bca3557_grande.png\" /></p>\n<h2 style=\"text-align:justify;\"><strong>Mua tủ quần áo gỗ công nghiệp uy tín, chất lượng ở đâu?</strong></h2>\n<p style=\"text-align:justify;\">Bạn hoàn toàn có thể tìm mua tại những cửa hàng bán nội thất uy tín trên toàn quốc. Một trong những địa chỉ uy tín mà bạn có thể tham khảo là Ohaha tại các cửa hàng trên toàn quốc hoặc truy cập trang web của chúng tôi để đặt hàng trực tuyến.</p>\n<p style=\"text-align:justify;\"><strong>OHAHA</strong> là đơn vị chuyên <strong>thiết kế thi công nội thất</strong> có kinh nghiệm lâu năm trong nghề. Chúng tôi luôn đưa đến đa dạng thiết kế mẫu mã hiện đại, bắt kịp xu hướng thị trường đi kèm với đó là chất lượng sản phẩm uy tín, giá cả cạnh tranh. Chắc chắn OHAHA sẽ là sự lựa chọn tuyệt vời và thông minh dành cho quý khách hàng đang có nhu cầu tân trang, đổi mới không gian sống đẹp.</p>\n<h3 style=\"text-align:justify;\"><strong>Đến với OHAHA Khách hàng sẽ được gì?</strong></h3>\n<ul style=\"text-align:justify;\">\n<li>Miễn phí giao hàng và lắp đặt TP. HCM và một số vùng lân cận.</li>\n<li>Bảo hành chính hãng 2 năm miễn phí tất cả sản phẩm.</li>\n<li>Sản xuất sản phẩm theo yêu cầu khách hàng.</li>\n<li>Thiết kế 2D, 3D miễn phí 100%.</li>\n<li>Hỗ trợ Khách hàng thanh toán trả góp với lãi suất 0%.</li>\n<li>Xưởng sản xuất 100%, không qua trung gian.</li>\n<li>Miễn phí tư vấn, khảo sát đo đạc tại công trình.</li>\n</ul>\n<p style=\"text-align:justify;\"><u><em><strong>CÓ GIÁ TỐT CHO KHÁCH HÀNG SỈ / KHÁCH SẠN / NHÀ NGHỈ MUA SỐ LƯỢNG LỚN</strong></em></u></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 6990000,
+        "product_quantity": 4081,
+        "product_category": [
+            "Tủ quần áo"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OHAHA",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "Gỗ MDF lõi xanh được phủ Melamine 2 mặt chống thấm",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "Vĩnh Lộc A, Bình Chánh, HCM",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "Công ty TNHH Ohaha Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "24 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Kích thước",
+                "options": [
+                    "180 x 200cm",
+                    "200 x 220cm"
+                ]
+            },
+            {
+                "name": " Màu Sắc  ",
+                "options": [
+                    "Màu A",
+                    "Màu B",
+                    "Màu C"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 6990000,
+                "sku_stock": 2124
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 6990000,
+                "sku_stock": 5506
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 6990000,
+                "sku_stock": 6706
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 6990000,
+                "sku_stock": 8168
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 6990000,
+                "sku_stock": 5957
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 6990000,
+                "sku_stock": 6934
+            }
+        ]
+    },
+    {
+        "product_shop": "8396",
+        "product_name": "Giường tầng thông minh Ohaha có tủ áo và kệ trang trí - GTTM028",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/55/99/7b/31061db9a814180eea7d719ab86033c3.png",
+            "https://salt.tikicdn.com/ts/product/65/f3/45/9734b654e4970be2813f765d199538d3.png",
+            "https://salt.tikicdn.com/ts/product/81/6f/f5/d239dee9e913ce02d1427153644c7381.png"
+        ],
+        "product_description": "<ul>\n<li>Thương hiệu: OHAHA</li>\n<li>Chất liệu: MDF lõi xanh phủ Melamine 2 mặt chống ẩm</li>\n<li>Màu sắc: Như hình hoặc theo yêu cầu của khách</li>\n<li>Sản phẩm thân thiện với môi trường, đạt tiêu chuẩn xuất khẩu</li>\n<li>Đã qua xử lý chống cong vênh, mối mọt</li>\n<li>Bảo hành chính hãng 24 tháng</li>\n<li>Kiểu dáng: \n<ul>\n<li>Mẫu A: 1 giường + tủ áo</li>\n<li>Mẫu B: 2 giường + kệ trang trí + tủ áo</li>\n<li>Mẫu C: 2 giường + tủ áo</li>\n</ul>\n</li>\n</ul>\n<p>- Sản phẩm giao và lắp đặt miễn phí tại TP.HCM và một số tỉnh lân cận.</p>\n<p>- Các tỉnh khác có thể phát sinh chi phí vận chuyển (200k-500k).</p>\n<p>- Hướng dẫn video lắp đặt chi tiết đơn giản đối với khách tỉnh.</p>\n<p>####</p>\n<p><em><strong>**Sản phẩm chỉ bao gồm giường tầng, không kèm chăn ga gối nệm và đồ trang trí**</strong></em></p>\n<p><strong>Giường tầng thông minh Ohaha có tủ áo và kệ trang trí - GTTM028</strong> là mẫu giường được rất nhiều khách hàng yêu thích bởi thiết kế tích hợp thông minh nhiều công năng hiện đại, đa năng.</p>\n<p><img src=\"\" alt=\"Giường tầng thông minh Ohaha có tủ áo và kệ trang trí - GTTM028\" /></p>\n<h2><strong>Giường tầng thông minh tiện dụng và tối ưu</strong></h2>\n<p><strong></strong> được thiết kế tiện dụng, tiết kiệm diện tích và chắc chắn, an toàn cho cả người lớn và trẻ nhỏ khi nằm. Đây là sự lựa chọn ưu việt cho không gian nội thất phòng ngủ nhỏ hẹp. Mẫu sản phẩm đầy đủ tiện nghi với nhiều không gian lưu trữ đồ đạc: tủ quần áo, tủ cầu thang, kệ sách,</p>\n<p><img src=\"\" alt=\"Giường tầng thông minh Ohaha có tủ áo và kệ trang trí - GTTM028\" /></p>\n<p><em><strong>&gt;&gt;Xem thêm: </strong></em></p>\n<p>Mẫu <strong>giường tầng thông minh Ohaha - GTTM028</strong> sở hữu thiết kế thông minh phù hợp với các căn phòng có không gian hạn chế, đồng thời cũng mang đến nhiều công năng hữu dụng. Chỉ trong một sản phẩm, bạn có thể tận dụng được nhiều món đồ nội thất mà lại không chiếm quá nhiều diện tích không gian.</p>\n<p><img src=\"\" alt=\"Giường tầng thông minh Ohaha có tủ áo và kệ trang trí - GTTM028\" /></p>\n<h2><strong>Gỗ MDF lõi xanh - chất liệu an toàn, thân thiện với môi trường.</strong></h2>\n<p><strong></strong> được làm từ chất liệu gỗ MDF lõi xanh nhập khẩu, bề mặt phủ Melamine 2 mặt chống ẩm tốt.</p>\n<p>Sản phẩm không chỉ đẹp hơn về mỹ quang mà còn mang lại độ bền chắc lâu dài. Đã qua xử lý chống cong vênh, mối mọt bằng công nghệ của Đức, Sản phẩm thân thiện và an toàn cho sức khỏe gia đình và môi trường.</p>\n<p>Phụ kiện nhập khẩu đảm bảo chất lượng uy tín. <strong>Giường tầng</strong> được thiết kế cam kết an toàn về kỹ thuật, có thể chịu được trọng lượng lớn nên gia đình có thể yên tâm khi sử dụng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 14090000,
+        "product_quantity": 8788,
+        "product_category": [
+            "Nội thất phòng ngủ khác"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "2 Năm",
+            "Thương hiệu": "OHAHA",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "MDF lõi xanh phủ Melamine 2 mặt chống ẩm",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "Vĩnh Lộc A, Bình Chánh, HCM",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "Công ty TNHH Ohaha Việt Nam ",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Loại sản phẩm",
+                "options": [
+                    "Mẫu A: 1m x 2m",
+                    "Mẫu A: 1m2 x 2m",
+                    "Mẫu A: 1m4 x 2m",
+                    "Mẫu B: 1m/1m2",
+                    "Mẫu B: 1m2/1m2",
+                    "Mẫu C: 1m/1m2",
+                    "Mẫu C: 1m2/1m4"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 14090000,
+                "sku_stock": 4178
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 14090000,
+                "sku_stock": 3657
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 14090000,
+                "sku_stock": 8191
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 14090000,
+                "sku_stock": 4490
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 14090000,
+                "sku_stock": 1113
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 14090000,
+                "sku_stock": 9634
+            },
+            {
+                "sku_tier_idx": [
+                    6
+                ],
+                "sku_price": 14090000,
+                "sku_stock": 3044
+            }
+        ]
+    },
+    {
+        "product_shop": "312780",
+        "product_name": "HAPPY FURNITURE , Gỗ tự nhiên , Tủ quần áo 2 ngăn kéo - GAMZE , THK_194, 95cm x 59cm x 176cm",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/2b/46/66/2ced613d36ac3dd6e4475facd969fe50.jpg",
+            "https://salt.tikicdn.com/ts/product/f9/81/1a/c17abe3a95a9e087ee2c60b6babc41ad.jpg",
+            "https://salt.tikicdn.com/ts/product/e1/a4/63/499ed351a7a98b2b5628a69557d52626.jpg",
+            "https://salt.tikicdn.com/ts/product/81/a8/5f/2f2a0826949996a786869ff4c2e4fba3.jpg",
+            "https://salt.tikicdn.com/ts/product/e4/52/93/8e11ea21e1c97ec760900736ff7b8b45.jpg"
+        ],
+        "product_description": "<p>Kích thước sản phẩm:  95cm x 59cm x 176cm ( Ngang x sâu x cao )</p>\n<p> </p>\n<p>Chất liệu :</p>\n<p>1.GỖ THÔNG</p>\n<p>2.GỖ TRÀM</p>\n<p> </p>\n<p> [THỜI GIAN SẢN XUẤT VÀ GIAO HÀNG]</p>\n<p> </p>\n<p>- Thời gian gia công sản phẩm từ 7- 8 ngày làm việc &lt;hàng mới 100%&gt;.</p>\n<p>- Shop nhận được đơn sẽ tiến hành thông báo thời gian giao hàng cụ thể cho khách hàng trong vòng 24h.</p>\n<p> </p>\n<p> [CHÍNH SÁCH VẬN CHUYỂN &amp; LẮP ĐẶT]</p>\n<p> </p>\n<p>&lt;&lt;&lt; MIỄN PHÍ LẮP ĐẶT VÀ VẬN CHUYỂN CHO TOÀN BỘ CÁC KHU VỰC SAU &gt;&gt;&gt;</p>\n<p> HỒ CHÍ MINH : Trong thành phố và các vùng ngoại thành.</p>\n<p> BÌNH DƯƠNG :</p>\n<p>Thủ Dầu Một</p>\n<p>Thuận An</p>\n<p>Dĩ An</p>\n<p>Bến Cát</p>\n<p> ĐỒNG NAI :</p>\n<p>Biên Hòa</p>\n<p>Long Thành</p>\n<p>Trảng Bom</p>\n<p>Nhơn Trạch</p>\n<p> VŨNG TÀU :</p>\n<p>TP.Vũng Tàu</p>\n<p>Phú Mỹ</p>\n<p>Long Hải</p>\n<p>Bà Rịa</p>\n<p> TOÀN BỘ CÁC KHU VỰC MIỀN TÂY (Giao hàng mỗi T2-T5 hàng tuần)</p>\n<p> CÁC TỈNH : Bình Thuận, Ninh Thuận, Nha Trang, Lâm Đồng, Bình Phước, Đắk Lắk, Đắk Nông (Giao hàng mỗi tuần một lần).</p>\n<p> </p>\n<p>&lt;&lt;&lt; KHU VỰC KHÔNG THUỘC NHỮNG ĐỊA ĐIỂM TRÊN &gt;&gt;&gt;</p>\n<p>Miễn phí vận chuyển và lắp đặt với đơn hàng trên 30 triệu.</p>\n<p>Dưới 30 triệu khách hàng vui lòng liên hệ shop để được tư vấn.</p>\n<p>Đơn hàng dưới 3 triệu shop sẽ gửi qua các đơn vị vận chuyển khác để khách tự lắp ráp.</p>\n<p> </p>\n<p> [CHẤT LƯỢNG SẢN PHẨM]</p>\n<p>Loại gỗ: Gỗ tự nhiên 100% độ bền cao, tuổi thọ trung bình trên 10 năm.</p>\n<p>Chất lượng:</p>\n<p>Gia công sản xuất bằng máy CNC đời mới, bảo đảm độ chính xác cao nhất trên mọi sản phẩm.</p>\n<p>Quy trình sản xuất rõ ràng từ bản vẽ chi tiết &lt;Được vẽ bởi kỹ sư nhiều năm kinh nghiệm&gt; cho đến lắp ráp &lt;Có bản hướng dẫn để khách hàng có mong muốn tháo dỡ và lắp lại bất cứ khi nào mà khách muốn&gt;.</p>\n<p>Tình trạng hàng: Sẵn sàng để sản xuất.</p>\n<p> </p>\n<p> [CHÍNH SÁCH BẢO HÀNH VÀ HOÀN TRẢ]</p>\n<p> </p>\n<p>Bảo hành 1 đổi 1 với phần sản phẩm bị hư hại trong năm đầu tiên với bất kỳ lý do nào,trừ trường hợp cố ý gây hư hỏng (thay mới 100% nói không với sửa chữa).</p>\n<p> </p>\n<p>️Khách hàng gửi hình ảnh phần sản phẩm bị hư hỏng, công ty sẽ đánh giá mức độ và thay thế bộ phận hư hại.</p>\n<p> </p>\n<p>️Trường hợp hình ảnh phần sản phẩm hư hỏng nằm ở góc độ khó, công ty sẽ trực tiếp đến để xem tình trạng sản phẩm và hẹn lại thời gian thay thế.</p>\n<p> </p>\n<p>KHI ĐÃ NHẬN HÀNG VUI LÒNG KHÔNG HOÀN TRẢ.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 5375000,
+        "product_quantity": 7664,
+        "product_category": [
+            "Tủ quần áo"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm",
+            "Thương hiệu": "Happy Furniture",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "GAMZE",
+            "Xuất xứ (Made in)": "Anh, Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc - vật liệu",
+                "options": [
+                    "Gỗ Thông",
+                    "Gỗ Tràm"
+                ]
+            },
+            {
+                "name": "Phân Loại",
+                "options": [
+                    "Bề mặt tự nhiên",
+                    "Phủ bóng",
+                    "Phủ mờ"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 5375000,
+                "sku_stock": 8915
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 5375000,
+                "sku_stock": 7505
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 5375000,
+                "sku_stock": 5664
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 5375000,
+                "sku_stock": 3861
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 5375000,
+                "sku_stock": 2584
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 5375000,
+                "sku_stock": 4984
+            }
+        ]
+    },
+    {
+        "product_shop": "312780",
+        "product_name": "HAPPY FURNITURE , Gỗ tự nhiên , Tủ lưu trữ 2 cửa mở - GALI , TLT_011 , 70cm x 35cm x 76cm",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/79/c5/89/6dca54fb97d4a3e2659e383506e7cf45.jpg",
+            "https://salt.tikicdn.com/ts/product/84/0f/73/5f3fe91cfce3305a2dacd80c7727598f.jpg",
+            "https://salt.tikicdn.com/ts/product/84/91/2d/c360bcb9487b21341ae4224484af3b0b.jpg",
+            "https://salt.tikicdn.com/ts/product/ae/be/4f/e5e3ad1bc58050efd4eb3922274d0417.jpg",
+            "https://salt.tikicdn.com/ts/product/36/48/88/0382f1dfafbe4aa2ea206fee405cca42.jpg",
+            "https://salt.tikicdn.com/ts/product/81/92/4e/aa1b89884598241b525d2b5d4af73d7b.jpg"
+        ],
+        "product_description": "<p>Kích thước sản phẩm: 70cm x 35cm x 76cm ( Ngang x sâu x cao )</p>\n<p> </p>\n<p>Chất liệu :</p>\n<p>1.GỖ THÔNG</p>\n<p>2.GỖ TRÀM</p>\n<p> </p>\n<p> [THỜI GIAN SẢN XUẤT VÀ GIAO HÀNG]</p>\n<p> </p>\n<p>- Thời gian gia công sản phẩm từ 2-3 ngày làm việc &lt;hàng mới 100%&gt;.</p>\n<p>- Shop nhận được đơn sẽ tiến hành thông báo thời gian giao hàng cụ thể cho khách hàng trong vòng 24h.</p>\n<p> </p>\n<p> [CHÍNH SÁCH VẬN CHUYỂN &amp; LẮP ĐẶT]</p>\n<p> </p>\n<p> KHÔNG MIỄN PHÍ VẬN CHUYỂN - KHÔNG LẮP ĐẶT TẬN NƠI KHU VỰC HÀ NỘI</p>\n<p> </p>\n<p>&lt;&lt;&lt; MIỄN PHÍ LẮP ĐẶT VÀ VẬN CHUYỂN CHO TOÀN BỘ CÁC KHU VỰC SAU &gt;&gt;&gt;</p>\n<p> HỒ CHÍ MINH : Trong thành phố và các vùng ngoại thành.</p>\n<p> BÌNH DƯƠNG :</p>\n<p>Thủ Dầu Một</p>\n<p>Thuận An</p>\n<p>Dĩ An</p>\n<p>Bến Cát</p>\n<p> ĐỒNG NAI :</p>\n<p>Biên Hòa</p>\n<p>Long Thành</p>\n<p>Trảng Bom</p>\n<p>Nhơn Trạch</p>\n<p> VŨNG TÀU :</p>\n<p>TP.Vũng Tàu</p>\n<p>Phú Mỹ</p>\n<p>Long Hải</p>\n<p>Bà Rịa</p>\n<p> TOÀN BỘ CÁC KHU VỰC MIỀN TÂY ( Gộp đơn theo chuyến )</p>\n<p> CÁC TỈNH : Bình Thuận, Ninh Thuận, Nha Trang, Lâm Đồng, Bình Phước, Đắk Lắk, Đắk Nông ( Gộp đơn theo chuyến ).</p>\n<p> </p>\n<p>&lt;&lt;&lt; KHU VỰC KHÔNG THUỘC NHỮNG ĐỊA ĐIỂM TRÊN &gt;&gt;&gt;</p>\n<p>Quý khách vui lòng liên hệ shop để được tư vấn cụ thể !</p>\n<p> </p>\n<p>Nếu quý khách cần sản phẩm sớm , không đợi gộp chuyến , shop sẽ gửi sp kèm hướng dẫn lắp đặt cụ thể ạ</p>\n<p> </p>\n<p> [CHẤT LƯỢNG SẢN PHẨM]</p>\n<p> </p>\n<p>Chất lượng:</p>\n<p>Gia công sản xuất bằng máy CNC đời mới, bảo đảm độ chính xác cao nhất trên mọi sản phẩm.</p>\n<p>Quy trình sản xuất rõ ràng từ bản vẽ chi tiết &lt;Được vẽ bởi kỹ sư nhiều năm kinh nghiệm&gt; cho đến lắp ráp &lt;Có bản hướng dẫn để khách hàng có mong muốn tháo dỡ và lắp lại bất cứ khi nào mà khách muốn&gt;.</p>\n<p>Tình trạng hàng: Sẵn sàng để sản xuất.</p>\n<p> </p>\n<p> [CHÍNH SÁCH BẢO HÀNH VÀ HOÀN TRẢ]</p>\n<p> </p>\n<p>Bảo hành 1 đổi 1 với phần sản phẩm bị hư hại trong năm đầu tiên với bất kỳ lý do nào (thay mới 100% nói không với sửa chữa). Trừ trường hợp cố ý gây hư hỏng hoặc ngâm nước</p>\n<p> </p>\n<p>️Khách hàng gửi hình ảnh phần sản phẩm bị hư hỏng, công ty sẽ đánh giá mức độ và thay thế bộ phận hư hại.</p>\n<p> </p>\n<p>️Trường hợp hình ảnh phần sản phẩm hư hỏng nằm ở góc độ khó, công ty sẽ trực tiếp đến để xem tình trạng sản phẩm và hẹn lại thời gian thay thế.</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1827000,
+        "product_quantity": 5347,
+        "product_category": [
+            "Tủ quần áo"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Happy Furniture",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "GALI",
+            "Xuất xứ (Made in)": "Anh, Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc - vật liệu",
+                "options": [
+                    "Gỗ Thông",
+                    "Gỗ Tràm"
+                ]
+            },
+            {
+                "name": "Phân Loại",
+                "options": [
+                    "Bề mặt tự nhiên",
+                    "Phủ bóng",
+                    "Phủ mờ"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 1827000,
+                "sku_stock": 2898
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    1
+                ],
+                "sku_price": 1827000,
+                "sku_stock": 5387
+            },
+            {
+                "sku_tier_idx": [
+                    0,
+                    2
+                ],
+                "sku_price": 1827000,
+                "sku_stock": 7257
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    0
+                ],
+                "sku_price": 1827000,
+                "sku_stock": 3304
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    1
+                ],
+                "sku_price": 1827000,
+                "sku_stock": 9115
+            },
+            {
+                "sku_tier_idx": [
+                    1,
+                    2
+                ],
+                "sku_price": 1827000,
+                "sku_stock": 7667
+            }
+        ]
+    },
+    {
+        "product_shop": "101577",
+        "product_name": "Ghế Đệm Hơi Dựa Lưng Tặng Kèm Bơm Điện 2 Chiều – Hàng Chính Hãng ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/38/db/d6/61a874f466018313f467505899257b31.png",
+            "https://salt.tikicdn.com/ts/product/ab/3f/2b/1dc56e2f41f7db8fb670804349188d11.png",
+            "https://salt.tikicdn.com/ts/product/ba/2e/0b/132ff907a982eb35ac2002f47a875e4a.png",
+            "https://salt.tikicdn.com/ts/product/bb/ff/0d/ebba6ffb403602367360b2607e0d12d5.png",
+            "https://salt.tikicdn.com/ts/product/4a/32/2d/d983c1dcfe7c05ac7e5c0574d5e591d1.png",
+            "https://salt.tikicdn.com/ts/product/44/7d/49/a8bfa147aeb44bb400550498dd3b1bf1.png"
+        ],
+        "product_description": "<p><strong>Ghế Đệm Hơi Dựa Lưng Tặng Kèm Bơm Điện 2 Chiều VINBUY – Hàng Chính Hãng</strong></p>\n<p>- Kích thước 50*80*76/64*28 (cm).<br />- Bao gồm: 1 ghế to và 1 đôn để chân<br />- Trọng lượng: 0,75 kg.<br />- Khối lượng chịu lực 100kg.<br />- Ghế bơm hơi được sử dụng để xem TV, đọc một cuốn sách, hoặc để ngủ, sản phẩm này sẽ phồng lên, xẹp xuống trong vài phút. Do đó, chúng ta có thể dễ dàng làm sạch và thu gọn để cất sản phẩm ghế bơm hơi.<br />- Khối lượng chịu được 100kg<br />- Chất lượng cao không thấm nước, ghế được bọc nhung mềm mại, cho người lớn và trẻ từ 6 tuổi trở lên.</p>\n<p>- Van 2 trong 1 có mở rộng thêm để bơm hoặc xả nhanh, chất liệu bền đẹp, màu sắc không bị phai khi sử dụng. Ghế bơm hơi rất tiện lợi cho những dịp đi cắm trại picnic. Nếu không dùng nữa bạn có thể hút sạch hơi, gấp gọn lại rồi cất vào vali, túi xá để mang đi dễ dàng hơn hoặc cất vào hốc tủ hoặc di chuyển sang các vị trí khác.</p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/38/db/d6/f6a76525aacc8b55a7cd57b042e61a9d.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/ab/3f/2b/d6023c43d7f7506eaf2a40bdba5643dc.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/ba/2e/0b/12c90562ddcfe67d493ce0084754c07e.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/bb/ff/0d/9721d9591a050822140776bc3713448b.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/4a/32/2d/6224d4892acf7d95b90c02af98ff8ae1.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/44/7d/49/257cb110dbcebe49605f938d2e6a0650.png\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 425000,
+        "product_quantity": 4094,
+        "product_category": [
+            "Ghế các loại"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "VinBuy",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Kích thước (Dài x Rộng x Cao)": "50*80*76",
+            "Chất liệu": "Cao su, nhung, da",
+            "Xuất xứ (Made in)": "China / Vietnam",
+            "Trọng lượng sản phẩm": "0.75kg",
+            "Tải trọng tối đa": "100kg",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Nhung-Xám Đen"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 425000,
+                "sku_stock": 1556
+            }
+        ]
+    },
+    {
+        "product_shop": "312780",
+        "product_name": "[Happy Home Furniture] SISEEL, Tủ lưu trữ cửa kính 4 cửa mở , 83cm x 33cm x 194cm ( DxRxC), TCM_184",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ac/22/d9/147d5ef0727b2f25c894f241238281f0.jpg",
+            "https://salt.tikicdn.com/ts/product/30/48/b6/c3446025dc6dc5976bd21cdf10425092.jpg",
+            "https://salt.tikicdn.com/ts/product/ef/e3/e5/fedbd2e5223a96437f0da6c4f1714086.jpg",
+            "https://salt.tikicdn.com/ts/product/5b/6b/42/d13bf04068b95a5fdde599008428a4dd.jpg",
+            "https://salt.tikicdn.com/ts/product/c7/0c/df/d9950457946e0d751d47f0cb681453e6.jpg",
+            "https://salt.tikicdn.com/ts/product/0d/3e/4d/57b6544527d4910cfc40e8474431f054.jpg"
+        ],
+        "product_description": "<p>Kích thước sản phẩm: 83cm x 33cm x 194cm ( Ngang x sâu x cao )</p>\n<p> [THỜI GIAN SẢN XUẤT VÀ GIAO HÀNG]</p>\n<p> </p>\n<p>- Thời gian gia công sản phẩm từ 2-3 ngày làm việc &lt;hàng mới 100%&gt;.</p>\n<p>- Shop nhận được đơn sẽ tiến hành thông báo thời gian giao hàng cụ thể cho khách hàng trong vòng 24h.</p>\n<p> </p>\n<p> [CHÍNH SÁCH VẬN CHUYỂN &amp; LẮP ĐẶT]</p>\n<p> </p>\n<p> KHÔNG MIỄN PHÍ VẬN CHUYỂN - KHÔNG LẮP ĐẶT TẬN NƠI KHU VỰC HÀ NỘI</p>\n<p> </p>\n<p>&lt;&lt;&lt; MIỄN PHÍ LẮP ĐẶT VÀ VẬN CHUYỂN CHO TOÀN BỘ CÁC KHU VỰC SAU &gt;&gt;&gt;</p>\n<p> HỒ CHÍ MINH : Trong thành phố và các vùng ngoại thành.</p>\n<p> BÌNH DƯƠNG :</p>\n<p>Thủ Dầu Một</p>\n<p>Thuận An</p>\n<p>Dĩ An</p>\n<p>Bến Cát</p>\n<p> ĐỒNG NAI :</p>\n<p>Biên Hòa</p>\n<p>Long Thành</p>\n<p>Trảng Bom</p>\n<p>Nhơn Trạch</p>\n<p> VŨNG TÀU :</p>\n<p>TP.Vũng Tàu</p>\n<p>Phú Mỹ</p>\n<p>Long Hải</p>\n<p>Bà Rịa</p>\n<p> TOÀN BỘ CÁC KHU VỰC MIỀN TÂY ( Gộp đơn theo chuyến )</p>\n<p> CÁC TỈNH : Bình Thuận, Ninh Thuận, Nha Trang, Lâm Đồng, Bình Phước, Đắk Lắk, Đắk Nông ( Gộp đơn theo chuyến ).</p>\n<p> </p>\n<p>&lt;&lt;&lt; KHU VỰC KHÔNG THUỘC NHỮNG ĐỊA ĐIỂM TRÊN &gt;&gt;&gt;</p>\n<p>Quý khách vui lòng liên hệ shop để được tư vấn cụ thể !</p>\n<p> </p>\n<p>Nếu quý khách cần sản phẩm sớm , không đợi gộp chuyến , shop sẽ gửi sp kèm hướng dẫn lắp đặt cụ thể ạ</p>\n<p> </p>\n<p> [CHẤT LƯỢNG SẢN PHẨM]</p>\n<p> </p>\n<p>Chất lượng:</p>\n<p>Gia công sản xuất bằng máy CNC đời mới, bảo đảm độ chính xác cao nhất trên mọi sản phẩm.</p>\n<p>Quy trình sản xuất rõ ràng từ bản vẽ chi tiết &lt;Được vẽ bởi kỹ sư nhiều năm kinh nghiệm&gt; cho đến lắp ráp &lt;Có bản hướng dẫn để khách hàng có mong muốn tháo dỡ và lắp lại bất cứ khi nào mà khách muốn&gt;.</p>\n<p>Tình trạng hàng: Sẵn sàng để sản xuất.</p>\n<p> </p>\n<p> [CHÍNH SÁCH BẢO HÀNH VÀ HOÀN TRẢ]</p>\n<p> </p>\n<p>Bảo hành 1 đổi 1 với phần sản phẩm bị hư hại trong năm đầu tiên với bất kỳ lý do nào (thay mới 100% nói không với sửa chữa). Trừ trường hợp cố ý gây hư hỏng hoặc ngâm nước</p>\n<p> </p>\n<p>️Khách hàng gửi hình ảnh phần sản phẩm bị hư hỏng, công ty sẽ đánh giá mức độ và thay thế bộ phận hư hại.</p>\n<p> </p>\n<p>️Trường hợp hình ảnh phần sản phẩm hư hỏng nằm ở góc độ khó, công ty sẽ trực tiếp đến để xem tình trạng sản phẩm và hẹn lại thời gian thay thế.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 5375000,
+        "product_quantity": 6842,
+        "product_category": [
+            "Tủ quần áo"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm",
+            "Thương hiệu": "Happy Furniture",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Anh, Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc - vật liệu",
+                "options": [
+                    "Xanh Oliu MDF Chống ẩm",
+                    "Xanh Oliu MDF Tiêu chuẩn",
+                    "Xanh than MDF Chống Ẩm",
+                    "Xanh than MDF Tiêu Chuẩn",
+                    "Ximang MDF Chống Ẩm",
+                    "Ximang MDF Tiêu Chuẩn"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 5375000,
+                "sku_stock": 8883
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 5375000,
+                "sku_stock": 8875
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 5375000,
+                "sku_stock": 2522
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 5375000,
+                "sku_stock": 5876
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 5375000,
+                "sku_stock": 4621
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 5375000,
+                "sku_stock": 8206
+            }
+        ]
+    },
+    {
+        "product_shop": "8396",
+        "product_name": "GIƯỜNG TẦNG THÔNG MINH OHAHA - GTTM007",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/61/13/21/8cf0ed498294164fb6e74c920bde41ab.png",
+            "https://salt.tikicdn.com/ts/product/11/c5/1d/7406939234ce62672bfb2838d782bfc7.png",
+            "https://salt.tikicdn.com/ts/product/f3/ca/b4/ec0c63c4bdf115fb37700f5f320f3dec.png"
+        ],
+        "product_description": "<ul>\n<li>Thương hiệu: OHAHA</li>\n<li>Chất liệu: Gỗ MDF lõi xanh phủ Melamine 2 mặt chống ẩm</li>\n<li>Kiểu dáng: Phong cách hiện đại</li>\n<li>Màu sắc: Có hỗ trợ sơn màu theo sở thích miễn phí</li>\n<li>Sản phẩm thân thiện với môi trường, đạt tiêu chuẩn xuất khẩu</li>\n<li>Đã qua xử lý chống cong vênh, mối mọt</li>\n<li>Bảo hành chính hãng 24 tháng</li>\n<li>Kích thước tổng thể: (Dài x Rộng x Cao) 250 x 127/147 x 190cm </li>\n<li>Size nệm: \n<ul>\n<li>Size A: 1m2 x 2m</li>\n<li>Size B: 1m4 x 2m</li>\n<li>Size C: 1m6 x 2m</li>\n</ul>\n</li>\n</ul>\n<p>- Sản phẩm giao và lắp đặt miễn phí tại TP.HCM và một số tỉnh lân cận.</p>\n<p>- Các tỉnh khác có thể phát sinh chi phí vận chuyển (200k-500k). </p>\n<p>- Hướng dẫn video lắp đặt chi tiết đơn giản đối với khách tỉnh.</p>\n<p>####</p>\n<p><em><strong>**Giá sản phẩm chưa bao gồm ghế**</strong></em></p>\n<h2><strong>MÔ TẢ</strong></h2>\n<p>Giới thiệu <strong>Giường tầng thông minh Ohaha - GTTM007 </strong>thiết kế có bàn học đôi cho gia đình có 2 bé, giường nằm rộng rãi đủ chỗ cho 2 bé cùng nằm giúp tiết kiệm không gian, tối ưu cho phòng ngủ của bạn. </p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"//file.hstatic.net/1000294146/file/giuong-tang2.2_e3c6d8912c894d4bbfbe514e630b2761_grande.png\" alt=\"giuong-tang2.2_e3c6d8912c894d4bbfbe514e630b2761_grande.png\" width=\"600\" height=\"600\" /></p>\n<p><strong>Giường tầng thông minh Ohaha - GTTM007</strong> nổi bật về kiểu dáng và chất lượng được nhiều bậc phụ huynh lựa chọn cho không gian phòng ngủ của các bé. Thiết kế thông minh với thang hộc dễ đi và các ngăn kệ đựng đồ tiện ích giúp cho không gian phòng ngủ trông rộng rãi và thoải mái hơn.</p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"//file.hstatic.net/1000294146/file/giuong-tang2.4_d9d81bdcf72b45b08f30662248f6097f_grande.png\" alt=\"giuong-tang2.4_d9d81bdcf72b45b08f30662248f6097f_grande.png\" width=\"600\" height=\"600\" /></p>\n<p><img style=\"margin-left:auto;margin-right:auto;\" src=\"//file.hstatic.net/1000294146/file/giuong-tang2.2_5b092d92899b4852bcc475e90a43a248_grande.png\" alt=\"giuong-tang2.2_5b092d92899b4852bcc475e90a43a248_grande.png\" width=\"600\" height=\"600\" /></p>\n<p><u><em>Kích thước chi tiết của giường.</em></u></p>\n<h3><strong>Gỗ MDF Lõi xanh - chất liệu an toàn, thân thiện với môi trường.</strong></h3>\n<p><strong>Giường tầng thông minh Ohaha - GTTM007</strong> được làm từ chất liệu gỗ HMR lõi xanh nhập khẩu, bề mặt phủ Melamine 2 mặt chống ẩm tốt.</p>\n<p>Sản phẩm không chỉ đẹp hơn về mỹ quang mà còn mang lại độ bền chắc lâu dài. Đã qua xử lý chống cong vênh, mối mọt bằng công nghệ của Đức, Sản phẩm thân thiện và an toàn cho sức khỏe gia đình và môi trường.</p>\n<p>Phụ kiện nhập khẩu đảm bảo chất lượng uy tín. <strong>Giường tầng</strong> được thiết kế cam kết an toàn về kỹ thuật, có thể chịu được trọng lượng lớn nên gia đình có thể yên tâm khi sử dụng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 11790000,
+        "product_quantity": 1283,
+        "product_category": [
+            "Nội thất phòng ngủ khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OHAHA",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Kích thước (Dài x Rộng x Cao)": "250 x 127/147 x 190cm",
+            "Chất liệu": "Gỗ MDF lõi xanh phủ Melamine 2 mặt chống ẩm",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "Vĩnh Lộc A, Bình Chánh, TP HCM",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "Công ty TNHH OHAHA Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "2 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Kích thước",
+                "options": [
+                    "1m2 x 2m",
+                    "1m4 x 2m",
+                    "1m6 x 2m"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 11790000,
+                "sku_stock": 6448
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 11790000,
+                "sku_stock": 8681
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 11790000,
+                "sku_stock": 4318
+            }
+        ]
+    },
+    {
+        "product_shop": "312780",
+        "product_name": "[Happy Home Furniture] ROTAN, Tủ lưu trữ 2 cánh lùa - chân sắt , 120cm x 30cm x 48cm ( DxRxC), TCL_031",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/69/28/e9/c2c3e03497d15d06072a29267808d6f1.jpg",
+            "https://salt.tikicdn.com/ts/product/ef/fe/9e/9feff7f76cda1298d0dea7e0fb4ce38d.jpg",
+            "https://salt.tikicdn.com/ts/product/ed/fd/0b/940bc1e00789788e6e0817ac9f38f644.jpg",
+            "https://salt.tikicdn.com/ts/product/c6/93/fe/2b40918cf986e5e6cfbb5237d09c720b.jpg",
+            "https://salt.tikicdn.com/ts/product/96/74/8f/19625a5e27e464156a41fdc956c0966e.jpg",
+            "https://salt.tikicdn.com/ts/product/2e/05/6a/a99bc73fae85fd29588e46da69ca8c58.jpg"
+        ],
+        "product_description": "<p>\"Kích thước sản phẩm : 120cm x 30cm x 48cm ( Ngang x Sâu x Cao )</p>\n<p> [THỜI GIAN SẢN XUẤT VÀ GIAO HÀNG]</p>\n<p> </p>\n<p>- Thời gian gia công sản phẩm từ 2-3 ngày làm việc &lt;hàng mới 100%&gt;.</p>\n<p>- Shop nhận được đơn sẽ tiến hành thông báo thời gian giao hàng cụ thể cho khách hàng trong vòng 24h.</p>\n<p> </p>\n<p> [CHÍNH SÁCH VẬN CHUYỂN &amp; LẮP ĐẶT]</p>\n<p> </p>\n<p> KHÔNG MIỄN PHÍ VẬN CHUYỂN - KHÔNG LẮP ĐẶT TẬN NƠI KHU VỰC HÀ NỘI</p>\n<p> </p>\n<p>&lt;&lt;&lt; MIỄN PHÍ LẮP ĐẶT VÀ VẬN CHUYỂN CHO TOÀN BỘ CÁC KHU VỰC SAU &gt;&gt;&gt;</p>\n<p> HỒ CHÍ MINH : Trong thành phố và các vùng ngoại thành.</p>\n<p> BÌNH DƯƠNG :</p>\n<p>Thủ Dầu Một</p>\n<p>Thuận An</p>\n<p>Dĩ An</p>\n<p>Bến Cát</p>\n<p> ĐỒNG NAI :</p>\n<p>Biên Hòa</p>\n<p>Long Thành</p>\n<p>Trảng Bom</p>\n<p>Nhơn Trạch</p>\n<p> VŨNG TÀU :</p>\n<p>TP.Vũng Tàu</p>\n<p>Phú Mỹ</p>\n<p>Long Hải</p>\n<p>Bà Rịa</p>\n<p> TOÀN BỘ CÁC KHU VỰC MIỀN TÂY ( Gộp đơn theo chuyến )</p>\n<p> CÁC TỈNH : Bình Thuận, Ninh Thuận, Nha Trang, Lâm Đồng, Bình Phước, Đắk Lắk, Đắk Nông ( Gộp đơn theo chuyến ).</p>\n<p> </p>\n<p>&lt;&lt;&lt; KHU VỰC KHÔNG THUỘC NHỮNG ĐỊA ĐIỂM TRÊN &gt;&gt;&gt;</p>\n<p>Quý khách vui lòng liên hệ shop để được tư vấn cụ thể !</p>\n<p> </p>\n<p>Nếu quý khách cần sản phẩm sớm , không đợi gộp chuyến , shop sẽ gửi sp kèm hướng dẫn lắp đặt cụ thể ạ</p>\n<p> </p>\n<p> [CHẤT LƯỢNG SẢN PHẨM]</p>\n<p> </p>\n<p>Chất lượng:</p>\n<p>Gia công sản xuất bằng máy CNC đời mới, bảo đảm độ chính xác cao nhất trên mọi sản phẩm.</p>\n<p>Quy trình sản xuất rõ ràng từ bản vẽ chi tiết &lt;Được vẽ bởi kỹ sư nhiều năm kinh nghiệm&gt; cho đến lắp ráp &lt;Có bản hướng dẫn để khách hàng có mong muốn tháo dỡ và lắp lại bất cứ khi nào mà khách muốn&gt;.</p>\n<p>Tình trạng hàng: Sẵn sàng để sản xuất.</p>\n<p> </p>\n<p> [CHÍNH SÁCH BẢO HÀNH VÀ HOÀN TRẢ]</p>\n<p> </p>\n<p>Bảo hành 1 đổi 1 với phần sản phẩm bị hư hại trong năm đầu tiên với bất kỳ lý do nào (thay mới 100% nói không với sửa chữa). Trừ trường hợp cố ý gây hư hỏng hoặc ngâm nước</p>\n<p> </p>\n<p>️Khách hàng gửi hình ảnh phần sản phẩm bị hư hỏng, công ty sẽ đánh giá mức độ và thay thế bộ phận hư hại.</p>\n<p> </p>\n<p>️Trường hợp hình ảnh phần sản phẩm hư hỏng nằm ở góc độ khó, công ty sẽ trực tiếp đến để xem tình trạng sản phẩm và hẹn lại thời gian thay thế.</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1881000,
+        "product_quantity": 1066,
+        "product_category": [
+            "Tủ quần áo"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Happy Furniture",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "MMR_MDF",
+            "Model": "ROTAN",
+            "Xuất xứ (Made in)": "Anh, Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc - vật liệu",
+                "options": [
+                    "Vân Gỗ Đậm MDF Chống Ẩm",
+                    "Vân Gỗ Đậm MDF Tiêu Chuẩn",
+                    "Xám T MDF Chống Ẩm",
+                    "Xám T MDF Tiêu chuẩn",
+                    "Đen MDF Chống Ẩm",
+                    "Đen MDF Tiêu Chuẩn"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 1881000,
+                "sku_stock": 9241
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 1881000,
+                "sku_stock": 6619
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 1881000,
+                "sku_stock": 9164
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 1881000,
+                "sku_stock": 3365
+            },
+            {
+                "sku_tier_idx": [
+                    4
+                ],
+                "sku_price": 1881000,
+                "sku_stock": 7089
+            },
+            {
+                "sku_tier_idx": [
+                    5
+                ],
+                "sku_price": 1881000,
+                "sku_stock": 6941
+            }
+        ]
+    },
+    {
+        "product_shop": "261323",
+        "product_name": "Bảng lỗ Pegboard treo tường tích hợp gương soi Dola Home kim loại cao cấp tiện dụng và trang trí nội thất",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/03/25/bf/7a66c0a45d353587ca8064a3f9e9a3c6.jpg",
+            "https://salt.tikicdn.com/ts/product/bc/03/ba/25208877d5479e851c8c7aac9adba02c.jpg",
+            "https://salt.tikicdn.com/ts/product/db/88/9a/b5ee8f7d7552aa1f7a18e19a9857dd6d.jpg",
+            "https://salt.tikicdn.com/ts/product/5c/50/c7/f053df504309fba795e7c649577f28ad.jpg",
+            "https://salt.tikicdn.com/ts/product/aa/40/61/767ba183cf9e72b9ad99abce5ab52af0.jpg",
+            "https://salt.tikicdn.com/ts/product/06/75/85/a34f76cdf7ebde6f6705983f4d017029.jpg",
+            "https://salt.tikicdn.com/ts/product/44/77/59/490a1dea2fbaae6d510741ae0a1da219.jpg",
+            "https://salt.tikicdn.com/ts/product/0d/a8/32/c01c8b898a52faa1ab23446cb74b0cc6.jpg",
+            "https://salt.tikicdn.com/ts/product/c8/15/c6/1463c371d16f975f077264ef5bbac1fe.jpg"
+        ],
+        "product_description": "<p>Bảng lỗ Pegboard tích hợp gương soi treo tường Dola Home kim loại cao cấp tiện dụng và trang trí nội thất.</p>\n<p>Thương hiệu: DOLA HOME</p>\n<p>Loại sản phẩm: Combo bảng treo tường đi kèm phụ kiện Pegboard</p>\n<p>SKU: PG, G</p>\n<p>Chất liệu: bảng Pegboard kim loại sắt sơn tĩnh điện tích hợp kính thủy soi 5mm</p>\n<p>Phong cách: Hiện đại, vintage</p>\n<p>Màu sắc: Như hình combo</p>\n<p>Cách sử dung: Treo bằng khoan vít tắc kê hoặc đóng đinh vào tường</p>\n<p>Xuất xứ: Made in Vietnam – Hàng sx tại xưởng</p>\n<p>Khối lượng đóng gói: 8kg</p>\n<p> <img src=\"https://cf.shopee.vn/file/vn-11134208-7qukw-li41f2gq96mq09\" alt=\"vn-11134208-7qukw-li41f2gq96mq09\" width=\"750\" height=\"1000\" /></p>\n<p><img src=\"https://cf.shopee.vn/file/vn-11134208-7qukw-li41f2gqal76d0\" alt=\"vn-11134208-7qukw-li41f2gqal76d0\" width=\"842\" height=\"595\" /><img src=\"https://cf.shopee.vn/file/vn-11134208-7qukw-li41f2gqbzrm62\" alt=\"vn-11134208-7qukw-li41f2gqbzrm62\" width=\"790\" height=\"1119\" /></p>\n<p> </p>\n<p> <img src=\"https://cf.shopee.vn/file/vn-11134208-7qukw-li41f2gqdec295\" alt=\"vn-11134208-7qukw-li41f2gqdec295\" width=\"1024\" height=\"1024\" /></p>\n<p> </p>\n<p><img src=\"https://cf.shopee.vn/file/vn-11134208-7qukw-li41f2gqeswi56\" alt=\"vn-11134208-7qukw-li41f2gqeswi56\" width=\"790\" height=\"632\" /></p>\n<p><img src=\"https://cf.shopee.vn/file/vn-11134208-7qukw-li41f2gqhm1e21\" alt=\"vn-11134208-7qukw-li41f2gqhm1e21\" width=\"1823\" height=\"1500\" /></p>\n<p> </p>\n<p><img src=\"https://cf.shopee.vn/file/vn-11134208-7qukw-li41f2gqg7gy98\" alt=\"vn-11134208-7qukw-li41f2gqg7gy98\" width=\"1024\" height=\"1024\" /></p>\n<p> </p>\n<p> <img src=\"https://cf.shopee.vn/file/vn-11134208-7qukw-li41f2gqj0lu86\" alt=\"vn-11134208-7qukw-li41f2gqj0lu86\" width=\"1200\" height=\"2000\" /></p>\n<p><img src=\"https://cf.shopee.vn/file/vn-11134208-7qukw-li41f2gqkf6a12\" alt=\"vn-11134208-7qukw-li41f2gqkf6a12\" width=\"750\" height=\"1000\" /><img src=\"https://cf.shopee.vn/file/vn-11134208-7qukw-li41f2gqltqqe7\" alt=\"vn-11134208-7qukw-li41f2gqltqqe7\" width=\"790\" height=\"1101\" /><img src=\"https://cf.shopee.vn/file/vn-11134208-7qukw-li41f2gqn8b6fd\" alt=\"vn-11134208-7qukw-li41f2gqn8b6fd\" width=\"790\" height=\"1071\" /><img src=\"https://cf.shopee.vn/file/vn-11134208-7qukw-li41y09iiuj0cf\" alt=\"vn-11134208-7qukw-li41y09iiuj0cf\" width=\"1500\" height=\"2322\" /></p>\n<p> </p>\n<p> </p>\n<p>------------------------------------------</p>\n<p>Dưới đây là các LÝ DO bạn nên sở hữu ngay 1 em pegboard tích hợp gương tiện dụng và đa năng:</p>\n<p>Bảng Pegboard Dola Home BỀN sử dụng đến 5 NĂM, được phủ lớp sơn tĩnh điện cao cấp đa dạng màu sắc nổi bật.</p>\n<p>Bảng Pedboard kim loại giải quyết ngăn nắp đồ đạc và tạo cảm giác thoải mái sau giờ làm việc mệt mỏi</p>\n<p>Mang đến 1 style decor theo style CHÂU ÂU rất riêng.</p>\n<p>Bảng đục lỗ treo tường kim loại treo tường thích hợp đặt ở góc làm viêc, phòng khách, phòng ngủ, bế với gương soi tiện dụng va đa năng</p>\n<p>Bảng lỗ Pegboard DolaHome sử dụng được 4 chức nặng trong 1 sản phẩm: Treo tường, đặt chân đứng bàn, Kẹp mặt bàn, Móc U</p>\n<p>LAU CHÙI THOẢI MÁI Pegboard và gương soi treo trường ko sợ thấm nước và hư hỏng như bảng treo gỗ hay nhựa.</p>\n<p>Treo bảng lỗ pegboard tích hợp gương dễ dàng trong vòng 5ph với sổ tay hướng dẫn cụ thể tặng kèm.</p>\n<p> Móc treo đa dạng và hệ phụ kiện pegboard đa dạng với nhiều màu sắc và công năng khác nhau</p>\n<p>Pegboard tích hợp gương có kích thước 73x49,5cm tạo thành bức trang trí đẹp mắt khi kết hơp với pegboard treo tường với 5 màu đen, trắng, vàng, xanh mint, cam</p>\n<p>Hàng sản xuất trực tiếp tại xưởng với giá bán lẻ, công ty hỗ trợ xuất VAT 100%</p>\n<p>Trọng lượng bảng tích hợp gương bằng kim loại nhưng NHẸ TỪ 3-4kg</p>\n<p>Gương soi treo tường làm từ kính thủy Thái dày 5mm bền và soi rõ nét</p>\n<p>Tặng kèm voucher đến 50k hoàn tiền sản phẩm ngay trong đơn hàng</p>\n<p> </p>\n<p>HƯỚNG DẪN TREO BẢNG: </p>\n<p>Dola Home tặng kèm rập gỗ, thước thủy và các phụ kiện chi tiết: đinh, vít, tắc kê, trong sản phẩm để a/c thao tác theo một cách dễ dàng và đơn giản.</p>\n<p>Lưu ý:</p>\n<p>1/ Cách treo bằng vít + tắc kê:</p>\n<p>– Cách treo vít + tắc kê sử dụng ở mọi bề mặt và tải trọng cao</p>\n<p>– Xem cách treo bằng vít và tắc kê tại link: https://youtu.be/30GC3mtcTz4</p>\n<p>2/ Cách treo bảng bằng đinh</p>\n<p>Xem cách treo bảng bằng đinh: https://youtu.be/EVboCgpRYio</p>\n<p>Cam kết với khách hàng:</p>\n<p>Sản phẩm 100% giống mô tả</p>\n<p>Đảm bảo chất lượng, dịch vụ tốt nhất, hàng được giao từ 1-5 ngày kể từ ngày đặt hàng</p>\n<p>Đổi trả theo CHÍNH SÁCH RIÊNG của Dolahome:</p>\n<p>1. Điều kiện áp dụng - trong vòng 07 NGÀY kể từ khi nhận sản phẩm:</p>\n<p>Hàng hoá vẫn còn mới, chưa qua sử dụng</p>\n<p>Hàng hóa hư hỏng do vận chuyển hoặc do nhà Sản Xuất</p>\n<p>2. Trường hợp được chấp nhận:</p>\n<p>Hàng không đúng chủng Loại, mẫu mã như quý khách đặt hàng</p>\n<p>Không đủ số lượng, không đủ bộ như trong đơn hàng</p>\n<p>Tình trạng bên ngoài bị ảnh hưởng như rách bao bì, bong tróc, bể vỡ…</p>\n<p>3. Trường hợp không đủ điều kiện áp dụng chính sách:</p>\n<p>Quá 07 ngày kể từ khi Quý khách nhận hàng</p>\n<p>Gửi lại hàng không đúng mẫu mã, không phải hàng của shop Dolahome</p>\n<p>Đặt nhầm sản phẩm, chủng loại, không thích, không hợp,..</p>\n<p>Dolahome.vn nhận đặt, giao hoặc phân phối các đồ inox màu trên toàn quốc. Chúng tôi sẽ tư vấn và giải đáp các thắc mắc về không gian trang trí phù hợp.</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1887000,
+        "product_quantity": 2253,
+        "product_category": [
+            "Nội thất phòng ngủ khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Dola Home",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": [
+            {
+                "name": "Phân Loại",
+                "options": [
+                    "Combo G1",
+                    "Combo G2",
+                    "Combo PG1"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 1887000,
+                "sku_stock": 8025
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 1887000,
+                "sku_stock": 5391
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 1887000,
+                "sku_stock": 7446
+            }
+        ]
+    },
+    {
+        "product_shop": "312780",
+        "product_name": "[Happy Home Furniture] SCANDINA, Tủ quần áo 2 cánh mở kết hợp kệ , 150cm x 55cm x 220cm ( DxRxC), TCM_098",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b6/c6/34/ee08857c8ee7d8bbfa74c149efa679f0.jpg",
+            "https://salt.tikicdn.com/ts/product/7f/a9/e6/4beee2161da4d24dae64cff267d8c6f6.jpg",
+            "https://salt.tikicdn.com/ts/product/93/7c/ee/81bd153a6958fedb738ad60f6ad9c95a.jpg",
+            "https://salt.tikicdn.com/ts/product/6c/32/bb/b448a7a0c9f148155237d563666935e8.jpg"
+        ],
+        "product_description": "<p>\"Kích thước sản phẩm : 150cm x 55cm x 220cm ( Ngang x Sâu x Cao )</p>\n<p> [THỜI GIAN SẢN XUẤT VÀ GIAO HÀNG]</p>\n<p> </p>\n<p>- Thời gian gia công sản phẩm từ 2-3 ngày làm việc &lt;hàng mới 100%&gt;.</p>\n<p>- Shop nhận được đơn sẽ tiến hành thông báo thời gian giao hàng cụ thể cho khách hàng trong vòng 24h.</p>\n<p> </p>\n<p> [CHÍNH SÁCH VẬN CHUYỂN &amp; LẮP ĐẶT]</p>\n<p> </p>\n<p> KHÔNG MIỄN PHÍ VẬN CHUYỂN - KHÔNG LẮP ĐẶT TẬN NƠI KHU VỰC HÀ NỘI</p>\n<p> </p>\n<p>&lt;&lt;&lt; MIỄN PHÍ LẮP ĐẶT VÀ VẬN CHUYỂN CHO TOÀN BỘ CÁC KHU VỰC SAU &gt;&gt;&gt;</p>\n<p> HỒ CHÍ MINH : Trong thành phố và các vùng ngoại thành.</p>\n<p> BÌNH DƯƠNG :</p>\n<p>Thủ Dầu Một</p>\n<p>Thuận An</p>\n<p>Dĩ An</p>\n<p>Bến Cát</p>\n<p> ĐỒNG NAI :</p>\n<p>Biên Hòa</p>\n<p>Long Thành</p>\n<p>Trảng Bom</p>\n<p>Nhơn Trạch</p>\n<p> VŨNG TÀU :</p>\n<p>TP.Vũng Tàu</p>\n<p>Phú Mỹ</p>\n<p>Long Hải</p>\n<p>Bà Rịa</p>\n<p> TOÀN BỘ CÁC KHU VỰC MIỀN TÂY ( Gộp đơn theo chuyến )</p>\n<p> CÁC TỈNH : Bình Thuận, Ninh Thuận, Nha Trang, Lâm Đồng, Bình Phước, Đắk Lắk, Đắk Nông ( Gộp đơn theo chuyến ).</p>\n<p> </p>\n<p>&lt;&lt;&lt; KHU VỰC KHÔNG THUỘC NHỮNG ĐỊA ĐIỂM TRÊN &gt;&gt;&gt;</p>\n<p>Quý khách vui lòng liên hệ shop để được tư vấn cụ thể !</p>\n<p> </p>\n<p>Nếu quý khách cần sản phẩm sớm , không đợi gộp chuyến , shop sẽ gửi sp kèm hướng dẫn lắp đặt cụ thể ạ</p>\n<p> </p>\n<p> [CHẤT LƯỢNG SẢN PHẨM]</p>\n<p> </p>\n<p>Chất lượng:</p>\n<p>Gia công sản xuất bằng máy CNC đời mới, bảo đảm độ chính xác cao nhất trên mọi sản phẩm.</p>\n<p>Quy trình sản xuất rõ ràng từ bản vẽ chi tiết &lt;Được vẽ bởi kỹ sư nhiều năm kinh nghiệm&gt; cho đến lắp ráp &lt;Có bản hướng dẫn để khách hàng có mong muốn tháo dỡ và lắp lại bất cứ khi nào mà khách muốn&gt;.</p>\n<p>Tình trạng hàng: Sẵn sàng để sản xuất.</p>\n<p> </p>\n<p> [CHÍNH SÁCH BẢO HÀNH VÀ HOÀN TRẢ]</p>\n<p> </p>\n<p>Bảo hành 1 đổi 1 với phần sản phẩm bị hư hại trong năm đầu tiên với bất kỳ lý do nào (thay mới 100% nói không với sửa chữa). Trừ trường hợp cố ý gây hư hỏng hoặc ngâm nước</p>\n<p> </p>\n<p>️Khách hàng gửi hình ảnh phần sản phẩm bị hư hỏng, công ty sẽ đánh giá mức độ và thay thế bộ phận hư hại.</p>\n<p> </p>\n<p>️Trường hợp hình ảnh phần sản phẩm hư hỏng nằm ở góc độ khó, công ty sẽ trực tiếp đến để xem tình trạng sản phẩm và hẹn lại thời gian thay thế.</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 7096000,
+        "product_quantity": 1200,
+        "product_category": [
+            "Tủ quần áo"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "1 Năm",
+            "Thương hiệu": "Happy Furniture",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "MMR_MDF",
+            "Model": "SCANDINA",
+            "Xuất xứ (Made in)": "Anh, Việt Nam"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc - vật liệu",
+                "options": [
+                    "Sồi MDF Chống Ẩm",
+                    "Sồi MDF Tiêu Chuẩn",
+                    "Vân Gỗ Nhạt MDF Chống Ẩm",
+                    "Vân Gỗ Nhạt MDF Tiêu Chuẩn"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 7096000,
+                "sku_stock": 3528
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 7096000,
+                "sku_stock": 8849
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 7096000,
+                "sku_stock": 6560
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 7096000,
+                "sku_stock": 6661
+            }
+        ]
+    },
+    {
+        "product_shop": "19819",
+        "product_name": "Giường Ngủ Hiện Đại - HC245",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/89/fc/d3/b4a9e9670a838d562194f7db6012c3d3.jpg",
+            "https://salt.tikicdn.com/ts/product/ac/42/20/0dfb0165da57069372c29a05dbd024ec.png"
+        ],
+        "product_description": "<p><strong>Thông tin sản phẩm:</strong></p>\n<p>Sản phẩm giường <strong>Giường Ngủ Hiện Đại - HC245</strong> từ thương hiệu nội thất HUCHU mang đầy sự tươi mới từ sự kết hợp độc đáo và mới lạ giữa <strong>giường gỗ</strong> và tủ chứa đồ đa chức năng tối ưu sự tiện dụng cho căn phòng.</p>\n<p><strong>Giường ngủ </strong>được thiết kế theo phong cách Bắc Âu hiện đại thông minh phù hợp các loại không gian bày trì, màu gỗ tươi sáng, cho bạn một giấc ngủ sâu sau một ngày làm việc học tập mệt mỏi.</p>\n<p>Chiếc <strong>giường ngủ thông minh</strong> làm từ loại chất liệu với 2 dạng là cốt xanh chống ẩm và cốt thường chống cong vênh mối mọt được phủ lớp Melamine dày dặn làm bóng, tăng thêm độ thẩm mỹ cho bề mặt sản phẩm, chống thấm nước, trầy xước hiệu quả.</p>\n<p><strong>Tên sản phẩm: </strong><em>Giường Ngủ Hiện Đại</em></p>\n<p><strong>Mã sản phẩm: HC</strong>244</p>\n<p><strong>Bài trí: </strong>Phòng Ngủ</p>\n<p><strong>Yêu cầu lắp ghép:</strong> Có + hướng dẫn lắp đặt</p>\n<p><strong>Có ngăn kéo: </strong>giường có 2 ngăn kéo </p>\n<p><strong>Chất liệu: </strong>Sử dụng loại gỗ công nghiệp MDF </p>\n<p><strong>Màu sắc: </strong>Vân gỗ or đen kết hợp trắng.(khách có thể tuỳ chọn  màu ,shop sẽ lh sau khi đặt sp)</p>\n<p><strong>Dán chỉ cạnh: </strong>Có</p>\n<p><strong>Bề mặt: </strong>Phủ lớp Melamine dày dặn</p>\n<p><strong>Tính năng vượt trội:</strong><br />+ Có ngăn kéo rộng rãi chứa đồ vật tư trang</p>\n<p><strong>Phong cách kiểu dáng thiết kế: </strong>Phong cách Bắc Âu hiện đại</p>\n<p><strong>Cấu trúc giường:</strong><br />+ Chắc chắn ổn định chống rung lắc. Khi bạn trở mình lúc ngủ sẽ không gây tiếng động, tạp âm ảnh hưởng phút giây nghỉ ngơi của chúng ta<br />+ Khung giường được sản xuất rất chắc chắn tăng thêm 50% khả năng chịu lực khi sử dụng<br />+ Thành giường được thiết kế chịu lực tốt không tạo ra âm thanh trong quá trình sử dụng.</p>\n<p><strong>Đặc tính sản phẩm:</strong><br />- Gỗ công nghiệp MDF chống ẩm chống cong vênh, mối mọt, chịu nhiệt tốt, chống thấm nước, không dễ nứt gãy<br />- Bề mặt gỗ được gia công trơn nhãn<br />- Lớp Melamine dày dặn chống trầy thấm nước<br />- Có cơ chế ngăn kéo ở bên trái phải giường, lưu trữ kín đáo, cho phép để nhiều đồ.<br />- Giường sử dụng ốc cam khi lắp ráp tạo tính thẩm mĩ cao<br />- Các ngăn chứa được phân chia gọn gàng<br />- Kích thước rộng rãi thoải mái, nằm ngủ thả ga<br />- Màu sắc vân gỗ kết hợp trắng phong cách bắc âu phù hợp với nhiều gia đình<br />- Dễ dàng vệ sinh lau chùi không mất nhiều thời gian<br />- Phong cách thiết kế hiện đại</p>\n<p><strong>Kích thước: 1m8x2m</strong></p>\n<p><strong>Công năng:</strong><br />+ Một chiếc giường ngủ hiện đại được biến tấu một cách tinh tế từ chiếc giường ngủ truyền thống cho ta một giấc ngủ sâu và ngon.<br />+ Kết hợp giường cùng ngăn chứa đồ, ngăn kéo thông minh, sự kết hợp sẽ cho bạn có được trải nghiệm tuyệt vời<br />+ Trang trí phòng ngủ siêu đẹp mang lên màu sắc tươi mới cho căn phòng của gia chủ.<br />+ Đem lại sự sinh động với kiểu dáng thiết kế thiên hướng Bắc Âu</p>\n<p><strong>Hướng dẫn bảo quản:</strong><br />Có thể vệ sinh bằng khăn khô để lau chùi<br />Tránh vệ sinh bằng chất tẩy rửa mạnh, nên dùng các chất tẩy rửa phù hợp cho chất liệu ( nên tham khảo trước )<br />Vệ sinh định kỳ tháng 1 lần để không bám bụi gây mất thẩm mỹ, giá trị sản phẩm<br />Tránh cho nội thất gỗ công nghiệp tiếp xúc trực tiếp với ánh nắng mặt trời.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3095000,
+        "product_quantity": 4485,
+        "product_category": [
+            "Nhà Cửa - Đời Sống"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "HUCHU",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": " Cuba",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng"
+        },
+        "product_variations": [
+            {
+                "name": "chất liệu",
+                "options": [
+                    "Kháng ẩm",
+                    "Không kháng ẩm"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 3095000,
+                "sku_stock": 8549
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 3095000,
+                "sku_stock": 7340
+            }
+        ]
+    },
+    null,
+    {
+        "product_shop": "1320",
+        "product_name": "Giường ngủ Juno sofa gỗ sồi, mặt gỗ màu nâu óc chó",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/9e/72/c6/14d127295be3fb3bb4a4a04605d10a5d.jpg",
+            "https://salt.tikicdn.com/ts/product/6b/c2/cd/b209cc9ba36490286ad44edf3d8279b6.jpg",
+            "https://salt.tikicdn.com/ts/product/0c/dc/e6/1acfe48495875899e18a41f744e91ec2.jpg"
+        ],
+        "product_description": "<p>*** Quý khách hàng vui lòng chọn sản phẩm nhà bán JUNO SOFA để nhận được sản phẩm đúng với chất lượng ***</p>\n<div>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/1c/1a/b3/7435487bddb35626d10dc3a041e2df7c.png\" alt=\"\" width=\"523\" height=\"506\" /></p>\n<p> <strong>Kích thước </strong></p>\n<p>1. Giường Panel ( 217 x 157 x 107 )cm</p>\n<p>  -Sử dụng nệm: Rộng 1m4 x Dài 2m</p>\n<p>2. Giường Panel ( 217 x 177 x 107 ) cm</p>\n<p>  -Sử dụng nệm: Rộng 1m6 x Dài 2m</p>\n<p>3. Giường Panel ( 217 x 197 x 107 ) cm</p>\n<p>  -Sử dụng nệm: Rộng 1m8 x Dài 2m</p>\n<p><u><strong>Chất Liệu : </strong></u></p>\n<ol><li>Giường ≈ 100% Gỗ Sồi </li>\n<li>Thang Giường : Gỗ Thông</li>\n<li>\n<p><strong><u> Màu Sắc : </u></strong></p>\n<ul><li>Màu Nâu Gỗ Óc Chó  </li>\n<li>\n<p>Sơn Phủ Nhẹ Với Độ Bóng Mờ Làm Tăng Cường Tính Tự Nhiên Và Mộc Mạc Của Gỗ Sồi.</p>\n</li>\n<li>Màu Sắc Có Thể Thay Đổi Một Chút Trên Các Màn Hình Máy Tính Khác Nhau !</li>\n</ul></li>\n</ol></div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 11690000,
+        "product_quantity": 9531,
+        "product_category": [
+            "Nội thất phòng ngủ khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Juno Sofa",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "giưởng ngủ gỗ sồi,giường ngủ hiện đại",
+            "Chất liệu": "Gỗ",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "385/12B Đường ĐT743B, Khu Phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY TNHH JUNO SOFA VIỆT NAM",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "kích thước",
+                "options": [
+                    "210 x 157 x 100cm",
+                    "210 x 177 x 100cm",
+                    "210 x 197 x 100cm"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 11690000,
+                "sku_stock": 6190
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 11690000,
+                "sku_stock": 1364
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 11690000,
+                "sku_stock": 4700
+            }
+        ]
+    },
+    {
+        "product_shop": "100733",
+        "product_name": "Ghế gấp khung ống thép sơn tĩnh điện mặt ngồi tựa lưng nhựa GS-22-00 Xuân Hòa",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/1f/53/7d/7bcb86a126b89e1ba5fee57557753b78.png",
+            "https://salt.tikicdn.com/ts/product/cc/7d/e6/f7c7dfd2fe638986703b581aea4ca2fc.png",
+            "https://salt.tikicdn.com/ts/product/f5/8f/d3/9d993251b8a8b852285f60a93c28fedf.png"
+        ],
+        "product_description": "<p style=\"font-weight:400;\">Ghế gấp ngày càng được sử dụng rộng rãi trong mọi mặt của đời sống.Ghế gấp Xuân Hòa đa dạng về mẫu mã, chất liệu, có thể bắt gặp tại phòng làm việc, phòng họp hay thậm chí là phòng ăn. Ghế gấp GS-22-00 là một mẫu ghế của nội thất Xuân Hòa với thiết kế đơn giản, giá rẻ nhưng lại được ưa chuộng chính vì sự gọn nhẹ đó, cùng với chất lượng vượt quá mong đợi của khách hàng.</p>\n<p style=\"font-weight:400;\">TỐI ĐA KHÔNG GIAN VỚI GHẾ GẤP XUÂN HÒA</p>\n<p style=\"font-weight:400;\">Ghế gấp Xuân Hòa được biết đến như sản phẩm nội thất đa năng, có thể sử dụng ở bất cứ không gian nào: văn phòng, nhà ở, nhà hàng, quán  </p>\n<p style=\"font-weight:400;\">Ghế gấp (kích thước 450x465x775) của nội thất Xuân Hòa đang được nhiều người tin tưởng chọn lựa sử dụng, bởi thiết kế đơn giản mà hiện đại và gọn gàng. Một số ưu điểm của ghế gấp Xuân Hòa (GS-22) có thể kể đến là:</p>\n<p style=\"font-weight:400;\">- Chân ghế gấp được gia công chuẩn tạo nên độ bền chắc chắn. Lớp mạ inox tạo độ sáng bóng và chống gỉ cho ghế. Ống thép Ø15.9 được thiết kế dày và chắc chắn.</p>\n<p style=\"font-weight:400;\"><br />- Phần mặt và tựa ghế gấp được sản xuất từ nhựa bóng cao cấp.</p>\n<p style=\"font-weight:400;\"><br />- Thiết kế cực kỳ đơn giản, gọn nhẹ tiện dụng cho việc sắp xếp và di chuyển sản phẩm khi cần chuyển đổi không gian.</p>\n<p style=\"font-weight:400;\"><br />- Màu sắc đa dạng cho bạn thoải mái lựa chọn. </p>\n<p style=\"font-weight:400;\"><br />Để tránh tình trạng mua phải ghế giả kém chất lượng, bạn nên ghé thăm các hệ thống đại lý của nội thất Xuân Hòa. Tại đây, đội ngũ nhân viên và chuyên gia có kinh nghiệm sẽ tư vấn cho bạn về sản phẩm ghế gấp cũng như các sản phẩm nội thất khác về màu sắc, kiểu dáng phù hợp với yêu cầu của bạn.</p>\n<p style=\"font-weight:400;\">Thông số sản phẩm</p>\n<p style=\"font-weight:400;\">           + Kích thước: 450x465x775</p>\n<ul><li style=\"font-weight:400;\">Mặt ngồi và tựa lưng: nhựa</li>\n<li style=\"font-weight:400;\">Khung ghế: thép ống Ø15.9 mm sơn tĩnh điện</li>\n</ul><p style=\"font-weight:400;\">Đặc điểm nổi bật</p>\n<p style=\"font-weight:400;\">Thiết kế không cầu kỳ nhưng lại tạo được dấu ấn rất riêng, đó chính là những gì có thể mô tả chung nhất về dòng ghế Xuân Hòa GS-22-00.</p>\n<p style=\"font-weight:400;\"> + Ghế gồm 3 trục thép chính, 2 trục hình chữ U tạo thành chân ghế. Trục nhỏ hơn được gắn vào trục chính dài hơn. Trục thứ 3 là một đường thẳng gắn vào gần chính giữa trục chính, tạo thành phần đỡ cho mặt ngồi của ghế.</p>\n<p style=\"font-weight:400;\">+ Mặt ngồi ghế cũng được gắn vào trục nhỏ hơn ở phía sau, thường có hình vuông.</p>\n<p style=\"font-weight:400;\">+ Tựa ghế có chiều cao ngắn, chiều rộng đúng bằng chiều rộng mặt ghế, có đột lỗ để tiện lợi trong việc treo, xếp ghế.</p>\n<p style=\"font-weight:400;\"> + Chân ghế có thể gấp lại. Khi gấp, chân, mặt ghế ngồi và tựa tạo thành một mặt phẳng duy nhất nằm trên trục chính của ghế.</p>\n<p style=\"font-weight:400;\">So sánh</p>\n<p style=\"font-weight:400;\">Ghế GS-22-00 có thiết kế giống với ghế GM-22-00 hay GI-22-00 chỉ khác biệt về màu sắc. Tuy nhiên, do sự khác biệt về màu sắc và thay đổi một chút về chất liệu, ghế GM-22-00 và GI-22-00 đều có giá thành cao hơn.</p>\n<p style=\"font-weight:400;\"><br />Gợi ý kết hợp</p>\n<p style=\"font-weight:400;\">Ghế gấp GS-22-00có thể dùng tại phòng làm việc, phòng phỏng vấn, phòng chờ hay thậm chí là phòng ăn. Bạn hãy căn cứ vào mục đích sử dụng để chọn loại bàn phù hợp. Nhưng với màu sắc của ghế là đỏ, bạn cần lưu ý nên chọn những loại bàn có gam màu trung tính để tạo nên sự dung hòa trong căn phòng. <br />*** Đối với dòng ghế gấp dung sai kích thước tổng thể ±20mm</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 420000,
+        "product_quantity": 7530,
+        "product_category": [
+            "Nhà Cửa - Đời Sống"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "12 Tháng",
+            "Thương hiệu": "Xuân Hòa",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "Khung ống thép Ø 15.9 sơn tĩnh điện, Mặt ngồi, tựa nhựa nguyên sinh cao cấp",
+            "Kích thước (Dài x Rộng x Cao)": "450x465x775mm",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Tải trọng tối đa": "120kg"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Màu cam",
+                    "Màu xanh dương"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 420000,
+                "sku_stock": 8412
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 420000,
+                "sku_stock": 6903
+            }
+        ]
+    },
+    {
+        "product_shop": "286306",
+        "product_name": "Giường 2 tầng Tundo màu vàng ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/dc/cb/3a/af24dab13f6339678d9a018896a5a8a4.jpg",
+            "https://salt.tikicdn.com/ts/product/da/7d/4e/6c08817a12aa14edcdd4f232cb71de36.jpg",
+            "https://salt.tikicdn.com/ts/product/65/0d/66/a843ffdb02d881dcc8fa3d2debb9517d.jpg"
+        ],
+        "product_description": "<p>*** Quý khách hàng vui lòng chọn sản phẩm nhà bán TUNDO để nhận được sản phẩm đúng với chất lượng *** </p>\n<p><strong><u>Kích Thước Phủ Bì</u> </strong>( Ngang x Sâu x Cao )cm</p>\n<ul><li>Giường 2 Tầng -  01 Cái </li>\n<li>Kích Thước Toàn Phần : 248 x 110 x 165 / cm</li>\n<li>Tầng 01 ( Giường Giữa ) Dài  200m  x Rộng 110cm</li>\n<li>Tầng 02 ( Giường Trên Cùng ) Dài  200m  x Rộng 110cm</li>\n<li>Cầu Thang : Rộng 50cm</li>\n<li>Thang Giường : 18 Cây ( Mổi Tầng Sử Dụng 09 Thang )</li>\n<li>Dung sai ± 3cm ( trong phạm vi cho phép )​</li>\n</ul><p><u><strong>Kích Thước Đặt Nệm : </strong></u></p>\n<ul><li>02 Tấm  Tầng Trên Cùng ⇒ Ngang 1m x Dài 1m95</li>\n<li>Khuyến Khích : Sử Dụng Nệm Lò Xo Dày ≥ 20cm</li>\n</ul><p><u><strong>Chất Liệu : </strong></u></p>\n<ul><li> Gỗ Công Nghiệp </li>\n<li>Độ Bóng : Bóng Mờ NC</li>\n<li>Đáy Hộc Kéo : Lót Mdf </li>\n<li>Thang Giường : Giường Sử Dụng 10 Thang Ngang Chịu Lực Mỗi Tầng </li>\n</ul><p><u><strong>Đặc Điểm Riêng : </strong></u></p>\n<ul><li>\n<p>Cầu Thang Liên Hợp Đảo Chiều ; Có Thể  Đặt Tùy Chọn Tùy Theo Ý Thích</p>\n</li>\n<li>\n<p>Cầu Thang Liên Hợp - Hộc Tủ ; Có Các Hộc Tũ Đựng Vật Dụng Linh Tinh , Liên Kết vào Thành Giường</p>\n</li>\n</ul><p><strong><u>Màu Sắc :  </u></strong><u><strong>Có 04 Màu Lựa Chọn : </strong></u></p>\n<ol><li>Màu Trắng </li>\n<li>Màu Tự Nhiên</li>\n<li>Màu Nâu </li>\n<li>Màu Vàng Gỗ </li>\n</ol><ul><li>Tránh Xa Ngọn Lửa Hoặc Nguồn Nhiệt Trực Tiếp </li>\n<li>Màu Sắc Có Thể Thay Đổi Một Chút Trên Các Màn Hình Máy Tính Khác Nhau.</li>\n<li>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/e4/dd/a9/d3cc35ce5795505850232472bed6a382.png\" alt=\"\" width=\"532\" height=\"429\" /></p>\n</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 8610000,
+        "product_quantity": 5293,
+        "product_category": [
+            "Nội thất phòng ngủ khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Tundo",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "giường tầng",
+            "Kích thước (Dài x Rộng x Cao)": "248 x 110 x 165 cm",
+            "Chất liệu": "gỗ",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1320",
+        "product_name": "Giường Juno Sofa Ngủ Châu Âu - KT Nệm 99cm x 1m9",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/93/1b/8c/ead38780c9ccc2d40c5dab22507ed43f.jpg",
+            "https://salt.tikicdn.com/ts/product/3f/91/59/082d33d113e65c222c76951966ba4986.jpg",
+            "https://salt.tikicdn.com/ts/product/6e/87/d7/0552d573030dc106df818a004f710c9c.jpg",
+            "https://salt.tikicdn.com/ts/product/f2/11/52/91123142f5f5dfa6cb62eff5b3c03875.jpg",
+            "https://salt.tikicdn.com/ts/product/1f/90/6e/573c7836b2fb0173a94ee0dcefc5c0a2.jpg",
+            "https://salt.tikicdn.com/ts/product/c4/75/7d/5e67d7d8c6cd9470fb65bbdd38263452.jpg",
+            "https://salt.tikicdn.com/ts/product/90/8c/a5/7e31930db95b40df709fde2dd223bfe4.jpg"
+        ],
+        "product_description": "<div><strong> <u>Kích Thước - Phủ Bì</u>  :</strong><strong> ( Dài x Rộng x Cao )cm</strong></div>\n<div>\n<p><strong>» Bộ Sưu Tập : </strong>YC Export Collection - Sample </p>\n<ul><li> 01 Cái  x Giường Ngủ - Twin Size </li>\n<li>Kích Thước : Dài 202cm x Rộng 109cm x Cao 114cm</li>\n<li>01 Cái - Mua Riêng <strong> </strong>Kích Thước Đặt Nệm :  99 cm x 191cm </li>\n<li>Khuyến Kích Sử Dụng Nệm Dày <strong>≥ 30cm</strong></li>\n<li>Thang Giường : Giường Được Sử dụng <strong>10</strong><strong> </strong>Thang Ngang ( Hệ Xuất Khẩu )</li>\n</ul><p><u><strong> Chất Liệu  Sản Phẩm  : </strong></u></p>\n<ul><li>Chất Liệu - Phần Chính ( Mặt , Khung , Phần Nhìn Trực Diện Của Sản Phẩm ) Gỗ Bạch Dương  + Venerr Gỗ  Birch </li>\n<li>Chất Liệu - Phần Phụ ( Phần Thang Giường , Phần Khuất , Ốp ) Gỗ Thông + Venerr Gỗ Birch </li>\n</ul><p><strong><u> Màu Sắc Sản Phẩm : </u></strong></p>\n<ul><li><span style=\"color:#000000;font-family:Tahoma;\">Xanh Navy ( </span> Weathered navyWB )</li>\n</ul><p><u><strong> Chi Tiết Đóng Gói Sản Phẩm : </strong></u></p>\n<ul><li>Sản Phẩm - Giường : Sản Phẩm Lắp Ráp , Được Đóng Gói : 1 Sản Phẩm / 2 Kiện </li>\n</ul></div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 6220000,
+        "product_quantity": 9633,
+        "product_category": [
+            "Nội thất phòng ngủ khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Juno Sofa",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Kích thước (Dài x Rộng x Cao)": "99cm x 1m9",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "385/12B Đường ĐT743B, Khu Phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY TNHH JUNO SOFA VIỆT NAM",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "1 Năm"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1320",
+        "product_name": " Tủ nhựa nội thất Juno Sofa",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/52/fd/f0/58b0be92efb5a5f617df1cd144cfa681.jpg",
+            "https://salt.tikicdn.com/ts/product/57/ca/cf/60dfca60b5c6d9bddcdf4d301b18ad57.jpg",
+            "https://salt.tikicdn.com/ts/product/7f/9a/64/a0e7622521b8f420c5c0bc8869cd6737.jpg",
+            "https://salt.tikicdn.com/ts/product/b0/eb/a2/5f8d7e2c0e502dba25a4355787513d59.jpg",
+            "https://salt.tikicdn.com/ts/product/d3/32/4e/882fda3a67900f998665781c1da5917f.jpg",
+            "https://salt.tikicdn.com/ts/product/8f/dc/25/9dd40cfc765a04482556b7dbb07d70d9.jpg",
+            "https://salt.tikicdn.com/ts/product/19/53/11/6b19c19a39afb679393770abefaeef13.jpg",
+            "https://salt.tikicdn.com/ts/product/c0/af/ce/f0e01dbcaa09133f8dc8bf11735a3c2c.jpg"
+        ],
+        "product_description": "<p>Chất Liệu:</p>\n<p>Tủ Bằng Nhựa Đài Loan, lưng tủ bằng aluminium chống ẩm</p>\n<p>Màu sắc: Trắng, hồng, xanh dương, vân gỗ óc chó, vân gỗ sồi.</p>\n<p>Chất Liệu:</p>\n<p>Nhựa cao cấp được nhập trực tiếp từ nhà máy.</p>\n<p>Có giấy chứng nhận nhựa an toàn, không độc hại cho trẻ sơ sinh và trẻ nhỏ.</p>\n<p>Cam kết không cắt bớt nguyên vật liệu</p>\n<p>Màu sắc nguyên bản không bong tróc, không độc hại vì được pha trộn trực tiếp khi sản xuất miếng nhựa.</p>\n<p>Tủ dễ dàng lau chùi, vệ sinh và tháo lắp tiện lợi cho việc cất giữ và vận chuyển.</p>\n<p>Vượt trội về cách phối màu theo ý thích, kích thước và kiểu dáng tùy chọn.</p>\n<p>SHOP ĐẢM BẢO:</p>\n<p>- Mang lại cho quý khách những sản phẩm tốt nhất, đẹp nhất.</p>\n<p>- Thương hiệu tạo niềm tin!</p>\n<p>**Ưu điểm của nhựa đài loan</p>\n<p>-Chống ẩm mốc mối mọt.</p>\n<p>- Lau chùi dễ dàng vệ sinh sạch sẽ</p>\n<p>- Chống cháy lan</p>\n<p>- Chịu lực lên đến 200kg</p>\n<p>- Nhẹ nhàng,dễ tháo lắp và vận chuyển</p>\n<p>- Màu sắc đa dạng để lựa chọn cho ng lớn và bé,phù hợp phong thủy</p>\n<p>** Xưởng sản xuất chúng tôi còn vô số sản phẩm đáp ứng đc mọi nhu cầu của khách hàng</p>\n<p>- Mặt hàng kinh doanh sx:</p>\n<p>Tủ quần áo cho bé</p>\n<p>Tủ quần áo người lớn</p>\n<p>Giường nhựa</p>\n<p>Tủ bếp</p>\n<p>Bàn học,bàn làm việc,bàn trang điểm</p>\n<p>Kệ ti vi,kệ sách</p>\n<p>Tủ giày thường,tủ giày thông minh</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1140000,
+        "product_quantity": 9883,
+        "product_category": [
+            "Tủ quần áo"
+        ],
+        "product_attributes": {
+            "Dung tích": "500ml",
+            "Thương hiệu": "Juno Sofa",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "385/12B Đường ĐT743B, Khu Phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY TNHH JUNO SOFA VIỆT NAM",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1320",
+        "product_name": " Tủ Nhựa 3 Buồng Tiện Lợi Chịu Lực Tốt Tủ Đựng Quần Áo Giá Tốt Nhất",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/2d/c5/66/7524921bcf29248b0a14eada077498aa.jpg",
+            "https://salt.tikicdn.com/ts/product/d5/2c/53/18bc4b99cbe7c4bbda59b15eb993f98c.jpg",
+            "https://salt.tikicdn.com/ts/product/db/d2/c1/af970d6a35d5c85fc27a6b65cd6b2c23.jpg",
+            "https://salt.tikicdn.com/ts/product/e5/a9/c2/5b7ebfe0ca356ee54f4aea94f510cb1b.jpg",
+            "https://salt.tikicdn.com/ts/product/b2/4c/75/94937d587265c530de38c2646439224a.jpg",
+            "https://salt.tikicdn.com/ts/product/34/f5/b5/db1fedb7051f6ee83d234a0c1288911e.jpg",
+            "https://salt.tikicdn.com/ts/product/45/a9/2c/02daf0db50cc8427a60acea77ae488c1.jpg",
+            "https://salt.tikicdn.com/ts/product/f7/ea/98/9fbcc94a9c949efba63e231a8c3a5d8a.jpg",
+            "https://salt.tikicdn.com/ts/product/de/56/94/478bf1a018ec61d30da8c9975f48694d.jpg"
+        ],
+        "product_description": "<p>Kích Thước:</p>\n<p>Cao 1m85 dài 1m25</p>\n<p>Sâu bì có thể tăng tính phí</p>\n<p>Chất Liệu:</p>\n<p>Tủ Bằng Nhựa Đài Loan, lưng tủ bằng aluminium chống ẩm</p>\n<p>Màu sắc: Trắng, hồng, xanh dương, vân gỗ óc chó, vân gỗ sồi.</p>\n<p>Chất Liệu:</p>\n<p>Nhựa cao cấp được nhập trực tiếp từ nhà máy.</p>\n<p>Có giấy chứng nhận nhựa an toàn, không độc hại cho trẻ sơ sinh và trẻ nhỏ.</p>\n<p>Cam kết không cắt bớt nguyên vật liệu</p>\n<p>Màu sắc nguyên bản không bong tróc, không độc hại vì được pha trộn trực tiếp khi sản xuất miếng nhựa.</p>\n<p>Tủ dễ dàng lau chùi, vệ sinh và tháo lắp tiện lợi cho việc cất giữ và vận chuyển.</p>\n<p>Vượt trội về cách phối màu theo ý thích, kích thước và kiểu dáng tùy chọn.</p>\n<p>SHOP ĐẢM BẢO:</p>\n<p>- Mang lại cho quý khách những sản phẩm tốt nhất, đẹp nhất.</p>\n<p>- Thương hiệu tạo niềm tin!</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 2860000,
+        "product_quantity": 9604,
+        "product_category": [
+            "Nhà Cửa - Đời Sống"
+        ],
+        "product_attributes": {
+            "Dung tích": "500ml",
+            "Thương hiệu": "Juno Sofa",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "385/12B Đường ĐT743B, Khu Phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY TNHH JUNO SOFA VIỆT NAM",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng"
+        },
+        "product_variations": [
+            {
+                "name": "Màu sắc",
+                "options": [
+                    "Màu Gỗ Nâu",
+                    "Màu Gỗ sồi",
+                    "Màu Gỗ óc chó",
+                    "Màu Trắng"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 2860000,
+                "sku_stock": 3702
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 2860000,
+                "sku_stock": 5212
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 2860000,
+                "sku_stock": 9834
+            },
+            {
+                "sku_tier_idx": [
+                    3
+                ],
+                "sku_price": 2860000,
+                "sku_stock": 4515
+            }
+        ]
+    },
+    {
+        "product_shop": "1320",
+        "product_name": "Tủ nhựa đài loan 3 cánh lớn cao 1m65x125 gỗ nhạt(TPHCM- Hà Nội)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/40/dc/97/b71cf470022f3088981f187532d99ffd.jpg"
+        ],
+        "product_description": "<p>✿ Kích thước:ngang 124x cao 165x sâu 45 phủ bì nắp 45 hong 40 dày 1,5</p>\n<p>✿ Kích thướt:ngang 124x165x50(Nắp tủ 50,hong 45 dày 2,5cm)</p>\n<p>-Bên shop thường ráp sẵn nguyên tủ giao tới,nếu bạn lo lắng tủ quá to k đem lên lầu được,hoặc đem lên tầng cao k thể di chuyển được yên tâm bên mình sẽ hổ trợ tháo ráp tại nhà cho bạn,bạn k cần phải lo ạ!!</p>\n<p>****Được làm từ nhựa đài loan nhập khẩu tủ có nhiều ưu điểm:</p>\n<p>-Có nhiều màu sắc và kiểu dáng khác nhau thích hợp cho bé,người lớn và người già.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 2730000,
+        "product_quantity": 2618,
+        "product_category": [
+            "Nhà Cửa - Đời Sống"
+        ],
+        "product_attributes": {
+            "Dung tích": "500ml",
+            "Thương hiệu": "Juno Sofa",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "385/12B Đường ĐT743B, Khu Phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY TNHH JUNO SOFA VIỆT NAM",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1320",
+        "product_name": "Tủ nhựa đài loan người lớn 2 cánh",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/18/65/53/b79fe5df35d18b6bf0fc5a5ed04b0ae5.jpg"
+        ],
+        "product_description": "<p>Kích thước:ngang 85 x cao 125x sâu 45phủ bì nắp 51 hong 45 dày 2,5cmNếu bạn lo lắng tủ quá to k đem lên lầu được,hoặc đem lên tầng cao k thể di chuyển được yên tâm bên mình sẽ qua lắp ráp tận nhà.</p>\n<p>Được làm từ nhựa đài loan nhập khẩu tủ có nhiều ưu điểm:</p>\n<p>Có nhiều màu sắc và kiểu dáng khác nhau thích hợp cho bé,người lớn và người già.</p>\n<p>Nhiều tranh trang trí để cho tủ thêm đẹp hơn thích hợp cho bé.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1700000,
+        "product_quantity": 7357,
+        "product_category": [
+            "Tủ quần áo"
+        ],
+        "product_attributes": {
+            "Dung tích": "500ml",
+            "Thương hiệu": "Juno Sofa",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "385/12B Đường ĐT743B, Khu Phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY TNHH JUNO SOFA VIỆT NAM",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1320",
+        "product_name": "Bàn Trang Điểm Juno Sofa cổ điển trọn bộ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e2/df/c9/cf85670d22f844de33953378f733625b.jpg",
+            "https://salt.tikicdn.com/ts/product/e8/08/63/84fc6b01b13fb8cfa3ddd0baf2bcd512.jpg"
+        ],
+        "product_description": "<ul>\n<li>Trọn Bộ Gồm <u><strong>03 </strong></u>Sản Phẩm</li>\n</ul>\n<ol>\n<li>Khung Kính - 01 Cái </li>\n<li>Ghế Mặt Nệm - 01 Cái </li>\n<li>Bàn Trang Điểm Console - 01 Cái </li>\n</ol>\n<p><strong> <u>Kích Thước Phủ Bì</u> </strong><strong>( Ngang x Sâu x Cao )cm</strong></p>\n<ol>\n<li>Khung Kính ( 71  x 5 x 62 )cm</li>\n<li>Ghế Mặt Nệm ( 36 x 36  x 43 )cm</li>\n<li>Bàn Trang Điểm Console ( 76 x 40 x 74 )cm</li>\n</ol>\n<ul>\n<li>Dung Sai ± 1- 5cm ( Trong Phạm Vi Cho Phép )​</li>\n</ul>\n<p><u><strong> Chất Liệu : </strong></u></p>\n<ol>\n<li><span style=\"color: #666666; font-family: Open Sans, sans-serif;\">Khung Kính </span>≈ Gỗ Cứng , Thông , Cao Su + Đáy Lót Mdf + Kính Thủy ( 5mm)</li>\n<li>Ghế Đôn , Mặt Nệm ≈ Gỗ Cứng , Thông , Cao Su + Bọc Da Pu , Simili + Mdf Đáy Lót </li>\n<li>Bàn Trang Điểm Console ≈ Gỗ Cứng , Thông , Cao Su + Hậu , Đáy Mdf </li>\n</ol>\n<p><strong><u> Màu Sắc : </u></strong></p>\n<ul>\n<li>Màu Hồng - Pink </li>\n<li>Màu Sắc Có Thể Thay Đổi Một Chút Trên Các Màng Hình Máy Tính Khác Nhau !​</li>\n</ul>\n<p><strong><u> Chi Tiết : </u></strong></p>\n<ul>\n<li>Chi Tiết : Họa Tiết Hoa văn Dập Nổi</li>\n<li>Khung Kính : Gương 3 Chiều , Cho Nhiều Góc Nhìn</li>\n<li>Tay Nắm : Gỗ Hoặc Kim loại Kèm Theo sản Phẩm</li>\n<li>Mặt Ghế : Bộc Simili Màu Trắng Kem + Nệm Ngồi Êm, Thoải Mái Khi Ngồi</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 6000000,
+        "product_quantity": 5254,
+        "product_category": [
+            "Bàn trang điểm"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Juno Sofa",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Kích thước (Dài x Rộng x Cao)": "76 x 40 x 74 cm",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "385/12B Đường ĐT743B, Khu Phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY TNHH JUNO SOFA VIỆT NAM",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "24 Tháng"
+        },
+        "product_variations": [
+            {
+                "name": "Màu",
+                "options": [
+                    "Full Trắng",
+                    "Hồng",
+                    "MÀU NÂU"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 6000000,
+                "sku_stock": 9914
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 6000000,
+                "sku_stock": 7472
+            },
+            {
+                "sku_tier_idx": [
+                    2
+                ],
+                "sku_price": 6000000,
+                "sku_stock": 4962
+            }
+        ]
+    },
+    {
+        "product_shop": "154569",
+        "product_name": "Giường Ngủ Gỗ Gõ Đỏ Đẹp 1m8",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/af/1c/5f/8369f751822d15176d8176b21ef1ec53.jpg",
+            "https://salt.tikicdn.com/ts/product/31/72/ea/817668fcaaf54665badbb41d7ddec8c4.jpg",
+            "https://salt.tikicdn.com/ts/product/64/04/8b/f7c11324d2439d0c54fe43bd1c883f9c.jpg",
+            "https://salt.tikicdn.com/ts/product/b2/21/34/8638975536d9cec834e74db5a4b0e109.jpg",
+            "https://salt.tikicdn.com/ts/product/b2/21/34/71002aea911b02e09eb8ec325e185643.jpg"
+        ],
+        "product_description": "<p>Chất liệu: gõ đỏ 100%<br />Kich thước: 1,8m x 2m</p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/4d/22/68/539c18ffab002c4a130a5e567831a208.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/4d/22/68/539c18ffab002c4a130a5e567831a208.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/31/72/ea/09991df13f116650b6955fa6cec9c632.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/31/72/ea/09991df13f116650b6955fa6cec9c632.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/64/04/8b/f6631d2ef3be2acd9bc031ab48226094.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/64/04/8b/f6631d2ef3be2acd9bc031ab48226094.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/b2/21/34/0d061ef84b4571f9adcbf38e0a5a5a66.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/b2/21/34/0d061ef84b4571f9adcbf38e0a5a5a66.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/b2/21/34/06ab059ac115889fd10cd2e4f9ea16b7.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/b2/21/34/06ab059ac115889fd10cd2e4f9ea16b7.jpg\" alt=\"\" width=\"undefined\" height=\"undefined\" /></p>\n<p><em><strong>Giường ngủ gỗ gõ đỏ Campuchia</strong> </em>đẹp trong từng chi tiết. Đây chắc chắn sẽ là sản phẩm mang đến cho gia chủ những giấc ngủ ngon lành mỗi đêm sau một ngày dài mệt mỏi. Tổng thể chiếc giường ngủ gỗ gõ đỏ Campuchia có được sự chắc chắn, sang trọng. Chất liệu gỗ gõ đỏ quý hiếm tạo nên màu sắc bắt mắt, những đường vẫn gỗ tự nhiên. Các chi tiết chạm khắc tại đầu và đuôi giường không quá cầu kỳ nhưng cũng đủ để tạo thành điểm nhấn.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 17000000,
+        "product_quantity": 7208,
+        "product_category": [
+            "Nội thất phòng ngủ khác"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "12 Tháng",
+            "Kích cỡ": "1m8",
+            "Thương hiệu": "KHÔNG GIAN ĐẸP 198VINH",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "gỗ gõ",
+            "Model": "5756565",
+            "Kích thước (Dài x Rộng x Cao)": "1m8",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Trọng lượng sản phẩm": "99",
+            "Tải trọng tối đa": "22"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1320",
+        "product_name": "Ghế sofa tình nhân cao cấp TN-01",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/da/7e/16/e58dfc7cfa3722aaad73c755741f38f7.png"
+        ],
+        "product_description": "<p>Kích thước :1.8m*0.5m<br />Khung: Gỗ dầu đã qua xử lí<br />Nệm mút: D40<br />Chân: Gổ tự nhiên<br />Chất Liệu: Simily</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 4500000,
+        "product_quantity": 5241,
+        "product_category": [
+            "Ghế các loại"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Kích thước (Dài x Rộng x Cao)": "1.8m x 0.5m",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "385/12B Đường ĐT743B, Khu Phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY TNHH JUNO SOFA VIỆT NAM",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "124367",
+        "product_name": "Ghế Hơi - Ghế Nệm Hơi Cao Cấp + Tặng Kèm Bơm Điện",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/84/ef/fc/515a8256c50e9215d6d720ba45d0047d.png",
+            "https://salt.tikicdn.com/ts/product/22/99/7a/9a245388ae54cc323c337d5e4bee760c.jpg",
+            "https://salt.tikicdn.com/ts/product/ea/68/92/fb0866876692195a871070af0f378a96.png",
+            "https://salt.tikicdn.com/ts/product/ed/ec/34/1804cd3675a1bdd05168a45a210fa64c.jpg"
+        ],
+        "product_description": "<p><em><strong>Ghế hơi  </strong></em>được bọc lớp nhung mềm mại , chống thấm nước phù chịu được tải trọng tối đa lên tới 100 kg để bạn có thể thư giãn </p>\n<p><em><strong>Ghế hơi </strong> </em>được sử dụng để xem TV, đọc một cuốn sách, hoặc để ngủ, phồng lên, xẹp xuống trong vài phút. Do đó, chúng ta có thể dễ dàng làm sạch và thu gọn để cất sản phẩm ghế bơm hơi.</p>\n<div>Chất lượng cao không thấm nước, ghế được bọc nhung mềm mại, cho người lớn và trẻ từ 6 tuổi trở lên</div>\n<p><em><strong>Ghế hơi  </strong></em>Van 2 trong 1 có mở rộng thêm để bơm hoặc xả nhanh, chất liệu bền đẹp, màu sắc không bị phai khi sử dụng</p>\n<p>Ghế bơm hơi rất tiện lợi cho những dịp đi cắm trại picnic. Nếu không dùng nữa bạn có thể hút sạch hơi, gấp gọn lại rồi cất vào vali, túi xá để mang đi dễ dàng hơn hoặc cất vào hốc tủ hoặc di chuyển sag các phóng khác.</p>\n<p><strong>Tên sản phẩm: <em>Ghế Hơi Tựa Lưng </em></strong><br />– Mã số: 68564<br />– Kích thước : 99*130*76/64*28 (cm)<br />– Màu sắc : xám đen<br />– Trọng lượng: 3,2 kg.<br />– Khối lượng chịu lực 100kg.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/ed/ec/34/fcc8ea478e7ecaf5fe8a37ef9a16c29a.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/product/8b/f7/25/a3ec6637fc1830b2ffdbcae315324634.jpg\" width=\"703\" height=\"703\" /></p>\n<p><img src=\"https://vcdn.tikicdn.com/ts/tmp/58/36/37/82dd7cdebf2c8d6757352b16fbc9064d.png\" width=\"718\" height=\"767\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/product/f6/b3/db/3561460778a52bb0b40050cf6c04cf99.jpg\" width=\"708\" height=\"664\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/product/d8/b7/d5/964d7c0a7ea8a1e4de1467f414aca61f.jpg\" width=\"705\" height=\"623\" /></p>\n<p> </p>\n<p> </p>\n<p><img src=\"https://salt.tikicdn.com/ts/product/ce/18/63/60a5b2310ea606231a55c444e7d62ea4.jpg\" width=\"706\" height=\"429\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 538000,
+        "product_quantity": 5344,
+        "product_category": [
+            "Ghế các loại"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Trung Quốc",
+            "Kích thước (Dài x Rộng x Cao)": "99*130*76/64*28 (cm)",
+            "Xuất xứ (Made in)": "Trung Quốc",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "59848",
+        "product_name": "Giường ngủ cao cấp Nhật Bản - Thương hiệu alala.vn (1m6x2m)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/2d/41/a3/c25ccfa86eb1936c714de5f7569c46e0.png",
+            "https://salt.tikicdn.com/ts/product/6d/f7/33/8abba4c3da5daef97010261c0f05e64e.png",
+            "https://salt.tikicdn.com/ts/product/ca/4b/7b/8c4c9b66cf212e855fdb10da149f1e81.png",
+            "https://salt.tikicdn.com/ts/product/0d/8e/9b/def40e2552b7c6138964fe506e81ebbf.png",
+            "https://salt.tikicdn.com/ts/product/a3/8a/e6/182f261b09cf2aedbef6a4ff0899b656.png"
+        ],
+        "product_description": "<p><strong>**Sản phẩm chỉ bao gồm 1 giường, không kèm các phụ kiện khác.**</strong></p>\n<p>- Chất liệu gỗ MDF loại 1 cao cấp đạt tiêu chuẩn E1 nhập khẩu Singapore được phủ Melamine chống thấm, an toàn cho sức khỏe.</p>\n<p>+ Giường ngủ cao cấp là loại giường được thiết kế phù hợp với những căn phòng chật hẹp hay muốn tiết kiệm không gian. Nguyên liệu MDF loại 1 cao cấp đạt tiêu chuẩn E1 nhập khẩu Singapore được phủ Melamine chống thấm, an toàn cho sức khỏe gia đình.</p>\n<p>+ Giường cao cấp được làm bằng Gỗ MDF loại 1 cao cấp đạt tiêu chuẩn E1 nhập khẩu Singapore được phủ Melamine chống thấm đạt tiêu chuẩn chất lượng xuất khẩu, giúp sản phẩm không chỉ đẹp hơn về mỹ quan mà còn mang lại độ bền chắc lâu dài. Bên mặt được phủ bóng chống hút ẩm, dễ lau chùi và hạn chế trầy xước, độ chịu nhiệt, chịu nước cao. Sản phẩm qua xử lý chống cong vênh, mối mọt bằng công nghệ của Đức, thân thiện và an toàn cho sức khỏe gia đình và môi trường.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/4c/27/36/ba96e8e7d009bd55da835cba73be3561.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p> - Thiết kế tinh tế, sang trọng và tiện dụng</p>\n<p>+ Giường cao cấp được thiết kế theo phong cách Hàn Quốc với màu sắc tự nhiên tươi sáng, trẻ trung, không chỉ giúp có được giấc ngủ ngon mà còn góp phần tô điểm cho không gian sống thêm sinh động, ấn tượng và dưạ vào nhu cầu và thói quen của ngươi tiêu dùng.</p>\n<p>+ Giường ngủ cao cấp được thiết kế tối giản, khoảng trống dưới gầm giường giúp thoát mát khi ngủ và vệ sinh dễ dàng hơn, ngoài ra dùng để đồ dùng cá nhân nên rất gọn gàng và tiện dụng.</p>\n<p>+ Màu sắc cùa Giường cao cấp tự nhiên tươi sáng, trẻ trung, không chỉ giúp giấc ngủ ngon hơn mà còn góp phần tô điểm cho không gian sống thêm sinh động, ấn tượng.</p>\n<p>+ Ngoài ra, sản phẩm được trau chuốt về góc cạnh – Giúp an toàn cho trẻ nhỏ, giúp Bạn và gia đình luôn cảm thấy thoải mái khi ngủ. </p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/ef/7b/64/5dc4f18842db686bdeaa2fe111fa76e7.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>- Kết cấu chắc chắn, an toàn</p>\n<p>+ Kết cấu giường theo module sản xuất hàng loạt bằng robot hiện đại. Tất cả những phụ kiện bản lề, ray trượt giảm chấn nhập khẩu từ châu Âu, đảm bảo an toàn và chất lượng. Giường ngủ được thiết kế an toàn về kỹ thuật, có thể chịu được trọng lượng tối đa đến 500kg.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 5499000,
+        "product_quantity": 5371,
+        "product_category": [
+            "Nội thất phòng ngủ khác"
+        ],
+        "product_attributes": {
+            "Quy cách đóng gói": "<p>Theo tiêu chuẩn xuất khẩu</p>",
+            "Thương hiệu": "alala.vn",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "Giường ngủ cao cấp alala.vn",
+            "Kích thước (Dài x Rộng x Cao)": "2m10 x 1m67 x 1m05",
+            "Chất liệu": "Gỗ MDF đạt tiêu chuẩn E1 nhập khẩu Singapore được phủ Melamine chống thấm",
+            "Xuất xứ (Made in)": "Nhật Bản / Việt Nam",
+            "Tải trọng tối đa": "500 kg",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "24 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1320",
+        "product_name": "Tủ quần áo Juno Sofa 3 cánh 2 ngăn kéo gỗ sồi 1m4",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e2/86/2f/39250b4ab7053ce6e3ef460f762f53aa.jpg",
+            "https://salt.tikicdn.com/ts/product/a1/03/54/372ef682831e44151d720043d525228e.jpg",
+            "https://salt.tikicdn.com/ts/product/f2/5f/4d/c9055e63747165b10296495e107c061b.jpg"
+        ],
+        "product_description": "Tủ quần áo gỗ sồi Juno Sofa là sự kết hợp hoàn hảo kết cấu chất lượng cao và phong cách tự nhiên cổ điển của Juno Sofa. Các chi tiết cổ điển với tông màu ấm áp và các tấm pano kết hợp với nhau tạo ra sự thanh lịch cho phòng ngủ của bạn.<br />\n<br />\nTủ quần áo Juno Sofa gỗ sồi nằm trong Bộ sưu tập gỗ sồi Juno Sofa của Juno Sofa, phù hợp với hầu hết với nội thất các gia đình Việt, đặc biệt là các căn hộ chung cư hay nhà phố mang phong cách tân cổ điển.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 16200000,
+        "product_quantity": 4812,
+        "product_category": [
+            "Tủ quần áo"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "24 Tháng",
+            "Thương hiệu": "Juno Sofa",
+            "Kích thước (Dài x Rộng x Cao)": "140*64*190",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "385/12B Đường ĐT743B, Khu Phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY TNHH JUNO SOFA VIỆT NAM"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1320",
+        "product_name": "Tủ quần áo kết hợp bàn trang điểm tiện ích Juno Sofa",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/bd/7a/47/76d0b0211c2b55d02b361669bfc80352.jpg",
+            "https://salt.tikicdn.com/ts/product/7b/da/a4/f75db645f8456cfbcb022b2564c6cb4d.jpg"
+        ],
+        "product_description": "<p>Được làm từ 100% nhựa Đài Loan cao cấp</p>\n<p>Không cong vênh, ẩm mốc, mối mọt</p>\n<p>Không mùi, an toàn với trẻ nhỏ</p>\n<p>Màu sắc tươi sáng, bền đẹp, độ bóng cao, hạn chế tối đa trầy xước</p>\n<p>Kích thước: Rộng 1m85 hoặc 2m05 x Cao 1m85 x Sâu 50 cm</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/ee/b3/6d/945b79c678d595c2e192c04c525f028a.jpg\" alt=\"tu ao kem ban trang diem\" width=\"750\" height=\"1000\" /></p>\n<div>Tủ áo kết hợp bàn trang điểm tiện ích; tiết kiệm không gian</div>\n<div> </div>\n<div>Kiểu dáng hiện đại, trang nhã, Tủ có thể làm vách ngăn phòng</div>\n<div> </div>\n<div>Làm hoàn toàn bằng nhựa chất lượng cao, độ bền màu trên 20 năm.</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 7200000,
+        "product_quantity": 1451,
+        "product_category": [
+            "Tủ"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "3 Năm",
+            "Thương hiệu": "Juno Sofa",
+            "Kích thước (Dài x Rộng x Cao)": "185;205 x 185 x 50 cm",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "385/12B Đường ĐT743B, Khu Phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY TNHH JUNO SOFA VIỆT NAM"
+        },
+        "product_variations": [
+            {
+                "name": "Kích thước",
+                "options": [
+                    "Ngang 1m85 x1m85 x 0,5 m",
+                    "Ngang 2m05 x 1m85 x 0,50 m"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 7200000,
+                "sku_stock": 1309
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 7200000,
+                "sku_stock": 7389
+            }
+        ]
+    },
+    {
+        "product_shop": "88300",
+        "product_name": "GIƯỜNG 1.6M - 2 HỘC KÉO",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/9c/52/45/2e7713575118007cd3b9d4dfe5e18e7a.jpg"
+        ],
+        "product_description": "<p>Khung giường MFC phủ melamine màu vân gỗ + Vạt giường MDF phủ màu trắng <br />Kính thước phủ bì D2070 X R1820 X C350/800 (mm) + 2 hộc kéo bên hông giường<br />Qúy khách Sử dụng nệm R1600 x D2000 (mm)</p>\n<p>(KHÔNG BAO GỒM NỆM , DRA TRÃI GIƯỜNG , GỐI &amp; ĐỒ TRANG TRÍ )</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 5700000,
+        "product_quantity": 1449,
+        "product_category": [
+            "Nội thất phòng ngủ khác"
+        ],
+        "product_attributes": {
+            "Quy cách đóng gói": "<p>Quấn màng PE toàn bộ sản phẩm </p>",
+            "Thương hiệu": "NỘI THẤT GIÁ SỈ ",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Chất liệu": "<p>Khung MFC phủ melamine vân gỗ </p>\n<p>Vạt giường MDF phủ màu trắng </p>\n<p>Pát thép + ốc vít liên kết , 8 bánh xe hộc kéo </p>",
+            "Hướng dẫn bảo quản": "<p>Để nơi khô ráo , tránh tiếp xúc nước, lửa , hóa chất</p>\n<p>có thể lau chùi bằng khăn ẩm , khăn khô </p>",
+            "Hướng dẫn sử dụng": "<p>Dùng làm giường ngủ , để bên trong nội thất </p>",
+            "Kích thước (Dài x Rộng x Cao)": "DÀI 2072 X RỘNG 1820 X CAO 350/800 (MM)",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Hóa đơn",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "8396",
+        "product_name": "GIƯỜNG NGỦ OHAHA 085",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/59/55/98/494c3afb80d2c8ce2c8d3f3f15eaa974.jpg",
+            "https://salt.tikicdn.com/ts/product/71/6a/db/c9ff566a0dab9d8e7ad2eaf678391fbd.jpg",
+            "https://salt.tikicdn.com/ts/product/ae/5d/48/2d0f6b05265f3168999a3747909019c6.jpg",
+            "https://salt.tikicdn.com/ts/product/d1/4b/e1/616dea20c3d879029bfd8fa930f480b4.jpg",
+            "https://salt.tikicdn.com/ts/product/3f/e0/c2/e994c67f7062e91c4ad4a9924277f5ec.jpg"
+        ],
+        "product_description": "<p></p>\n<p>- Chất liệu gỗ MDF loại 1 cao cấp đạt tiêu chuẩn E1 nhập khẩu Singapore được phủ Melamine chống thấm, an toàn cho sức khỏe.</p>\n<p>+ Giường ngủ cao cấp là loại giường được thiết kế phù hợp với những căn phòng chật hẹp hay muốn tiết kiệm không gian. Nguyên liệu MDF loại 1 cao cấp đạt tiêu chuẩn E1 nhập khẩu Singapore được phủ Melamine chống thấm, an toàn cho sức khỏe gia đình.</p>\n<p>+ Giường cao cấp được làm bằng Gỗ MDF loại 1 cao cấp đạt tiêu chuẩn E1 nhập khẩu Singapore được phủ Melamine chống thấm đạt tiêu chuẩn chất lượng xuất khẩu, giúp sản phẩm không chỉ đẹp hơn về mỹ quan mà còn mang lại độ bền chắc lâu dài. Bên mặt được phủ bóng chống hút ẩm, dễ lau chùi và hạn chế trầy xước, độ chịu nhiệt, chịu nước cao. Sản phẩm qua xử lý chống cong vênh, mối mọt bằng công nghệ của Đức, thân thiện và an toàn cho sức khỏe gia đình và môi trường.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/product/21/ec/60/e30bfad9e437c70589ef58d6f4757a8e.png\" width=\"600\" height=\"600\" /></p>\n<p> - </p>\n<p>+ Giường cao cấp được thiết kế theo phong cách Châu Âu với màu sắc tự nhiên tươi sáng, trẻ trung, không chỉ giúp có được giấc ngủ ngon mà còn góp phần tô điểm cho không gian sống thêm sinh động, ấn tượng và dưạ vào nhu cầu và thói quen của ngươi tiêu dùng, sản phẩm được thiết kế thông minh được bố trí thêm một chiếc kệ đầu giường để đặt sách truyện, đồng hồ, điện thoại hay các vật dụng trang trí theo sở thích cá nhân.</p>\n<p>+ Giường cao cấp được thiết kế thêm 2 hộc chứa quần áo, đồ dùng cá nhân được tích hợp bên dưới giường nên rất gọn gàng và tiện dụng.</p>\n<p>+ Màu sắc cùa Giường cao cấp tự nhiên tươi sáng, trẻ trung, không chỉ giúp giấc ngủ ngon hơn mà còn góp phần tô điểm cho không gian sống thêm sinh động, ấn tượng.</p>\n<p>+ Ngoài ra, sản phẩm được trau chuốt về góc cạnh – Giúp an toàn cho trẻ nhỏ, giúp Bạn và gia đình luôn cảm thấy thoải mái khi ngủ. </p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/product/5a/dc/85/23f4822e0694e87b8feb618dcc88ff13.png\" width=\"600\" height=\"600\" /></p>\n<p>- </p>\n<p>+ Kết cấu giường theo module sản xuất hàng loạt bằng robot hiện đại. Tất cả những phụ kiện bản lề, ray trượt giảm chấn nhập khẩu từ châu Âu, đảm bảo an toàn và chất lượng. Giường ngủ được thiết kế an toàn về kỹ thuật, có thể chịu được trọng lượng tối đa đến 500kg.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 7590000,
+        "product_quantity": 8129,
+        "product_category": [
+            "Nội thất phòng ngủ khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": " OHAHA.VN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "PHONG CÁCH HIỆN ĐẠI",
+            "Kích thước (Dài x Rộng x Cao)": "210 x 165 x 105 cm",
+            "Chất liệu": "GỖ MDF",
+            "Tải trọng tối đa": "500kg",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "24 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "52040",
+        "product_name": "GHẾ GỖ ĐA NĂNG - WINDSOR CHAIR - NATURAL ",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/13/45/ee/1a4021f0c7e3e53d92768b0db9c5aa41.png",
+            "https://salt.tikicdn.com/ts/product/30/43/fc/f27770afb758a27297893dea74e17e29.jpg",
+            "https://salt.tikicdn.com/ts/product/18/49/22/6540e96eae908452019afe31c5614120.jpg",
+            "https://salt.tikicdn.com/ts/product/e2/c5/50/38b8854b5ec25e7ddefe4db658b69802.jpg",
+            "https://salt.tikicdn.com/ts/product/fb/23/84/4f7b2a3d696083aa436fa8a6fa417167.png",
+            "https://salt.tikicdn.com/ts/product/d0/2d/8b/878f2f97c62b260c8f9a3dff9a3f27f5.png",
+            "https://salt.tikicdn.com/ts/product/e3/d3/b4/40eee6026e3f63c1f7991cf920a05d78.png",
+            "https://salt.tikicdn.com/ts/product/6a/69/72/17dae6c9032249905794754970fe5400.png",
+            "https://salt.tikicdn.com/ts/product/55/7e/c1/c27a12fe2904e5974e61d65492a1120b.png",
+            "https://salt.tikicdn.com/ts/product/91/c2/23/1d89333daf44dbe1368de58c2aab2d4d.png",
+            "https://salt.tikicdn.com/ts/product/bf/e6/8a/21680f5632f1bda743551f75c97122cc.png",
+            "https://salt.tikicdn.com/ts/product/34/32/9f/af569a5e574982a2243c4f1e46e30b2f.jpg"
+        ],
+        "product_description": "<p>Kích thước: 86 x 41 x 46 cm</p>\n<p>Chất liệu: gỗ tự nhiên</p>\n<p>Màu: gỗ tự nhiên sáng.</p>\n<p>Tiêu chuẩn: Hàng Việt Nam xuất khẩu.</p>\n<p>Mẫu mã: phong cách Hàn Quốc</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/fb/cd/98/3ca08fe939a76a828453f55e55fa7234.jpg\" alt=\"\" width=\"750\" height=\"776\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/37/8f/4c/481abcef502cb0baef41d3ec13c13813.jpg\" alt=\"\" width=\"750\" height=\"750\" /><br /><br /><br /><br /><img src=\"https://salt.tikicdn.com/ts/tmp/03/9a/ff/86143e471eb6c1ac8a878ae0a0d8ebdd.png\" alt=\"\" width=\"750\" height=\"887\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/fb/2f/e3/16ccb5eb3406bf882b4980a430c4a17e.jpg\" alt=\"\" width=\"0\" height=\"0\" /><img src=\"https://salt.tikicdn.com/ts/tmp/fb/2f/e3/eb2a7eafc0ed939847ea71c152d7d8ab.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n<p> </p>\n<p>* Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Tuy nhiên tuỳ vào từng loại sản phẩm hoặc phương thức, địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 750000,
+        "product_quantity": 7106,
+        "product_category": [
+            "Ghế các loại"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "MW Furniture",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Kích thước (Dài x Rộng x Cao)": "86 x 41 x 46 cm",
+            "Chất liệu": "Gỗ cao su cao cấp",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "3 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    null,
+    {
+        "product_shop": "66979",
+        "product_name": "Tủ Thuốc Gia Đình Thái Sơn chất liệu Inox ( HÀNG CHÍNH HÃNG - ĐỔI TRẢ MIỄN PHÍ )",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/c9/1e/82/6ff8ea7637cb9108bc46d40e7b6011cb.jpg"
+        ],
+        "product_description": "<p><strong>THÔNG TIN SẢN PHẨM:  </strong></p>\n<p>- Model: <strong>TS.07-I</strong></p>\n<p>- Màu sắc: <strong>bạc inox</strong></p>\n<p>- Kích thước sử dụng:<strong> 29 x 42 x Sâu 11 (cm)</strong></p>\n<p>- Kích thước đóng gói:<strong> 45 x 35 x Cao 15 (cm)</strong></p>\n<p>- Chất liệu: <strong>Inox, dày 0.5 mm</strong><strong><br /></strong></p>\n<p>- Trọng lượng: <strong>2.3 kg</strong></p>\n<p style=\"text-align: justify;\"><span style=\"text-decoration: underline; font-size: 12pt;\"><strong>GIỚI THIỆU TỦ THUỐC GIA ĐÌNH THÁI SƠN.</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\"><strong>Tủ thuốc gia đình Thái Sơn – sản phẩm thiết thực cho mọi gia đình</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Tủ thuốc giúp chúng ta cất trữ, bảo quản tốt các loại thuốc điều trị bệnh thông thường; các dụng cụ y tế cơ bản hay sử dụng như nhiệt kế, máy đo huyết áp, kéo, băng keo cá nhân, bông gạc… Với vị trí lắp đặt tủ thuốc trong tầm tay của người lớn - dễ thấy - dễ lấy sẽ giúp chúng ta xử lý nhanh các tình huống y tế khẩn cấp. Tủ thuốc giúp cuộc sống của bạn ngày càng tiện nghi hơn.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><img src=\"https://salt.tikicdn.com/ts/product/ab/0a/5b/bc14aa8dccf1729825ff95c44908ca83.jpg\" /></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\"><strong>Tủ thuốc gia đình Thái Sơn – vị cứu tinh kịp thời nhất trước khi xe cấp cứu đến</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Trong cuộc sống, những bất trắc luôn có thể xảy ra như bị dao, mãnh chai cắt, côn trùng, thú vật cắn… Chẳng may, nếu chúng ta gặp sự cố như vậy mà phải chờ đến các cơ sở y tế để được trợ giúp, đôi khi hậu quả rất nghiêm trọng vì không được sơ cứu kịp thời. Với chiếc tủ thuốc gia đình được trang bị khá đủ các vật dụng y tế, thuốc sát trùng… chúng ta sẽ được sơ cứu ngay tại nhà. Nếu tình trạng nhẹ có thể không cần phải đến cơ sở y tế. Ngược lại, nếu phải đến cơ sở y tế thì giảm được mức độ nghiêm trọng của sự cố rất nhiều.</span></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/product/d8/8c/04/00822350eb2f61f80b5e5998c5c686bb.png\" /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Đối với gia đình có trẻ nhỏ hay người già có bệnh mãn tính, thì tủ thuốc càng vô cùng cần thiết. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Trẻ sốt cao lúc đêm khuya hay người già lên cơn cao huyết áp đột ngột. Không một cơ quan y tế nào có thể giúp chúng ta ngay lập tức được với các tình huống khẩn cấp như thế này. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Nếu có tủ thuốc gia đình với các loại thuốc thông dụng, chúng ta có thể nhanh chóng dán miếng hạ sốt cho trẻ, cho người già uống thuốc hạ huyết áp. Chúng ta đã sơ cứu kịp thời cho người nhà trước khi xe cấp cứu đến hỗ trợ. Việc này rất tốt trong phối hợp điều trị cùng với bác sĩ. Nhiều người bệnh đã được cứu sống trong gang tấc chỉ đơn giản bằng sự quan tâm trang bị công cụ dự phòng như thuốc của người nhà.</span></p>\n<p> </p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\"><strong>Tủ thuốc y tế gia đình thương hiệu THÁI SƠN có gì nổi bật ?</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">- Thiết kế kiểu dáng hình ngôi nhà thân thiện, thẩm mỹ. Có thể lắp đặt nhiều nơi dễ thấy mà vẫn không làm mất đi thẩm mỹ tổng thể nhà bạn. Sử dụng tủ thuốc gia đình Thái Sơn, ngoài chức năng y tế vốn có, sản phẩm còn làm tăng thêm sự tiện nghi ngôi nhà của bạn.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">- Chất liệu inox: sạch sẽ, chắc chắn, dễ vệ sinh khi cần.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">- Giúp bạn yên tâm chăm sóc sức khỏe mọi thành viên trong gia đình.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">- Đáp ứng mọi yêu cầu cơ bản của một tủ thuốc gia đình. Tủ có kích thước phù hợp, có khả năng đựng đầy đủ các loại thuốc &amp; dụng cụ y tế cần thiết.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">- Đóng gói theo tủ thuốc là dụng cụ tắc kê + ốc vít để có thể cố định tủ lên tường. Hoặc bạn có thể để tủ trên kệ, tùy theo nhu cầu sử dụng của mỗi gia đình.</span></p>\n<p style=\"text-align: justify;\"> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 490000,
+        "product_quantity": 2249,
+        "product_category": [
+            "Nhà Cửa - Đời Sống"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "THÁI SƠN",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "TS.07-I",
+            "Kích thước (Dài x Rộng x Cao)": "<p>- Kích thước sử dụng:<strong> 29 x 42 x Sâu 14 (cm)</strong></p><p>- Kích thước đóng gói:<strong> 45 x 35 x Cao 15 (cm)</strong></p>",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1320",
+        "product_name": "Tủ nhựa đài loan 2 cánh 2 ngăn kéo 1 cánh mở - xanh trắng (cao 1m15 x rộng 85cm x sâu 45cm)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/89/90/0c/d8ba2edc9c347b963da4e0e88baa9ca5.jpg",
+            "https://salt.tikicdn.com/ts/product/4b/a3/54/66ea6a9a63df28f0b07a49af44a97c69.jpg",
+            "https://salt.tikicdn.com/ts/product/42/fe/60/dbb5b8b024e52ef5e8bec722ec9a550c.jpg"
+        ],
+        "product_description": "<p>Xuất xứ thương hiệu: Việt Nam</p>\n<p>Sản xuất tại:Việt Nam</p>\n<p>Chất liệu: Nhựa PP/ABS</p>\n<p>Hướng dẫn sử dụng</p>\n<ul>\n<li>Đọc kỹ hướng dẫn sử dụng</li>\n<li>Chỉ nên sử dụng để đựng đồ bình thường, không sử dụng đựng hóa chất hay chất dễ cháy</li>\n<li>Không nên cất giữ những đồ vật quá nặng, làm giảm tuổi thọ của tủ</li>\n<li>Tránh va đập mạnh và tránh ánh nắng trực tiếp</li>\n<li>Tránh dùng những vật sắc nhọn ma sát trực tiếp vào tủ</li>\n<li>Khi kéo ra vào bạn nên không nên giật quá mạnh tay</li>\n<li>Thường xuyên vệ sinh tủ theo định kỳ để tủ luôn mới và sạch sẽ</li>\n</ul>\n<p>Hướng dẫn bảo quản</p>\n<ul>\n<li>Bạn dùng kem đánh răng lấy một ít thoa nhẹ lên tủ nhựa</li>\n<li>Tiếp đến bạn dùng chiếc khăn mềm đánh bóng nhẹ chiếc tủ nhựa trong vòng 10 đến 15 phút. Sau đó bạn dùng khăn ẩm lau sạch vài lần chiếc tủ của mình bạn sẽ có một chiếc tủ sáng bóng như mới</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 2890000,
+        "product_quantity": 3093,
+        "product_category": [
+            "Tủ quần áo"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "385/12B Đường ĐT743B, Khu Phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY TNHH JUNO SOFA VIỆT NAM",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Thời gian bảo hành": "24 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1320",
+        "product_name": "Giường Tầng Trẻ Em cao cấp A203-N, Trên 1m, Dưới 1m4",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/07/72/49/bd06a5acd8e7de4cb631ca1bc0c28069.jpg",
+            "https://salt.tikicdn.com/ts/product/2d/79/55/ac3b1c4ca1feaa616cdb136afa27c75a.png",
+            "https://salt.tikicdn.com/ts/product/35/af/dc/6e7ed6537ac59b0b779801285e82cc9e.png",
+            "https://salt.tikicdn.com/ts/product/74/ec/be/8fa6855b9b6d314a8a6bf7c91c5205b0.png",
+            "https://salt.tikicdn.com/ts/product/9f/99/cc/7c851706153c35fa19580900c74e4322.png",
+            "https://salt.tikicdn.com/ts/product/b9/6b/a7/6d4a8bec6c423fecdedc756e9a1e6a9c.png",
+            "https://salt.tikicdn.com/ts/product/ce/a1/b5/d0bd89d0ad194dff7c469f475fd02d47.jpg"
+        ],
+        "product_description": "<p><!-- [if !mso]>\n<style>\nv\\:* {behavior:url(#default#VML);}\no\\:* {behavior:url(#default#VML);}\nw\\:* {behavior:url(#default#VML);}\n.shape {behavior:url(#default#VML);}\n</style>\n<![endif]--><!-- [if gte mso 9]><xml>\n <o:OfficeDocumentSettings>\n  <o:RelyOnVML/>\n  <o:AllowPNG/>\n </o:OfficeDocumentSettings>\n</xml><![endif]--><!-- [if gte mso 9]><xml>\n <w:WordDocument>\n  <w:View>Normal</w:View>\n  <w:Zoom>0</w:Zoom>\n  <w:TrackMoves>false</w:TrackMoves>\n  <w:TrackFormatting/>\n  <w:PunctuationKerning/>\n  <w:ValidateAgainstSchemas/>\n  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\n  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\n  <w:DoNotPromoteQF/>\n  <w:LidThemeOther>EN-US</w:LidThemeOther>\n  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>\n  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>\n  <w:Compatibility>\n   <w:BreakWrappedTables/>\n   <w:SnapToGridInCell/>\n   <w:WrapTextWithPunct/>\n   <w:UseAsianBreakRules/>\n   <w:DontGrowAutofit/>\n   <w:SplitPgBreakAndParaMark/>\n   <w:EnableOpenTypeKerning/>\n   <w:DontFlipMirrorIndents/>\n   <w:OverrideTableStyleHps/>\n  </w:Compatibility>\n  <m:mathPr>\n   <m:mathFont m:val=\"Cambria Math\"/>\n   <m:brkBin m:val=\"before\"/>\n   <m:brkBinSub m:val=\"&#45;-\"/>\n   <m:smallFrac m:val=\"off\"/>\n   <m:dispDef/>\n   <m:lMargin m:val=\"0\"/>\n   <m:rMargin m:val=\"0\"/>\n   <m:defJc m:val=\"centerGroup\"/>\n   <m:wrapIndent m:val=\"1440\"/>\n   <m:intLim m:val=\"subSup\"/>\n   <m:naryLim m:val=\"undOvr\"/>\n  </m:mathPr></w:WordDocument>\n</xml><![endif]--><!-- [if gte mso 9]><xml>\n <w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"true\"\n  DefSemiHidden=\"true\" DefQFormat=\"false\" DefPriority=\"99\"\n  LatentStyleCount=\"267\">\n  <w:LsdException Locked=\"false\" Priority=\"0\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Normal\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"heading 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 7\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 8\"/>\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 9\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 7\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 8\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 9\"/>\n  <w:LsdException Locked=\"false\" Priority=\"35\" QFormat=\"true\" Name=\"caption\"/>\n  <w:LsdException Locked=\"false\" Priority=\"10\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Title\"/>\n  <w:LsdException Locked=\"false\" Priority=\"1\" Name=\"Default Paragraph Font\"/>\n  <w:LsdException Locked=\"false\" Priority=\"11\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtitle\"/>\n  <w:LsdException Locked=\"false\" Priority=\"22\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Strong\"/>\n  <w:LsdException Locked=\"false\" Priority=\"20\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Emphasis\"/>\n  <w:LsdException Locked=\"false\" Priority=\"59\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Table Grid\"/>\n  <w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Placeholder Text\"/>\n  <w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"No Spacing\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Shading\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light List\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Grid\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Dark List\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful List\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 1\"/>\n  <w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Revision\"/>\n  <w:LsdException Locked=\"false\" Priority=\"34\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"List Paragraph\"/>\n  <w:LsdException Locked=\"false\" Priority=\"29\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Quote\"/>\n  <w:LsdException Locked=\"false\" Priority=\"30\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Quote\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 1\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 2\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 3\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 4\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 5\"/>\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 6\"/>\n  <w:LsdException Locked=\"false\" Priority=\"19\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Emphasis\"/>\n  <w:LsdException Locked=\"false\" Priority=\"21\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Emphasis\"/>\n  <w:LsdException Locked=\"false\" Priority=\"31\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Reference\"/>\n  <w:LsdException Locked=\"false\" Priority=\"32\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Reference\"/>\n  <w:LsdException Locked=\"false\" Priority=\"33\" SemiHidden=\"false\"\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Book Title\"/>\n  <w:LsdException Locked=\"false\" Priority=\"37\" Name=\"Bibliography\"/>\n  <w:LsdException Locked=\"false\" Priority=\"39\" QFormat=\"true\" Name=\"TOC Heading\"/>\n </w:LatentStyles>\n</xml><![endif]--><!-- [if gte mso 10]>\n<style>\n /* Style Definitions */\n table.MsoNormalTable\n\t{mso-style-name:\"Table Normal\";\n\tmso-tstyle-rowband-size:0;\n\tmso-tstyle-colband-size:0;\n\tmso-style-noshow:yes;\n\tmso-style-priority:99;\n\tmso-style-parent:\"\";\n\tmso-padding-alt:0cm 5.4pt 0cm 5.4pt;\n\tmso-para-margin-top:0cm;\n\tmso-para-margin-right:0cm;\n\tmso-para-margin-bottom:10.0pt;\n\tmso-para-margin-left:0cm;\n\tline-height:115%;\n\tmso-pagination:widow-orphan;\n\tfont-size:11.0pt;\n\tfont-family:\"Calibri\",\"sans-serif\";\n\tmso-ascii-font-family:Calibri;\n\tmso-ascii-theme-font:minor-latin;\n\tmso-hansi-font-family:Calibri;\n\tmso-hansi-theme-font:minor-latin;\n\tmso-bidi-font-family:\"Times New Roman\";\n\tmso-bidi-theme-font:minor-bidi;}\n</style>\n<![endif]--></p>\n<p class=\"MsoNormal\">Thông tin sản phẩm:</p>\n<p class=\"MsoNormal\"><strong>Sản phẩm chỉ bao gồm giường 2 tầng và cầu thang, không kèm các phụ kiện khác.</strong></p>\n<p class=\"MsoNormal\">- Chất liệu gỗ thông lâu năm nhập khẩu Canada bền bỉ, an toàn cho sức khỏe.</p>\n<p class=\"MsoNormal\">+ Giường tầng trẻ em cao cấp là loại giường ngủ hai tầng cho Bé được thiết kế phù hợp với những căn phòng chật hẹp hay muốn tiết kiệm không gian. Nguyên liệu tự nhiên – An toàn sức khỏe gia đình.</p>\n<p class=\"MsoNormal\">+ Giường được làm bằng gỗ Thông nhập khẩu từ Canada đạt chất lượng A+, chất gỗ tốt lâu năm giúp sản phẩm không chỉ đẹp hơn về mỹ quan mà còn mang lại độ bền chắc lâu dài. Đã qua xử lý chống cong vênh, mối mọt bằng công nghệ của Đức, Sản phẩm thân thiện và an toàn cho sức khỏe gia đình và môi trường.</p>\n<p class=\"MsoNormal\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/c7/eb/a6/9bcd1193e2fa420c8346c449f43d54cf.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p class=\"MsoNormal\"> </p>\n<p class=\"MsoNormal\"> - Thiết kế tinh tế, sang trọng và tiện dụng</p>\n<p class=\"MsoNormal\">+ Dưạ vào nhu cầu và thói quen của ngươi tiêu dùng, sản phẩm được thiết kế 2 tầng, tầng trên chiều rộng 1mx2m, tầng dưới rộng 1m4x2m. phù hợp với không gian nhà của Bạn</p>\n<p class=\"MsoNormal\">+ Hộc chứa quần áo, đồ dùng cá nhân được tích hợp bên dưới giường 2 hộc và 4 hộc ở cầu thang nên rất gọn gàng, tiện dụng, giúp các bé rèn luyện tính ngăn nắp.</p>\n<p class=\"MsoNormal\">+ Đặc biệt, sản phẩm được trau chuốt về góc cạnh – Giúp an toàn cho trẻ nhỏ, giúp Bạn và gia đình luôn cảm thấy thoải mái khi ngủ.</p>\n<p class=\"MsoNormal\">+ Giường Tầng với màu sắc tự nhiên tươi sáng, trẻ trung, không chỉ vỗ về giấc ngủ cho bé mà còn góp phần tô điểm cho không gian sống thêm sinh động, ấn tượng.<br /> <img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/49/ed/b9/b8b2f460afcb2e6347107a8ebb0a09f8.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p class=\"MsoNormal\"> </p>\n<p class=\"MsoNormal\">- Cầu thang chắc chắn, tiện lợi<br />+ Cầu thang chắc chắn với các bậc thang có kích thước tương đối lớn, đảm bảo an toàn cho Bé khi di chuyển. Giường tầng trẻ em cao là một sản phẩm thiết thực cho các gia đình có con nhỏ. Cùng với ưu điểm tiết kiệm không gian.</p>\n<p class=\"MsoNormal\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/38/90/34/2f1546afd9f5230b68fc8f5aad906467.png\" alt=\"\" width=\"750\" height=\"750\" /><br /><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/a1/f3/ab/2cb8afcca656bb7184c6988e748613b9.png\" alt=\"\" width=\"750\" height=\"750\" /><br />- Kết cấu chắc chắn, an toàn</p>\n<p class=\"MsoNormal\">+ Kết cấu giường theo module sản xuất hàng loạt bằng robot hiện đại. Tất cả những phụ kiện bản lề, ray trượt giảm chấn nhập khẩu từ châu Âu, đảm bảo an toàn và chất lượng. Giường ngủ hai tầng được thiết kế an toàn về kỹ thuật, có thể chịu được trọng lượng tối đa đến 300kg nên bố mẹ có thể hoàn toàn yên tâm khi cho các bé ngủ riêng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 9550000,
+        "product_quantity": 6241,
+        "product_category": [
+            "Nội thất phòng ngủ khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Model": "A203",
+            "Kích thước (Dài x Rộng x Cao)": "<p>258x146x170 cm</p>",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "385/12B Đường ĐT743B, Khu Phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY TNHH JUNO SOFA VIỆT NAM",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Hình thức bảo hành": "Điện tử",
+            "Thời gian bảo hành": "24 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "124367",
+        "product_name": "Ghế đệm hơi dựa lưng tặng kèm bơm điện 2 chiều",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/b8/b3/d9/51028c526bc3d98f34cc8d713b753ebd.jpg",
+            "https://salt.tikicdn.com/ts/product/39/40/5f/4a1fd2cda493e87c66e42e51e0f3c7ea.jpg",
+            "https://salt.tikicdn.com/ts/product/08/f3/61/7e1bde2a78af5900ce6747dc7f778578.jpg",
+            "https://salt.tikicdn.com/ts/product/1e/f5/8d/d2997b111feb984abef394eb2bfec001.jpg"
+        ],
+        "product_description": "<p style=\"box-sizing: border-box; margin: 0px 0px 5px; font-size: 13px; position: relative; color: #333333; font-family: Roboto, Helvetica, Arial, sans-serif; padding: 0px 0px 0px 20px !important;\">Phù hợp cho mọi lứa tuổi trẻ nhỏ, thanh niên, người già</p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 5px; font-size: 13px; position: relative; color: #333333; font-family: Roboto, Helvetica, Arial, sans-serif; padding: 0px 0px 0px 20px !important;\">Cấu tạo: bề mặt phủ nhung êm ái, không thấm nước.</p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 5px; font-size: 13px; position: relative; color: #333333; font-family: Roboto, Helvetica, Arial, sans-serif; padding: 0px 0px 0px 20px !important;\">Vệ sinh: giặt tay không nên cho vào máy giặt</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 464000,
+        "product_quantity": 1359,
+        "product_category": [
+            "Ghế các loại"
+        ],
+        "product_attributes": {
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Trung Quốc"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "1320",
+        "product_name": "Tủ Áo FT174 (200cm x 260cm)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/50/ac/61/8499a68994e757e37a68db90367040fc.jpg",
+            "https://salt.tikicdn.com/ts/product/59/67/b3/de33a964a2620c6135ab6cea983a4381.jpg",
+            "https://salt.tikicdn.com/ts/product/a1/63/1a/66200ea31fefe90a5003720cd14a2df5.jpg",
+            "https://salt.tikicdn.com/ts/product/7e/72/94/882c91ff604d7fa35e52c2d95cb2c273.jpg",
+            "https://salt.tikicdn.com/ts/product/de/02/cd/863cc53dbf79753b116e02bd68731e59.jpg",
+            "https://salt.tikicdn.com/ts/product/67/0f/30/5c05e8e95de56a9e559783617ee11eca.jpg"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/5d/cf/82/ee6be8a23a2dbe9bfbc6651cbdc19aea.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><span><strong>TỦ ÁO</strong> đã được khách hàng tin dùng vì uy tín và chất lượng sản phẩm vượt trội. Để có bộ nội thất phòng ngủ nói chung như Giường, Tủ Áo, Bàn Trang Điểm và Tủ Đầu Giường, Mỗi gia chủ chọn sản phẩm đúng Style riêng cho từng căn phòng tạo không gian hài hòa là điều luôn quan tâm khi mua sản phẩm.</span></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/59/67/b3/7cdbbc47ee2f116882390462aa996196.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><span><strong>TỦ ÁO</strong> là một trong những nội thất phòng ngủ không thể thiếu, ngoài chức năng để quần áo và các vật dụng khác như chăn ga, gối, khăn, màn…cho gọn gàng. Với chiều ngang 2m và cao 2m6 sẽ giúp gia chủ thoải mái chứa quần áo và các đồ dùng cần thiết tối đa.</span></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/7e/72/94/ef0da5625930475fcb8cf1b11c4fe657.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><span>Chất Liệu: Gỗ công nghiệp MFC ngoại nhập từ Malaysia, chất lượng vượt trội và nhiều loại vân gỗ tự nhiên giúp cho quý khách hàng yên tâm chọn lựa cho mình sản phẩm ưng ý.</span></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/a1/63/1a/87e7eb01e078029dbf0b6be843ecea88.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>ĐẶC ĐIỂM NỔI BẬT</strong></p>\n<p><span>+ Thiết kế hiện đại, đường nét tinh xảo phù hợp phong cách người Việt.</span></p>\n<p><span>+ Nội thất các ngăn tủ bên trong được chia ra thông thoáng rất hợp lý.</span></p>\n<p><span>+ Tủ chia thành 3 ngăn đứng và 4 cánh cửa giúp việc mở đóng nhẹ nhàng</span></p>\n<p><span>+ Đặc biệt 2 ngăn rất to phía trên có thể để vali hoặc các đồ ít dùng tới quá tiện dụng.</span></p>\n<p><span>+ Chiều cao 2m6 rất hợp lý, tủ cao gần tới trần nhà che khoảng không gian trống phía trên</span></p>\n<p><span>+ Chất liệu MFC ngoại nhập Malaysia cao cấp được xử lý chống mọt và chống hút ẩm.</span></p>\n<p><span>+ Kích thước: Ngang x Sâu x Cao: 200cm x 60cm x 260cm</span></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/67/0f/30/40cd6c047756f217d810e4d97369b357.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 15190000,
+        "product_quantity": 5998,
+        "product_category": [
+            "Tủ quần áo"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "OEM",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Kích thước (Dài x Rộng x Cao)": "<p>Ngang x Sâu x Cao: 200cm x 60cm x 260cm</p>",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "385/12B Đường ĐT743B, Khu Phố Đông Chiêu, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "CÔNG TY TNHH JUNO SOFA VIỆT NAM",
+            "Sản phẩm có được bảo hành không?": "Có",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng",
+            "Thời gian bảo hành": "12 Tháng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    }
+]

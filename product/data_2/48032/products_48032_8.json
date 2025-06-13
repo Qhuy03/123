@@ -1,0 +1,979 @@
+[
+    {
+        "product_shop": "348654",
+        "product_name": "Rượu Jack Daniel's Single Barrel Whiskey 750ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/52/fb/47/155d6068495041c79dd2cc1506405e05.jpg"
+        ],
+        "product_description": "<p>Rượu Jack Daniel's Single Barrel Whiskey 750ml</p>\n<p>- Là dòng rượu siêu cao cấp, được họn từ những thùng gỗ nằm trên tầng cao nhất của hầm ủ rượu, nơi nhiệt độ thay đổi giúp rượu được giãn nở và thấm sâu vào thùng gỗ.</p>\n<p>- Xuất xứ: Mỹ</p>\n<p>- Độ cồn: 47%</p>\n<p>- Thể tích:750ml</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 2500000,
+        "product_quantity": 5110,
+        "product_category": [
+            "Whisky"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Jack Daniel's",
+            "Xuất xứ thương hiệu": "Mỹ",
+            "Hạn sử dụng": "Không",
+            "Hướng dẫn bảo quản": "<p>Bảo quản nơi khô ráo, tránh ánh nắng chiếu vào trực tiếp sản phẩm</p>",
+            "Hướng dẫn sử dụng": "<p>Uống trực tiếp</p>",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "88 Trần Não, Khu Phố 2, Phường Bình An, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "Công Ty Cổ Phần Thương Mại Mai Đức Quang",
+            "Xuất xứ (Made in)": "Mỹ",
+            "Trọng lượng sản phẩm": "700ml",
+            "Đặc sản vùng miền": "Không phân biệt",
+            "Thành phần": "<p>Rượu được sản xuất từ ngũ cốc lên men và qua chưng cất</p>"
+        },
+        "product_variations": [
+            {
+                "name": "Jack Daniel's",
+                "options": [
+                    "Single Barrel"
+                ]
+            },
+            {
+                "name": "Có hộp quà",
+                "options": [
+                    "Single Barrel Hộp Qùa"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0,
+                    0
+                ],
+                "sku_price": 2500000,
+                "sku_stock": 8600
+            }
+        ]
+    },
+    {
+        "product_shop": "58121",
+        "product_name": "Rượu Neep Thơm - 500 ml - 18 %vol",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/29/e7/51/3c6431a318b757f0c0f56ea77d0c73b7.jpg",
+            "https://salt.tikicdn.com/ts/product/26/7f/c6/a1fb19df888b5df9bb1d3353fdd75898.jpg",
+            "https://salt.tikicdn.com/ts/product/af/61/96/1b2c1f8e81bdd7e66ecdf1e33cee56aa.jpg",
+            "https://salt.tikicdn.com/ts/product/53/9b/9c/a98b5d2b8147f4bd18bc51747db65015.jpg",
+            "https://salt.tikicdn.com/ts/product/a4/e1/d9/f4c7ce5a435750b6912a440c6cc69290.jpg"
+        ],
+        "product_description": "<p class=\"QN2lPu\">Thành phần:Nếp mùa Ba Tri, men nấu rượu, syrup mía xanh, hương dừa, chiết xuất hoa rum, nước tinh khiết</p>\n<p class=\"QN2lPu\">Nồng Độ: 18 %vol</p>\n<p class=\"QN2lPu\">Dung Tích: 500ml</p>\n<p class=\"QN2lPu\">Hướng dẫn sử dụng: dùng để uống trực tiếp, nên dùng với liều lượng thích hợp</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 590000,
+        "product_quantity": 3540,
+        "product_category": [
+            "Các loại rượu mạnh khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Rượu Phú Lễ",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Hạn sử dụng": "24 tháng",
+            "Hướng dẫn bảo quản": "<p>Tránh ánh nắng trực tiếp</p>",
+            "Hướng dẫn sử dụng": "<p>dùng để uống trực tiếp, nên dùng với liều lượng thích hợp</p>",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Thành phần": "<p>Nếp mùa Ba Tri, men nấu rượu, syrup mía xanh, hương dừa, chiết xuất hoa rum, nước tinh khiết</p>"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "5890",
+        "product_name": "Rượu Gin Thủ Công Nhật Bản Ebisu chai 500ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/28/b0/c2/c41ee39d3297f274cbaf2724a62ca3b5.jpg",
+            "https://salt.tikicdn.com/ts/product/fc/ed/82/c473df365526e19d0d1808a940441589.jpg",
+            "https://salt.tikicdn.com/ts/product/e7/89/19/6ae312e6bd2b713274b8852ab7484da3.jpg"
+        ],
+        "product_description": "<p>Gin Ebisu - Một loại rượu gin thủ công chỉ có hương vị tự nhiên của thực vật mà không thêm bất kỳ hương liệu nào.</p>\n<p>Với thành phần chính là ngải cứu và rượu nền được làm hoàn toàn từ đường mía không chứa gluten (một loại protein có trong lúa mì và các loại ngũ cốc làm ảnh hưởng đến sức khỏe đường ruột và hệ tiêu hóa của một số ít người ), SiCX đã tập trung vào việc làm sạch máu, cung cấp chất chống Oxy hóa hỗ trợ giải độc kim loại nặng và tận dụng sức mạnh diệp lục từ ngải cứu - loại thảo mộc được mệnh danh là \"Nữ hoàng thảo mộc\".</p>\n<p>Hãy cảm nhận hương vị đặc trưng của Gin Ebisu đó là sự cân bằng tuyệt vời giữa cam quýt, thảo mộc, gia vị và một chút vị cay nhẹ nhàng. Ebisu Gin ra đời với ý nghĩa không chỉ là thức uống tinh tế mà còn giúp tăng cường sức khỏe và khả năng miễn dịch, hoàn hảo cho những ai tìm kiếm sự thanh khiết và tươi mới trong từng ngụm rượu.</p>\n<p>Hoàn toàn từ thiên nhiên, không có bất kì hương liệu hay chất phụ gia nào.<br />Ngoài thành phần chính, các loại thực vật được thêm vào bao gồm quả bách xù, hạt tiêu, chanh, hạt rau mùi, cam, cỏ roi ngựa, chanh, bạch đậu khấu, hạt tiêu và gỗ đàn hương đã tạo nên một loại thức uống đỉnh cao.</p>\n<p>Độ cồn: 39%<br />Thể tích: 500ml<br />Thành phần: rượu ủ (sản xuất trong nước), quả bách xù, ngải cứu hữu cơ, hạt tiêu, hạt rau mùi, vỏ chanh, vỏ cam, cỏ roi chanh, bạch đậu khấu, hạt tiêu, gỗ đàn hương.<br />Bạn có thể ướp lạnh từ +4 đến -6 độ C và dùng tinh khiết như một loại thức uống khai vị hoặc pha loãng nó với một số loại rượu Gin khác hay rượu mùi hoặc thức uống không cồn như nước khoáng có gas, soda, tonic... theo một tỉ lệ không nhất định ( phổ biến là tỉ lệ 1:1), hoặc bạn cũng có thể mix với các thành phần khác để tạo nên một ly cocktail theo phong cách riêng,..<br />Bảo quản: Nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp<br />Lưu ý: Trên 20 tuổi mới được phép dùng. Phụ nữ có thai hoặc cho con bú nên hạn chế sử dụng. Pháp luật nghiêm cấm lái xe sau khi uống.<br />NSX: SiCX KYOTO DISTILLERY<br />NK&amp;PP: CÔNG TY TNHH STARMARK VIETNAM<br />Xuất xứ: Nhật Bản</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 2729000,
+        "product_quantity": 7178,
+        "product_category": [
+            "Gin"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "agata",
+            "Xuất xứ thương hiệu": "Nhật Bản",
+            "Hạn sử dụng": "xem trên nhãn chai",
+            "Hướng dẫn bảo quản": "<p>Để nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời.</p>",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "19 Đặng Dung, p.Tân Định, quận 1, Tp.HCM.",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "Công ty TNHH Starmark Vietnam",
+            "Xuất xứ (Made in)": "Nhật Bản",
+            "Trọng lượng sản phẩm": "500ml",
+            "Thành phần": "<p>rượu ủ (sản xuất trong nước), quả bách xù, ngải cứu hữu cơ, hạt tiêu, hạt rau mùi, vỏ chanh, vỏ cam, cỏ roi chanh, bạch đậu khấu, hạt tiêu, gỗ đàn hương.</p>"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "5890",
+        "product_name": "Rượu Gin Nhật Bản Blue Rabbit Premium Chai 700ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/aa/b3/22/5587e05c0d5d0f1f00adb33b56f1c03f.png",
+            "https://salt.tikicdn.com/ts/product/ef/cc/75/264e8b51d8857823c1980981fea2bc99.jpg",
+            "https://salt.tikicdn.com/ts/product/89/b3/8a/cc0ee98aed9bd3a8dd2e5a91afd6b8d6.jpg",
+            "https://salt.tikicdn.com/ts/product/95/cc/25/9f053d9bebd520eb7656a11b0a782dce.jpg"
+        ],
+        "product_description": "<p><strong><em><img src=\"https://salt.tikicdn.com/ts/tmp/95/cc/25/6c72e35d608c16eef997f92bb13e4eca.jpg\" alt=\"\" width=\"750\" height=\"1001\" /><br /><br />Khám phá bộ sưu tập Rượu Gin Rabbit Blue với dòng Premium Blue cùng</em></strong><em><strong> agataJapan</strong><br />Cái tên \"Blue Rabbit\" được lấy cảm hứng bởi cuộn tranh biếm họa động vật Choujuu-giga, một trong 4 cuộn tranh Manga lâu đời nhất Nhật Bản mà hiện nay được lưu trữ trong bảo tàng quốc gia Tokyo và Kyoto. <br />Thế kỉ 12 đến 13, hình ảnh chú Thỏ được phổ biến đối với hầu hết những người dân Nhật Bản từ trong bộ truyện Choju-giga cho đến đời sống hàng ngày, họ luôn coi những chú thỏ là biểu tượng của sự may mắn, thông minh và sự tận tâm vì chúng luôn luôn tiến về phía trước.<br /><img src=\"https://salt.tikicdn.com/ts/tmp/86/1c/c8/ef95c67de61408c07f31e7c86e5b249c.jpg\" alt=\"\" width=\"443\" height=\"297\" /><br /><strong>Tham vọng của Blue Rabbit Distillery</strong><br />Với cái tên \"Blue Rabbit\" hình ảnh chú thỏ xanh là logo cho thương hiệu, nhà sản xuất mong muốn tạo ra một thương hiệu với tất cả các sản phẩm rượu chất lượng cao và độc đáo nhất nhưng vẫn dễ dàng tiếp cận và vô cùng thú vị.<br /><strong>Rượu Premium Blue Gin - Sự thanh lịch của hương</strong><strong> thơm<br /></strong></em>Được chưng cất số lượng giới hạn. Dòng Premium Blue với hương thơm thoang thoảng của hoa cỏ mùa hè được cân bằng với dầu hoa oải hương và dầu cam quýt mang lại cảm giác tươi mát và mùi hương hoa tinh tế. Màu xanh tự nhiên của rượu được đặc trưng bởi hoa đậu biếc.<br />Độ cồn: 43%<br />Thành phần: rượu chưng cất (sản xuất trong nước), quả bách xù, rau mùi, hoa oải<br />hương, hạt tiêu Nhật.<br />Thể tích: 700ml<br />Thông tin cảnh báo: Trên 20 tuổi mới được phép dùng. Phụ nữ có thai hoặc cho con bú nên hạn chế sử dụng. Pháp luật nghiêm cấm lái xe sau khi uống rượu.<br />Nhà sản xuất: Blue Rabbit Distillery, LLC<br />NK&amp;PP: CÔNG TY TNHH STARMARK VIETNAM<br />Xuất xứ: Nhật Bản<br /><strong><br /></strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3809000,
+        "product_quantity": 1435,
+        "product_category": [
+            "Gin"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "agata",
+            "Xuất xứ thương hiệu": "Nhật Bản",
+            "Hạn sử dụng": "Xem trên nhãn sản phẩm",
+            "Hướng dẫn bảo quản": "\n<p><span>Nơi khô ráo, thoáng mát,tránh ánh nắng trực tiếp, bảo quản trong ngăn mát tủ lạnh khi chưa dùng hết.</span></p>",
+            "Hướng dẫn sử dụng": "\n\n\n<p><span>Dùng uống trực tiếp</span></p>",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "19 Đặng Dung p.Tân Định quận 1 Tp.HCM",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "Công ty TNHH Starmark Vietnam",
+            "Xuất xứ (Made in)": "Nhật Bản",
+            "Thành phần": "<p>rượu chưng cất (sản xuất trong nước), quả bách xù, rau mùi, hoa oải hương, hạt tiêu Nhật.</p>"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "5890",
+        "product_name": "Rượu Gin Thủ Công Nhật Bản Kagawa Ken Gin Chai 500ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/56/a5/35/41da6dee517434bffabcb3fa968f1fa0.jpg",
+            "https://salt.tikicdn.com/ts/product/5f/d3/99/548cddc3850e5ef0622cf9879de2c5ce.jpg",
+            "https://salt.tikicdn.com/ts/product/6d/17/20/172b7daef32e7cf80ac8daf93f5f07d1.jpg",
+            "https://salt.tikicdn.com/ts/product/5a/4d/96/8e00f0664a8b6667bcc8bd81664ab40b.jpg"
+        ],
+        "product_description": "<p>Dự án rượu Gin của tỉnh - nghiên cứu và sản xuất rượu Gin theo đặc sản của từng địa phương từ  khắp 47 tỉnh thành của Nhật Bản.<br />Kagawa Ken Gin là sản phẩm thứ tư trong dự án này. Được sử dụng ô liu, một đặc sản của tỉnh Kagawa.<br />Loại rượu gin thủ công này được đặc trưng bởi hương thơm đậm đà và vị êm dịu của ô liu được trồng dưới nhiều ánh sáng mặt trời.<br />Chúng tôi khuyên bạn nên kết hợp nó với cocktail, rượu Martini Dry hoặc với đồ ăn Ý.<br />Dòng: Craft Gin<br />Tỉ lệ axit: <br />Thành phần: rượu ủ (sản xuất trong nước), chiết xuất trái ô liu, quả bách xù.<br />Thể tích: 500ml.<br />Nồng độ cồn: 40%<br />Lưu ý: Trên 20 tuổi mới được phép dùng. Phụ nữ có thai hoặc cho con bú nên hạn chế sử dụng. Pháp luật nghiêm cấm lái xe sau khi uống.<br />HSD: theo thông lệ quốc tế không có HSD<br />NK&amp;PP: Công ty TNHH Starmark Vietnam.<br />Xuất xứ: Nhật Bản</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 2254000,
+        "product_quantity": 6706,
+        "product_category": [
+            "Gin"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "agata",
+            "Xuất xứ thương hiệu": "Nhật Bản",
+            "Hạn sử dụng": "xem trên nhãn chai",
+            "Hướng dẫn bảo quản": "<p>Nơi khô ráo, thoáng mát,tránh ánh nắng trực tiếp.</p>",
+            "Hướng dẫn sử dụng": "\n<p><span>Dùng uống trực tiếp</span></p>",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa": "19 Đặng Dung p.Tân Định quận 1 Tp.HCM",
+            "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa": "Công ty TNHH Starmark Vietnam",
+            "Xuất xứ (Made in)": "Nhật Bản",
+            "Trọng lượng sản phẩm": "500ml",
+            "Thành phần": "<p>rượu ủ (sản xuất trong nước), chiết xuất trái ô liu, quả bách xù</p>"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "40395",
+        "product_name": "{Freeship 50K} Hộp quà Rượu Johnnie Walker Black Label aged 12 years Blended Scotch Whisky 40% 750ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/98/bf/50/f52c8bf359f838697c0d6cf1ce1b6ed6.jpg",
+            "https://salt.tikicdn.com/ts/product/8a/ec/88/dac2f24b7e32d293a1b0d196bc5adb90.jpg",
+            "https://salt.tikicdn.com/ts/product/f9/63/38/e6fa5eb456c62dfa2bbc0d7ef1117ee2.jpg",
+            "https://salt.tikicdn.com/ts/product/e6/d8/e6/3ae45ab0ff8f1fe8f087ad1dc5653821.jpg",
+            "https://salt.tikicdn.com/ts/product/51/6d/03/c96d3db50dfb0edf490f9c29ad35d325.jpg"
+        ],
+        "product_description": "<p><strong>Bộ sưu tập bao gồm:</strong><br />- Vỏ hộp rượu Tết sang trọng<br />- Túi giấy đựng quà cao cấp<br />- 1 chai rượu 750ml</p>\n<p><strong>Combo Hộp Quà Rượu Johnnie Walker Black Label 12YO Blended Scotch Whisky 40% 750ml x Ravolution</strong></p>\n<ul>\n<li>Hương: Đậm hương trái cây miền nhiệt đới phản phất chút vanila ngọt ngào</li>\n<li>Vị: Vị kẹo bơ thơm lừng, trái cây chín mộng hòa quyện giữa các loại ngũ cốc, mạch nha, nho khô và vani.</li>\n<li>Hậu vị: Êm dịu và nồng nàn vị khói</li>\n</ul>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/8a/ec/88/cb319cb5c2ae91306586d0780250ac54.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/8a/ec/88/cb319cb5c2ae91306586d0780250ac54.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>Ghi dấu trong lòng người thưởng thức với thiết kế nhãn nghiêng màu đen xuất hiện lần đầu trên thế giới vào năm 1909, Johnnie Walker Black Label là biểu tượng của những loại rượu whisky ngon nhất trên khắp Scotland, là một trong những loại whisky Scotch bán chạy nhất thế giới.</p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/e6/d8/e6/d8ee42be9811971a0ada944a667c03cc.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/e6/d8/e6/d8ee42be9811971a0ada944a667c03cc.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>Được khắc sâu vào lịch sử văn hóa khi gắn liền với hình ảnh kinh điển của Winston Churchill hay xuất hiện trong phim \"Blade Runner\", đây là loại whisky có hương vị phong phú, tinh tế và hoàn thiện tuyệt vời. Hương thơm của trái cây mọng, vị ngọt của vani và chút khói ấm nhẹ độc đáo của Johnnie Walker Black Label có được nhờ sự pha chế đặc biệt từ những loại rượu whisky có tuổi đời ít nhất 12 năm từ khắp bốn vùng đất Scotland.</p>\n<p>Johnnie Walker Black Label chính là món quà chứa phẩm vị mạnh mẽ, kết nối những tâm hồn sôi nổi trong những trải nghiệm hương vị đầy sống động.</p>\n<p><img id=\"https://salt.tikicdn.com/ts/tmp/f9/63/38/f62184119a5b3c6eb4390d0304ded297.jpg\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/f9/63/38/f62184119a5b3c6eb4390d0304ded297.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>Sản phẩm được Tiki đóng gói vô cùng cẩn thận với nhiều lớp chống sốc, đảm bảo an toàn khi vận chuyển. Sản phẩm còn đi kèm túi đựng sang trọng, rất phù hợp để làm quà tặng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 695000,
+        "product_quantity": 4999,
+        "product_category": [
+            "Whisky"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Johnnie Walker",
+            "Xuất xứ thương hiệu": "Scotland",
+            "Hạn sử dụng": "Không",
+            "Hướng dẫn bảo quản": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Lưu ý": "Không dùng cho phụ nữ mang thai, không uống rượu trong và trước khi lái xe.\nSản phẩm dành cho đối tượng trên 18 tuổi, vui lòng thưởng thức trách nhiệm cùng Johnnie Walker.",
+            "Xuất xứ (Made in)": "Scotland"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "279012",
+        "product_name": "Lady Triệu – Mekong Delta Dry Gin 700ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/cc/b3/c7/e3f3bc3c7e650ff2af68174dd88d740d.png"
+        ],
+        "product_description": "<p>Nguồn cảm hứng của dòng rượu này đó là Bà Triệu – một nữ chiến binh ở thế kỷ thứ 3 và là anh hùng dân tộc trong lịch sử Việt Nam. Người mà họ tin rằng đó chính là hiện thân của tinh thần Việt Nam. Do đó họ mong muốn tôn vinh bà trong dòng rượu Gin này.</p>\n<p>Lady Triệu là dòng rượu Gin cao cấp. Được làm thủ công theo từng mẻ nhỏ từ quả bách xù cùng ngũ cốc và thực vật Việt Nam. Hãng hợp tác với các trang trại, chợ làng và hợp tác xã để có được nguồn cung bền vững. Từ đó có thể mang lại các loại thảo mộc tốt nhất trên khắp đất nước. Mỗi dòng rượu Gin thuộc Lab Series là một phiên bản giới hạn mà hãng hy vọng sẽ kích thích sự đam mê khám phá của những người uống Gin để cùng tìm hiểu những hương vị tuyệt vời của Việt Nam.</p>\n<p>Lady Triệu – Mekong Delta Dry Gin là một loại rượu Gin đương đại độc đáo được yêu thích bởi những người mang theo chủ nghĩa thuần tuý cũng như những người nhập môn với rượu Gin. Lady Triệu – Mekong Delta Dry đậm đà với gia vị thơm và cân bằng với hương cam chanh nồng nàn. Có thể tạo ra một ly Gin &amp; Tonic tuyệt vời. Hoặc có thể được sử dụng để làm ra các ly cocktail như Tom Collins.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 950000,
+        "product_quantity": 1771,
+        "product_category": [
+            "Gin"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Lady Trieu",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Hạn sử dụng": "Không",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "279012",
+        "product_name": "Lady Triệu – Hoi An Spice Road Gin 200ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/23/34/fb/9febba10a858a7ffa28dd85a938c7c13.png"
+        ],
+        "product_description": "<p>Nguồn cảm hứng của dòng rượu này là Bà Triệu – nữ anh hùng dân tộc trong lịch sử Việt Nam. Người mà họ tin rằng đó chính là hiện thân của tinh thần Việt Nam. Lady Triệu là dòng rượu Gin cao cấp. Các phiên bản Lab Series là một cuộc khám phá các loại thảo mộc trên khắp Việt Nam.</p>\n<p>Lady Triệu – Hoi An Spice Road Gin là một phiên bản mới đầy gia vị cho Lady Triệu Lab Series. Một loại rượu gin thủ công phát hành giới hạn lấy cảm hứng từ thành phố Hội An sôi động. Đây là một thành phố lịch sử quan trọng gắn liền với việc giao thương các loại hương liệu. Để bày tỏ lòng kính trọng đối với các hương vị được trao đổi tại đây, sáng tạo mới nhất của hãng có hương thơm của bạch đậu khấu, quế, gừng và hạt tiêu, cân bằng với chanh và bưởi.</p>\n<div>Mùi hương đậm đà và thơm ngát của hạt tiêu được cân bằng bởi hương thơm tươi mát và sảng khoái của chanh và bưởi; nó có thể tạo ra một ly cocktail mang tên Hội An Negroni cung cấp cho các tín đồ yêu rượu Gin và mong muốn có những ly cocktail đẳng cấp và sang trọng. Tuyệt vời nếu kết hợp với bia gừng cay, rượu gừng hoặc tonic yêu thích của bạn. Loại rượu gin sống động này cũng kết hợp tốt với nước ép cà chua để tạo ra một loại Red Snapper (Gin Bloody Mary) tuyệt vời và thêm hương vị thơm ngon cho món Martini yêu thích của bạn.</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 354000,
+        "product_quantity": 1026,
+        "product_category": [
+            "Gin"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Lady Trieu",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Hạn sử dụng": "Không",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "279735",
+        "product_name": "Rượu Whisky, Bellevoye Prune, Finition Prune ( Có kèm hộp )",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/fe/4a/87/74d47ca8821dc90a77526463fa8ac6ea.png"
+        ],
+        "product_description": "<table style=\"border-collapse:collapse;width:186.03pt;\" border=\"0\" width=\"248\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"height:165pt;\">\n<td class=\"et4\" style=\"height:165pt;width:186.65pt;\" width=\"248\" height=\"220\">Mũi bị chi phối bởi vô số trái cây màu vàng và trắng. Mận được chú ý trong giỏ trái cây này bao gồm mirabelles, mơ, đào và lê.​<br /><br />Miệng bùi với thịt chắc hơi chua với hương vị trái cây. Nó gợi lên tiếng giòn của quả mận mới hái.​<br /><br />Hậu vị kéo dài và dai dẳng với hương hạnh nhân và trái cây hầm.\n<p> </p>\n</td>\n</tr>\n</tbody>\n</table><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 3382000,
+        "product_quantity": 6851,
+        "product_category": [
+            "Whisky"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Bellevoye",
+            "Xuất xứ thương hiệu": "France",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "France"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "167214",
+        "product_name": "Rượu Octomore 13.2 Scotch Whisky Single Malt 58.3% 1x0.7L",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d6/48/6c/8c2dec86b233980aa517659609df6b31.jpg",
+            "https://salt.tikicdn.com/ts/product/f3/0d/15/49ee66e4af2cbf3a529ffc88b1c40a8f.jpg"
+        ],
+        "product_description": "<p>Rượu Octomore 13.2 Scotch Whisky Single Malt 58.3% 1x0.7L</p>\n<p>Xuất xứ: Scotland</p>\n<p>Nồng độ: 58.3%</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/d6/48/6c/4a96685c04a2d529ce6cea14be1a1505.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 5544000,
+        "product_quantity": 9909,
+        "product_category": [
+            "Whisky"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Octomore",
+            "Xuất xứ thương hiệu": "Scotland",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Scotland"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "322227",
+        "product_name": "Đặc Sản Bình Định - Rượu Bàu Đá Thành Tâm Rồng Nhỏ Đậu xanh (Màu xanh bút bi) 350ml  - OCOP 3 Sao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ac/63/dc/524f0c4f9ef42917192e885407cc126d.jpg"
+        ],
+        "product_description": "Rượu Bàu Đá là một đặc sản nổi tiếng của tỉnh Bình Định, là một trong mười loại rượu đặc sản nổi tiếng và ngon nhất Việt Nam được Tổ chức kỷ lục Việt Nam xác nhận và vinh danh.\n<br />Được thành lập từ năm 2002, cơ sở rượu Bàu Đá Thành Tâm đã có hơn 18 năm phục vụ quý khách trên khắp cả nước với các sản phẩm rượu bàu đá chính gốc được nấu bằng phương pháp cổ truyền tại làng nghề Bàu Đá, tỉnh Bình Định.\n<br />Tên sản phẩm: RƯỢU BÀU ĐÁ RỒNG NHỎ – Đậu Xanh\n<br />Xuất xứ: tại làng nghề truyền thống rượu Bàu Đá, là một trong những đặc sản của Bình Định.\n<br />Thành phần: đậu xanh, men, nước tại làng Bàu Đá và được nấu theo phương pháp cổ truyền tại làng nghề.\n<br />Nồng độ: 50 ± 2 độ.\n<br />Kích thước: 20 x 10 x 14 (cm).\n<br />Công dụng: dùng để uống, tiếp đãi bạn bè, làm quà tặng, ngâm thuốc…\n<br />Hạn sử dụng: rượu Bàu Đá đậu xanh để càng lâu uống càng ngon.\n<br />Bảo quản: nơi khô ráo và thoáng mát.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 400000,
+        "product_quantity": 5955,
+        "product_category": [
+            "Rượu địa phương"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "TT",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Hạn sử dụng": "Không",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "322227",
+        "product_name": "Đặc Sản Bình Định - Rượu Bàu Đá Thành Tâm Chum Đậu Xanh (Màu nâu) 650ml - OCOP 3 Sao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/79/02/f3/261e748dd7265065476d3b1acd1c5810.jpg"
+        ],
+        "product_description": "Rượu Bàu Đá là một đặc sản nổi tiếng của tỉnh Bình Định, là một trong mười loại rượu đặc sản nổi tiếng và ngon nhất Việt Nam được Tổ chức kỷ lục Việt Nam xác nhận và vinh danh.\n<br />Được thành lập từ năm 2002, cơ sở rượu Bàu Đá Thành Tâm đã có hơn 18 năm phục vụ quý khách trên khắp cả nước với các sản phẩm rượu bàu đá chính gốc được nấu bằng phương pháp cổ truyền tại làng nghề Bàu Đá, tỉnh Bình Định.\n<p>Tên sản phẩm: RƯỢU BÀU ĐÁ BA BẦU – Đậu Xanh<br />Xuất xứ: tại làng nghề truyền thống rượu Bàu Đá, là một trong những đặc sản của Bình Định.<br />Thành phần: đậu xanh, men, nước tại làng Bàu Đá và được nấu theo phương pháp cổ truyền tại làng nghề.<br />Nồng độ: 50 ± 2 độ.<br />Kích thước: 35 x 19 x 26 (cm).<br />Công dụng: dùng để uống, tiếp đãi bạn bè, làm quà tặng, ngâm thuốc…<br />Hạn sử dụng: rượu Bàu Đá đậu xanh để càng lâu uống càng ngon.<br />Bảo quản: nơi khô ráo và thoáng mát.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 500000,
+        "product_quantity": 3904,
+        "product_category": [
+            "Rượu địa phương"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "TT",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "322227",
+        "product_name": "Đặc Sản Bình Định - Rượu Bàu Đá Thành Tâm Hồ Lô Đậu Xanh (Màu đen) 350ml - OCOP 3 Sao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/30/12/bd/542f1241864338b802042196e1f68832.jpg"
+        ],
+        "product_description": "Rượu Bàu Đá là một đặc sản nổi tiếng của tỉnh Bình Định, là một trong mười loại rượu đặc sản nổi tiếng và ngon nhất Việt Nam được Tổ chức kỷ lục Việt Nam xác nhận và vinh danh.\n<br />Được thành lập từ năm 2002, cơ sở rượu Bàu Đá Thành Tâm đã có hơn 18 năm phục vụ quý khách trên khắp cả nước với các sản phẩm rượu bàu đá chính gốc được nấu bằng phương pháp cổ truyền tại làng nghề Bàu Đá, tỉnh Bình Định.\n<p>Tên sản phẩm: RƯỢU BÀU ĐÁ HỒ LÔ – Đậu Xanh<br />Xuất xứ: tại làng nghề truyền thống rượu Bàu Đá, là một trong những đặc sản của Bình Định.<br />Thành phần: đậu xanh, men, nước tại làng Bàu Đá và được nấu theo phương pháp cổ truyền tại làng nghề.<br />Nồng độ: 50 ± 2 độ.<br />Kích thước: 20 x 10 x 10 (cm).<br />Công dụng: dùng để uống, tiếp đãi bạn bè, làm quà tặng, ngâm thuốc…<br />Hạn sử dụng: rượu Bàu Đá đậu xanh để càng lâu uống càng ngon.<br />Bảo quản: nơi khô ráo và thoáng mát.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 400000,
+        "product_quantity": 4030,
+        "product_category": [
+            "Rượu địa phương"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "TT",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "322227",
+        "product_name": "Đặc Sản Bình Định - Rượu Bàu Đá Thành Tâm BA BẦU (Màu xanh rêu) 650ml - OCOP 3 Sao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a8/b9/f9/216f570383f0551983c4f512ca09dec8.jpg",
+            "https://salt.tikicdn.com/ts/product/cc/92/cf/b92bd395ee125efb81f3b9af8a5d1254.png",
+            "https://salt.tikicdn.com/ts/product/96/82/1d/f0776be9940e8a95090632454f3db50b.png"
+        ],
+        "product_description": "Rượu Bàu Đá là một đặc sản nổi tiếng của tỉnh Bình Định, là một trong mười loại rượu đặc sản nổi tiếng và ngon nhất Việt Nam được Tổ chức kỷ lục Việt Nam xác nhận và vinh danh.\n<br />Được thành lập từ năm 2002, cơ sở rượu Bàu Đá Thành Tâm đã có hơn 18 năm phục vụ quý khách trên khắp cả nước với các sản phẩm rượu bàu đá chính gốc được nấu bằng phương pháp cổ truyền tại làng nghề Bàu Đá, tỉnh Bình Định.\n<p>Tên sản phẩm: RƯỢU BÀU ĐÁ BA BẦU (CHAI TRUNG)<br />Xuất xứ: tại làng nghề truyền thống rượu Bàu Đá, là một trong những đặc sản của Bình Định.<br />Thành phần: gạo, men, nước tại làng Bàu Đá và được nấu theo phương pháp cổ truyền tại làng nghề.<br />Nồng độ: 40 ± 2 độ.<br />Kích thước: 24 x 12 x 17 (cm).<br />Công dụng: dùng để uống, tiếp đãi bạn bè, làm quà tặng, ngâm thuốc…<br />Hạn sử dụng: rượu Bàu Đá để càng lâu uống càng ngon.<br />Bảo quản: nơi khô ráo và thoáng mát.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 300000,
+        "product_quantity": 9655,
+        "product_category": [
+            "Rượu địa phương"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "TT",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Hạn sử dụng": "không",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "322227",
+        "product_name": "Đặc Sản Bình Định - Rượu vang nếp Thành Tâm 500ml - OCOP 3 Sao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/da/a1/3e/ebadbd9d821e40ff3f64c87e915b04db.png"
+        ],
+        "product_description": "Rượu vang nếp (hay còn gọi là rượu Bách Nhật) là rượu vang ngọt được lên men trực tiếp từ nếp không qua chưng cất, rượu có nồng độ thấp khoảng 160, có vị ngọt tự nhiên do nếp lên men và thơm mùi nếp. Khi nhấp một ngụm rượu vang nếp, ta cảm thấy vi ngọt lan tỏa trong miệng, rượu có nồng độ thấp nên không cay nồng, mùi nếp bay lên mũi tạo cảm giác thơm ngon và thoải mái. Rượu vang nếp có màu vàng rơm, theo thời gian sẽ ngả sang màu cánh gián.\n<br />Rượu vang nếp của cơ sở rượu bàu đá Thành Tâm được chứa trong chai thủy tinh cao cấp trong suốt để thấy màu vàng cánh gián mắt của rượu. Chai thủy tinh được sản xuất bởi quy trình sản xuất hiện đại, thiết kế sang trọng, đẹp mắt, đảm bảo an toàn tuyệt đối cho sức khỏe người dùng, là một món quà sang trọng hoặc làm đồ trang trí trong nhà.\n<p>LỢI ÍCH CỦA RƯỢU VANG NẾP:<br />Rượu vang nếp có chứa các chất dinh dưỡng với hàm lượng cao, trong rượu vang nếp còn chứa nhiều vitamin nhóm B giúp bồi dưỡng cơ thể, kích thích tiêu hóa thức ăn….<br />Đặc biệt, trong rượu vang nếp có hàm lượng các hợp chất anthocyanin, có tác dụng giúp cơ thể chống lão hóa, giảm stress, làm đẹp da.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 450000,
+        "product_quantity": 3185,
+        "product_category": [
+            "Rượu địa phương"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "TT",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "322227",
+        "product_name": "Đặc Sản Bình Định - Rượu Bàu Đá Thành Tâm Hồ Lô (Màu xanh ngọc) 350ml - OCOP 3 Sao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/9d/b9/8e/105789e33106f64415f9146a9a25c48d.jpg",
+            "https://salt.tikicdn.com/ts/product/90/c1/7d/632fa2bc3fca05889607843aaddf5e2e.png",
+            "https://salt.tikicdn.com/ts/product/81/b6/24/6e433645ebcc226f1e3dab1715e33ac4.png"
+        ],
+        "product_description": "Rượu Bàu Đá là một đặc sản nổi tiếng của tỉnh Bình Định, là một trong mười loại rượu đặc sản nổi tiếng và ngon nhất Việt Nam được Tổ chức kỷ lục Việt Nam xác nhận và vinh danh.\n<br />Được thành lập từ năm 2002, cơ sở rượu Bàu Đá Thành Tâm đã có hơn 18 năm phục vụ quý khách trên khắp cả nước với các sản phẩm rượu bàu đá chính gốc được nấu bằng phương pháp cổ truyền tại làng nghề Bàu Đá, tỉnh Bình Định.\n<p>Tên sản phẩm: RƯỢU BÀU ĐÁ HỒ LÔ (CHAI NHỎ)<br />Xuất xứ: tại làng nghề truyền thống rượu Bàu Đá, là một trong những đặc sản của Bình Định.<br />Thành phần: gạo, men, nước tại làng Bàu Đá và được nấu theo phương pháp cổ truyền tại làng nghề.<br />Nồng độ: 40 ± 2 độ.<br />Kích thước: 20 x 10 x 10 (cm).<br />Công dụng: dùng để uống, tiếp đãi bạn bè, làm quà tặng, ngâm thuốc…<br />Hạn sử dụng: rượu Bàu Đá để càng lâu uống càng ngon.<br />Bảo quản: nơi khô ráo và thoáng mát.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 250000,
+        "product_quantity": 5669,
+        "product_category": [
+            "Rượu địa phương"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "TT",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Hạn sử dụng": "không",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "322227",
+        "product_name": "Đặc Sản Bình Định - Rượu Bàu Đá Thành Tâm Thuyền Lớn (Màu xanh ngọc) 1,2 lit - OCOP 3 Sao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/1a/e1/f5/1c0eaf592c4310e7ffee1a6091820205.jpg",
+            "https://salt.tikicdn.com/ts/product/98/11/5b/3affb1b40500220f2a52875a092c353f.jpg",
+            "https://salt.tikicdn.com/ts/product/a6/06/ff/1e554b1ce3d63c9da02f859bb233ebb5.png"
+        ],
+        "product_description": "Rượu Bàu Đá là một đặc sản nổi tiếng của tỉnh Bình Định, là một trong mười loại rượu đặc sản nổi tiếng và ngon nhất Việt Nam được Tổ chức kỷ lục Việt Nam xác nhận và vinh danh.\n<br />Được thành lập từ năm 2002, cơ sở rượu Bàu Đá Thành Tâm đã có hơn 18 năm phục vụ quý khách trên khắp cả nước với các sản phẩm rượu bàu đá chính gốc được nấu bằng phương pháp cổ truyền tại làng nghề Bàu Đá, tỉnh Bình Định.\n<br />Tên sản phẩm: RƯỢU BÀU ĐÁ THUYỀN LỚN.\n<br />Xuất xứ: tại làng nghề truyền thống rượu Bàu Đá, là một trong những đặc sản của Bình Định.\n<br />Thành phần: gạo, men, nước tại làng Bàu Đá và được nấu theo phương pháp cổ truyền tại làng nghề.\n<br />Nồng độ: 40 ± 2 độ.\n<br />Kích thước: 25 x 13 x 23 (cm).\n<br />Công dụng: dùng để uống, tiếp đãi bạn bè, làm quà tặng, ngâm thuốc…\n<br />Hạn sử dụng: rượu Bàu Đá để càng lâu uống càng ngon.\n<br />Bảo quản: nơi khô ráo và thoáng mát.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 400000,
+        "product_quantity": 1270,
+        "product_category": [
+            "Rượu địa phương"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "TT",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Hạn sử dụng": "không",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "322227",
+        "product_name": "Đặc Sản Bình Định - Rượu Bàu Đá Thành Tâm Rồng Nhỏ (Màu đen) 350ml  - OCOP 3 Sao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/28/01/4e/cfe6a38af56a02d02eb28622be6f3eda.jpg",
+            "https://salt.tikicdn.com/ts/product/65/4c/22/f8f88a48111d20a86e172baf0d263582.png",
+            "https://salt.tikicdn.com/ts/product/f0/fb/5a/98ded023f4b9b72d0c1163f2db32c9e2.png"
+        ],
+        "product_description": "Rượu Bàu Đá là một đặc sản nổi tiếng của tỉnh Bình Định, là một trong mười loại rượu đặc sản nổi tiếng và ngon nhất Việt Nam được Tổ chức kỷ lục Việt Nam xác nhận và vinh danh.\n<br />Được thành lập từ năm 2002, cơ sở rượu Bàu Đá Thành Tâm đã có hơn 18 năm phục vụ quý khách trên khắp cả nước với các sản phẩm rượu bàu đá chính gốc được nấu bằng phương pháp cổ truyền tại làng nghề Bàu Đá, tỉnh Bình Định.\n<br />Tên sản phẩm: RƯỢU BÀU ĐÁ RỒNG NHỎ\n<br />Xuất xứ: tại làng nghề truyền thống rượu Bàu Đá, là một trong những đặc sản của Bình Định.\n<br />Thành phần: gạo, men, nước tại làng Bàu Đá và được nấu theo phương pháp cổ truyền tại làng nghề.\n<br />Nồng độ: 40 ± 2 độ.\n<br />Kích thước: 20 x 10 x 14 (cm).\n<br />Công dụng: dùng để uống, tiếp đãi bạn bè, làm quà tặng, ngâm thuốc…\n<br />Hạn sử dụng: rượu Bàu Đá để càng lâu uống càng ngon.\n<br />Bảo quản: nơi khô ráo và thoáng mát.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 250000,
+        "product_quantity": 7654,
+        "product_category": [
+            "Rượu địa phương"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "TT",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Hạn sử dụng": "Không",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "322227",
+        "product_name": "Đặc Sản Bình Định - Rượu Bàu Đá Thành Tâm Hồ Lô (Màu hồng) 350ml - OCOP 3 Sao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/4d/ab/31/89b0f8f8a096b9f5acc4c7a1f3018d17.jpg",
+            "https://salt.tikicdn.com/ts/product/43/e9/4f/33de2e24b3957fcdddb71042ebe2e413.png",
+            "https://salt.tikicdn.com/ts/product/31/7e/45/58797051d7524ba363a4cdaa0218f945.png"
+        ],
+        "product_description": "Rượu Bàu Đá là một đặc sản nổi tiếng của tỉnh Bình Định, là một trong mười loại rượu đặc sản nổi tiếng và ngon nhất Việt Nam được Tổ chức kỷ lục Việt Nam xác nhận và vinh danh.\n<br />Được thành lập từ năm 2002, cơ sở rượu Bàu Đá Thành Tâm đã có hơn 18 năm phục vụ quý khách trên khắp cả nước với các sản phẩm rượu bàu đá chính gốc được nấu bằng phương pháp cổ truyền tại làng nghề Bàu Đá, tỉnh Bình Định.\n<p>Tên sản phẩm: RƯỢU BÀU ĐÁ HỒ LÔ (CHAI NHỎ)<br />Xuất xứ: tại làng nghề truyền thống rượu Bàu Đá, là một trong những đặc sản của Bình Định.<br />Thành phần: gạo, men, nước tại làng Bàu Đá và được nấu theo phương pháp cổ truyền tại làng nghề.<br />Nồng độ: 40 ± 2 độ.<br />Kích thước: 20 x 10 x 10 (cm).<br />Công dụng: dùng để uống, tiếp đãi bạn bè, làm quà tặng, ngâm thuốc…<br />Hạn sử dụng: rượu Bàu Đá để càng lâu uống càng ngon.<br />Bảo quản: nơi khô ráo và thoáng mát.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 250000,
+        "product_quantity": 6589,
+        "product_category": [
+            "Rượu địa phương"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "TT",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Hạn sử dụng": "không",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "322227",
+        "product_name": "Đặc Sản Bình Định - Rượu Bàu Đá Thành Tâm Chai Pet 2 Lit - OCOP 3 Sao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/98/36/20/75d4bdb7687c8d701b232dce90856b59.png",
+            "https://salt.tikicdn.com/ts/product/b1/9f/9a/2a62b8e6cd39b2145302480f52867003.jpg",
+            "https://salt.tikicdn.com/ts/product/2c/8a/be/0278237976c43485a8a3a8ccb6b0a3f0.png"
+        ],
+        "product_description": "Rượu Bàu Đá là một đặc sản nổi tiếng của tỉnh Bình Định, là một trong mười loại rượu đặc sản nổi tiếng và ngon nhất Việt Nam được Tổ chức kỷ lục Việt Nam xác nhận và vinh danh.\n<br />Được thành lập từ năm 2002, cơ sở rượu Bàu Đá Thành Tâm đã có hơn 18 năm phục vụ quý khách trên khắp cả nước với các sản phẩm rượu bàu đá chính gốc được nấu bằng phương pháp cổ truyền tại làng nghề Bàu Đá, tỉnh Bình Định.\n<br />Tên sản phẩm: RƯỢU BÀU ĐÁ CHAI PET 2 Lít.\n<br />Xuất xứ: tại làng nghề truyền thống rượu Bàu Đá, là một trong những đặc sản của Bình Định.\n<br />Thành phần: gạo, men, nước tại làng Bàu Đá và được nấu theo phương pháp cổ truyền tại làng nghề.\n<br />Nồng độ: 40 ± 2 độ.\n<br />Kích thước: 30 x 8 x 10 (cm)\n<br />Công dụng: dùng để uống, tiếp đãi bạn bè, làm quà tặng, ngâm thuốc…\n<br />Hạn sử dụng: rượu Bàu Đá để càng lâu uống càng ngon.\n<br />Bảo quản: nơi khô ráo và thoáng mát.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 200000,
+        "product_quantity": 1750,
+        "product_category": [
+            "Rượu địa phương"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "TT",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Hạn sử dụng": "không",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "322227",
+        "product_name": "Đặc Sản Bình Định - Rượu Bàu Đá Thành Tâm Hồ Lô (Màu trắng) 350ml - OCOP 3 Sao",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6c/0d/e3/7ed6781de32eec7d2993ea9684c2b65f.jpg",
+            "https://salt.tikicdn.com/ts/product/6c/b2/83/59d2bd88092b1702ad00a513107d059d.png",
+            "https://salt.tikicdn.com/ts/product/ee/48/57/84422e3084895e92fc41bbae82bd08c7.png"
+        ],
+        "product_description": "Rượu Bàu Đá là một đặc sản nổi tiếng của tỉnh Bình Định, là một trong mười loại rượu đặc sản nổi tiếng và ngon nhất Việt Nam được Tổ chức kỷ lục Việt Nam xác nhận và vinh danh.\n<br />Được thành lập từ năm 2002, cơ sở rượu Bàu Đá Thành Tâm đã có hơn 18 năm phục vụ quý khách trên khắp cả nước với các sản phẩm rượu bàu đá chính gốc được nấu bằng phương pháp cổ truyền tại làng nghề Bàu Đá, tỉnh Bình Định.\n<p>Tên sản phẩm: RƯỢU BÀU ĐÁ HỒ LÔ (CHAI NHỎ)<br />Xuất xứ: tại làng nghề truyền thống rượu Bàu Đá, là một trong những đặc sản của Bình Định.<br />Thành phần: gạo, men, nước tại làng Bàu Đá và được nấu theo phương pháp cổ truyền tại làng nghề.<br />Nồng độ: 40 ± 2 độ.<br />Kích thước: 20 x 10 x 10 (cm).<br />Công dụng: dùng để uống, tiếp đãi bạn bè, làm quà tặng, ngâm thuốc…<br />Hạn sử dụng: rượu Bàu Đá để càng lâu uống càng ngon.<br />Bảo quản: nơi khô ráo và thoáng mát.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 250000,
+        "product_quantity": 1681,
+        "product_category": [
+            "Rượu địa phương"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "TT",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Hạn sử dụng": "không",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "318850",
+        "product_name": "Rượu Gin Ferdinand's Saar Quince 500ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/39/2d/36/83f177faf8b4b865a7d0fb7560c7ce3f.png"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/23/0e/20/01814009910e82dd07f25b45f05756e1.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>NỒNG ĐỘ CỒN: 30% <br />Sự kết hợp của những quả lê tươi mới vừa thu hoạch ngay cạnh lò chưng cất rượu, Saar Dry Gin và sự kết hợp ngâm với giống nho Rausch Kabinett năm 2011 tạo nên nền tảng của loại gin quả mận đặc sản Anh Quốc: Ferdinand's Saar Qince. Loại mộc lê vàng từ Saar tượng trưng cho sự cân bằng hoàn hảo giữa vị ngọt, chua và đắng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1400000,
+        "product_quantity": 5932,
+        "product_category": [
+            "Gin"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Ferdinand",
+            "Xuất xứ thương hiệu": "Đức",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Đức"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "318850",
+        "product_name": "Rượu Whisky Pháp Alfred Giraud Harmonie",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e1/46/81/1adf8be828854755660fd13b67b1d4bb.png"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/02/d4/e9/275c0ba7ca00d0a25033e4973fcb494c.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>NỒNG ĐỘ CỒN: 46.1% <br />Bắt đầu với sự pha trộn của hai sản phẩm chưng cất mạch nha không than bùn của Pháp được ủ trong các thùng khác nhau, phần lớn trong các thùng rượu cognac cũ hơn và một phần trong các thùng gỗ sồi mới của Pháp và gỗ sồi Mỹ. Sau khi đạt được sự pha trộn tối ưu, mạch nha đôi được ủ riêng trong các thùng rượu cognac cực cũ, nơi nó phát triển hương vị phức tạp và cân bằng. Cuối cùng, nó được pha trộn với sản phẩm chưng cất mạch nha của Pháp có than bùn nhẹ và được hoàn thành trong cùng một thùng rượu cognac cũ cho đến khi đạt được hương vị tối ưu. <br />Màu: Đồng đậm <br />Mùi: Táo bạo và mời gọi. Bánh mì nho khô ấm áp và các loại gia vị nướng bao quanh hương vị của lúa mạch khói. <br />Vị: Mạnh mẽ mà tinh tế. Kết cấu mềm mượt nhường chỗ cho gia vị nướng và nho ngon ngọt. Phong phú và cân bằng, với một chút than bùn. <br />Hậu vị: Kéo dài. Lớp than bùn tinh tế khuếch đại vị tanin mềm của những thùng rượu cognac lâu năm.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 7650000,
+        "product_quantity": 1297,
+        "product_category": [
+            "Whisky"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Alfred Giraud",
+            "Xuất xứ thương hiệu": "Pháp",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Pháp"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "318850",
+        "product_name": "Rượu Gin Ferdinand's Saar Dry 200ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ed/83/73/09f3f4ca74560a52a0281ae9a4bcdd52.png"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/88/a2/54/0c3bbaa609b52267970a62e93578b5a6.jpg\" alt=\"\" width=\"750\" height=\"750\" />NỒNG ĐỘ CỒN: 44% <br />Tay nghề khéo léo cảu bậc thầy chưng cất rượu Andreas Vallendar với hơn 30 vị thảo dược được cân bằng tinh tế từ các vườn nho và phương pháp trồng trọt của chúng tôi đảm bảo mang đến những sản phẩm chất lượng tuyệt hảo, hứa hẹn đem lại sự thích thú cùng các thưởng thức thượng hạng. <br />Ngoài ra, nho Riesling được thu hoạch bằng tay từ các sườn núi đá phiến dốc của vùng đấy Zilliken ở Grand Saarburger Rausch được sử dụng cho việc ngâm ủ rượu gin</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 700000,
+        "product_quantity": 9340,
+        "product_category": [
+            "Gin"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Ferdinand",
+            "Xuất xứ thương hiệu": "Đức",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Đức"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "318850",
+        "product_name": "Rượu Whisky Nhật Bản Kamiki - Intense Wood",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6c/6e/bd/de37ad81c2918958b00a7741978dc19a.png"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/f6/1e/5a/59e3d292cdffcc7b5bed28f2a04912b6.jpg\" alt=\"\" width=\"750\" height=\"937\" /></p>\n<p>NỒNG ĐỘ CỒN: 48% <br />Kamiki Intense Wood là một loại mạch nha được pha trộn dựa trên mạch nha Nhật Bản cũng như mạch nha từ khắp nơi trên thế giới. Sau khi pha, rượu whisky được hoàn thành trong thùng Yoshino-Sugi (Tuyết tùng Nhật Bản). Loại gỗ Intense này được hoàn thành rất lâu trong thùng gỗ tuyết tùng trước khi được đóng chai ở 48% ABV <br />MÙI: hoa cam quýt, táo mùa hè, nho khô và mận khô <br />VỊ: gỗ tuyết tùng đậm với mùi đất, và trà. Mạch nha và gia vị quế kết hợp với nhiều ảnh hưởng mạnh mẽ của gỗ. <br />HẬU VỊ: Gỗ tuyết tùng cay, bánh mì nâu và mật ong với hương gỗ và gia vị đọng lại ở hậu vị.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 2450000,
+        "product_quantity": 7737,
+        "product_category": [
+            "Whisky"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Kamiki",
+            "Xuất xứ thương hiệu": "Nhật Bản",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Nhật Bản"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "318850",
+        "product_name": "Rượu Whiskey Mỹ Stranahan's Bluepeak",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/49/09/bb/e639ac15e70c9093bf9984bfe5f5955f.png"
+        ],
+        "product_description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/04/35/da/8a8e6964b236c70459ad7f02995aa652.jpg\" alt=\"\" width=\"750\" height=\"937\" /></p>\n<p>NỒNG ĐỘ CỒN: 43% <br />Được đặt tên theo đỉnh cao 13 nghìn foot ở Aspen, Stranahan's Blue được chưng cất hai lần ở độ cao lớn và ủ 4 năm trong thùng gỗ sồi Mỹ mới với than số 3, mang đến hương vị nướng, ấm áp. Rượu thành phẩm tự hào có hương vị của kem bơ, đường nâu cộng với táo nướng với hương cayenne và gỗ sồi nướng. <br />MÙI: mơ khô, nhục đậu khấu, bánh mì nướng quế, gợi ý của da thuộc và khói nhẹ.<br />VỊ: kem bơ và đường nâu, táo nướng, với hương cayenne và gỗ sồi nướng. <br />HẬU VỊ: ậm đà và êm dịu, mạch nha đất nhẹ nhàng tan thành gia vị kéo dài.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 2730000,
+        "product_quantity": 2924,
+        "product_category": [
+            "Whisky"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Stranahan's",
+            "Xuất xứ thương hiệu": "Mỹ",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Mỹ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "317182",
+        "product_name": "【Chính hãng】Rượu Shochu The Kome 25° Chai 750ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/4d/7e/ae/cccf5d16c852a006b3886ac2e9f2e3d1.jpg",
+            "https://salt.tikicdn.com/ts/product/3b/9b/4b/0690f6725a6100f4e01dac14ecae7c1a.jpg",
+            "https://salt.tikicdn.com/ts/product/76/0b/7a/37b252116f6326cd7b3c53ba68be88fc.jpg"
+        ],
+        "product_description": "<p><strong><em>Thông tin chi tiết</em></strong></p>\n<table><tbody><tr><td width=\"174\">\n<p>Thương hiệu</p>\n</td>\n<td width=\"449\">\n<p>HFC CONG TY TNHH 1 TV THUC PHAM HUE</p>\n</td>\n</tr><tr><td width=\"174\">\n<p>Xuất xứ</p>\n</td>\n<td width=\"449\">\n<p>Việt Nam</p>\n</td>\n</tr><tr><td width=\"174\">\n<p>Sản xuất tại</p>\n</td>\n<td width=\"449\">\n<p>Công ty TNHH 1 TV Thực phẩm Huế</p>\n</td>\n</tr><tr><td width=\"174\">\n<p>Dung tích</p>\n</td>\n<td width=\"449\">\n<p>750 ml</p>\n</td>\n</tr><tr><td width=\"174\">\n<p>Nồng độ</p>\n</td>\n<td width=\"449\">\n<p>25°</p>\n</td>\n</tr><tr><td width=\"174\">\n<p>Hướng dẫn bảo quản</p>\n</td>\n<td width=\"449\">\n<p>Nơi khô ráo, thoáng mát</p>\n</td>\n</tr><tr><td width=\"174\">\n<p>Hướng dẫn sử dụng</p>\n</td>\n<td width=\"449\">\n<p>Uống trực tiếp. Ướp lạnh hoặc uống cùng với đá</p>\n</td>\n</tr><tr><td width=\"174\">\n<p>Thành phần</p>\n</td>\n<td width=\"449\">\n<p>Gạo, men koji, nước</p>\n</td>\n</tr></tbody></table><p><strong><em>Mô tả sản phẩm</em></strong></p>\n<p>Là rượu shochu gạo truyền thống, quen thuộc với nhiều người dùng.</p>\n<p>Rượu shochu sử dụng men Koji Nhật Bản để lên men rồi chưng cất. Koji là một loại men truyền thống nổi tiếng của Nhật Bản giúp tăng hương vị sản phẩm.</p>\n<p>Nhờ vào men koji, các đặc tính của gạo Việt Nam được phát huy đầy đủ tạo ra rượu có hương vị êm dịu và nhẹ nhàng, tạo cảm giác ngon miệng hơn khi thưởng thức cùng các món ăn.</p>\n<p><em><strong>※Lưu ý:</strong></em></p>\n<p>     + Sản phẩm không dùng cho người dưới 18 tuổi.</p>\n<p>     + Phụ nữ có thai và đang cho con bú không nên dùng.</p>\n<p>     + Do chất lượng ánh sáng khi chụp, màu sắc rượu có thể đậm hoặc nhạt hơn so với thực tế.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 191000,
+        "product_quantity": 9918,
+        "product_category": [
+            "Các loại rượu mạnh khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "HFC CONG TY TNHH 1 TVTHUC PHAM HUE",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Hạn sử dụng": "không có Hạn sử dụng",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Nhật Bản / Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "167214",
+        "product_name": "Rượu Kingston 62 Jamaica White Rum 40% 1x0.75L",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ef/c5/d9/bc8529a49933bb1a4ced1ccc899bf21b.jpg",
+            "https://salt.tikicdn.com/ts/product/0c/40/b0/ee757ed9efd1b20ac1e791a447f96106.png",
+            "https://salt.tikicdn.com/ts/product/eb/2b/3a/b70db1698f7226efdc2b1f91b7b16814.png"
+        ],
+        "product_description": "<p>Kingston 62 Jamaica White Rum 750ml</p>\n<p>• Tự hào là người Jamaica:\"Born and aged\".<br />• Trắng như bờ biển, tươi mới như phong cách của chúng tôi.<br />• Sự pha trộn của rượu rum hai cột có tuổi thọ lên đến ba năm trong thùng gỗ sồi, hoàn hảo cho ly mojito cổ điển của các loại cocktail dễ pha khác như Rum &amp; Ginger.<br />• Tinh thần đích thực của chúng tôi được lên men bằng mật đường không biến đổi gen và men độc quyền, không biến đổi gen, tự nhiên.<br />• Chúng tôi đặt tên cho những loại rượu rum hảo hạng nhất của mình theo tên của Kingston để thể hiện linh hồn táo bạo của thành phố.</p>\n<p>Bao bì sản phẩm thay đổi theo từng đợt nhập hàng</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/ef/c5/d9/8633d0573f489d16207c8b34fab8b316.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 499000,
+        "product_quantity": 4798,
+        "product_category": [
+            "Rum"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Jamaica White Rum",
+            "Xuất xứ thương hiệu": "Tây Ban Nha",
+            "Hạn sử dụng": "Không",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Tây Ban Nha"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "167214",
+        "product_name": "Rượu Glen Grant Single Malt Scotch 12YO 43% 1x0.7L",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/9a/09/57/9858e3c0f583610ed6e4be5c7cae0776.jpg",
+            "https://salt.tikicdn.com/ts/product/ec/ee/bd/bd564ca0ed30bff9a5888cc3ff112f8b.png",
+            "https://salt.tikicdn.com/ts/product/fc/76/ca/abcebee3ad4b5ea6364a544b2c939c2e.jpg",
+            "https://salt.tikicdn.com/ts/product/5f/58/5a/09f51450d10e3e8f0ee3ed69f18612d6.png"
+        ],
+        "product_description": "<p>The Glen Grant 12 Year Old Scotch Whisky 700ml</p>\n<p>Glen Grant 12 năm tuổi là một loại rượu whisky Scotch mạch nha đơn được chế tác bởi nhà máy chưng cất nổi tiếng của Scotland ở Rothes, trung tâm của Speyside, Scotland.<br />• Màu sắc: Vàng sáng.<br />• Hương thơm: Mật ong, lê và táo với một chút hạnh nhân và cam quýt.<br />• Hương vị: Vỏ bánh táo, caramel và vani.<br />• Hậu vị: Dư vị trái cây với một chút gia vị tinh tế.<br />• ABV: 43%.</p>\n<p>Bao bì sản phẩm có thể thay đổi theo từng đợt nhập hàng</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/9a/09/57/0a8ac1b1343707f3fe5d4d958503dedd.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 2190000,
+        "product_quantity": 1368,
+        "product_category": [
+            "Bách Hóa Online"
+        ],
+        "product_attributes": {
+            "Thương hiệu": " The GlenGrant",
+            "Xuất xứ thương hiệu": "Scotland",
+            "Hạn sử dụng": "Không",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Scotland"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "40395",
+        "product_name": "{Freeship 50K} Hộp quà combo 2 chai rượu Johnnie Walker Red Label Blended Scotch Whisky 40% 750ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/02/55/9c/1b4304b2c01fb7b261026a13410fc5d3.jpg",
+            "https://salt.tikicdn.com/ts/product/96/31/01/72949845a4e2179e065a2eca7480f11b.jpg",
+            "https://salt.tikicdn.com/ts/product/ef/76/5d/f26f40dffd84f6618419fee941751cdb.jpg",
+            "https://salt.tikicdn.com/ts/product/83/58/59/01bfab211087e968bc5673b886c88a29.jpg",
+            "https://salt.tikicdn.com/ts/product/90/6a/d6/c9d1ced82c7f9db7e05837ff702381ac.jpg",
+            "https://salt.tikicdn.com/ts/product/3e/88/72/494320a001f35a82104bead677c4fa31.jpg"
+        ],
+        "product_description": "<style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>\n<style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>\n<p><strong>Bộ sưu tập bao gồm:</strong><br />- Vỏ hộp rượu Tết sang trọng<br />- Túi giấy đựng quà cao cấp<br />- Bộ 2 chai rượu 750ml</p>\n<p><span data-sheets-root=\"1\"><strong>Về Rượu Johnnie Walker Red Label:</strong></span></p>\n<p><em>Johnnie Walker Red Label là chai rượu đầu tiên ra thế giới của nhà Johnnie Walker!</em></p>\n<p><span data-sheets-root=\"1\">Thu hút bởi chất vị mạnh mẽ đậm cá tính, Johnnie Walker Red Label khai mở vị giác với những nốt hương cay nồng sống động và hương khói đậm đà như những cơn sóng cuộn lên khuấy động vị giác, châm chích do quế và tiêu, ngọt ngào với táo, lê và vanilla trước khi tan vào hậu vị khói.</span></p>\n<p><span data-sheets-root=\"1\">Với khả năng kết hợp tuyệt vời cùng các loại whisky khác, đây là lựa chọn hoàn hảo cho những bữa tiệc đậm khí chất<br /></span></p>\n<p><span data-sheets-root=\"1\"><img src=\"https://salt.tikicdn.com/ts/tmp/90/6a/d6/b5bf2b35434d89384aaafe5db811b7cf.jpg\" alt=\"\" width=\"750\" height=\"750\" /></span></p>\n<p><span data-sheets-root=\"1\">Loại rượu Scotch Whisky bán chạy nhất thế giới. <br /></span></p>\n<p><span data-sheets-root=\"1\">Johnnie Walker Red Label đã giành được hơn 30 giải thưởng lớn, trong đó có hai giải Grand Gold của Le Monde Selection và ba huy chương vàng tại Cuộc thi Rượu và Rượu mạnh Quốc tế.<br /></span></p>\n<p><span data-sheets-root=\"1\"><img src=\"https://salt.tikicdn.com/ts/tmp/ef/76/5d/4a76874c2810e75e2b9c8d703f5803ac.jpg\" alt=\"\" width=\"750\" height=\"750\" /></span></p>\n<p><span data-sheets-root=\"1\">Rượu Johnnie Walker Red Label được đóng gói trong một hộp quà sang trọng, sản phẩm này không chỉ là một món quà tuyệt vời dành cho bạn bè, người thân mà còn là một lựa chọn hoàn hảo cho những dịp đặc biệt như tiệc tùng, lễ kỷ niệm hay một buổi tối thư giãn tại nhà. Với dung tích 750ml, bạn có thể thỏa sức thưởng thức sản phẩm trong nhiều lần sử dụng.<br /><br /><strong>Mùi vị và hương vị:</strong><br />• Hương: Hương trái cây họ cam quýt tươi hoà chút mạch nha vùng Speyside và Highlands<br />• Vị: Một sự kết hợp hài hòa đến kỳ lạ của quế cay và tiêu<br />• Hậu vị: Kéo dài và đượm vị khói đặc trưng của nhà Johnnie Walker<br />Whisky Johnnie Walker có hương trái cây tươi mát họ cam quýt, vị cay nồng từ quế và tiêu, và hậu vị kéo dài với vị đậm đà của khói đặc trưng, tạo nên một hương vị độc đáo và khó quên.</span><span data-sheets-root=\"1\"><br /></span></p>\n<p><span data-sheets-root=\"1\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/83/58/59/cbb6bf40b93d5181a15d768502027c7d.jpg\" alt=\"\" width=\"750\" height=\"750\" /></strong></span></p>\n<p><span data-sheets-root=\"1\"><strong>Thành phần và nguyên liệu:</strong><br />Red Label là chai rượu mạnh với thành phần có hơn 30 loại rượu Whisky khác nhau pha trộn thành. Rượu được lên men chủ yếu từ các loại mạch nha và ngũ cốc thượng hạng, sự kết hợp hoàn hảo này cùng với phương thức phối chế rượu mạnh bí truyền của gia đình Johnnie Walker.</span></p>\n<p><strong>Cách sử dụng:</strong></p>\n<p>Rượu Red Label có thể thưởng thức với nhiều cách như uống nguyên chất, dùng chung với đá lạnh hoặc pha rượu cùng với các loại thức uống yêu thích khác sao cho hợp khẩu vị:<br />• Thưởng thức neat (uống trực tiếp)<br />• On the rock (uống với đá)<br />• Mix với các nguyên liệu hương vị khác nhau (tùy khẩu vị của người thưởng thức), uống với sôđa, pha với nước cam, pha chế cocktail.</p>\n<p>Kết hợp rượu Red Label với gừng Ale: Đây là sự kết hợp độc đáo và dễ thực hiện:<br />Cho đầy đá vào ly, rót 25ml rượu Red Label, 7ml nước cốt chanh tươi và 75ml gừng Ale đến khi đầy ly rồi trang trí thêm một lát gừng. Vậy là đã có ngay một thức uống pha trộn đầy mới mẻ từ rượu Red Label.</p>\n<p>Sản phẩm được Tiki đóng gói vô cùng cẩn thận với nhiều lớp chống sốc, đảm bảo an toàn khi vận chuyển. Sản phẩm còn đi kèm túi đựng sang trọng, rất phù hợp để làm quà tặng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 760000,
+        "product_quantity": 7263,
+        "product_category": [
+            "Whisky"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Johnnie Walker",
+            "Xuất xứ thương hiệu": "Scotland",
+            "Hạn sử dụng": "Không",
+            "Hướng dẫn bảo quản": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Lưu ý": "Không dùng cho phụ nữ mang thai, không uống rượu trong và trước khi lái xe.\nSản phẩm dành cho đối tượng trên 18 tuổi, vui lòng thưởng thức trách nhiệm cùng Johnnie Walker.",
+            "Xuất xứ (Made in)": "Scotland"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "230463",
+        "product_name": "Rượu nếp Bà Đen chai pet 500ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d1/37/4e/3b26f9f5399b981ead36075d6f940a46.png"
+        ],
+        "product_description": "Rượu Nếp Bà Đen chai pet 500ml với nguyên liệu chính là nếp chọn lọc đạt chất lượng được nấu chín kết hợp với men vi sinh.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 45000,
+        "product_quantity": 4959,
+        "product_category": [
+            "Rượu địa phương"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Hương Men Lúa Chín",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "230463",
+        "product_name": "Rượu nếp Bà Đen chai pet 1000ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6b/70/38/fc7a34a3164730b0f7fea7d52d80cec7.png"
+        ],
+        "product_description": "Rượu Nếp Bà Đen chai pet 1000ml với nguyên liệu chính là nếp chọn lọc đạt chất lượng được nấu chín kết hợp với men vi sinh.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 87000,
+        "product_quantity": 1397,
+        "product_category": [
+            "Các loại rượu mạnh khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Hương Men Lúa Chín",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Việt Nam"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "34044",
+        "product_name": "RƯỢU MARCEL XO",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/69/2d/9b/c265eaeaadef7583a31f68b3d2957163.jpg",
+            "https://salt.tikicdn.com/ts/product/4a/fc/b8/4c9416e856b667e3c64b3138e9da68be.jpg"
+        ],
+        "product_description": "<p>Rượu Marcel XO là một loại rượu mạnh có màu vàng hổ phách bắt mắt cùng vị cay nồng đặc trưng. Quá trình ủ trong thùng gỗ sồi mang lại hương vani ngọt ngào, kẹo bơ cứng, dường nâu mốt chút mùi gỗ sồi nướng cùng vị ngọt nhẹ đọng nơi đầu lưỡi. Hãy tự mình thưởng thức rượu Marcel X.O Brandy này hoặc pha với soft drinks như nước suối, soda, coke, tonic và đá trong ly sniffer hoặc tự pha thành một số loại cocktail riêng cho mình. </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 650000,
+        "product_quantity": 3921,
+        "product_category": [
+            "Bách Hóa Online"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Marcel",
+            "Xuất xứ thương hiệu": "Pháp",
+            "Hạn sử dụng": "Không hạn sử dụng",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Pháp"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "34044",
+        "product_name": "RƯỢU MAJESTY XO",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e0/41/db/6b56f02c297768883d3069624d373187.jpg",
+            "https://salt.tikicdn.com/ts/product/0c/27/bc/df8d063da3e7dd6a3f906c7a176c5c09.jpg"
+        ],
+        "product_description": "<p>Rượu Majesty X.O được chế biến ra từ quá trình chưng cất nho rồi ủ lâu năm trong thùng gỗ sồi. Rượu có màu hổ phách, có hương vị thảo mộc từ gỗ cùng với mùi hương của quả óc chó, trái cây, bạch đậu khấu, quế sẽ giúp bạn có nhưng dư vị kéo dài vô cùng thú vị.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 990000,
+        "product_quantity": 6644,
+        "product_category": [
+            "Bách Hóa Online"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Majesty",
+            "Xuất xứ thương hiệu": "Pháp",
+            "Hạn sử dụng": "Không thời hạn",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Pháp"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "167214",
+        "product_name": "Rượu Brugal Blanco Supremo 40% 1x0.7L",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/a4/37/ae/fb8eb54a2e6b6e8435ff4926bdd536e5.png"
+        ],
+        "product_description": "<p>Rượu Brugal Blanco Supremo 40% 1x0.7L</p>\n<p>Bao bì sản phẩm có thể thay đổi theo từng đợt nhập hàng</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 581000,
+        "product_quantity": 5664,
+        "product_category": [
+            "Rum"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Brugal",
+            "Xuất xứ thương hiệu": "Tây Ban Nha",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Tây Ban Nha"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "167214",
+        "product_name": "Rượu Tequila Reserva 1800 Reposado 40% 1x750ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/ca/1f/44/730e46f58359ccede902faea6955b7f8.jpg",
+            "https://salt.tikicdn.com/ts/product/df/cd/11/5d9cc22eccdb8b0b896dfdbe7abb9fea.jpg",
+            "https://salt.tikicdn.com/ts/product/9f/48/c6/436902fda72bf868e43b6d977158b2f8.jpg"
+        ],
+        "product_description": "<p>Rượu Tequila Reserva 1800 Reposado 40% 1x750ml</p>\n<p>Sản phẩm được nhập khẩu từ nước ngoài.</p>\n<p>Bao bì sản phẩm có thể thay đổi theo từng đợt nhập hàng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1186000,
+        "product_quantity": 9683,
+        "product_category": [
+            "Tequila"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Tequila ",
+            "Xuất xứ thương hiệu": "Mỹ",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Mỹ"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "167214",
+        "product_name": "Rượu Reserva 1800 Coconut 35% 1x750ml",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/9b/a5/e7/985923c9fa7795c7ade04cc1a933541d.jpg",
+            "https://salt.tikicdn.com/ts/product/a6/f4/c2/35530fe68eeadc73a9b7a3f9ac8c2026.jpg",
+            "https://salt.tikicdn.com/ts/product/bf/ea/c4/5838751715a9c045d5b07fcefd9b014d.png"
+        ],
+        "product_description": "<p>Rượu Reserva 1800 Coconut 35% 1x750ml</p>\n<p>Bao bì sản phẩm có thể thay đổi theo từng đợt nhập hàng.</p>\n<p>Tequila làm từ 100% cây thùa gai xanh (Weber Blue Agave) ở độ tuổi 8-12, nhưng sự đặc trưng của 1800 Coconut tequila đến từ chính hương vị đặc biệt của nó. Hương dừa chín tự nhiên được cẩn thận truyền vào trong những giọt rượu cùng với một chút ngọt vừa của hương vị nhiệt đới, có thể thưởng thức tuyệt phẩm này cùng với đá, uống shot hoặc pha với nước ép thơm.</p>\n<p>Màu: Trong suốt</p>\n<p>Hương: Hương thùa gai xanh chủ đạo hòa cùng với dừa và các gia vị khác</p>\n<p>Vị: Trung và dịu, ngọt ngào với vị ngọt của dừa và quả thùa tươi</p>\n<p>Hậu: Kéo dài với sự cân bằng tinh tế giữa dừa và Tequila, càng làm bạn muốn tiếp tục lựa chọn loại rượu này.</p>\n<p>Xuất xứ: Mexico</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/9b/a5/e7/7682bbc06f84df0286b155134dfecac2.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1108000,
+        "product_quantity": 9716,
+        "product_category": [
+            "Bách Hóa Online"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Tequila ",
+            "Xuất xứ thương hiệu": "Mỹ",
+            "Hạn sử dụng": "không",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Mexico"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "167214",
+        "product_name": "Rượu 400 Conejos Mezcal Artesanal Joven 38% 1x0.75L",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/e8/63/55/f2b63db35e7e89268fced619cda812bb.jpg",
+            "https://salt.tikicdn.com/ts/product/85/0f/7e/01d5e7cb4f346852bc53fa108ae44106.jpg"
+        ],
+        "product_description": "<p>Rượu 400 Conejos Mezcal Artesanal Joven 38% 1x0.75L</p>\n<p>Sản phẩm được nhập khẩu từ nước ngoài.</p>\n<p>Xuất xứ: Mexico</p>\n<p>Nồng độ: 38%</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/e8/63/55/edfa6ba97b8a3f910994467bcb2a2c57.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1176000,
+        "product_quantity": 1704,
+        "product_category": [
+            "Các loại rượu mạnh khác"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "400 Conejos",
+            "Xuất xứ thương hiệu": "Mexico",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Mexico"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "167214",
+        "product_name": "Rượu Four Pillars Spiced Negroni Gin 1x700ml 43,8%",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/d5/30/66/df76d03de91c9d9b890d2b2ad983c888.jpg",
+            "https://salt.tikicdn.com/ts/product/ec/b9/fe/9d752663efaf7c95681136ff7d519a5d.png",
+            "https://salt.tikicdn.com/ts/product/20/ed/f1/d6b3774260c6e800d1f470ecbe117921.jpg"
+        ],
+        "product_description": "<p>Rượu Four Pillars Spiced Negroni Gin 1x700ml 43,8%</p>\n<p>Sản phẩm được nhập khẩu từ nước ngoài.</p>\n<p>Bao bì sản phẩm có thể thay đổi theo từng đợt nhập hàng.</p>\n<p>Xuất xứ: Úc</p>\n<p>Nồng độ: 43.8%</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/d5/30/66/ee8ce376548b24396738b779a2275397.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 1188000,
+        "product_quantity": 7828,
+        "product_category": [
+            "Gin"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Four Pillars",
+            "Xuất xứ thương hiệu": "Úc",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Xuất xứ (Made in)": "Úc"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "40395",
+        "product_name": "{Freeship 50K} Bộ sản phẩm rượu Chivas Regal 12YO 700ml kèm hộp",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/07/e1/b9/cd6874b8d1db874a4d1153dd72a9863f.png",
+            "https://salt.tikicdn.com/ts/product/0e/a7/f3/a583e143e754a16d5fd803b2a4e0d8e3.jpg",
+            "https://salt.tikicdn.com/ts/product/1c/c5/ee/2f51cd2b045b0765f965bc0f43105b3f.png",
+            "https://salt.tikicdn.com/ts/product/b9/33/b7/11e88683ac5fe413bc347636138bd2b3.jpg",
+            "https://salt.tikicdn.com/ts/product/bf/f2/d4/af7599b46c8a4001d9b6e4cadb957d2a.jpg"
+        ],
+        "product_description": "<p><strong>Ủ CHẤT TÂM Ý, THƯỞNG TẾT HUY HOÀNG</strong></p>\n<p>Chúng ta vừa kết thúc hành trình của năm Quý Mão 2023 với những khoảnh khắc vui vẻ bên người thân, với Cảm xúc thăng hoa của những niềm vui bất tận, với trào dâng hứng khởi của những chiến thắng vẻ vang. Mùa xuân đang đến, không khí Tết Nguyên Đán Giáp Thìn 2024 đang tràn về. Mừng Tân Xuân khởi sắc, chúng tôi kính chúc Quý Khách Hàng và gia đình năm mới sức khỏe dồi dào, công danh tấn tới, hạnh phúc đong đầy và vạn sự huy hoàng. Pernod Ricard Việt Nam rất vinh hạnh mang đến cho Quý Khách Hàng những trải nghiệm đỉnh cao, với những tuyệt tác thức uống thượng hạng được phối trộn bởi tâm hồn duy mỹ và tay nghề thủ công bậc thầy, cũng như thành ý và tấm lòng tri ân của chúng tôi.</p>\n<p>Hy vọng rằng Pernod Ricard Việt Nam và Quý Khách Hàng sẽ tiếp tục đồng hành trong hành trình tiếp nổi thành công huy hoàng và rực rỡ trong năm 2024.</p>\n<p><strong>HỘP QUÀ RƯỢU TẾT CHIVAS REGAL 12 - TẾT HUY HOÀNG,TÂN NIÊN GHI DẤU ẤN</strong></p>\n<p>Tân niên hứng khởi không thể thiếu những buổi tụ họp của những chiến hữu thực thụ. Còn gì tuyệt với hơn khi khai niên, hòa nhịp cùng chiến hữu với ly thực uống pha trộn đầy hứng khởi từ Chivas 12 năm tuổi trứ danh với vẻ ngoài táo bạo và đương đại cho cả chai, nhãn và bao bì. Thiết kế này là sự tái sinh của biểu tượng Chivas dành cho thế hệ những người uống Whisky mới, hiện đại và đầy ý thức về phong cách.</p>\n<p>Năm mới, hãy cùng hòa nhịp với Chivas 12 và các chiến hữu, hy vọng vào một năm đồng lòng, đầy dấu ấn và huy hoàng.</p>\n<p><strong>CHIVAS REGAL 12YO</strong></p>\n<p>Chivas Regal 12 năm tuổi, biểu tượng của Scotch Whisky. Trưởng thành qua 12 năm chưng cất và tuyển chọn nghiêm ngặt, từng giọt Chivas Regal 12 đều đạt được độ mượt mà và cân bằng tuyệt đối, tiếp nối cho những chủ đề thêm xa.</p>\n<p>Nốt hương: phóng khoáng cho cuộc vui bất tận, đượm hương ngọt ngào và thơm mát của trái chín mùa thu, thoảng hương thảo mộc cùng vị dịu ngọt của cam chín.</p>\n<p>Vị: cân bằng giữa sự đậm đà &amp; êm mượt của mật ong xen lẫn vị vanilla.</p>\n<p>Hậu vị: hương vị phong phú &amp; sự nồng ấm lan tỏa khắp vòm họng</p>\n<p><strong>XUẤT XỨ</strong></p>\n<p>Scotland</p>\n<p><strong>HẠN SỬ DỤNG</strong></p>\n<p>Không quy định hạn sử dụng.</p>\n<p>Thưởng thức có trách nhiệm.​</p>\n<p>Không chia sẻ nội dung này cho người dưới 18 tuổi.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 780000,
+        "product_quantity": 8243,
+        "product_category": [
+            "Whisky"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "Chivas Regal",
+            "Xuất xứ thương hiệu": "Scotland",
+            "Hạn sử dụng": "không có HSD",
+            "Hướng dẫn bảo quản": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời.",
+            "Hướng dẫn sử dụng": "Dùng uống trực tiếp.",
+            "Sản phẩm có được bảo hành không?": "Không",
+            "Lưu ý": "Bao bì có thể thay đổi tùy theo đợt nhập hàng",
+            "Xuất xứ (Made in)": "Scotland",
+            "Trọng lượng sản phẩm": "1.8",
+            "Thành phần": "Rượu được lên men và chưng cất từ nước mạch nha của hạt ngũ cốc."
+        },
+        "product_variations": null,
+        "sku_list": null
+    }
+]

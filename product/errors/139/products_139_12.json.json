@@ -1,0 +1,49 @@
+[
+    {
+        "product_shop": "51001",
+        "product_name": "The Great Gatsby",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/7f/7c/81/1e2e67f6afd475b0a2265f48278684b1.jpg",
+            "https://salt.tikicdn.com/ts/product/7c/04/e7/a306e18f59afa9c91640293aaef5ca7c.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <p style=\"text-align: justify;\"><strong>The Great Gatsby</strong></p> \n  <p style=\"text-align: justify;\">Jay Gatsby is the man who has everything. But one thing will always be out of his reach! Everybody who is anybody is seen at his glittering parties. Day and night his Long Island mansion buzzes with bright young things drinking, dancing and debating his mysterious character. For Gatsby - young, handsome, fabulously rich - always seems alone in the crowd, watching and waiting, though no one knows what for. Beneath the shimmering surface of his life he is hiding a secret: a silent longing that can never be fulfilled. And soon this destructive obsession will force his world to unravel.</p>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 266000,
+        "product_quantity": 5826,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Penguin Books",
+            "Nhà xuất bản": "Penguin Books",
+            "Ngày xuất bản": "2023-12-21 14:00:00",
+            "ISBN-13": "9780141023434",
+            "Loại bìa": "Bìa mềm",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    },
+    {
+        "product_shop": "51001",
+        "product_name": "David Copperfield (Alma Classics Evergreens)",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/9f/d0/a4/c89ae34757e9e317862230248d282eb5.jpg"
+        ],
+        "product_description": "<html>\n <head></head>\n <body>\n  <p style=\"text-align: justify;\"><strong>David Copperfield (Alma Classics Evergreens)</strong></p> \n  <p style=\"text-align: justify;\">One of the most famous and celebrated Victorian coming-of-age novels, <em>David Copperfield </em>charts the adventures and vicissitudes of its eponymous hero’s life, from the misery of his childhood after his mother’s marriage to the tyrannical Mr Murdstone, through to his first steps as a writer and his search for love and happiness. Along the way he encounters a vast array of gloriously vivid characters – many of whom number among the most memorable in literature – such as the eccentric aunt Betsey Trotwood, the eloquent debtor Wilkins Micawber and the obsequious villain Uriah Heep.</p> \n  <p style=\"text-align: justify;\">Replete with comedy and tragedy in equal measure, and cited by Dickens as “his favourite child”, this partially autobiographical work provides tantalizing glimpses into Dickens’s own childhood and remains one of the most enduringly popular novels in the English language.</p> \n  <p style=\"text-align: justify;\"><u><em>Alma Classics Evergreens </em></u>is a series of popular classics. We now have almost 100 titles in this series, which is constantly growing. Most of the titles are provided with an extensive critical apparatus and extra reading material, including a section of photographs and notes. The texts are based on the most authoritative edition (or collated from the most authoritative editions or manuscripts) and edited using a fresh, intelligent editorial approach. With an emphasis on the production, editorial and typographical values of a book, Alma Classics aspires to revitalize the whole experience of reading the classics.</p>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 236000,
+        "product_quantity": 8198,
+        "product_category": [
+            "Root"
+        ],
+        "product_attributes": {
+            "Công ty phát hành": "Đang cập nhật",
+            "Nhà xuất bản": "Đang cập nhật",
+            "Ngày xuất bản": "2023-12-21 14:00:00",
+            "ISBN-13": "9781847497987",
+            "Loại bìa": "Bìa mềm",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng"
+        },
+        "product_variations": null,
+        "sku_list": null
+    }
+]

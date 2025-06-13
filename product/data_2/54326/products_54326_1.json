@@ -1,0 +1,40 @@
+[
+    {
+        "product_shop": "125847",
+        "product_name": "Đậu hũ phô mai EB Malaysia nhập khẩu gói 500g [Chỉ giao hỏa tốc HN]",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/7f/2b/75/ef1f1406ddcef84893d19239bf047ca2.png",
+            "https://salt.tikicdn.com/ts/product/7e/03/05/dd5e5f862c98238f094ec5979239c3ce.png"
+        ],
+        "product_description": "<p>Tên sản phẩm: Đậu hũ cá phô mai Phumark Food gói 500g</p>\n<p>Thành phần: surimi, bột đậu nành, phô mai, dầu nành, đường tinh luyện, muối iod, bột lòng trắng trứng.</p>\n<p>Hướng dẫn sử dụng: Rã đông tự nhiên 20-30 phút, chiên ngập trong dầu nóng 2-3 phút cho đến khi vàng ruộm, thả lẩu, BBQ hoặc chế biến theo sở thích, ăn nóng sẽ ngon hơn.</p>\n<p>Bảo quản: ngăn đông tủ lạnh.</p>\n<p>Thời hạn sử dụng: 6 tháng từ ngày sản xuất.</p>\n<p>NSX: Xem trên bao bì. </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 109000,
+        "product_quantity": 2566,
+        "product_category": [
+            "NGON"
+        ],
+        "product_attributes": {
+            "Thương hiệu": "TrFood",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Trọng lượng sản phẩm": "500g",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng"
+        },
+        "product_variations": [
+            {
+                "name": "Phân loại",
+                "options": [
+                    "EB Malaysia"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 109000,
+                "sku_stock": 1957
+            }
+        ]
+    }
+]

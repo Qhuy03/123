@@ -1,0 +1,54 @@
+[
+    {
+        "product_shop": "302493",
+        "product_name": "Tăm bông cho bé sơ sinh đầu nhỏ Mipbi hộp 120 chiếc",
+        "product_thumb": [
+            "https://salt.tikicdn.com/ts/product/6e/1f/97/c4f1ce559202fa8648c65c0b03132076.jpg",
+            "https://salt.tikicdn.com/ts/product/4a/43/bc/5b6b055efc1c54300823f04646025fe3.jpg",
+            "https://salt.tikicdn.com/ts/product/e1/b4/3a/d3b6bd186fd61f6639df9ad096f3e421.jpg",
+            "https://salt.tikicdn.com/ts/product/4e/d9/17/9d71a3f256e0082d615f73cf636e18e2.jpg",
+            "https://salt.tikicdn.com/ts/product/c1/7c/d0/fe6f069b156b007fedfcadb8cc8e0f8b.jpg",
+            "https://salt.tikicdn.com/ts/product/5b/8e/b8/b99adb075fc9987283d4d3581f5f5fe3.jpg"
+        ],
+        "product_description": "\n  <p>- Số lượng：120 cái / Hộp</p>\n   <p>- Chất liệu: 100% bông tự nhiên</p>\n   <p>- Thân tăm bằng nhựa, chiều dài 7cm</p>\n   <p>- Tính năng: Miếng bông mềm dễ dàng hấp thụ mọi chất lỏng</p>\n   <p>- Hướng dẫn sử dụng：Cầm chắc phía thân bông tăm, không đưa bông tăm vào quá sâu, từ từ vệ sinh tai, vành</p>\n   <p>tai và mũi cho bé.</p>\n   <p>- Bảo quản：Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.</p>\n   <p>-Thận trọng：Tránh xa tầm với của trẻ em</p>\n   <p>Thương hiệu Mipbi, sản xuất tại Việt Nam</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+        "product_price": 10500,
+        "product_quantity": 6231,
+        "product_category": [
+            "Tăm bông"
+        ],
+        "product_attributes": {
+            "Dung tích": "500ml",
+            "Thương hiệu": "Mipbi",
+            "Xuất xứ thương hiệu": "Việt Nam",
+            "Xuất xứ (Made in)": "Việt Nam",
+            "Thành phần": " 100% bông tự nhiên",
+            "Hạn sử dụng": "1 năm",
+            "Phương thức giao hàng Seller Delivery": "Nhà bán giao hàng cho khách hàng"
+        },
+        "product_variations": [
+            {
+                "name": "Số lượng",
+                "options": [
+                    "1 hộp",
+                    "3 hộp"
+                ]
+            }
+        ],
+        "sku_list": [
+            {
+                "sku_tier_idx": [
+                    0
+                ],
+                "sku_price": 10500,
+                "sku_stock": 4511
+            },
+            {
+                "sku_tier_idx": [
+                    1
+                ],
+                "sku_price": 10500,
+                "sku_stock": 8438
+            }
+        ]
+    }
+]
