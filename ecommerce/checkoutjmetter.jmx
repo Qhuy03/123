@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.6.3">
+  <hashTree>
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="Test Plan">
+      <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
+        <collectionProp name="Arguments.arguments"/>
+      </elementProp>
+    </TestPlan>
+    <hashTree>
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group">
+        <intProp name="ThreadGroup.num_threads">100</intProp>
+        <intProp name="ThreadGroup.ramp_time">10</intProp>
+        <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
+        <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
+        <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller">
+          <stringProp name="LoopController.loops">2</stringProp>
+          <boolProp name="LoopController.continue_forever">false</boolProp>
+        </elementProp>
+      </ThreadGroup>
+      <hashTree>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request">
+          <stringProp name="HTTPSampler.domain">localhost</stringProp>
+          <stringProp name="HTTPSampler.port">8080</stringProp>
+          <stringProp name="HTTPSampler.protocol">http</stringProp>
+          <stringProp name="HTTPSampler.path">checkout</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <stringProp name="HTTPSampler.method">POST</stringProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
+            <collectionProp name="Arguments.arguments">
+              <elementProp name="" elementType="HTTPArgument">
+                <boolProp name="HTTPArgument.always_encode">false</boolProp>
+                <stringProp name="Argument.value">{&#xd;
+    &quot;cart_id&quot;: &quot;b8f78b17-9d61-48dd-8343-82c7d86892af&quot;,&#xd;
+    &quot;user_id&quot;: &quot;11d717d7-be0f-406e-8bb0-7b616c827dfd&quot;,&#xd;
+    &quot;shop_order_ids&quot;: [&#xd;
+        {&#xd;
+            &quot;shop_id&quot;: &quot;1000&quot;,&#xd;
+            &quot;shop_discount&quot;: [],&#xd;
+            &quot;item_products&quot;: [&#xd;
+                {&#xd;
+                    &quot;quantity&quot;: 1,&#xd;
+                    &quot;shop_id&quot;: &quot;1000&quot;,&#xd;
+                    &quot;product_id&quot;: &quot;e5f4230c-2633-42e4-9777-5ee3c572d8bc&quot;,&#xd;
+                    &quot;sku_id&quot;: &quot;6476c1fe-1b80-4b40-9448-d7e46b1cb556&quot;,&#xd;
+                    &quot;isSelected&quot;: true,&#xd;
+                    &quot;id&quot;: &quot;7b4227aa-ed20-4e9a-a09f-df9d53cbd735&quot;,&#xd;
+                    &quot;product_thumb&quot;: &quot;https://salt.tikicdn.com/ts/product/97/d2/28/7e324dded7d29cd43a69e1f7bf9ec856.jpg&quot;,&#xd;
+                    &quot;product_name&quot;: &quot;Apple iPhone 16e&quot;,&#xd;
+                    &quot;product_price&quot;: 16990000,&#xd;
+                    &quot;product_tier_idx&quot;: [&#xd;
+                        0,&#xd;
+                        0&#xd;
+                    ],&#xd;
+                    &quot;product_total&quot;: 16990000,&#xd;
+                    &quot;product_variations&quot;: [&#xd;
+                        {&#xd;
+                            &quot;name&quot;: &quot;Màu sắc&quot;,&#xd;
+                            &quot;options&quot;: [&#xd;
+                                &quot;Màu Trắng&quot;,&#xd;
+                                &quot;Màu Đen&quot;&#xd;
+                            ]&#xd;
+                        },&#xd;
+                        {&#xd;
+                            &quot;name&quot;: &quot;Dung lượng&quot;,&#xd;
+                            &quot;options&quot;: [&#xd;
+                                &quot;128GB&quot;&#xd;
+                            ]&#xd;
+                        }&#xd;
+                    ],&#xd;
+                    &quot;product_options&quot;: &quot;Màu Trắng, 128GB&quot;&#xd;
+                },&#xd;
+                {&#xd;
+                    &quot;quantity&quot;: 1,&#xd;
+                    &quot;shop_id&quot;: &quot;1000&quot;,&#xd;
+                    &quot;product_id&quot;: &quot;8f4834e5-4371-42c1-b88d-9fa5e6a13bc2&quot;,&#xd;
+                    &quot;sku_id&quot;: null,&#xd;
+                    &quot;isSelected&quot;: true,&#xd;
+                    &quot;id&quot;: &quot;acf8f795-4797-443c-94aa-6dc37a0c7cb5&quot;,&#xd;
+                    &quot;product_thumb&quot;: [&#xd;
+                        &quot;https://salt.tikicdn.com/ts/product/90/a4/ab/898f4b561c61d8ac888c3943ab61299c.jpg&quot;,&#xd;
+                        &quot;https://salt.tikicdn.com/ts/product/dc/24/49/7a01901d85a8b2198b3a5e49dfb9a644.jpg&quot;&#xd;
+                    ],&#xd;
+                    &quot;product_name&quot;: &quot;The Witches&quot;,&#xd;
+                    &quot;product_price&quot;: 289000,&#xd;
+                    &quot;product_total&quot;: 2890000&#xd;
+                }&#xd;
+            ],&#xd;
+            &quot;version&quot;: &quot;1.0&quot;&#xd;
+        }&#xd;
+    ],&#xd;
+    &quot;user_address&quot;: {&#xd;
+        &quot;id&quot;: &quot;06a95978-5de0-429c-9b6f-aaf7c96ac9f0&quot;,&#xd;
+        &quot;user_name&quot;: &quot;Đặng Cường&quot;,&#xd;
+        &quot;user_phone&quot;: &quot;0982193203&quot;,&#xd;
+        &quot;user_id&quot;: &quot;11d717d7-be0f-406e-8bb0-7b616c827dfd&quot;,&#xd;
+        &quot;street&quot;: &quot;13245&quot;,&#xd;
+        &quot;district&quot;: &quot;Hà Đông&quot;,&#xd;
+        &quot;city&quot;: &quot;Tỉnh Hà Giang&quot;,&#xd;
+        &quot;type&quot;: &quot;Nhà riêng / Chung cư&quot;,&#xd;
+        &quot;isDefault&quot;: true,&#xd;
+        &quot;created_at&quot;: &quot;2025-04-06T07:19:39.491Z&quot;,&#xd;
+        &quot;updated_at&quot;: &quot;2025-04-06T07:19:39.491Z&quot;,&#xd;
+        &quot;is_deleted&quot;: false&#xd;
+    },&#xd;
+    &quot;user_payment&quot;: {&#xd;
+        &quot;id&quot;: &quot;1&quot;,&#xd;
+        &quot;method_name&quot;: &quot;Thanh toán khi nhận hàng&quot;,&#xd;
+        &quot;method_thumbnail&quot;: &quot;https://salt.tikicdn.com/ts/upload/92/b2/78/1b3b9cda5208b323eb9ec56b84c7eb87.png&quot;,&#xd;
+        &quot;method_description&quot;: null,&#xd;
+        &quot;is_active&quot;: true,&#xd;
+        &quot;created_at&quot;: &quot;2025-04-07T09:03:06.905Z&quot;,&#xd;
+        &quot;updated_at&quot;: &quot;2025-04-07T09:03:06.905Z&quot;&#xd;
+    },&#xd;
+    &quot;checkout_order&quot;: {&#xd;
+        &quot;totalPrice&quot;: 2,&#xd;
+        &quot;totalCheckout&quot;: 2&#xd;
+    }&#xd;
+}</stringProp>
+                <stringProp name="Argument.metadata">=</stringProp>
+              </elementProp>
+            </collectionProp>
+          </elementProp>
+        </HTTPSamplerProxy>
+        <hashTree>
+          <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree">
+            <boolProp name="ResultCollector.error_logging">false</boolProp>
+            <objProp>
+              <name>saveConfig</name>
+              <value class="SampleSaveConfiguration">
+                <time>true</time>
+                <latency>true</latency>
+                <timestamp>true</timestamp>
+                <success>true</success>
+                <label>true</label>
+                <code>true</code>
+                <message>true</message>
+                <threadName>true</threadName>
+                <dataType>true</dataType>
+                <encoding>false</encoding>
+                <assertions>true</assertions>
+                <subresults>true</subresults>
+                <responseData>false</responseData>
+                <samplerData>false</samplerData>
+                <xml>false</xml>
+                <fieldNames>true</fieldNames>
+                <responseHeaders>false</responseHeaders>
+                <requestHeaders>false</requestHeaders>
+                <responseDataOnError>false</responseDataOnError>
+                <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+                <assertionsResultsToSave>0</assertionsResultsToSave>
+                <bytes>true</bytes>
+                <sentBytes>true</sentBytes>
+                <url>true</url>
+                <threadCounts>true</threadCounts>
+                <idleTime>true</idleTime>
+                <connectTime>true</connectTime>
+              </value>
+            </objProp>
+            <stringProp name="filename"></stringProp>
+          </ResultCollector>
+          <hashTree/>
+          <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report">
+            <boolProp name="ResultCollector.error_logging">false</boolProp>
+            <objProp>
+              <name>saveConfig</name>
+              <value class="SampleSaveConfiguration">
+                <time>true</time>
+                <latency>true</latency>
+                <timestamp>true</timestamp>
+                <success>true</success>
+                <label>true</label>
+                <code>true</code>
+                <message>true</message>
+                <threadName>true</threadName>
+                <dataType>true</dataType>
+                <encoding>false</encoding>
+                <assertions>true</assertions>
+                <subresults>true</subresults>
+                <responseData>false</responseData>
+                <samplerData>false</samplerData>
+                <xml>false</xml>
+                <fieldNames>true</fieldNames>
+                <responseHeaders>false</responseHeaders>
+                <requestHeaders>false</requestHeaders>
+                <responseDataOnError>false</responseDataOnError>
+                <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+                <assertionsResultsToSave>0</assertionsResultsToSave>
+                <bytes>true</bytes>
+                <sentBytes>true</sentBytes>
+                <url>true</url>
+                <threadCounts>true</threadCounts>
+                <idleTime>true</idleTime>
+                <connectTime>true</connectTime>
+              </value>
+            </objProp>
+            <stringProp name="filename"></stringProp>
+          </ResultCollector>
+          <hashTree/>
+          <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager">
+            <collectionProp name="HeaderManager.headers">
+              <elementProp name="" elementType="Header">
+                <stringProp name="Header.name">x-client-id</stringProp>
+                <stringProp name="Header.value">11d717d7-be0f-406e-8bb0-7b616c827dfd</stringProp>
+              </elementProp>
+              <elementProp name="" elementType="Header">
+                <stringProp name="Header.name">content-type</stringProp>
+                <stringProp name="Header.value">application/json</stringProp>
+              </elementProp>
+            </collectionProp>
+          </HeaderManager>
+          <hashTree/>
+        </hashTree>
+      </hashTree>
+    </hashTree>
+  </hashTree>
+</jmeterTestPlan>

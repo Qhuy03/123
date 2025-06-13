@@ -1,0 +1,39 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider      = "prisma-client-js"
+  output        = "../generated/cart"
+  binaryTargets = ["native", "linux-musl-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("CART_DATABASE_URL")
+}
+
+model Carts {
+  id         String     @id @default(uuid())
+  user_id    String     @unique
+  cart_items CartItem[]
+  created_at DateTime   @default(now())
+  updated_at DateTime   @default(now()) @updatedAt
+}
+
+model CartItem {
+  id           String   @id @default(uuid())
+  product_id   String
+  cart_id      String
+  sku_id       String?
+  quantity     Int      @default(1)
+  product_shop String
+  isSelected   Boolean? @default(false)
+  isDeleted    Boolean  @default(false)
+  created_at   DateTime @default(now())
+  updated_at   DateTime @default(now()) @updatedAt
+
+  carts Carts @relation(fields: [cart_id], references: [id])
+}

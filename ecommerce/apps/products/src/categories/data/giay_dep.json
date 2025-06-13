@@ -1,0 +1,381 @@
+[
+    {
+        "text": "Giày - Dép nam",
+        "icon_url": "https://salt.tikicdn.com/ts/category/d6/7f/6c/5d53b60efb9448b6a1609c825c29fa40.png",
+        "children": [
+            {
+                "id": 27572,
+                "parent_id": 1686,
+                "text": "Giày thể thao nam",
+                "type": null,
+                "url_key": "giay-the-thao-nam",
+                "url_path": "giay-the-thao-nam/c27572",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 356,
+                "is_leaf": false,
+                "meta_title": "Giày thể thao nam",
+                "meta_description": "Giày thể thao nam",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/62/e5/f5/97bd23a616c77b4c47623c285d0a3ef5.png",
+                "children": [
+                    {
+                        "id": 49620,
+                        "text": "Giày thể thao nam cổ thấp",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-the-thao-nam-co-thap",
+                        "url_path": "giay-the-thao-nam-co-thap/c49620",
+                        "product_count": 326,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/63/25/f7/28e70b546be6c52ee582936d10f9780e.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49622,
+                        "text": "Giày thể thao nam cổ cao",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-the-thao-nam-co-cao",
+                        "url_path": "giay-the-thao-nam-co-cao/c49622",
+                        "product_count": 30,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/9d/44/7b/3c9cb6a1d366ec88a43574ca08a07850.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 5340,
+                "parent_id": 1686,
+                "text": "Giày lười nam",
+                "type": null,
+                "url_key": "giay-luoi-nam",
+                "url_path": "giay-luoi-nam/c5340",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 840,
+                "is_leaf": false,
+                "meta_title": "Giày lười nam",
+                "meta_description": "Giày lười nam",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/90/16/b3/fa744d518d74edd79fa3b8af96684340.png",
+                "children": [
+                    {
+                        "id": 49624,
+                        "text": "Giày lười vải nam",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-luoi-vai-nam",
+                        "url_path": "giay-luoi-vai-nam/c49624",
+                        "product_count": 9,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49626,
+                        "text": "Giày lười da nam",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-luoi-da-nam",
+                        "url_path": "giay-luoi-da-nam/c49626",
+                        "product_count": 679,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/0d/f9/be/a417f2df8df78e5630305aa24fe974f2.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49628,
+                        "text": "Giày lười nhựa nam",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-luoi-nhua-nam",
+                        "url_path": "giay-luoi-nhua-nam/c49628",
+                        "product_count": 144,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/eb/45/14/72ad5ef0ddf4d9d5832650f31ca55375.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 1581,
+                "parent_id": 1686,
+                "text": "Giày tây nam",
+                "type": null,
+                "url_key": "giay-tay-cong-so",
+                "url_path": "giay-tay-cong-so/c1581",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 748,
+                "is_leaf": false,
+                "meta_title": "Giày Tây nam, mẫu mã đa dạng hàng chất lượng | tiki.vn",
+                "meta_description": "Giày tây mang lại chon nam giới vẻ tự tin, lịch lãm và phong độ trong mọi trường hợp giao tiếp trong xã hội và trong cuộc sống",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bf/fb/c8/a172afa90330b0174bcb17e52c3daf0b.jpg",
+                "children": [
+                    {
+                        "id": 49630,
+                        "text": "Giày tây nam có dây",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-tay-nam-co-day",
+                        "url_path": "giay-tay-nam-co-day/c49630",
+                        "product_count": 252,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bf/fb/c8/a172afa90330b0174bcb17e52c3daf0b.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49632,
+                        "text": "Giày tây nam không dây",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-tay-nam-khong-day",
+                        "url_path": "giay-tay-nam-khong-day/c49632",
+                        "product_count": 496,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ae/fd/57/0ff795c44e68d2cebc602e7efeee2c23.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 5341,
+                "parent_id": 1686,
+                "text": "Giày sandals nam",
+                "type": null,
+                "url_key": "giay-sandals-nam",
+                "url_path": "giay-sandals-nam/c5341",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 342,
+                "is_leaf": false,
+                "meta_title": "Giày sandals nam",
+                "meta_description": "Giày sandals nam",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/b6/48/79/51595a32c9a5e06cca88c0c78b9f239b.png",
+                "children": [
+                    {
+                        "id": 49634,
+                        "text": "Giày sandals nam quai ngang",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-sandals-nam-quai-ngang",
+                        "url_path": "giay-sandals-nam-quai-ngang/c49634",
+                        "product_count": 297,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49636,
+                        "text": "Giày sandals nam quai chéo",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-sandals-nam-quai-cheo",
+                        "url_path": "giay-sandals-nam-quai-cheo/c49636",
+                        "product_count": 45,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/43/dd/69/6b47c96bd2f4175e47a810562eb665d9.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 5342,
+                "parent_id": 1686,
+                "text": "Dép nam",
+                "type": null,
+                "url_key": "dep-nam",
+                "url_path": "dep-nam/c5342",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1453,
+                "is_leaf": false,
+                "meta_title": "Dép nam thời trang, mẫu mã đa dạng | tiki.vn",
+                "meta_description": "Dép nam thời trang",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/a9/18/c0/fba8695551f662848c374859e4bb92f6.png",
+                "children": [
+                    {
+                        "id": 10383,
+                        "text": "Dép nam xỏ ngón",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dep-nam-xo-ngon",
+                        "url_path": "dep-nam-xo-ngon/c10383",
+                        "product_count": 322,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/30/8e/7d/7bce40df7e2ebaa33ac88b5ecf7b2130.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 10384,
+                        "text": "Dép nam quai ngang",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dep-nam-quai-ngang",
+                        "url_path": "dep-nam-quai-ngang/c10384",
+                        "product_count": 1110,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/83/ca/1c/33514a08883e349d1df787550f0ff4b5.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49638,
+                        "text": "Dép nam đi trong nhà",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dep-nam-di-trong-nha",
+                        "url_path": "dep-nam-di-trong-nha/c49638",
+                        "product_count": 22,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5e/43/70/e845b6982efdacea75a41adc41139247.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 8337,
+                "parent_id": 1686,
+                "text": "Giày boots nam",
+                "type": null,
+                "url_key": "giay-boots-nam",
+                "url_path": "giay-boots-nam/c8337",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 34,
+                "is_leaf": false,
+                "meta_title": "Giày boots nam",
+                "meta_description": "Giày boots nam",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/01/c1/f3/be44da817d94d651568f6e2e27d4b39d.png",
+                "children": [
+                    {
+                        "id": 49640,
+                        "text": "Giày boots nam cổ cao",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-boots-nam-co-cao",
+                        "url_path": "giay-boots-nam-co-cao/c49640",
+                        "product_count": 10,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1a/2b/d7/69e99e4bf79096e7d3873ec30734f42c.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49642,
+                        "text": "Giày boots nam cổ thấp",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-boots-nam-co-thap",
+                        "url_path": "giay-boots-nam-co-thap/c49642",
+                        "product_count": 24,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/33/46/be/64729491b71852ed5051dc04da7767cb.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 8338,
+                "parent_id": 1686,
+                "text": "Phụ kiện giày nam",
+                "type": null,
+                "url_key": "phu-kien-giay-nam",
+                "url_path": "phu-kien-giay-nam/c8338",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 366,
+                "is_leaf": false,
+                "meta_title": "Phụ kiện giày nam",
+                "meta_description": "Phụ kiện giày nam",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/e9/7d/a1/1c4d2a04bc784a21e9fcc5d292c4c3e4.png",
+                "children": [
+                    {
+                        "id": 49644,
+                        "text": "Dụng cụ chăm sóc & làm sạch giày",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-cham-soc-lam-sach-giay",
+                        "url_path": "dung-cu-cham-soc-lam-sach-giay/c49644",
+                        "product_count": 159,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/8f/ae/ff/d695aca300717790a2e9418b7787ce67.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49646,
+                        "text": "Miếng lót giày nam",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "mieng-lot-giay-nam",
+                        "url_path": "mieng-lot-giay-nam/c49646",
+                        "product_count": 85,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a5/c9/b8/505afbc1d39e448540d523027b2ecd06.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49648,
+                        "text": "Phụ kiện giày nam khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-giay-nam-khac",
+                        "url_path": "phu-kien-giay-nam-khac/c49648",
+                        "product_count": 61,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/5f/4c/73/e7e2e476f2cddfd78b0b8f30d76c2d7e.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68160,
+                        "text": "Dây giày",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "day-giay",
+                        "url_path": "day-giay/c68160",
+                        "product_count": 12,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68161,
+                        "text": "Khử mùi giày",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "khu-mui-giay",
+                        "url_path": "khu-mui-giay/c68161",
+                        "product_count": 28,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68162,
+                        "text": "Túi đựng giày",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-dung-giay",
+                        "url_path": "tui-dung-giay/c68162",
+                        "product_count": 21,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/40/f8/07/884dd4c51419af49f4f5ce626364d089.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            }
+        ]
+    }
+]

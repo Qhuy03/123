@@ -1,0 +1,107 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ES2021",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "incremental": true,
+    "skipLibCheck": true,
+    "strictNullChecks": false,
+    "noImplicitAny": false,
+    "strictBindCallApply": false,
+    "forceConsistentCasingInFileNames": false,
+    "noFallthroughCasesInSwitch": false,
+    "paths": {
+      "y/auth": [
+        "libs/auth/src"
+      ],
+      "y/auth/*": [
+        "libs/auth/src/*"
+      ],
+      "y/shared/auth": [
+        "libs/shared/auth/src"
+      ],
+      "y/shared/auth/*": [
+        "libs/shared/auth/src/*"
+      ],
+      "y/shared/logger": [
+        "libs/shared/logger/src"
+      ],
+      "y/shared/logger/*": [
+        "libs/shared/logger/src/*"
+      ],
+      "y/dtos": [
+        "libs/dtos/src",
+        "libs/dtos/src",
+        "libs/dtos/src"
+      ],
+      "y/dtos/*": [
+        "libs/dtos/src/*",
+        "libs/dtos/src/*",
+        "libs/dtos/src/*"
+      ],
+      "y/utils": [
+        "libs/utils/src"
+      ],
+      "y/utils/*": [
+        "libs/utils/src/*"
+      ],
+      "y/prisma": [
+        "libs/prisma/src"
+      ],
+      "y/prisma/*": [
+        "libs/prisma/src/*"
+      ],
+      "no/prismass": [
+        "libs/prismass/src"
+      ],
+      "no/prismass/*": [
+        "libs/prismass/src/*"
+      ],
+      "n/prismass": [
+        "libs/prismass/src"
+      ],
+      "n/prismass/*": [
+        "libs/prismass/src/*"
+      ],
+      "y/repositories": [
+        "libs/repositories/src"
+      ],
+      "y/repositories/*": [
+        "libs/repositories/src/*"
+      ],
+      "y/constants": [
+        "libs/constants/src"
+      ],
+      "y/constants/*": [
+        "libs/constants/src/*"
+      ],
+      "y/configs": [
+        "libs/configs/src"
+      ],
+      "y/configs/*": [
+        "libs/configs/src/*"
+      ],
+      "y/middlewares": [
+        "libs/middlewares/src"
+      ],
+      "y/middlewares/*": [
+        "libs/middlewares/src/*"
+      ],
+      "y/guards": [
+        "libs/guards/src"
+      ],
+      "y/guards/*": [
+        "libs/guards/src/*"
+      ]
+    }
+  }
+}

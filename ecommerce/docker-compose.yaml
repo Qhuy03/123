@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  products:
+  
+    build: 
+      context: .
+      dockerfile: ./apps/products/Dockerfile
+    container_name: products-api
+    ports:
+      - "8088:3000"
+    volumes:
+      - /package.json:/package.json
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

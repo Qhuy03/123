@@ -1,0 +1,102 @@
+[
+    {
+        "text": "Túi thời trang nam",
+        "icon_url": "https://salt.tikicdn.com/ts/category/9b/31/af/669e6a133118e5439d6c175e27c1f963.png",
+        "children": [
+            {
+                "id": 5337,
+                "parent_id": 27616,
+                "text": "Túi xách công sở nam",
+                "type": null,
+                "url_key": "tui-xach-cong-so-nam",
+                "url_path": "tui-xach-cong-so-nam/c5337",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 324,
+                "is_leaf": true,
+                "meta_title": "Túi xách công sở nam thời trang, mẫu mã đa dạng | tiki.vn",
+                "meta_description": "Túi xách công sở nam",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/10/47/49/9ca6828ceaa0fa8933518d748b3252ac.jpg"
+            },
+            {
+                "id": 958,
+                "parent_id": 27616,
+                "text": "Túi đeo chéo nam",
+                "type": null,
+                "url_key": "phu-kien-nam-tui-xach",
+                "url_path": "phu-kien-nam-tui-xach/c958",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1007,
+                "is_leaf": true,
+                "meta_title": "Túi xách đeo chéo nam thời trang, mẫu mã đa dạng | tiki.vn",
+                "meta_description": "Túi xách nam",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/assets/img/image.svg"
+            },
+            {
+                "id": 49650,
+                "parent_id": 27616,
+                "text": "Túi bao tử, túi đeo bụng",
+                "type": null,
+                "url_key": "tui-bao-tu-tui-deo-bung",
+                "url_path": "tui-bao-tu-tui-deo-bung/c49650",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 90,
+                "is_leaf": true,
+                "meta_title": "Túi bao tử, túi đeo bụng",
+                "meta_description": "Túi bao tử, túi đeo bụng",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0a/ca/51/63826dd4249825fdfc019e515db90b43.jpg"
+            },
+            {
+                "id": 959,
+                "parent_id": 27616,
+                "text": "Ví nam",
+                "type": null,
+                "url_key": "vi-nam",
+                "url_path": "vi-nam/c959",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1530,
+                "is_leaf": false,
+                "meta_title": "Ví bóp nam đẹp tại Tiki.vn",
+                "meta_description": "Ví bóp nam đẹp tại Tiki.vn",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a4/2c/7f/d1c9e47f479b146add188a4a44ea8a40.jpg",
+                "children": [
+                    {
+                        "id": 49652,
+                        "text": "Ví nam ngang",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "vi-nam-ngang",
+                        "url_path": "vi-nam-ngang/c49652",
+                        "product_count": 1032,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a4/2c/7f/d1c9e47f479b146add188a4a44ea8a40.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49654,
+                        "text": "Ví nam đứng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "vi-nam-dung",
+                        "url_path": "vi-nam-dung/c49654",
+                        "product_count": 504,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5e/74/69/8404a2cc6a18f5d6894dcc9e16d7b46c.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            }
+        ]
+    }
+]

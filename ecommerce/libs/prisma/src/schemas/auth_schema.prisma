@@ -1,0 +1,121 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider      = "prisma-client-js"
+  output        = "../generated/auth"
+  // binaryTargets = ["native", "linux-musl-openssl-3.0.x"]
+  binaryTargets = ["native", "debian-openssl-3.0.x"]
+}
+
+// npx prisma generate --schema=./cart_schema.prisma
+// npx prisma migrate dev --schema=./cart_schema.prisma
+datasource db {
+  provider = "mysql"
+  url      = env("AUTH_DATABASE_URL")
+}
+
+enum Gender {
+  MALE
+  FEMALE
+}
+
+model users {
+  id            String    @id @default(uuid())
+  user_name     String    @default("") @db.VarChar(50)
+  user_avatar   String    @default("")
+  user_email    String    @unique @db.VarChar(50)
+  user_phone    String    @default("") @db.VarChar(10)
+  user_password String    @db.VarChar(255)
+  user_gender   Gender    @default(MALE)
+  user_birthday DateTime?
+  user_salt     String    @db.VarChar(255)
+  created_at    DateTime  @default(now())
+  updated_at    DateTime  @default(now()) @updatedAt
+
+  user_tokens  user_tokens[]
+  user_roles   user_role[]
+  user_address UserAddress[]
+}
+
+model user_tokens {
+  user_id            String
+  user_refresh_token String   @unique @db.VarChar(255)
+  user_public_key    String   @unique @db.VarChar(255)
+  user_private_key   String   @unique @db.VarChar(255)
+  user_login_time    DateTime @default(now())
+  user_login_ip      String   @default("") @db.VarChar(50)
+  user_agent         String   @default("") @db.VarChar(50)
+  expiration         DateTime
+  is_active          Boolean  @default(true)
+  created_at         DateTime @default(now())
+  updated_at         DateTime @default(now()) @updatedAt
+
+  user users @relation(fields: [user_id], references: [id])
+
+  @@index([user_id])
+}
+
+model roles {
+  id               String  @id @default(uuid())
+  role_name        String  @unique @db.VarChar(50)
+  role_description String? @db.VarChar(255)
+
+  is_deleted Boolean   @default(false)
+  created_at DateTime  @default(now())
+  updated_at DateTime  @updatedAt
+  deleted_at DateTime?
+
+  role_user        user_role[]
+  role_permissions role_permission[]
+}
+
+model permissions {
+  id                     String   @id @default(uuid())
+  permission_name        String   @unique @db.VarChar(50)
+  permission_description String?  @db.VarChar(255)
+  created_at             DateTime @default(now())
+  updated_at             DateTime @updatedAt
+
+  permission_role role_permission[]
+}
+
+model user_role {
+  user_id     String
+  role_id     String
+  assigned_at DateTime @default(now())
+  user        users    @relation(fields: [user_id], references: [id])
+  role        roles    @relation(fields: [role_id], references: [id])
+
+  @@id([user_id, role_id])
+}
+
+model role_permission {
+  role_id       String
+  permission_id String
+  granted_at    DateTime    @default(now())
+  role          roles       @relation(fields: [role_id], references: [id])
+  permission    permissions @relation(fields: [permission_id], references: [id])
+
+  @@id([role_id, permission_id])
+}
+
+model UserAddress {
+  id         String   @id @default(uuid()) // Primary key
+  user_name  String
+  user_phone String
+  user_id    String
+  street     String
+  district   String
+  city       String
+  type       String
+  isDefault  Boolean  @default(false)
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+  is_deleted Boolean  @default(false)
+
+  user users @relation(fields: [user_id], references: [id])
+}

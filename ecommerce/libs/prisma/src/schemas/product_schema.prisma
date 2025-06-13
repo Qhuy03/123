@@ -1,0 +1,53 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../generated/product"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("PRODUCT_DATABASE_URL")
+}
+
+model Spu {
+  id                   String          @id @default(auto()) @map("_id") @db.ObjectId
+  product_id           String          @default(uuid())
+  product_name         String
+  product_thumb        String
+  product_description  String?
+  product_slug         String          @default("")
+  product_price        Float
+  product_category     String[]        @default([])
+  product_quantity     Int
+  product_shop         String?
+  product_attributes   Json
+  product_ratingsAverage Float         @default(4.5)
+  product_variations   Json            @default("[]")
+  isDraft              Boolean         @default(true)
+  isPublished          Boolean         @default(false)
+  isDeleted            Boolean         @default(false)
+  createdAt            DateTime        @default(now()) @map("createdAt")
+  updatedAt            DateTime        @updatedAt      @map("updatedAt")
+
+  @@index([product_name, product_description])
+}
+
+model Sku {
+  id                   String          @id @default(auto()) @map("_id") @db.ObjectId
+  sku_id               String
+  sku_tier_idx         Int[]           @default([])
+  sku_default          Boolean         @default(false)
+  sku_thumb            String          @default("")
+  sku_slug             String          @default("")
+  sku_sort             Int             @default(0)
+  sku_price            Float
+  sku_stock            Int             @default(0)
+  product_id           String          
+  isDraft              Boolean         @default(true)
+  isPublished          Boolean         @default(false)
+  isDeleted            Boolean         @default(false)
+  createdAt            DateTime        @default(now()) @map("createdAt")
+  updatedAt            DateTime        @updatedAt      @map("updatedAt")
+  
+  @@index([product_id])
+}
+

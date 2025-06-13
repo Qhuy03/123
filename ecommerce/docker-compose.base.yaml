@@ -1,0 +1,85 @@
+version: '3.8'
+
+services:
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: ecommerce-rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672" # Giao diện quản lý RabbitMQ
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+  redis:
+    image: redis:alpine
+    container_name: ecommerce-redis
+    ports:
+      - "6379:6379"
+  auth-db:
+    image: mysql:8.4.2
+    container_name: ecommerce-auth-db
+    ports:
+      - "3307:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: userdb
+    volumes:
+      - ./docker/data/auth:/var/lib/mysql
+  cart-db:
+    image: mysql:8.4.2
+    container_name: ecommerce-cart-db
+    ports:
+      - "3308:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: cartdb
+    volumes:
+      - ./docker/data/cart:/var/lib/mysql
+  order-db:
+    image: mysql:8.4.2
+    container_name: ecommerce-order-db
+    ports:
+      - "3309:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: orderdb
+    command: --lower_case_table_names=2
+    volumes:
+      - ./docker/data/order:/var/lib/mysql
+  product-db:
+    image: mongo:latest
+    container_name: ecommerce-product-db
+    ports:
+      - "27018:27017"
+    environment:
+      # MONGO_INITDB_ROOT_USERNAME: root
+      # MONGO_INITDB_ROOT_PASSWORD: root
+      MONGO_INITDB_DATABASE: productdb
+    volumes:
+      - ./docker/data/product:/data/db
+  prometheus:
+    build:
+      context: ./docker/prometheus
+      dockerfile: Dockerfile
+    container_name: ecommerce-prometheus
+    volumes:
+      - ./docker/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+      - ./docker/prometheus/prometheus_data:/prometheus
+    ports:
+      - "9090:9090"
+  grafana:
+    image: grafana/grafana:latest
+    container_name: ecommerce-grafana
+    ports:
+      - "8000:3000"
+    volumes:
+      - ./docker/grafana/grafana_data:/var/lib/grafana
+      - ./docker/grafana/dashboards:/etc/grafana/provisioning/dashboards
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+
+volumes:
+  auth-db-data:
+  product-db-data:
+  cart-db-data:

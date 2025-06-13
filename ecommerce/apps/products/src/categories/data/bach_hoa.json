@@ -1,0 +1,2654 @@
+[
+    {
+        "text": "Bách Hóa Online",
+        "icon_url": "https://salt.tikicdn.com/ts/category/40/0f/9b/62a58fd19f540c70fce804e2a9bb5b2d.png",
+        "children": [
+            {
+                "id": 4421,
+                "parent_id": 4384,
+                "text": "Đồ Ăn Vặt",
+                "type": null,
+                "url_key": "do-an-vat",
+                "url_path": "do-an-vat/c4421",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 3068,
+                "is_leaf": false,
+                "meta_title": "Đồ Ăn Vặt",
+                "meta_description": "Đồ Ăn Vặt",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1b/2b/db/fa1e5830404aeeda38730d86f7d7e9fe.png",
+                "children": [
+                    {
+                        "id": 8275,
+                        "text": "Bánh",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67039,
+                                "text": "Các loại bánh khác",
+                                "url_key": "cac-loai-banh-khac",
+                                "full_url_key": "do-an-vat/banh/cac-loai-banh-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67040,
+                                "text": "Bánh xốp",
+                                "url_key": "banh-xop",
+                                "full_url_key": "do-an-vat/banh/banh-xop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67041,
+                                "text": "Bánh quy",
+                                "url_key": "banh-quy",
+                                "full_url_key": "do-an-vat/banh/banh-quy",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67042,
+                                "text": "Bánh gạo",
+                                "url_key": "banh-gao",
+                                "full_url_key": "do-an-vat/banh/banh-gao",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67043,
+                                "text": "Bánh bông lan",
+                                "url_key": "banh-bong-lan",
+                                "full_url_key": "do-an-vat/banh/banh-bong-lan",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67044,
+                                "text": "Bánh ngọt",
+                                "url_key": "banh-ngot",
+                                "full_url_key": "do-an-vat/banh/banh-ngot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67045,
+                                "text": "Bánh snack",
+                                "url_key": "banh-snack",
+                                "full_url_key": "do-an-vat/banh/banh-snack",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67046,
+                                "text": "Bánh que",
+                                "url_key": "banh-que",
+                                "full_url_key": "do-an-vat/banh/banh-que",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "banh",
+                        "url_path": "banh/c8275",
+                        "product_count": 479,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/90/37/be/9ab773c6b686520a717c7109290b13f1.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8276,
+                        "text": "Kẹo",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67047,
+                                "text": "Các loại kẹo khác",
+                                "url_key": "cac-loai-keo-khac",
+                                "full_url_key": "do-an-vat/keo/cac-loai-keo-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67048,
+                                "text": "Kẹo dẻo",
+                                "url_key": "keo-deo",
+                                "full_url_key": "do-an-vat/keo/keo-deo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67049,
+                                "text": "Kẹo Marshmallow",
+                                "url_key": "keo-marshmallow",
+                                "full_url_key": "do-an-vat/keo/keo-marshmallow",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67050,
+                                "text": "Kẹo cao su",
+                                "url_key": "keo-cao-su",
+                                "full_url_key": "do-an-vat/keo/keo-cao-su",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67051,
+                                "text": "Kẹo đóng hộp",
+                                "url_key": "keo-dong-hop",
+                                "full_url_key": "do-an-vat/keo/keo-dong-hop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67052,
+                                "text": "Kẹo cứng",
+                                "url_key": "keo-cung",
+                                "full_url_key": "do-an-vat/keo/keo-cung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67053,
+                                "text": "Kẹo the",
+                                "url_key": "keo-the",
+                                "full_url_key": "do-an-vat/keo/keo-the",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67054,
+                                "text": "Kẹo thanh",
+                                "url_key": "keo-thanh",
+                                "full_url_key": "do-an-vat/keo/keo-thanh",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "keo",
+                        "url_path": "keo/c8276",
+                        "product_count": 406,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5b/58/d3/12dbc61b5e5f356eb92d4632c55b1110.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8277,
+                        "text": "Chocolate",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67055,
+                                "text": "Chocolate hộp",
+                                "url_key": "chocolate-hop",
+                                "full_url_key": "do-an-vat/chocolate/chocolate-hop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67056,
+                                "text": "Chocolate viên",
+                                "url_key": "chocolate-vien",
+                                "full_url_key": "do-an-vat/chocolate/chocolate-vien",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "chocolate",
+                        "url_path": "chocolate/c8277",
+                        "product_count": 104,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/78/a5/96/db14cb75001c821be67a3724a146c2c2.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8278,
+                        "text": "Snack",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "snack",
+                        "url_path": "snack/c8278",
+                        "product_count": 61,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e5/96/70/b87823ab30ccd031ff6ccfcf3ca84dd1.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 10222,
+                        "text": "Bánh kẹo khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "banh-keo-khac",
+                        "url_path": "banh-keo-khac/c10222",
+                        "product_count": 86,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/df/13/79/0b4c87fd257ff958ae381406b991657c.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 53526,
+                        "text": "Thức ăn khô",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67059,
+                                "text": "Khô các loại",
+                                "url_key": "kho-cac-loai",
+                                "full_url_key": "do-an-vat/thuc-an-kho/kho-cac-loai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67060,
+                                "text": "Khô cá",
+                                "url_key": "kho-ca",
+                                "full_url_key": "do-an-vat/thuc-an-kho/kho-ca",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67061,
+                                "text": "Khô gà",
+                                "url_key": "kho-ga",
+                                "full_url_key": "do-an-vat/thuc-an-kho/kho-ga",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67062,
+                                "text": "Khô bò",
+                                "url_key": "kho-bo",
+                                "full_url_key": "do-an-vat/thuc-an-kho/kho-bo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67063,
+                                "text": "Khô heo",
+                                "url_key": "kho-heo",
+                                "full_url_key": "do-an-vat/thuc-an-kho/kho-heo",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thuc-an-kho",
+                        "url_path": "thuc-an-kho/c53526",
+                        "product_count": 178,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1b/2b/db/fa1e5830404aeeda38730d86f7d7e9fe.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 53528,
+                        "text": "Các Loại Đồ Ăn Vặt Khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "cac-loai-do-an-vat-khac",
+                        "url_path": "cac-loai-do-an-vat-khac/c53528",
+                        "product_count": 437,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fc/da/42/d118646cdde321a6aaba39ea7f7f8c3f.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67057,
+                        "text": "Thạch các loại",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thach-cac-loai",
+                        "url_path": "thach-cac-loai/c67057",
+                        "product_count": 45,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2d/78/96/64766ede6543b18e66fb874722ad583e.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67058,
+                        "text": "Pudding",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "pudding",
+                        "url_path": "pudding/c67058",
+                        "product_count": 24,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f6/a6/85/12d781a4bc668bfd65516bc0c6f17843.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 53556,
+                        "text": "Mứt trái cây",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "mut-trai-cay",
+                        "url_path": "mut-trai-cay/c53556",
+                        "product_count": 117,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/7f/43/42/68572a132c83e318912840b181b45771.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67065,
+                        "text": "Đặc sản địa phương",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dac-san-dia-phuong",
+                        "url_path": "dac-san-dia-phuong/c67065",
+                        "product_count": 27,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4c/49/d9/1a81e45a74c5cae4a6137059e3efea4d.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67066,
+                        "text": "Bỏng ngô",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bong-ngo",
+                        "url_path": "bong-ngo/c67066",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f8/c8/21/af6b0f3f3a84a54fae24ce8a517caeb3.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67067,
+                        "text": "Các loại rong biển ăn liền",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "cac-loai-rong-bien-an-lien",
+                        "url_path": "cac-loai-rong-bien-an-lien/c67067",
+                        "product_count": 85,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8f/e7/63/a9cb0756dd7090b84c9dd11a066f0891.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67068,
+                        "text": "Khoai tây lát",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "khoai-tay-lat",
+                        "url_path": "khoai-tay-lat/c67068",
+                        "product_count": 6,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e4/3d/47/5eb398d07bebfd9d9430971f45e1ac99.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 6548,
+                        "text": "Các loại đậu sấy khô",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "cac-loai-dau-say-kho",
+                        "url_path": "cac-loai-dau-say-kho/c6548",
+                        "product_count": 294,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/57/d8/26/ffa0c58ccb01b8b38dc93feb8316995b.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67069,
+                        "text": "Các loại hạt sấy khô",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "cac-loai-hat-say-kho",
+                        "url_path": "cac-loai-hat-say-kho/c67069",
+                        "product_count": 656,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/62/a4/90/b5555783a4e4b75b18ba992a2f6a4ae6.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67103,
+                        "text": "Trái cây rau củ sấy",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "trai-cay-rau-cu-say",
+                        "url_path": "trai-cay-rau-cu-say/c67103",
+                        "product_count": 262,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e4/3f/29/e8e5608eb26ad258c4dcfd62cfb87bbd.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67507,
+                        "text": "Bánh tráng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "banh-trang",
+                        "url_path": "banh-trang/c67507",
+                        "product_count": 15,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1d/e7/e7/52c37627c19bf777ba9cf71d12322d3a.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 15074,
+                "parent_id": 4384,
+                "text": "Thực phẩm Đóng hộp và Khô",
+                "type": null,
+                "url_key": "thuc-pham-dong-hop-va-kho",
+                "url_path": "thuc-pham-dong-hop-va-kho/c15074",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 4298,
+                "is_leaf": false,
+                "meta_title": "Thực phẩm Đóng hộp và Khô",
+                "meta_description": "Thực phẩm Đóng hộp và Khô",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/e4/f2/f5/7929365e013efeeb4ebdef407bd0dbcf.png",
+                "children": [
+                    {
+                        "id": 4393,
+                        "text": "Thực phẩm khô",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 4420,
+                                "text": "Thực phẩm ăn liền",
+                                "url_key": "thuc-pham-an-lien",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-kho/thuc-pham-an-lien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8292,
+                                "text": "Gạo, nếp",
+                                "url_key": "gao-nep",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-kho/gao-nep",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8294,
+                                "text": "Thực phẩm khô khác",
+                                "url_key": "thuc-pham-kho-khac",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-kho/thuc-pham-kho-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 10223,
+                                "text": "Bánh tráng, bánh phở",
+                                "url_key": "banh-trang-banh-pho",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-kho/banh-trang-banh-pho",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68564,
+                                "text": "Bún khô",
+                                "url_key": "bun-kho",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-kho/bun-kho",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68565,
+                                "text": "Hủ tiếu, miến, phở khô",
+                                "url_key": "hu-tieu-mien-pho-kho",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-kho/hu-tieu-mien-pho-kho",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68566,
+                                "text": "Lạp xưởng",
+                                "url_key": "lap-xuong",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-kho/lap-xuong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68567,
+                                "text": "Mì, nui",
+                                "url_key": "mi-nui",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-kho/mi-nui",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68568,
+                                "text": "Thịt sấy",
+                                "url_key": "thit-say",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-kho/thit-say",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68569,
+                                "text": "Xúc xích",
+                                "url_key": "xuc-xich",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-kho/xuc-xich",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thuc-pham-kho",
+                        "url_path": "thuc-pham-kho/c4393",
+                        "product_count": 1253,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0f/23/0b/e8de280f3ce3ded51cadb1ce52c7b7b4.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11304,
+                        "text": "Đặc sản Việt Nam",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dac-san-viet-nam",
+                        "url_path": "dac-san-viet-nam/c11304",
+                        "product_count": 178,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/df/23/ff/f80bdef60ba75fcefbbf193a02451df6.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 4419,
+                        "text": "Đồ hộp",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 8279,
+                                "text": "Cá hộp",
+                                "url_key": "ca-hop",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/do-hop/ca-hop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8280,
+                                "text": "Thịt hộp",
+                                "url_key": "thit-hop",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/do-hop/thit-hop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8281,
+                                "text": "Rau củ, trái cây đóng hộp",
+                                "url_key": "rau-cu-trai-cay-dong-hop",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/do-hop/rau-cu-trai-cay-dong-hop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68555,
+                                "text": "Súp và mì ý đóng hộp",
+                                "url_key": "sup-va-mi-y-dong-hop",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/do-hop/sup-va-mi-y-dong-hop",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "do-hop",
+                        "url_path": "do-hop/c4419",
+                        "product_count": 299,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/00/b3/0f/2ebc387cc3cdcea97acd6042a4b1328f.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 53558,
+                        "text": "Thực phẩm khác",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11252,
+                                "text": "Thực phẩm cho trẻ em",
+                                "url_key": "thuc-pham-cho-tre-em",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-khac/thuc-pham-cho-tre-em",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11251,
+                                "text": "Thực phẩm bảo vệ sức khỏe",
+                                "url_key": "thuc-pham-bao-ve-suc-khoe",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-khac/thuc-pham-bao-ve-suc-khoe",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8240,
+                                "text": "Thực phẩm bổ dưỡng",
+                                "url_key": "thuc-pham-bo-duong",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-khac/thuc-pham-bo-duong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11346,
+                                "text": "Thực phẩm cao cấp",
+                                "url_key": "thuc-pham-cao-cap",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-khac/thuc-pham-cao-cap",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5479,
+                                "text": "Thực phẩm chay",
+                                "url_key": "thuc-pham-chay",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-khac/thuc-pham-chay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11660,
+                                "text": "Thực phẩm hữu cơ",
+                                "url_key": "thuc-pham-huu-co",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-khac/thuc-pham-huu-co",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68563,
+                                "text": "Rau củ muối",
+                                "url_key": "rau-cu-muoi",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-khac/rau-cu-muoi",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thuc-pham-khac",
+                        "url_path": "thuc-pham-khac/c53558",
+                        "product_count": 2012,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/35/5a/77/c73a3c1d726be91ab4e747cf4cdb61f9.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 68544,
+                        "text": "Đậu",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68545,
+                                "text": "Các loại đậu khác",
+                                "url_key": "cac-loai-dau-khac",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/dau/cac-loai-dau-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68546,
+                                "text": "Đậu đen",
+                                "url_key": "dau-den",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/dau/dau-den",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68547,
+                                "text": "Đậu đỏ",
+                                "url_key": "dau-do",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/dau/dau-do",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68548,
+                                "text": "Đậu gà",
+                                "url_key": "dau-ga",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/dau/dau-ga",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68549,
+                                "text": "Đậu lăng",
+                                "url_key": "dau-lang",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/dau/dau-lang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68550,
+                                "text": "Đậu nành",
+                                "url_key": "dau-nanh",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/dau/dau-nanh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68551,
+                                "text": "Đậu ngự",
+                                "url_key": "dau-ngu",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/dau/dau-ngu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68552,
+                                "text": "Đậu phộng",
+                                "url_key": "dau-phong",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/dau/dau-phong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68553,
+                                "text": "Đậu trắng",
+                                "url_key": "dau-trang",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/dau/dau-trang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68554,
+                                "text": "Đậu xanh",
+                                "url_key": "dau-xanh",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/dau/dau-xanh",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dau",
+                        "url_path": "dau/c68544",
+                        "product_count": 89,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/34/1d/e3/35b508acee82ab36dedc337838ae133d.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 68556,
+                        "text": "Thực phẩm chế biến sẵn",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68557,
+                                "text": "Hủ tiếu, miến, phở ăn liền",
+                                "url_key": "hu-tieu-mien-pho-an-lien",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-che-bien-san/hu-tieu-mien-pho-an-lien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68558,
+                                "text": "Mì ăn liền",
+                                "url_key": "mi-an-lien",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-che-bien-san/mi-an-lien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68559,
+                                "text": "Mì ý ăn liền",
+                                "url_key": "mi-y-an-lien",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-che-bien-san/mi-y-an-lien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68560,
+                                "text": "Súp ăn liền",
+                                "url_key": "sup-an-lien",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-che-bien-san/sup-an-lien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68561,
+                                "text": "Súp, Cháo ăn liền",
+                                "url_key": "sup-chao-an-lien",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-che-bien-san/sup-chao-an-lien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68562,
+                                "text": "Thực phẩm chế biến sẵn khác",
+                                "url_key": "thuc-pham-che-bien-san-khac",
+                                "full_url_key": "thuc-pham-dong-hop-va-kho/thuc-pham-che-bien-san/thuc-pham-che-bien-san-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thuc-pham-che-bien-san",
+                        "url_path": "thuc-pham-che-bien-san/c68556",
+                        "product_count": 463,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/23/2f/82/7cd5ad6ed8d1068c29a1040ad43da25d.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 24024,
+                "parent_id": 4384,
+                "text": "Đồ Uống Không Cồn",
+                "type": null,
+                "url_key": "do-uong-khong-con",
+                "url_path": "do-uong-khong-con/c24024",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 256,
+                "is_leaf": false,
+                "meta_title": "Đồ Uống Không Cồn",
+                "meta_description": "Đồ Uống Không Cồn",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/68/d6/27/b0b7cbb9848d1841b35287ecedbc6874.png",
+                "children": [
+                    {
+                        "id": 4426,
+                        "text": "Đồ uống có gas",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 53608,
+                                "text": "Các loại nước có gas khác",
+                                "url_key": "cac-loai-nuoc-co-gas-khac",
+                                "full_url_key": "do-uong-khong-con/do-uong-co-gas/cac-loai-nuoc-co-gas-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "do-uong-co-gas",
+                        "url_path": "do-uong-co-gas/c4426",
+                        "product_count": 39,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cf/d3/85/94f3efebd20727c8058e061978f51a14.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 15076,
+                        "text": "Đồ uống không gas",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 4425,
+                                "text": "Đồ uống không gas khác",
+                                "url_key": "do-uong-khong-gas-khac",
+                                "full_url_key": "do-uong-khong-con/do-uong-khong-gas/do-uong-khong-gas-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "do-uong-khong-gas",
+                        "url_path": "do-uong-khong-gas/c15076",
+                        "product_count": 217,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/64/de/71/3971bd238830e4d682d8c4947fe8ad9d.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 4422,
+                "parent_id": 4384,
+                "text": "Gia Vị và Chế Biến",
+                "type": null,
+                "url_key": "gia-vi-va-che-bien",
+                "url_path": "gia-vi-va-che-bien/c4422",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 3105,
+                "is_leaf": false,
+                "meta_title": "Gia Vị và Chế Biến",
+                "meta_description": "Gia Vị và Chế Biến",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/c1/c4/1d/41159bc13c744efab0c85ba1ec890de8.jpg",
+                "children": [
+                    {
+                        "id": 8282,
+                        "text": "Gia vị",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 53552,
+                                "text": "Bột ngọt",
+                                "url_key": "bot-ngot",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/bot-ngot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53554,
+                                "text": "Các loại gia vị khác",
+                                "url_key": "cac-loai-gia-vi-khac",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/cac-loai-gia-vi-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68506,
+                                "text": "Bơ",
+                                "url_key": "bo",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/bo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68507,
+                                "text": "Bột bò kho, hủ tiếu",
+                                "url_key": "bot-bo-kho-hu-tieu",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/bot-bo-kho-hu-tieu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68508,
+                                "text": "Bột cà ri",
+                                "url_key": "bot-ca-ri",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/bot-ca-ri",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68509,
+                                "text": "Bột canh",
+                                "url_key": "bot-canh",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/bot-canh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68510,
+                                "text": "Bột nghệ",
+                                "url_key": "bot-nghe",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/bot-nghe",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68511,
+                                "text": "Bột ớt",
+                                "url_key": "bot-ot",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/bot-ot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68512,
+                                "text": "Bột tỏi",
+                                "url_key": "bot-toi",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/bot-toi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68513,
+                                "text": "Các loại sốt",
+                                "url_key": "cac-loai-sot",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/cac-loai-sot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68514,
+                                "text": "Dầu hào",
+                                "url_key": "dau-hao",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/dau-hao",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68515,
+                                "text": "Đường",
+                                "url_key": "duong",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/duong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68516,
+                                "text": "Gia vị chiên, xào",
+                                "url_key": "gia-vi-chien-xao",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/gia-vi-chien-xao",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68517,
+                                "text": "Gia vị gia cầm",
+                                "url_key": "gia-vi-gia-cam",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/gia-vi-gia-cam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68518,
+                                "text": "Gia vị hải sản",
+                                "url_key": "gia-vi-hai-san",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/gia-vi-hai-san",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68519,
+                                "text": "Gia vị nướng thịt",
+                                "url_key": "gia-vi-nuong-thit",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/gia-vi-nuong-thit",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68520,
+                                "text": "Giấm",
+                                "url_key": "giam",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/giam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68521,
+                                "text": "Hạt nêm",
+                                "url_key": "hat-nem",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/hat-nem",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68522,
+                                "text": "Miso",
+                                "url_key": "miso",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/miso",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68523,
+                                "text": "Muối",
+                                "url_key": "muoi",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/muoi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68529,
+                                "text": "Rượu nấu ăn",
+                                "url_key": "ruou-nau-an",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/ruou-nau-an",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68530,
+                                "text": "Sốt cà chua",
+                                "url_key": "sot-ca-chua",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/sot-ca-chua",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68531,
+                                "text": "Tiêu",
+                                "url_key": "tieu",
+                                "full_url_key": "gia-vi-va-che-bien/gia-vi/tieu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "gia-vi",
+                        "url_path": "gia-vi/c8282",
+                        "product_count": 1548,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/b1/e4/3e/0d206b60469aacb5870841e5f767de11.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8283,
+                        "text": "Nước chấm và nước sốt",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 53546,
+                                "text": "Nước mắm",
+                                "url_key": "nuoc-mam",
+                                "full_url_key": "gia-vi-va-che-bien/nuoc-cham-va-nuoc-sot/nuoc-mam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53548,
+                                "text": "Nước tương",
+                                "url_key": "nuoc-tuong",
+                                "full_url_key": "gia-vi-va-che-bien/nuoc-cham-va-nuoc-sot/nuoc-tuong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53550,
+                                "text": "Các loại nước chấm khác",
+                                "url_key": "cac-loai-nuoc-cham-khac",
+                                "full_url_key": "gia-vi-va-che-bien/nuoc-cham-va-nuoc-sot/cac-loai-nuoc-cham-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68532,
+                                "text": "Mắm ruốc, mắm nêm",
+                                "url_key": "mam-ruoc-mam-nem",
+                                "full_url_key": "gia-vi-va-che-bien/nuoc-cham-va-nuoc-sot/mam-ruoc-mam-nem",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68533,
+                                "text": "Mayonnaise",
+                                "url_key": "mayonnaise",
+                                "full_url_key": "gia-vi-va-che-bien/nuoc-cham-va-nuoc-sot/mayonnaise",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68534,
+                                "text": "Mù tạt",
+                                "url_key": "mu-tat",
+                                "full_url_key": "gia-vi-va-che-bien/nuoc-cham-va-nuoc-sot/mu-tat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68535,
+                                "text": "Nước chấm",
+                                "url_key": "nuoc-cham",
+                                "full_url_key": "gia-vi-va-che-bien/nuoc-cham-va-nuoc-sot/nuoc-cham",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68536,
+                                "text": "Tương cà",
+                                "url_key": "tuong-ca",
+                                "full_url_key": "gia-vi-va-che-bien/nuoc-cham-va-nuoc-sot/tuong-ca",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68537,
+                                "text": "Tương đen",
+                                "url_key": "tuong-den",
+                                "full_url_key": "gia-vi-va-che-bien/nuoc-cham-va-nuoc-sot/tuong-den",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68538,
+                                "text": "Tương ớt",
+                                "url_key": "tuong-ot",
+                                "full_url_key": "gia-vi-va-che-bien/nuoc-cham-va-nuoc-sot/tuong-ot",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "nuoc-cham-va-nuoc-sot",
+                        "url_path": "nuoc-cham-va-nuoc-sot/c8283",
+                        "product_count": 827,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e4/29/ba/156fd4ecdc6f9578c717522021e5ac49.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 5477,
+                        "text": "Dầu ăn",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 8284,
+                                "text": "Dầu thực vật",
+                                "url_key": "dau-thuc-vat",
+                                "full_url_key": "gia-vi-va-che-bien/dau-an/dau-thuc-vat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8285,
+                                "text": "Dầu olive",
+                                "url_key": "dau-olive",
+                                "full_url_key": "gia-vi-va-che-bien/dau-an/dau-olive",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8286,
+                                "text": "Dầu đậu nành",
+                                "url_key": "dau-dau-nanh",
+                                "full_url_key": "gia-vi-va-che-bien/dau-an/dau-dau-nanh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68442,
+                                "text": "Dầu dừa",
+                                "url_key": "dau-dua",
+                                "full_url_key": "gia-vi-va-che-bien/dau-an/dau-dua",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68443,
+                                "text": "Dầu hướng dương, dầu gạo",
+                                "url_key": "dau-huong-duong-dau-gao",
+                                "full_url_key": "gia-vi-va-che-bien/dau-an/dau-huong-duong-dau-gao",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68445,
+                                "text": "Dầu mè, phộng",
+                                "url_key": "dau-me-phong",
+                                "full_url_key": "gia-vi-va-che-bien/dau-an/dau-me-phong",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dau-an",
+                        "url_path": "dau-an/c5477",
+                        "product_count": 203,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1b/82/32/f7e6e326d7361c3d53caf1632fdebc06.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11256,
+                        "text": "Nấu ăn và làm bánh",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11257,
+                                "text": "Chocolate và cacao nướng bánh",
+                                "url_key": "chocolate-va-cacao-nuong-banh",
+                                "full_url_key": "gia-vi-va-che-bien/nau-an-va-lam-banh/chocolate-va-cacao-nuong-banh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11336,
+                                "text": "Sữa đặc và sữa bột",
+                                "url_key": "sua-dac-va-sua-bot",
+                                "full_url_key": "gia-vi-va-che-bien/nau-an-va-lam-banh/sua-dac-va-sua-bot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11337,
+                                "text": "Kem béo và sốt ngọt",
+                                "url_key": "kem-beo-va-sot-ngot",
+                                "full_url_key": "gia-vi-va-che-bien/nau-an-va-lam-banh/kem-beo-va-sot-ngot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11338,
+                                "text": "Trái cây khô",
+                                "url_key": "trai-cay-kho",
+                                "full_url_key": "gia-vi-va-che-bien/nau-an-va-lam-banh/trai-cay-kho",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11339,
+                                "text": "Chiết xuất và hương liệu",
+                                "url_key": "chiet-xuat-va-huong-lieu",
+                                "full_url_key": "gia-vi-va-che-bien/nau-an-va-lam-banh/chiet-xuat-va-huong-lieu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11340,
+                                "text": "Các loại bột",
+                                "url_key": "cac-loai-bot",
+                                "full_url_key": "gia-vi-va-che-bien/nau-an-va-lam-banh/cac-loai-bot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11341,
+                                "text": "Pudding và gelatin",
+                                "url_key": "pudding-va-gelatin",
+                                "full_url_key": "gia-vi-va-che-bien/nau-an-va-lam-banh/pudding-va-gelatin",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11342,
+                                "text": "Sirô, đường và chất tạo ngọt",
+                                "url_key": "siro-duong-va-chat-tao-ngot",
+                                "full_url_key": "gia-vi-va-che-bien/nau-an-va-lam-banh/siro-duong-va-chat-tao-ngot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8293,
+                                "text": "Nguyên liệu khác",
+                                "url_key": "nguyen-lieu-khac",
+                                "full_url_key": "gia-vi-va-che-bien/nau-an-va-lam-banh/nguyen-lieu-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68451,
+                                "text": "Chất tạo màu",
+                                "url_key": "chat-tao-mau",
+                                "full_url_key": "gia-vi-va-che-bien/nau-an-va-lam-banh/chat-tao-mau",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68452,
+                                "text": "Đồ trang trí",
+                                "url_key": "do-trang-tri",
+                                "full_url_key": "gia-vi-va-che-bien/nau-an-va-lam-banh/do-trang-tri",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68453,
+                                "text": "Phụ gia các loại",
+                                "url_key": "phu-gia-cac-loai",
+                                "full_url_key": "gia-vi-va-che-bien/nau-an-va-lam-banh/phu-gia-cac-loai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68501,
+                                "text": "Bột pha sẵn",
+                                "url_key": "bot-pha-san",
+                                "full_url_key": "gia-vi-va-che-bien/nau-an-va-lam-banh/bot-pha-san",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "nau-an-va-lam-banh",
+                        "url_path": "nau-an-va-lam-banh/c11256",
+                        "product_count": 562,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0a/4e/2c/fb771e0b9aae3ca7cb561126e6f986d8.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 5451,
+                "parent_id": 4384,
+                "text": "Chăm sóc thú cưng",
+                "type": null,
+                "url_key": "thu-cung",
+                "url_path": "thu-cung/c5451",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 4133,
+                "is_leaf": false,
+                "meta_title": "Thú cưng, thức ăn, dụng cụ » Giá rẻ hơn tại Tiki.vn",
+                "meta_description": "Thú cưng",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/21/c4/09/ea1e178322395dbe5735ad9dd8637504.png",
+                "children": [
+                    {
+                        "id": 53530,
+                        "text": "Thức ăn thú cưng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 53532,
+                                "text": "Thức ăn cho chim",
+                                "url_key": "thuc-an-cho-chim",
+                                "full_url_key": "thu-cung/thuc-an-thu-cung/thuc-an-cho-chim",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53534,
+                                "text": "Thức ăn cho cá",
+                                "url_key": "thuc-an-cho-ca",
+                                "full_url_key": "thu-cung/thuc-an-thu-cung/thuc-an-cho-ca",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53536,
+                                "text": "Thức ăn cho chuột",
+                                "url_key": "thuc-an-cho-chuot",
+                                "full_url_key": "thu-cung/thuc-an-thu-cung/thuc-an-cho-chuot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53538,
+                                "text": "Thức ăn thú cưng khác",
+                                "url_key": "thuc-an-thu-cung-khac",
+                                "full_url_key": "thu-cung/thuc-an-thu-cung/thuc-an-thu-cung-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5456,
+                                "text": "Thức ăn cho chó",
+                                "url_key": "thuc-an-cho-cho",
+                                "full_url_key": "thu-cung/thuc-an-thu-cung/thuc-an-cho-cho",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5461,
+                                "text": "Thức ăn cho mèo",
+                                "url_key": "thuc-an-cho-meo",
+                                "full_url_key": "thu-cung/thuc-an-thu-cung/thuc-an-cho-meo",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thuc-an-thu-cung",
+                        "url_path": "thuc-an-thu-cung/c53530",
+                        "product_count": 1194,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/00/40/23/f04cb6e047d5163ea128ddd468689dbc.PNG",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 53540,
+                        "text": "Phụ kiện thú cưng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 53542,
+                                "text": "Dành Cho Chuột",
+                                "url_key": "danh-cho-chuot",
+                                "full_url_key": "thu-cung/phu-kien-thu-cung/danh-cho-chuot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53544,
+                                "text": "Các Loại Thú Nuôi Khác",
+                                "url_key": "cac-loai-thu-nuoi-khac",
+                                "full_url_key": "thu-cung/phu-kien-thu-cung/cac-loai-thu-nuoi-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5452,
+                                "text": "Dành cho chó",
+                                "url_key": "danh-cho-cho",
+                                "full_url_key": "thu-cung/phu-kien-thu-cung/danh-cho-cho",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5453,
+                                "text": "Dành cho mèo",
+                                "url_key": "danh-cho-meo",
+                                "full_url_key": "thu-cung/phu-kien-thu-cung/danh-cho-meo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8326,
+                                "text": "Dành cho Cá",
+                                "url_key": "danh-cho-ca",
+                                "full_url_key": "thu-cung/phu-kien-thu-cung/danh-cho-ca",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11253,
+                                "text": "Dành cho chim",
+                                "url_key": "danh-cho-chim",
+                                "full_url_key": "thu-cung/phu-kien-thu-cung/danh-cho-chim",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-thu-cung",
+                        "url_path": "phu-kien-thu-cung/c53540",
+                        "product_count": 1570,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e6/62/04/78fae8bb12e4e2cac24cd97c3cfbd194.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 66986,
+                        "text": "Chăm sóc sức khỏe thú cưng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 66987,
+                                "text": "Các sản phẩm sức khỏe khác",
+                                "url_key": "cac-san-pham-suc-khoe-khac",
+                                "full_url_key": "thu-cung/cham-soc-suc-khoe-thu-cung/cac-san-pham-suc-khoe-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 66988,
+                                "text": "Tẩy giun & diệt bọ chét",
+                                "url_key": "tay-giun-diet-bo-chet",
+                                "full_url_key": "thu-cung/cham-soc-suc-khoe-thu-cung/tay-giun-diet-bo-chet",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 66989,
+                                "text": "Dược phẩm",
+                                "url_key": "duoc-pham",
+                                "full_url_key": "thu-cung/cham-soc-suc-khoe-thu-cung/duoc-pham",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 66990,
+                                "text": "Vitamin & chất bổ sung dinh dưỡng",
+                                "url_key": "vitamin-chat-bo-sung-dinh-duong",
+                                "full_url_key": "thu-cung/cham-soc-suc-khoe-thu-cung/vitamin-chat-bo-sung-dinh-duong",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cham-soc-suc-khoe-thu-cung",
+                        "url_path": "cham-soc-suc-khoe-thu-cung/c66986",
+                        "product_count": 477,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1b/20/8b/9084fcd94cf2523f65bbcd7bcfd3946d.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 66991,
+                        "text": "Dụng cụ chăm sóc thú cưng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 66992,
+                                "text": "Các dụng cụ chăm sóc khác",
+                                "url_key": "cac-dung-cu-cham-soc-khac",
+                                "full_url_key": "thu-cung/dung-cu-cham-soc-thu-cung/cac-dung-cu-cham-soc-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 66993,
+                                "text": "Bàn chải lông",
+                                "url_key": "ban-chai-long",
+                                "full_url_key": "thu-cung/dung-cu-cham-soc-thu-cung/ban-chai-long",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 66994,
+                                "text": "Kìm cắt, bấm móng",
+                                "url_key": "kim-cat-bam-mong",
+                                "full_url_key": "thu-cung/dung-cu-cham-soc-thu-cung/kim-cat-bam-mong",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-cham-soc-thu-cung",
+                        "url_path": "dung-cu-cham-soc-thu-cung/c66991",
+                        "product_count": 84,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a6/b9/e9/70629b8835c25f76830830ab5da46683.PNG",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 66995,
+                        "text": "Đồ dùng vệ sinh thú cưng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 66996,
+                                "text": "Các đồ dùng vệ sinh khác",
+                                "url_key": "cac-do-dung-ve-sinh-khac",
+                                "full_url_key": "thu-cung/do-dung-ve-sinh-thu-cung/cac-do-dung-ve-sinh-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 66997,
+                                "text": "Cát vệ sinh",
+                                "url_key": "cat-ve-sinh",
+                                "full_url_key": "thu-cung/do-dung-ve-sinh-thu-cung/cat-ve-sinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 66998,
+                                "text": "Nhà vệ sinh",
+                                "url_key": "nha-ve-sinh",
+                                "full_url_key": "thu-cung/do-dung-ve-sinh-thu-cung/nha-ve-sinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 66999,
+                                "text": "Khay vệ sinh",
+                                "url_key": "khay-ve-sinh",
+                                "full_url_key": "thu-cung/do-dung-ve-sinh-thu-cung/khay-ve-sinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "do-dung-ve-sinh-thu-cung",
+                        "url_path": "do-dung-ve-sinh-thu-cung/c66995",
+                        "product_count": 120,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e4/43/36/1ea109416cca83214491a418c8b426a5.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 67034,
+                        "text": "Dung dịch vệ sinh thú cưng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67035,
+                                "text": "Các chất vệ sinh khác",
+                                "url_key": "cac-chat-ve-sinh-khac",
+                                "full_url_key": "thu-cung/dung-dich-ve-sinh-thu-cung/cac-chat-ve-sinh-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67036,
+                                "text": "Xịt dưỡng lông",
+                                "url_key": "xit-duong-long",
+                                "full_url_key": "thu-cung/dung-dich-ve-sinh-thu-cung/xit-duong-long",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67037,
+                                "text": "Xịt khử mùi",
+                                "url_key": "xit-khu-mui",
+                                "full_url_key": "thu-cung/dung-dich-ve-sinh-thu-cung/xit-khu-mui",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67038,
+                                "text": "Sữa tắm chó mèo",
+                                "url_key": "sua-tam-cho-meo",
+                                "full_url_key": "thu-cung/dung-dich-ve-sinh-thu-cung/sua-tam-cho-meo",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dung-dich-ve-sinh-thu-cung",
+                        "url_path": "dung-dich-ve-sinh-thu-cung/c67034",
+                        "product_count": 272,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9b/01/20/94102a51b40de489b18388461c45793b.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 11347,
+                "parent_id": 4384,
+                "text": "Bộ quà tặng",
+                "type": null,
+                "url_key": "bo-qua-tang",
+                "url_path": "bo-qua-tang/c11347",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 169,
+                "is_leaf": false,
+                "meta_title": "Bộ quà tặng",
+                "meta_description": "Bộ quà tặng",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5e/d5/63/28aec373a909e7abac028a459c538cab.jpeg",
+                "children": [
+                    {
+                        "id": 53574,
+                        "text": "Bánh Trung Thu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "banh-trung-thu",
+                        "url_path": "banh-trung-thu/c53574",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 53576,
+                        "text": "Hộp Quà Tết",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "hop-qua-tet",
+                        "url_path": "hop-qua-tet/c53576",
+                        "product_count": 73,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4f/56/9d/c35bca8253e534b1022208bbf57a830d.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 53578,
+                        "text": "Hộp Quà Tặng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "hop-qua-tang",
+                        "url_path": "hop-qua-tang/c53578",
+                        "product_count": 61,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5e/d5/63/28aec373a909e7abac028a459c538cab.jpeg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 53580,
+                        "text": "Hàng Mùa Vụ Khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "hang-mua-vu-khac",
+                        "url_path": "hang-mua-vu-khac/c53580",
+                        "product_count": 32,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9f/e6/b1/66e841c32ca800b95812406b349e587b.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 22998,
+                "parent_id": 4384,
+                "text": "Đồ uống",
+                "type": null,
+                "url_key": "do-uong",
+                "url_path": "do-uong/c22998",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 5221,
+                "is_leaf": false,
+                "meta_title": "Đồ uống",
+                "meta_description": "Đồ uống",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/d3/00/64/2340d49b4423d051380525264d59ed40.png",
+                "children": [
+                    {
+                        "id": 8274,
+                        "text": "Trà",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68616,
+                                "text": "Trà chức năng",
+                                "url_key": "tra-chuc-nang",
+                                "full_url_key": "do-uong/tra/tra-chuc-nang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68617,
+                                "text": "Trà khô",
+                                "url_key": "tra-kho",
+                                "full_url_key": "do-uong/tra/tra-kho",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68618,
+                                "text": "Trà sữa",
+                                "url_key": "tra-sua",
+                                "full_url_key": "do-uong/tra/tra-sua",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68619,
+                                "text": "Trà thảo dược",
+                                "url_key": "tra-thao-duoc",
+                                "full_url_key": "do-uong/tra/tra-thao-duoc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68620,
+                                "text": "Trà túi lọc",
+                                "url_key": "tra-tui-loc",
+                                "full_url_key": "do-uong/tra/tra-tui-loc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53616,
+                                "text": "Trà Uống Liền",
+                                "url_key": "tra-uong-lien",
+                                "full_url_key": "do-uong/tra/tra-uong-lien",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "tra",
+                        "url_path": "tra/c8274",
+                        "product_count": 2037,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/27/37/13/0bf5a85e8a011369e077bc20bc372aac.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 4423,
+                        "text": "Cà phê",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 53618,
+                                "text": "Cafe Uống Liền",
+                                "url_key": "cafe-uong-lien",
+                                "full_url_key": "do-uong/ca-phe-tra/cafe-uong-lien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68621,
+                                "text": "Bột kem cà phê",
+                                "url_key": "bot-kem-ca-phe",
+                                "full_url_key": "do-uong/ca-phe-tra/bot-kem-ca-phe",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68622,
+                                "text": "Cà phê hòa tan",
+                                "url_key": "ca-phe-hoa-tan",
+                                "full_url_key": "do-uong/ca-phe-tra/ca-phe-hoa-tan",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68623,
+                                "text": "Cà phê rang xay",
+                                "url_key": "ca-phe-rang-xay",
+                                "full_url_key": "do-uong/ca-phe-tra/ca-phe-rang-xay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68624,
+                                "text": "Hạt cà phê chưa rang",
+                                "url_key": "hat-ca-phe-chua-rang",
+                                "full_url_key": "do-uong/ca-phe-tra/hat-ca-phe-chua-rang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68625,
+                                "text": "Hạt cà phê rang",
+                                "url_key": "hat-ca-phe-rang",
+                                "full_url_key": "do-uong/ca-phe-tra/hat-ca-phe-rang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68626,
+                                "text": "Viên nén cà phê",
+                                "url_key": "vien-nen-ca-phe",
+                                "full_url_key": "do-uong/ca-phe-tra/vien-nen-ca-phe",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ca-phe-tra",
+                        "url_path": "ca-phe-tra/c4423",
+                        "product_count": 1688,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/71/1b/6d/ac5751b83da954782247d600ce985e24.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 5478,
+                        "text": "Ngũ cốc, bột",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bot",
+                        "url_path": "bot/c5478",
+                        "product_count": 540,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/06/25/88/f93b6fe18b822a972da089f105bf3762.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 53560,
+                        "text": "Các loại đồ uống khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "cac-loai-do-uong-khac",
+                        "url_path": "cac-loai-do-uong-khac/c53560",
+                        "product_count": 83,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/91/bf/d7/225e6b5c94cfc576827200ea51fc1fa0.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 53612,
+                        "text": "Nước đóng chai",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68644,
+                                "text": "Nước có vị",
+                                "url_key": "nuoc-co-vi",
+                                "full_url_key": "do-uong/nuoc-dong-chai/nuoc-co-vi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68647,
+                                "text": "Nước khoáng",
+                                "url_key": "nuoc-khoang",
+                                "full_url_key": "do-uong/nuoc-dong-chai/nuoc-khoang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68648,
+                                "text": "Nước tinh khiết",
+                                "url_key": "nuoc-tinh-khiet",
+                                "full_url_key": "do-uong/nuoc-dong-chai/nuoc-tinh-khiet",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "nuoc-dong-chai",
+                        "url_path": "nuoc-dong-chai/c53612",
+                        "product_count": 103,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9d/b3/a6/337da49b8e33e2fa786332a62b555a28.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 53614,
+                        "text": "Nước Trái Cây",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68654,
+                                "text": "Nước dừa",
+                                "url_key": "nuoc-dua",
+                                "full_url_key": "do-uong/nuoc-trai-cay/nuoc-dua",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68655,
+                                "text": "Nước trái cây các loại",
+                                "url_key": "nuoc-trai-cay-cac-loai",
+                                "full_url_key": "do-uong/nuoc-trai-cay/nuoc-trai-cay-cac-loai",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "nuoc-trai-cay",
+                        "url_path": "nuoc-trai-cay/c53614",
+                        "product_count": 302,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/9c/22/87/ac0a3df27bbac7d601ca239ba89a859a.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 68660,
+                        "text": "Nước ngọt & đồ uống không cồn",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 53606,
+                                "text": "Nước ngọt có ga",
+                                "url_key": "nuoc-ngot-co-ga",
+                                "full_url_key": "do-uong/nuoc-ngot-do-uong-khong-con/nuoc-ngot-co-ga",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53610,
+                                "text": "Nước tăng lực & đồ uống thể thao",
+                                "url_key": "nuoc-tang-luc-do-uong-the-thao",
+                                "full_url_key": "do-uong/nuoc-ngot-do-uong-khong-con/nuoc-tang-luc-do-uong-the-thao",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68670,
+                                "text": "Bột pha nước các loại",
+                                "url_key": "bot-pha-nuoc-cac-loai",
+                                "full_url_key": "do-uong/nuoc-ngot-do-uong-khong-con/bot-pha-nuoc-cac-loai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68671,
+                                "text": "Nước thanh lọc",
+                                "url_key": "nuoc-thanh-loc",
+                                "full_url_key": "do-uong/nuoc-ngot-do-uong-khong-con/nuoc-thanh-loc",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "nuoc-ngot-do-uong-khong-con",
+                        "url_path": "nuoc-ngot-do-uong-khong-con/c68660",
+                        "product_count": 367,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/31/ce/de/7ccb2d1ca492b96e8eb4575ca6b137ba.JPG",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 68676,
+                        "text": "Bột chocolate",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bot-chocolate",
+                        "url_path": "bot-chocolate/c68676",
+                        "product_count": 28,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/03/ea/2f/6861490d65b605f6a5cba69f08a99930.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68677,
+                        "text": "Bột pha nước trái cây",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bot-pha-nuoc-trai-cay",
+                        "url_path": "bot-pha-nuoc-trai-cay/c68677",
+                        "product_count": 20,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e5/d7/41/3baf131fde8f7148507917655b4c27ee.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68678,
+                        "text": "Siro các loại",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "siro-cac-loai",
+                        "url_path": "siro-cac-loai/c68678",
+                        "product_count": 92,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fc/fc/bf/495e1f033316f26cb4986eda8274fc2e.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 53562,
+                "parent_id": 4384,
+                "text": "Sữa và các Sản phẩm từ sữa",
+                "type": null,
+                "url_key": "sua-va-cac-san-pham-tu-sua",
+                "url_path": "sua-va-cac-san-pham-tu-sua/c53562",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 613,
+                "is_leaf": false,
+                "meta_title": "Sữa và các Sản phẩm từ sữa",
+                "meta_description": "Sữa và các Sản phẩm từ sữa",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/d4/90/ed/55e968aaa317bbdfc2c1cf5904c94977.png",
+                "children": [
+                    {
+                        "id": 8273,
+                        "text": "Sữa nước",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 53564,
+                                "text": "Sữa tiệt trùng (UHT)",
+                                "url_key": "sua-tiet-trung-uht",
+                                "full_url_key": "sua-va-cac-san-pham-tu-sua/sua-nuoc/sua-tiet-trung-uht",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53566,
+                                "text": "Sữa Chua Uống & Ăn",
+                                "url_key": "sua-chua-uong-an",
+                                "full_url_key": "sua-va-cac-san-pham-tu-sua/sua-nuoc/sua-chua-uong-an",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53568,
+                                "text": "Sữa Thực Vật",
+                                "url_key": "sua-thuc-vat",
+                                "full_url_key": "sua-va-cac-san-pham-tu-sua/sua-nuoc/sua-thuc-vat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53570,
+                                "text": "Sữa Chức Năng Uống Liền",
+                                "url_key": "sua-chuc-nang-uong-lien",
+                                "full_url_key": "sua-va-cac-san-pham-tu-sua/sua-nuoc/sua-chuc-nang-uong-lien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67070,
+                                "text": "Sữa hạt",
+                                "url_key": "sua-hat",
+                                "full_url_key": "sua-va-cac-san-pham-tu-sua/sua-nuoc/sua-hat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67071,
+                                "text": "Sữa thanh trùng",
+                                "url_key": "sua-thanh-trung",
+                                "full_url_key": "sua-va-cac-san-pham-tu-sua/sua-nuoc/sua-thanh-trung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67072,
+                                "text": "Sữa đậu nành",
+                                "url_key": "sua-dau-nanh",
+                                "full_url_key": "sua-va-cac-san-pham-tu-sua/sua-nuoc/sua-dau-nanh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67073,
+                                "text": "Sữa hương vị",
+                                "url_key": "sua-huong-vi",
+                                "full_url_key": "sua-va-cac-san-pham-tu-sua/sua-nuoc/sua-huong-vi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67074,
+                                "text": "Sữa nguyên kem",
+                                "url_key": "sua-nguyen-kem",
+                                "full_url_key": "sua-va-cac-san-pham-tu-sua/sua-nuoc/sua-nguyen-kem",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "sua-nuoc",
+                        "url_path": "sua-nuoc/c8273",
+                        "product_count": 386,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/2b/03/ee/c94ea7fb4c12b2c434dae50a92faee93.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 4427,
+                        "text": "Sữa Chức Năng Dạng Bột",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "sua-chuc-nang-dang-bot",
+                        "url_path": "sua-chuc-nang-dang-bot/c4427",
+                        "product_count": 165,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/df/73/e9/c5b8684f64eb2416b67e777f10ee15df.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 53572,
+                        "text": "Các Sản Phẩm Từ Sữa Khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "cac-san-pham-tu-sua-khac",
+                        "url_path": "cac-san-pham-tu-sua-khac/c53572",
+                        "product_count": 11,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c0/76/6d/9f172a3936d86aefbbb174b3ff15619e.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67508,
+                        "text": "Sữa bột",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "sua-bot",
+                        "url_path": "sua-bot/c67508",
+                        "product_count": 36,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/dd/11/71/af70ae65174f1b27e64d575332ac06a9.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67509,
+                        "text": "Sữa đặc",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "sua-dac",
+                        "url_path": "sua-dac/c67509",
+                        "product_count": 41,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a6/55/56/ac552a2d28e9c137d073446ee9d52052.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 53582,
+                "parent_id": 4384,
+                "text": "Rượu, bia và nước lên men",
+                "type": null,
+                "url_key": "ruou-bia-va-nuoc-len-men",
+                "url_path": "ruou-bia-va-nuoc-len-men/c53582",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1512,
+                "is_leaf": false,
+                "meta_title": "Rượu, bia và nước lên men",
+                "meta_description": "Rượu, bia và nước lên men",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/f3/69/9c/7d37539f6b637aaf882e4a741291e345.png",
+                "children": [
+                    {
+                        "id": 11343,
+                        "text": "Rượu",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 48034,
+                                "text": "Rượu mùi",
+                                "url_key": "ruou-mui",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou/ruou-mui",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ruou",
+                        "url_path": "ruou/c11343",
+                        "product_count": 184,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/54/22/b7/0adb2c94e7f62075c4659196623eba1b.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 53584,
+                        "text": "Bia Nội Địa",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bia-noi-dia",
+                        "url_path": "bia-noi-dia/c53584",
+                        "product_count": 47,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ef/28/9d/6f55bab81c93481fe97d7f5e2e217127.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 53586,
+                        "text": "Bia Nhập Khẩu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bia-nhap-khau",
+                        "url_path": "bia-nhap-khau/c53586",
+                        "product_count": 13,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/d8/c8/23/23abc17f2780b4fd0672693aaec3f229.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 53588,
+                        "text": "Bia Thủ Công",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bia-thu-cong",
+                        "url_path": "bia-thu-cong/c53588",
+                        "product_count": 28,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11344,
+                        "text": "Nước hoa quả lên men",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "nuoc-hoa-qua-len-men",
+                        "url_path": "nuoc-hoa-qua-len-men/c11344",
+                        "product_count": 17,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9a/4c/ae/301656c2abeced8b3ed250924b65c1e8.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 48030,
+                        "text": "Rượu vang",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68600,
+                                "text": "Rượu vang đỏ",
+                                "url_key": "ruou-vang-do",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-vang/ruou-vang-do",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68601,
+                                "text": "Rượu vang khác",
+                                "url_key": "ruou-vang-khac",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-vang/ruou-vang-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68602,
+                                "text": "Rượu vang trắng",
+                                "url_key": "ruou-vang-trang",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-vang/ruou-vang-trang",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ruou-vang",
+                        "url_path": "ruou-vang/c48030",
+                        "product_count": 721,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/22/c5/1f/1667c59704938fdbeffe86a5a3711c84.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 48032,
+                        "text": "Rượu mạnh",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 53590,
+                                "text": "Brandy",
+                                "url_key": "brandy",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-manh/brandy",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53592,
+                                "text": "Whisky",
+                                "url_key": "whisky",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-manh/whisky",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53594,
+                                "text": "Gin",
+                                "url_key": "gin",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-manh/gin",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53596,
+                                "text": "Tequila",
+                                "url_key": "tequila",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-manh/tequila",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53598,
+                                "text": "Vodka",
+                                "url_key": "vodka",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-manh/vodka",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53600,
+                                "text": "Rum",
+                                "url_key": "rum",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-manh/rum",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53602,
+                                "text": "Các loại rượu mạnh khác",
+                                "url_key": "cac-loai-ruou-manh-khac",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-manh/cac-loai-ruou-manh-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68603,
+                                "text": "Rượu địa phương",
+                                "url_key": "ruou-dia-phuong",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-manh/ruou-dia-phuong",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ruou-manh",
+                        "url_path": "ruou-manh/c48032",
+                        "product_count": 377,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/40/43/6f/b8e4e4417987d6a11f03d7d0043d21b9.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 48036,
+                        "text": "Rượu gạo - Soju - Sake",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68604,
+                                "text": "Rượu gạo",
+                                "url_key": "ruou-gao",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-gao-soju-sake/ruou-gao",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68605,
+                                "text": "Rượu Sake",
+                                "url_key": "ruou-sake",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-gao-soju-sake/ruou-sake",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68606,
+                                "text": "Rượu Soju",
+                                "url_key": "ruou-soju",
+                                "full_url_key": "ruou-bia-va-nuoc-len-men/ruou-gao-soju-sake/ruou-soju",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ruou-gao-soju-sake",
+                        "url_path": "ruou-gao-soju-sake/c48036",
+                        "product_count": 178,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b5/6d/d6/f311b87d0a6a20baab0f9169473e3106.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 53604,
+                        "text": "Các loại rượu khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "cac-loai-ruou-khac",
+                        "url_path": "cac-loai-ruou-khac/c53604",
+                        "product_count": 42,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/86/05/41/8851982464f92f41cab8320f5f47bf6f.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68607,
+                        "text": "Rượu Champagnes",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ruou-champagnes",
+                        "url_path": "ruou-champagnes/c68607",
+                        "product_count": 12,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7a/74/b4/061fbb23db748836b54e4beeeba2ca40.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68609,
+                        "text": "Rượu trái cây",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ruou-trai-cay",
+                        "url_path": "ruou-trai-cay/c68609",
+                        "product_count": 15,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 53620,
+                "parent_id": 4384,
+                "text": "Đậu & Hạt Các Loại",
+                "type": null,
+                "url_key": "dau-hat-cac-loai",
+                "url_path": "dau-hat-cac-loai/c53620",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 176,
+                "is_leaf": true,
+                "meta_title": "Đậu & Hạt Các Loại",
+                "meta_description": "Đậu & Hạt Các Loại",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/d5/62/1d/60babc2174ffbc3b178e513cb62351e0.png"
+            },
+            {
+                "id": 68576,
+                "parent_id": 4384,
+                "text": "Ngũ cốc và mứt",
+                "type": null,
+                "url_key": "ngu-coc-va-mut",
+                "url_path": "ngu-coc-va-mut/c68576",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 257,
+                "is_leaf": false,
+                "meta_title": "Ngũ cốc và mứt",
+                "meta_description": "Ngũ cốc và mứt",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/db/72/6a/02367852de17ca9d3732e7d72e8ce265.jpg",
+                "children": [
+                    {
+                        "id": 68577,
+                        "text": "Bánh ngũ cốc",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "banh-ngu-coc",
+                        "url_path": "banh-ngu-coc/c68577",
+                        "product_count": 12,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/35/40/1e/58f149b09ec72b3c840d67cf2e07f32d.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68578,
+                        "text": "Bơ phết",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-phet",
+                        "url_path": "bo-phet/c68578",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68579,
+                        "text": "Bột bánh pancake & waffle",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bot-banh-pancake-waffle",
+                        "url_path": "bot-banh-pancake-waffle/c68579",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0a/9b/2e/2d606c749274c66ab18c830866cb16b1.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68580,
+                        "text": "Bột ngũ cốc",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bot-ngu-coc",
+                        "url_path": "bot-ngu-coc/c68580",
+                        "product_count": 71,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fe/16/0d/54c6f27805979e608cf8d9c6ea452f95.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68581,
+                        "text": "Mật Ong",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "mat-ong",
+                        "url_path": "mat-ong/c68581",
+                        "product_count": 32,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e9/fd/e1/e2943e9f90fcfff5415ef353cbc96577.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68582,
+                        "text": "Mứt",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "mut",
+                        "url_path": "mut/c68582",
+                        "product_count": 7,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/34/ad/83/6bc803bd78496dae083c341485e7b56f.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68583,
+                        "text": "Ngũ cốc ăn sáng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ngu-coc-an-sang",
+                        "url_path": "ngu-coc-an-sang/c68583",
+                        "product_count": 52,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3a/91/55/d896fc2a5700122d1440f105d50c5019.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68584,
+                        "text": "Ngũ cốc Muesli",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ngu-coc-muesli",
+                        "url_path": "ngu-coc-muesli/c68584",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/08/38/33/8e97c45230cfb896867842cf279364a3.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68585,
+                        "text": "Thanh",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thanh",
+                        "url_path": "thanh/c68585",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68586,
+                        "text": "Yến mạch",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "yen-mach",
+                        "url_path": "yen-mach/c68586",
+                        "product_count": 67,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/db/72/6a/02367852de17ca9d3732e7d72e8ce265.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            }
+        ]
+    }
+]

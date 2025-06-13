@@ -1,0 +1,28 @@
+[
+    {
+        "text": "Điện Thoại - Máy Tính Bảng",
+        "icon_url": "https://salt.tikicdn.com/ts/category/54/c0/ff/fe98a4afa2d3e5142dc8096addc4e40b.png",
+        "children": [
+            {
+                "text": "Điện thoại Smartphone",
+                "icon_url": "https://salt.tikicdn.com/ts/category/02/57/3e/89dd8e669f671e2417eeb330c52421ac.png"
+            },
+            {
+                "text": "Máy tính bảng",
+                "icon_url": "https://salt.tikicdn.com/ts/category/f5/e0/74/753fb4a026262e4c1464e3a403ee405e.png"
+            },
+            {
+                "text": "Máy đọc sách",
+                "icon_url": "https://salt.tikicdn.com/ts/category/fc/ab/44/a492de1fa611e8e6122fadc24a1bb7b0.png"
+            },
+            {
+                "text": "Điện thoại phổ thông",
+                "icon_url": "https://salt.tikicdn.com/ts/category/14/f1/03/e59983e965d0425ebc9b8f037beeb34b.png"
+            },
+            {
+                "text": "Điện thoại bàn",
+                "icon_url": "https://salt.tikicdn.com/ts/category/81/47/d5/77e88f43667abe21078da1bca915be36.png"
+            }
+        ]
+    }
+]

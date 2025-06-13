@@ -1,0 +1,1137 @@
+[
+    {
+        "text": "Điện Gia Dụng",
+        "icon_url": "https://salt.tikicdn.com/ts/category/61/d4/ea/e6ea3ffc1fcde3b6224d2bb691ea16a2.png",
+        "children": [
+            {
+                "id": 1884,
+                "parent_id": 1882,
+                "text": "Đồ dùng nhà bếp",
+                "type": null,
+                "url_key": "do-dung-nha-bep",
+                "url_path": "do-dung-nha-bep/c1884",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 10000,
+                "is_leaf": false,
+                "meta_title": "Đồ dùng nhà bếp » Mua đồ dùng, thiết bị nhà bếp giá rẻ hơn tại Tiki.vn",
+                "meta_description": "Đồ dùng nhà bếp, dụng cụ và thiết bị nhà bếp cao cấp, chất lượng. Mua hàng online tại Tiki: ✓ Hàng chính hãng  ✓ Giá rẻ hơn  ✓ Giao hàng miễn phí toàn quốc.",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/0b/cd/49/2b6f67936491ebe3c9714568c7aa3e7d.png",
+                "children": [
+                    {
+                        "id": 1892,
+                        "text": "Nồi điện các loại",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 1893,
+                                "text": "Nồi cơm điện",
+                                "url_key": "noi-com-dien",
+                                "full_url_key": "do-dung-nha-bep/noi-dien-cac-loai/noi-com-dien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1894,
+                                "text": "Nồi áp suất điện",
+                                "url_key": "noi-ap-suat-dien",
+                                "full_url_key": "do-dung-nha-bep/noi-dien-cac-loai/noi-ap-suat-dien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1895,
+                                "text": "Nồi lẩu điện",
+                                "url_key": "noi-lau-dien",
+                                "full_url_key": "do-dung-nha-bep/noi-dien-cac-loai/noi-lau-dien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1896,
+                                "text": "Nồi tiềm, nồi nấu cháo",
+                                "url_key": "noi-tiem-noi-nau-chao",
+                                "full_url_key": "do-dung-nha-bep/noi-dien-cac-loai/noi-tiem-noi-nau-chao",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1897,
+                                "text": "Nồi hấp",
+                                "url_key": "noi-hap",
+                                "full_url_key": "do-dung-nha-bep/noi-dien-cac-loai/noi-hap",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5313,
+                                "text": "Nồi đa năng",
+                                "url_key": "noi-da-nang",
+                                "full_url_key": "do-dung-nha-bep/noi-dien-cac-loai/noi-da-nang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8123,
+                                "text": "Nồi chiên",
+                                "url_key": "noi-chien",
+                                "full_url_key": "do-dung-nha-bep/noi-dien-cac-loai/noi-chien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24072,
+                                "text": "Nồi tiềm",
+                                "url_key": "noi-tiem",
+                                "full_url_key": "do-dung-nha-bep/noi-dien-cac-loai/noi-tiem",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "noi-dien-cac-loai",
+                        "url_path": "noi-dien-cac-loai/c1892",
+                        "product_count": 2877,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/07/2a/9f/f827733c48227f3779e6c829a4177bf4.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1885,
+                        "text": "Bếp các loại",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 1886,
+                                "text": "Bếp hồng ngoại",
+                                "url_key": "bep-hong-ngoai",
+                                "full_url_key": "do-dung-nha-bep/bep-cac-loai/bep-hong-ngoai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1887,
+                                "text": "Bếp điện từ",
+                                "url_key": "bep-dien-tu",
+                                "full_url_key": "do-dung-nha-bep/bep-cac-loai/bep-dien-tu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2145,
+                                "text": "Bếp điện quang",
+                                "url_key": "bep-dien-quang",
+                                "full_url_key": "do-dung-nha-bep/bep-cac-loai/bep-dien-quang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1927,
+                                "text": "Bếp điện kết hợp",
+                                "url_key": "bep-dien-ket-hop",
+                                "full_url_key": "do-dung-nha-bep/bep-cac-loai/bep-dien-ket-hop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1928,
+                                "text": "Bếp lẩu, nướng",
+                                "url_key": "bep-lau-nuong",
+                                "full_url_key": "do-dung-nha-bep/bep-cac-loai/bep-lau-nuong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1888,
+                                "text": "Bếp gas",
+                                "url_key": "bep-gas",
+                                "full_url_key": "do-dung-nha-bep/bep-cac-loai/bep-gas",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "bep-cac-loai",
+                        "url_path": "bep-cac-loai/c1885",
+                        "product_count": 2809,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9f/ee/af/772369fe814772cbf9b9a7a3162f929b.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 4875,
+                        "text": "Máy hút khói, khử mùi",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67135,
+                                "text": "Máy hút mùi kính vát",
+                                "url_key": "may-hut-mui-kinh-vat",
+                                "full_url_key": "do-dung-nha-bep/may-hut-khoi-khu-mui/may-hut-mui-kinh-vat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67136,
+                                "text": "Máy hút mùi kính cong",
+                                "url_key": "may-hut-mui-kinh-cong",
+                                "full_url_key": "do-dung-nha-bep/may-hut-khoi-khu-mui/may-hut-mui-kinh-cong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67137,
+                                "text": "Máy hút mùi đảo",
+                                "url_key": "may-hut-mui-dao",
+                                "full_url_key": "do-dung-nha-bep/may-hut-khoi-khu-mui/may-hut-mui-dao",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67138,
+                                "text": "Máy hút mùi áp tường",
+                                "url_key": "may-hut-mui-ap-tuong",
+                                "full_url_key": "do-dung-nha-bep/may-hut-khoi-khu-mui/may-hut-mui-ap-tuong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67141,
+                                "text": "Máy hút mùi âm tủ",
+                                "url_key": "may-hut-mui-am-tu",
+                                "full_url_key": "do-dung-nha-bep/may-hut-khoi-khu-mui/may-hut-mui-am-tu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-hut-khoi-khu-mui",
+                        "url_path": "may-hut-khoi-khu-mui/c4875",
+                        "product_count": 1018,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/d0/7a/b5/67e641528d2ed1d279f9461efb5d17d4.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2022,
+                        "text": "Lò vi sóng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 2035,
+                                "text": "Lò vi sóng điện tử",
+                                "url_key": "lo-vi-song-dien-tu",
+                                "full_url_key": "do-dung-nha-bep/lo-vi-song/lo-vi-song-dien-tu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2036,
+                                "text": "Lò vi sóng cơ",
+                                "url_key": "lo-vi-song",
+                                "full_url_key": "do-dung-nha-bep/lo-vi-song/lo-vi-song",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2037,
+                                "text": "Lò vi sóng có nướng",
+                                "url_key": "lo-vi-song-co-nuong",
+                                "full_url_key": "do-dung-nha-bep/lo-vi-song/lo-vi-song-co-nuong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 4746,
+                                "text": "Lò vi sóng âm",
+                                "url_key": "lo-vi-song",
+                                "full_url_key": "do-dung-nha-bep/lo-vi-song/lo-vi-song",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23828,
+                                "text": "Lò vi sóng hơi nước",
+                                "url_key": "lo-vi-song-hoi-nuoc",
+                                "full_url_key": "do-dung-nha-bep/lo-vi-song/lo-vi-song-hoi-nuoc",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "lo-vi-song",
+                        "url_path": "lo-vi-song/c2022",
+                        "product_count": 327,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4f/25/95/a569eb6c41f6fb2b1d42c5433441fb8b.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2023,
+                        "text": "Lò nướng điện",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 2040,
+                                "text": "Lò nướng thùng",
+                                "url_key": "lo-nuong-thung",
+                                "full_url_key": "do-dung-nha-bep/lo-nuong-dien/lo-nuong-thung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 4747,
+                                "text": "Lò nướng âm tủ",
+                                "url_key": "lo-nuong-am-tu",
+                                "full_url_key": "do-dung-nha-bep/lo-nuong-dien/lo-nuong-am-tu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2041,
+                                "text": "Lò nướng thủy tinh",
+                                "url_key": "lo-nuong-thuy-tinh",
+                                "full_url_key": "do-dung-nha-bep/lo-nuong-dien/lo-nuong-thuy-tinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2042,
+                                "text": "Lò nướng bánh mì sandwich",
+                                "url_key": "lo-nuong-banh-mi-sandwich",
+                                "full_url_key": "do-dung-nha-bep/lo-nuong-dien/lo-nuong-banh-mi-sandwich",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "lo-nuong-dien",
+                        "url_path": "lo-nuong-dien/c2023",
+                        "product_count": 368,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3c/84/2f/ee3b8e3d74357905424be8728d40785e.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2044,
+                        "text": "Vỉ nướng điện",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "vi-nuong",
+                        "url_path": "vi-nuong/c2044",
+                        "product_count": 130,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2a/af/c3/8c7ef66676069458c61f9b333f490c83.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 2024,
+                        "text": "Máy xay, máy ép",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 2105,
+                                "text": "Máy xay sinh tố",
+                                "url_key": "may-xay-sinh-to",
+                                "full_url_key": "do-dung-nha-bep/may-xay-may-ep/may-xay-sinh-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2850,
+                                "text": "Máy xay cầm tay",
+                                "url_key": "may-xay-cam-tay",
+                                "full_url_key": "do-dung-nha-bep/may-xay-may-ep/may-xay-cam-tay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2106,
+                                "text": "Máy ép trái cây",
+                                "url_key": "may-ep-trai-cay",
+                                "full_url_key": "do-dung-nha-bep/may-xay-may-ep/may-ep-trai-cay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2107,
+                                "text": "Máy xay ép đa năng",
+                                "url_key": "may-xay-ep-da-nang",
+                                "full_url_key": "do-dung-nha-bep/may-xay-may-ep/may-xay-ep-da-nang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2111,
+                                "text": "Máy xay cắt đa năng",
+                                "url_key": "may-xay-cat-da-nang",
+                                "full_url_key": "do-dung-nha-bep/may-xay-may-ep/may-xay-cat-da-nang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2110,
+                                "text": "Máy xay thịt",
+                                "url_key": "may-xay-thit",
+                                "full_url_key": "do-dung-nha-bep/may-xay-may-ep/may-xay-thit",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2109,
+                                "text": "Máy vắt cam",
+                                "url_key": "may-vat-cam",
+                                "full_url_key": "do-dung-nha-bep/may-xay-may-ep/may-vat-cam",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-xay-may-ep",
+                        "url_path": "may-xay-may-ep/c2024",
+                        "product_count": 1984,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/66/0b/99/3edc69b0e4b6bad3730d8b1ee07f3be6.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1931,
+                        "text": "Bình đun siêu tốc",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "binh-dun-sieu-toc",
+                        "url_path": "binh-dun-sieu-toc/c1931",
+                        "product_count": 823,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/a1/bb/1e/c140037885c7dabe4b4aaabf2e0ba185.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1932,
+                        "text": "Bình thủy điện",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "binh-thuy-dien",
+                        "url_path": "binh-thuy-dien/c1932",
+                        "product_count": 139,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d1/1f/d1/95d6bc82c53bd55646f5f9d2aca619f4.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1939,
+                        "text": "Máy pha cà phê",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24040,
+                                "text": "Máy pha cà phê gia đình",
+                                "url_key": "may-pha-ca-phe-gia-dinh",
+                                "full_url_key": "do-dung-nha-bep/may-pha-ca-phe/may-pha-ca-phe-gia-dinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24048,
+                                "text": "Máy pha cà phê chuyên dụng",
+                                "url_key": "may-pha-ca-phe-chuyen-dung",
+                                "full_url_key": "do-dung-nha-bep/may-pha-ca-phe/may-pha-ca-phe-chuyen-dung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24050,
+                                "text": "Máy xay cà phê ",
+                                "url_key": "may-xay-ca-phe",
+                                "full_url_key": "do-dung-nha-bep/may-pha-ca-phe/may-xay-ca-phe",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24054,
+                                "text": "Phụ kiện máy pha cà phê",
+                                "url_key": "phu-kien-may-pha-ca-phe",
+                                "full_url_key": "do-dung-nha-bep/may-pha-ca-phe/phu-kien-may-pha-ca-phe",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-pha-ca-phe",
+                        "url_path": "may-pha-ca-phe/c1939",
+                        "product_count": 602,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b4/5a/d5/6fa6f27f549cc7b39f6b3c254598f1c0.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8082,
+                        "text": "Máy làm kem",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-lam-kem",
+                        "url_path": "may-lam-kem/c8082",
+                        "product_count": 31,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/aa/0c/33/af06116384d6325049580b6b5ba5b0a4.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 2025,
+                        "text": "Máy làm sữa đậu nành",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-lam-sua-dau-nanh",
+                        "url_path": "may-lam-sua-dau-nanh/c2025",
+                        "product_count": 233,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/83/f0/0a/206bdb28aa319645b2b5d528b7f6aaed.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 2026,
+                        "text": "Máy làm sữa chua",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-lam-sua-chua",
+                        "url_path": "may-lam-sua-chua/c2026",
+                        "product_count": 17,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/50/2e/ec/012b2d477cabeaeff578b07f14dd33ea.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5363,
+                        "text": "Máy làm mì sợi",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-lam-mi-soi",
+                        "url_path": "may-lam-mi-soi/c5363",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/52/71/ae/91dbceff63b3ec666b0af93fe768806e.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 2315,
+                        "text": "Máy làm bánh",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-lam-banh",
+                        "url_path": "may-lam-banh/c2315",
+                        "product_count": 118,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/s/d/sd-p104wra-1.u2769.d20161114.t045801.206489.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1942,
+                        "text": "Siêu sắc thuốc",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "sieu-sac-thuoc",
+                        "url_path": "sieu-sac-thuoc/c1942",
+                        "product_count": 105,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7d/74/ef/2e6790c00b77a5d6bbd2483075b0620a.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 7239,
+                        "text": "Máy làm tỏi đen",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-lam-toi-den",
+                        "url_path": "may-lam-toi-den/c7239",
+                        "product_count": 28,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9f/34/ec/c3d0dd9add834b58f9656765c54ecb80.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 23818,
+                        "text": "Máy sấy chén",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-say-chen",
+                        "url_path": "may-say-chen/c23818",
+                        "product_count": 51,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a3/eb/30/65fd758e2066a7b125ee82d7c80b7432.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 23820,
+                        "text": "Máy sấy thực phẩm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-say-thuc-pham",
+                        "url_path": "may-say-thuc-pham/c23820",
+                        "product_count": 44,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2d/e9/e2/dd6d1d4a2edd5e288d1f71dc16430ed4.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 23822,
+                        "text": "Máy hút chân không",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-hut-chan-khong",
+                        "url_path": "may-hut-chan-khong/c23822",
+                        "product_count": 84,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/96/34/b5/032c96e3bf0dcb357fce6921c5387a53.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 23824,
+                        "text": "Máy hàn miệng túi",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-han-mieng-tui",
+                        "url_path": "may-han-mieng-tui/c23824",
+                        "product_count": 23,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9c/8e/60/a430e1559095e123882504c77f9a88d0.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 23826,
+                        "text": "Máy cắt thịt đông lạnh",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-cat-thit-dong-lanh",
+                        "url_path": "may-cat-thit-dong-lanh/c23826",
+                        "product_count": 8,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/85/62/8c/a362f06756e320c82f8d4d3ab49bdfab.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8728,
+                        "text": "Đồ dùng nhà bếp khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "do-dung-nha-bep-khac",
+                        "url_path": "do-dung-nha-bep-khac/c8728",
+                        "product_count": 435,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a0/51/82/7a17fecc3e12e0f6bf8b23e79ab09234.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 2108,
+                        "text": "Máy đánh trứng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-danh-trung",
+                        "url_path": "may-danh-trung/c2108",
+                        "product_count": 216,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/35/a0/49/59f5efea2f4d2bbdf0872e9ce382ec71.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 1946,
+                "parent_id": 1882,
+                "text": "Thiết bị gia đình",
+                "type": null,
+                "url_key": "thiet-bi-gia-dinh",
+                "url_path": "thiet-bi-gia-dinh/c1946",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 8834,
+                "is_leaf": false,
+                "meta_title": "Thiết bị gia đình chính hãng, chất lượng » Giá Rẻ Hơn tại Tiki.vn",
+                "meta_description": "Các thiết bị gia đình: bàn ủi, máy may, máy hút bụi, cây nóng lạnh, quạt điện. Mua hàng online tại Tiki: ✓ Hàng chính hãng  ✓ Giá rẻ hơn  ✓ Giao hàng FREE",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/b1/8a/5f/4e60f76faa532831fe5cf71f3b8fe4c1.png",
+                "children": [
+                    {
+                        "id": 1993,
+                        "text": "Bàn ủi, bàn là",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 1994,
+                                "text": "Bàn ủi hơi nước",
+                                "url_key": "ban-ui-hoi-nuoc",
+                                "full_url_key": "thiet-bi-gia-dinh/ban-ui-ban-la/ban-ui-hoi-nuoc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1996,
+                                "text": "Bàn ủi hơi nước đứng",
+                                "url_key": "ban-ui-hoi-nuoc-dung",
+                                "full_url_key": "thiet-bi-gia-dinh/ban-ui-ban-la/ban-ui-hoi-nuoc-dung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1995,
+                                "text": "Bàn ủi khô",
+                                "url_key": "ban-ui-kho",
+                                "full_url_key": "thiet-bi-gia-dinh/ban-ui-ban-la/ban-ui-kho",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ban-ui-ban-la",
+                        "url_path": "ban-ui-ban-la/c1993",
+                        "product_count": 584,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/7b/60/6f/1832d710075ce476effd25b129323ce9.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1997,
+                        "text": "Máy may, thêu, vắt sổ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 1998,
+                                "text": "Máy may điện tử",
+                                "url_key": "may-may-dien-tu",
+                                "full_url_key": "thiet-bi-gia-dinh/may-may-theu-vat-so/may-may-dien-tu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1999,
+                                "text": "Máy may cơ",
+                                "url_key": "may-may-co",
+                                "full_url_key": "thiet-bi-gia-dinh/may-may-theu-vat-so/may-may-co",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2000,
+                                "text": "Máy thêu",
+                                "url_key": "may-theu",
+                                "full_url_key": "thiet-bi-gia-dinh/may-may-theu-vat-so/may-theu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8083,
+                                "text": "Máy vắt sổ",
+                                "url_key": "may-vat-so",
+                                "full_url_key": "thiet-bi-gia-dinh/may-may-theu-vat-so/may-vat-so",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11530,
+                                "text": "Phụ kiện máy may, thêu, vắt sổ",
+                                "url_key": "phu-kien-may-may-theu-vat-so",
+                                "full_url_key": "thiet-bi-gia-dinh/may-may-theu-vat-so/phu-kien-may-may-theu-vat-so",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-may-theu-vat-so",
+                        "url_path": "may-may-theu-vat-so/c1997",
+                        "product_count": 63,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/m/a/may-theu-brother-as2730s-trang-8225-829692-1-zoom.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2001,
+                        "text": "Quạt điện",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 8084,
+                                "text": "Quạt Đứng",
+                                "url_key": "quat-dung",
+                                "full_url_key": "thiet-bi-gia-dinh/quat-dien/quat-dung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2002,
+                                "text": "Quạt lửng",
+                                "url_key": "quat-lung",
+                                "full_url_key": "thiet-bi-gia-dinh/quat-dien/quat-lung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2003,
+                                "text": "Quạt treo tường",
+                                "url_key": "quat-treo-tuong",
+                                "full_url_key": "thiet-bi-gia-dinh/quat-dien/quat-treo-tuong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2004,
+                                "text": "Quạt hơi nước, phun sương",
+                                "url_key": "quat-hoi-nuoc-phun-suong",
+                                "full_url_key": "thiet-bi-gia-dinh/quat-dien/quat-hoi-nuoc-phun-suong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5134,
+                                "text": "Quạt trần",
+                                "url_key": "quat-tran",
+                                "full_url_key": "thiet-bi-gia-dinh/quat-dien/quat-tran",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2005,
+                                "text": "Quạt tháp",
+                                "url_key": "quat-thap",
+                                "full_url_key": "thiet-bi-gia-dinh/quat-dien/quat-thap",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2006,
+                                "text": "Quạt bàn",
+                                "url_key": "quat-ban",
+                                "full_url_key": "thiet-bi-gia-dinh/quat-dien/quat-ban",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2007,
+                                "text": "Quạt hộp",
+                                "url_key": "quat-hop",
+                                "full_url_key": "thiet-bi-gia-dinh/quat-dien/quat-hop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2008,
+                                "text": "Quạt sạc",
+                                "url_key": "quat-sac",
+                                "full_url_key": "thiet-bi-gia-dinh/quat-dien/quat-sac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 6818,
+                                "text": "Quạt hút, quạt thông gió",
+                                "url_key": "qut-hut-quat-thong-gio",
+                                "full_url_key": "thiet-bi-gia-dinh/quat-dien/qut-hut-quat-thong-gio",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24076,
+                                "text": "Quạt mini",
+                                "url_key": "quat-mini",
+                                "full_url_key": "thiet-bi-gia-dinh/quat-dien/quat-mini",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "quat-dien",
+                        "url_path": "quat-dien/c2001",
+                        "product_count": 2221,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/e4/e8/a5/ebc9d2809ee9173084be9b20a4f4002c.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2009,
+                        "text": "Máy hút bụi",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 2038,
+                                "text": "Hút bụi gia đình",
+                                "url_key": "hut-bui-gia-dinh",
+                                "full_url_key": "thiet-bi-gia-dinh/may-hut-bui/hut-bui-gia-dinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2039,
+                                "text": "Hút bụi cầm tay",
+                                "url_key": "hut-bui-cam-tay",
+                                "full_url_key": "thiet-bi-gia-dinh/may-hut-bui/hut-bui-cam-tay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2161,
+                                "text": "Hút bụi công nghiệp",
+                                "url_key": "hut-bui-cong-nghiep",
+                                "full_url_key": "thiet-bi-gia-dinh/may-hut-bui/hut-bui-cong-nghiep",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 13224,
+                                "text": "Phụ kiện máy hút bụi",
+                                "url_key": "phu-kien-may-hut-bui",
+                                "full_url_key": "thiet-bi-gia-dinh/may-hut-bui/phu-kien-may-hut-bui",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11860,
+                                "text": "Robot hút bụi",
+                                "url_key": "robot-hut-bui",
+                                "full_url_key": "thiet-bi-gia-dinh/may-hut-bui/robot-hut-bui",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-hut-bui",
+                        "url_path": "may-hut-bui/c2009",
+                        "product_count": 1339,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/65/c3/fe/d736afbfa1abac498f06273a3531badc.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 4876,
+                        "text": "Cây Nước Nóng Lạnh",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67129,
+                                "text": "Bình nước úp ngược",
+                                "url_key": "binh-nuoc-up-nguoc",
+                                "full_url_key": "thiet-bi-gia-dinh/cay-nuoc-nong-lanh/binh-nuoc-up-nguoc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67130,
+                                "text": "Bình nước lắp âm",
+                                "url_key": "binh-nuoc-lap-am",
+                                "full_url_key": "thiet-bi-gia-dinh/cay-nuoc-nong-lanh/binh-nuoc-lap-am",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cay-nuoc-nong-lanh",
+                        "url_path": "cay-nuoc-nong-lanh/c4876",
+                        "product_count": 139,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2c/62/e7/e20ecc9ca6905ae80e2730a5888915f7.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2010,
+                        "text": "Máy lọc không khí",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-loc-khong-khi",
+                        "url_path": "may-loc-khong-khi/c2010",
+                        "product_count": 559,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/52/47/19/c881cb9acb1a3ebdf4022b57945b585a.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5614,
+                        "text": "Máy tạo ẩm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-tao-am",
+                        "url_path": "may-tao-am/c5614",
+                        "product_count": 201,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/cf/ec/9c/bf595a45e500284682c80c30da926a8a.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5585,
+                        "text": "Máy hút ẩm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-hut-am",
+                        "url_path": "may-hut-am/c5585",
+                        "product_count": 67,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/5a/91/51/8f5db98342b6bdf857088c58a885c97d.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5010,
+                        "text": "Máy lọc nước",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 26488,
+                                "text": "Máy lọc nước có điện ",
+                                "url_key": "may-loc-nuoc-co-dien",
+                                "full_url_key": "thiet-bi-gia-dinh/may-loc-nuoc/may-loc-nuoc-co-dien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 26490,
+                                "text": "Máy lọc nước không điện",
+                                "url_key": "may-loc-nuoc-khong-dien",
+                                "full_url_key": "thiet-bi-gia-dinh/may-loc-nuoc/may-loc-nuoc-khong-dien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 26492,
+                                "text": "Phụ kiện máy lọc nước",
+                                "url_key": "phu-kien-may-loc-nuoc",
+                                "full_url_key": "thiet-bi-gia-dinh/may-loc-nuoc/phu-kien-may-loc-nuoc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 26494,
+                                "text": "Đầu lọc nước tại vòi",
+                                "url_key": "dau-loc-nuoc-tai-voi",
+                                "full_url_key": "thiet-bi-gia-dinh/may-loc-nuoc/dau-loc-nuoc-tai-voi",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-loc-nuoc",
+                        "url_path": "may-loc-nuoc/c5010",
+                        "product_count": 2178,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/e2/22/f5/88c1bafaf98c4babc70ced0da0e4a928.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 5976,
+                        "text": "Máy sấy quần áo",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-say-quan-ao",
+                        "url_path": "may-say-quan-ao/c5976",
+                        "product_count": 52,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/70/04/17/41d7efa17c334538a64bab629ea207a0.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5977,
+                        "text": "Máy sấy tay",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-say-tay",
+                        "url_path": "may-say-tay/c5977",
+                        "product_count": 28,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/01/5f/f0/53626670bba443adfddef3424d9af922.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 6510,
+                        "text": "Thiết bị sưởi ấm",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24084,
+                                "text": "Quạt sưởi",
+                                "url_key": "quat-suoi",
+                                "full_url_key": "thiet-bi-gia-dinh/thiet-bi-suoi-am/quat-suoi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24088,
+                                "text": "Đèn sưởi",
+                                "url_key": "den-suoi",
+                                "full_url_key": "thiet-bi-gia-dinh/thiet-bi-suoi-am/den-suoi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24090,
+                                "text": "Máy sưởi",
+                                "url_key": "may-suoi",
+                                "full_url_key": "thiet-bi-gia-dinh/thiet-bi-suoi-am/may-suoi",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-suoi-am",
+                        "url_path": "thiet-bi-suoi-am/c6510",
+                        "product_count": 342,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bd/a1/b6/74f8d42a7c7f2fd0aa4d8e4771ea3d2f.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 55946,
+                        "text": "Thiết bị chăm sóc cá nhân",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 55948,
+                                "text": "Tông đơ, máy cắt tóc",
+                                "url_key": "tong-do-may-cat-toc",
+                                "full_url_key": "thiet-bi-gia-dinh/thiet-bi-cham-soc-ca-nhan/tong-do-may-cat-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 55949,
+                                "text": "Phụ kiện máy cạo râu, cắt tóc",
+                                "url_key": "phu-kien-may-cao-rau-cat-toc",
+                                "full_url_key": "thiet-bi-gia-dinh/thiet-bi-cham-soc-ca-nhan/phu-kien-may-cao-rau-cat-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1989,
+                                "text": "Máy cạo râu",
+                                "url_key": "may-cao-rau",
+                                "full_url_key": "thiet-bi-gia-dinh/thiet-bi-cham-soc-ca-nhan/may-cao-rau",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2334,
+                                "text": "Máy sấy tóc",
+                                "url_key": "may-say-toc",
+                                "full_url_key": "thiet-bi-gia-dinh/thiet-bi-cham-soc-ca-nhan/may-say-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11941,
+                                "text": "Máy ép, duỗi tóc",
+                                "url_key": "may-ep-duoi-toc",
+                                "full_url_key": "thiet-bi-gia-dinh/thiet-bi-cham-soc-ca-nhan/may-ep-duoi-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11943,
+                                "text": "Máy uốn tóc",
+                                "url_key": "may-uon-toc",
+                                "full_url_key": "thiet-bi-gia-dinh/thiet-bi-cham-soc-ca-nhan/may-uon-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 55947,
+                                "text": "Máy tỉa lông mũi",
+                                "url_key": "may-tia-long-mui",
+                                "full_url_key": "thiet-bi-gia-dinh/thiet-bi-cham-soc-ca-nhan/may-tia-long-mui",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-cham-soc-ca-nhan",
+                        "url_path": "thiet-bi-cham-soc-ca-nhan/c55946",
+                        "product_count": 1066,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/69/70/ee/9992d7729f02179405ff3b95b9829e6f.png",
+                        "is_leaf": false
+                    }
+                ]
+            }
+        ]
+    }
+]

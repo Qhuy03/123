@@ -1,0 +1,615 @@
+[
+    {
+        "text": "Phụ kiện thời trang",
+        "icon_url": "https://salt.tikicdn.com/ts/category/ca/53/64/49c6189a0e1c1bf7cb91b01ff6d3fe43.png",
+        "children": [
+            {
+                "id": 8370,
+                "parent_id": 27498,
+                "text": "Mắt kính",
+                "type": null,
+                "url_key": "mat-kinh",
+                "url_path": "mat-kinh/c8370",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 10000,
+                "is_leaf": false,
+                "meta_title": "Mắt kính nam, nữ thời trang | Tiki.vn",
+                "meta_description": "Mắt kính nam, nữ thời trang chất lượng uy tín giá tốt tại Tiki.vn",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/44/29/44/c784b326ce7966353333e14100eba519.png",
+                "children": [
+                    {
+                        "id": 978,
+                        "text": "Kính mát",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 5394,
+                                "text": "Kính mát nữ",
+                                "url_key": "kinh-mat-nu",
+                                "full_url_key": "mat-kinh/kinh-mat/kinh-mat-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5410,
+                                "text": "Kính mát nam",
+                                "url_key": "kinh-mat-nam",
+                                "full_url_key": "mat-kinh/kinh-mat/kinh-mat-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "kinh-mat",
+                        "url_path": "kinh-mat/c978",
+                        "product_count": 3534,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9a/7c/6f/9edffc4f2ccd5be435fd2a0a784eeaa8.JPG",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1017,
+                        "text": "Gọng kính",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 8382,
+                                "text": "Gọng kính nam",
+                                "url_key": "gong-kinh-nam",
+                                "full_url_key": "mat-kinh/gong-kinh/gong-kinh-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8384,
+                                "text": "Gọng kính nữ",
+                                "url_key": "gong-kinh-nu",
+                                "full_url_key": "mat-kinh/gong-kinh/gong-kinh-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "gong-kinh",
+                        "url_path": "gong-kinh/c1017",
+                        "product_count": 3890,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/01/b4/01/160122ce87b86c74f2cbf40d5dc96228.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11839,
+                        "text": "Kính áp tròng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "kinh-ap-trong",
+                        "url_path": "kinh-ap-trong/c11839",
+                        "product_count": 79,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/b7/f4/e2/79be2e6c7a4e43ab51f182a1ea1aaccd.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11374,
+                        "text": "Mắt kính trẻ em",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "mat-kinh-tre-em",
+                        "url_path": "mat-kinh-tre-em/c11374",
+                        "product_count": 45,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/82/19/bf/cfb6e04d9c85f3a87c4eec127021f052.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11843,
+                        "text": "Phụ kiện kính",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-kinh",
+                        "url_path": "phu-kien-kinh/c11843",
+                        "product_count": 939,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/a5/e8/40/14dc06204c2056ea896b5f931d19827c.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 975,
+                "parent_id": 27498,
+                "text": "Phụ kiện thời trang nữ",
+                "type": null,
+                "url_key": "phu-kien-thoi-trang-nu",
+                "url_path": "phu-kien-thoi-trang-nu/c975",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 10000,
+                "is_leaf": false,
+                "meta_title": "Phụ kiện thời trang nữ",
+                "meta_description": "Phụ kiện thời trang nữ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/76/bd/c9/53c0efc03a2b71e06a9aef45d60a5ea3.png",
+                "children": [
+                    {
+                        "id": 5401,
+                        "text": "Nón nữ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 49662,
+                                "text": "Nón tai bèo nữ",
+                                "url_key": "non-tai-beo-nu",
+                                "full_url_key": "phu-kien-thoi-trang-nu/non-nu/non-tai-beo-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49664,
+                                "text": "Nón nửa đầu nữ",
+                                "url_key": "non-nua-dau-nu",
+                                "full_url_key": "phu-kien-thoi-trang-nu/non-nu/non-nua-dau-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49666,
+                                "text": "Nón lưỡi trai nữ",
+                                "url_key": "non-luoi-trai-nu",
+                                "full_url_key": "phu-kien-thoi-trang-nu/non-nu/non-luoi-trai-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49668,
+                                "text": "Nón rộng vành nữ",
+                                "url_key": "non-rong-vanh-nu",
+                                "full_url_key": "phu-kien-thoi-trang-nu/non-nu/non-rong-vanh-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49670,
+                                "text": "Nón chống nắng nữ",
+                                "url_key": "non-chong-nang-nu",
+                                "full_url_key": "phu-kien-thoi-trang-nu/non-nu/non-chong-nang-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "non-nu",
+                        "url_path": "non-nu/c5401",
+                        "product_count": 2310,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/45/1d/93/e31eb6a27b448f214790827f50112664.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 5403,
+                        "text": "Khăn - Tất - Vớ nữ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 49672,
+                                "text": "Vớ ngắn nữ",
+                                "url_key": "vo-ngan-nu",
+                                "full_url_key": "phu-kien-thoi-trang-nu/khan-tat-vo-nu/vo-ngan-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49674,
+                                "text": "Vớ dài nữ",
+                                "url_key": "vo-dai-nu",
+                                "full_url_key": "phu-kien-thoi-trang-nu/khan-tat-vo-nu/vo-dai-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49676,
+                                "text": "Khẩu trang nữ",
+                                "url_key": "khau-trang-nu",
+                                "full_url_key": "phu-kien-thoi-trang-nu/khan-tat-vo-nu/khau-trang-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5402,
+                                "text": "Khăn choàng - Khăn tay nữ",
+                                "url_key": "khan-choang-khan-tay-nu",
+                                "full_url_key": "phu-kien-thoi-trang-nu/khan-tat-vo-nu/khan-choang-khan-tay-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67139,
+                                "text": "Vớ họa tiết",
+                                "url_key": "vo-hoa-tiet",
+                                "full_url_key": "phu-kien-thoi-trang-nu/khan-tat-vo-nu/vo-hoa-tiet",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "khan-tat-vo-nu",
+                        "url_path": "khan-tat-vo-nu/c5403",
+                        "product_count": 1703,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/c1/38/38/0efc52f14ab5690ca88bf65f68f9803e.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8361,
+                        "text": "Phụ kiện tóc nữ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 49678,
+                                "text": "Cột tóc",
+                                "url_key": "cot-toc",
+                                "full_url_key": "phu-kien-thoi-trang-nu/phu-kien-toc-nu/cot-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49680,
+                                "text": "Cài tóc",
+                                "url_key": "cai-toc",
+                                "full_url_key": "phu-kien-thoi-trang-nu/phu-kien-toc-nu/cai-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49682,
+                                "text": "Băng đô",
+                                "url_key": "bang-do",
+                                "full_url_key": "phu-kien-thoi-trang-nu/phu-kien-toc-nu/bang-do",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49684,
+                                "text": "Lược",
+                                "url_key": "luoc",
+                                "full_url_key": "phu-kien-thoi-trang-nu/phu-kien-toc-nu/luoc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49686,
+                                "text": "Dụng cụ uốn tóc và tạo kiểu",
+                                "url_key": "dung-cu-uon-toc-va-tao-kieu",
+                                "full_url_key": "phu-kien-thoi-trang-nu/phu-kien-toc-nu/dung-cu-uon-toc-va-tao-kieu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49688,
+                                "text": "Phụ kiện tóc khác",
+                                "url_key": "phu-kien-toc-khac",
+                                "full_url_key": "phu-kien-thoi-trang-nu/phu-kien-toc-nu/phu-kien-toc-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-toc-nu",
+                        "url_path": "phu-kien-toc-nu/c8361",
+                        "product_count": 2782,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/af/fc/f7/89a856ba53f45c78c5d2cb5fd44dd23c.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 5387,
+                        "text": "Thắt lưng - Dây nịt nữ và phụ kiện",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 49690,
+                                "text": "Thắt lưng nữ bản to",
+                                "url_key": "that-lung-nu-ban-to",
+                                "full_url_key": "phu-kien-thoi-trang-nu/that-lung-day-nit-nu-va-phu-kien/that-lung-nu-ban-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49692,
+                                "text": "Thắt lưng nữ bản nhỏ",
+                                "url_key": "that-lung-nu-ban-nho",
+                                "full_url_key": "phu-kien-thoi-trang-nu/that-lung-day-nit-nu-va-phu-kien/that-lung-nu-ban-nho",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49694,
+                                "text": "Mặt thắt lưng nữ",
+                                "url_key": "mat-that-lung-nu",
+                                "full_url_key": "phu-kien-thoi-trang-nu/that-lung-day-nit-nu-va-phu-kien/mat-that-lung-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "that-lung-day-nit-nu-va-phu-kien",
+                        "url_path": "that-lung-day-nit-nu-va-phu-kien/c5387",
+                        "product_count": 614,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/eb/0a/8a/8f03b8b3d3356fdf2f9a06e97c08d03e.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 5400,
+                        "text": "Phụ kiện cưới",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-cuoi",
+                        "url_path": "phu-kien-cuoi/c5400",
+                        "product_count": 798,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/56/ea/f3/167819776fe04d7d6c564c7ec72699ee.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 15118,
+                        "text": "Cài Áo",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "cai-ao",
+                        "url_path": "cai-ao/c15118",
+                        "product_count": 587,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/21/a6/e8/7d835c790f9e708e86fe9546f4b63a18.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67145,
+                        "text": "Phụ kiện thời trang nữ khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-thoi-trang-nu-khac",
+                        "url_path": "phu-kien-thoi-trang-nu-khac/c67145",
+                        "product_count": 115,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/23/cd/6e/46afa2c13acd7166b1c7087a9b0042f7.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67146,
+                        "text": "Ô, dù",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "o-du",
+                        "url_path": "o-du/c67146",
+                        "product_count": 40,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d6/4b/13/54e5e1e7f77b1ef05a4ff8e3343a9eac.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 27550,
+                "parent_id": 27498,
+                "text": "Phụ kiện thời trang nam",
+                "type": null,
+                "url_key": "phu-kien-thoi-trang-nam",
+                "url_path": "phu-kien-thoi-trang-nam/c27550",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 5670,
+                "is_leaf": false,
+                "meta_title": "Phụ kiện thời trang nam",
+                "meta_description": "Phụ kiện thời trang nam",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/2d/b4/a6/de2516f9207c60987e492b0337014fd3.png",
+                "children": [
+                    {
+                        "id": 8341,
+                        "text": "Nón nam",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 49704,
+                                "text": "Nón lưỡi trai nam",
+                                "url_key": "non-luoi-trai-nam",
+                                "full_url_key": "phu-kien-thoi-trang-nam/non-nam/non-luoi-trai-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49706,
+                                "text": "Nón rộng vành nam",
+                                "url_key": "non-rong-vanh-nam",
+                                "full_url_key": "phu-kien-thoi-trang-nam/non-nam/non-rong-vanh-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49708,
+                                "text": "Nón len nam",
+                                "url_key": "non-len-nam",
+                                "full_url_key": "phu-kien-thoi-trang-nam/non-nam/non-len-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49710,
+                                "text": "Nón phớt cao bồi nam",
+                                "url_key": "non-phot-cao-boi-nam",
+                                "full_url_key": "phu-kien-thoi-trang-nam/non-nam/non-phot-cao-boi-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49712,
+                                "text": "Nón snapback nam",
+                                "url_key": "non-snapback-nam",
+                                "full_url_key": "phu-kien-thoi-trang-nam/non-nam/non-snapback-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49714,
+                                "text": "Nón tai bèo nam - bucket nam",
+                                "url_key": "non-tai-beo-nam-bucket-nam",
+                                "full_url_key": "phu-kien-thoi-trang-nam/non-nam/non-tai-beo-nam-bucket-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "non-nam",
+                        "url_path": "non-nam/c8341",
+                        "product_count": 1687,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/c5/cf/d5/fc25b2d43ba86be6d1adb5a536ad8f78.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8343,
+                        "text": "Khăn nam",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "khan-nam",
+                        "url_path": "khan-nam/c8343",
+                        "product_count": 152,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/e8/98/fc/25639af358c542fd854b2cb11ad575fe.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5343,
+                        "text": "Tất, vớ nam",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 49716,
+                                "text": "Vớ cổ ngắn nam",
+                                "url_key": "vo-co-ngan-nam",
+                                "full_url_key": "phu-kien-thoi-trang-nam/vo-nam/vo-co-ngan-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49718,
+                                "text": "Vớ cổ cao nam",
+                                "url_key": "vo-co-cao-nam",
+                                "full_url_key": "phu-kien-thoi-trang-nam/vo-nam/vo-co-cao-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67140,
+                                "text": "Vớ nam họa tiết",
+                                "url_key": "vo-nam-hoa-tiet",
+                                "full_url_key": "phu-kien-thoi-trang-nam/vo-nam/vo-nam-hoa-tiet",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "vo-nam",
+                        "url_path": "vo-nam/c5343",
+                        "product_count": 486,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d3/a1/76/a4700ecc9994a751bf350b3e15fa6b08.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 968,
+                        "text": "Thắt lưng, dây nịt nam",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 5339,
+                                "text": "Dây thắt lưng - Dây nịt",
+                                "url_key": "day-that-lung-day-nit",
+                                "full_url_key": "phu-kien-thoi-trang-nam/that-lung-day-nit-nam/day-that-lung-day-nit",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5338,
+                                "text": "Mặt thắt lưng nam",
+                                "url_key": "mat-that-lung-nam",
+                                "full_url_key": "phu-kien-thoi-trang-nam/that-lung-day-nit-nam/mat-that-lung-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "that-lung-day-nit-nam",
+                        "url_path": "that-lung-day-nit-nam/c968",
+                        "product_count": 2014,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/8d/95/8a/3ac97ff9cd83075ecc15baffb98deef3.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 49720,
+                        "text": "Hình xăm nam",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "hinh-xam-nam",
+                        "url_path": "hinh-xam-nam/c49720",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/93/1e/db/6c0d7e68a6f3cf9815e97040080f0803.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8342,
+                        "text": "Găng tay nam",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "gang-tay-nam",
+                        "url_path": "gang-tay-nam/c8342",
+                        "product_count": 519,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/62/63/c1/cfc33cca3f3a5276dc557fea6f584675.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67142,
+                        "text": "Cà vạt, nơ cổ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 1706,
+                                "text": "Cà vạt",
+                                "url_key": "ca-vat",
+                                "full_url_key": "phu-kien-thoi-trang-nam/ca-vat-no-co/ca-vat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67143,
+                                "text": "Nơ cổ",
+                                "url_key": "no-co",
+                                "full_url_key": "phu-kien-thoi-trang-nam/ca-vat-no-co/no-co",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ca-vat-no-co",
+                        "url_path": "ca-vat-no-co/c67142",
+                        "product_count": 782,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/24/ee/b1/ed990eb79bc8c35184a5089bd0022b16.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 67144,
+                        "text": "Phụ kiện thời trang nam khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-thoi-trang-nam-khac",
+                        "url_path": "phu-kien-thoi-trang-nam-khac/c67144",
+                        "product_count": 27,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8f/9b/12/e59d0da35d02806c4d7b0f552af1f0e4.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            }
+        ]
+    }
+]

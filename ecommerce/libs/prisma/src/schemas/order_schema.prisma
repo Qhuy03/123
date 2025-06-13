@@ -1,0 +1,87 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider      = "prisma-client-js"
+  output        = "../generated/order"
+  binaryTargets = ["native", "linux-musl-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("ORDER_DATABASE_URL")
+}
+
+enum STATUS {
+  PENDING
+  PAID
+  APPROVED
+  CANCELLED
+}
+
+enum PaymentStatus {
+  AUTHORIZED
+  CANCELED
+}
+
+model Order {
+  id               String   @id @default(uuid()) // Primary key
+  user_id          String
+  user_name        String
+  user_email       String
+  order_date       DateTime @default(now())
+  order_total      Decimal  @db.Decimal(10, 2)
+  order_status     STATUS   @default(PENDING)
+  payment_method   String
+  shipping_address String
+  created_at       DateTime @default(now())
+  updated_at       DateTime @updatedAt
+  is_deleted       Boolean  @default(false)
+
+  // PaymentMethod    PaymentMethod @relation(fields: [payment_method], references: [id])
+  //   ShippingAddress  UserAddress   @relation(fields: [shipping_address], references: [id])
+  OrderDetails OrderDetail[]
+  Transactions Transactions?
+}
+
+model OrderDetail {
+  id              String  @id @default(uuid()) // Primary key
+  order_id        String
+  product_id      String
+  product_name    String
+  product_variant String? @default("")
+  product_thumb   String?
+  quantity        Int
+  price           Decimal @db.Decimal(10, 2)
+
+  Order Order @relation(fields: [order_id], references: [id])
+}
+
+model PaymentMethod {
+  id                 String   @id @default(uuid()) // Primary key
+  method_name        String
+  method_thumbnail   String?
+  method_description String?
+  is_active          Boolean  @default(true)
+  created_at         DateTime @default(now())
+  updated_at         DateTime @updatedAt
+
+  // orders            Order[]  
+  transactions Transactions[]
+}
+
+model Transactions {
+  id                String        @id @default(uuid()) // Primary key
+  order_id          String        @unique
+  payment_method_id String
+  amount            Decimal       @db.Decimal(10, 2)
+  description       String?
+  status            PaymentStatus @default(AUTHORIZED)
+  created_at        DateTime      @default(now())
+
+  orders          Order         @relation(fields: [order_id], references: [id])
+  payment_methods PaymentMethod @relation(fields: [payment_method_id], references: [id])
+}

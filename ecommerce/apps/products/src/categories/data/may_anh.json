@@ -1,0 +1,830 @@
+[
+    {
+        "text": "Máy Ảnh - Máy Quay Phim",
+        "icon_url": "https://salt.tikicdn.com/ts/category/2d/7c/45/e4976f3fa4061ab310c11d2a1b759e5b.png",
+        "children": [
+            {
+                "id": 28806,
+                "parent_id": 1801,
+                "text": "Máy Ảnh",
+                "type": null,
+                "url_key": "may-anh",
+                "url_path": "may-anh/c28806",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 11,
+                "is_leaf": false,
+                "meta_title": "Máy Ảnh",
+                "meta_description": "Máy Ảnh",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/fc/b9/df/596a8760e0d5e537dcf37c904a010441.png",
+                "children": [
+                    {
+                        "id": 1808,
+                        "text": "Máy Ảnh Compact - Máy Ảnh Du Lịch",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-anh-compact-may-anh-du-lich",
+                        "url_path": "may-anh-compact-may-anh-du-lich/c1808",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6d/29/33/29ff32d0ad34ad9cb94fb447bf03bc86.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 2658,
+                        "text": "Máy Ảnh Mirrorless",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-anh-mirrorless",
+                        "url_path": "may-anh-mirrorless/c2658",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/13/ee/9f/83cbc7db7144a9c8761631c5c98bcbf8.jpeg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 2144,
+                        "text": "Máy Ảnh Lấy Liền",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-anh-lay-lien",
+                        "url_path": "may-anh-lay-lien/c2144",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/40/05/d5/93f8b2d10bc03636fee4781d05b5f6e0.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28808,
+                        "text": "Máy Chụp Ảnh Phim",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-chup-anh-phim",
+                        "url_path": "may-chup-anh-phim/c28808",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 1818,
+                "parent_id": 1801,
+                "text": "Phụ Kiện Máy Ảnh, Máy Quay",
+                "type": null,
+                "url_key": "phu-kien-may-anh-may-quay",
+                "url_path": "phu-kien-may-anh-may-quay/c1818",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1041,
+                "is_leaf": false,
+                "meta_title": "Phụ Kiện Máy Ảnh, Máy Quay",
+                "meta_description": "Phụ Kiện Máy Ảnh, Máy Quay",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/28/b1/e8/79979fb735e91b817d52a25fe9593436.png",
+                "children": [
+                    {
+                        "id": 2662,
+                        "text": "Pin - Sạc Máy Ảnh, Máy Quay",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67121,
+                                "text": "Pin máy quay",
+                                "url_key": "pin-may-quay",
+                                "full_url_key": "phu-kien-may-anh-may-quay/pin-sac-may-anh-may-quay/pin-may-quay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67122,
+                                "text": "Pin máy ảnh",
+                                "url_key": "pin-may-anh",
+                                "full_url_key": "phu-kien-may-anh-may-quay/pin-sac-may-anh-may-quay/pin-may-anh",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "pin-sac-may-anh-may-quay",
+                        "url_path": "pin-sac-may-anh-may-quay/c2662",
+                        "product_count": 325,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1a/e7/d7/c45898053296b8acf98556f6aa007d2a.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 20260,
+                        "text": "Dụng Cụ Vệ Sinh Máy Ảnh",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-ve-sinh-may-anh",
+                        "url_path": "dung-cu-ve-sinh-may-anh/c20260",
+                        "product_count": 16,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c8/37/09/b16ea2eb8ea855ffec0e8bd3a885ad7c.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8054,
+                        "text": "Phụ Kiện Máy Ảnh, Máy Quay Khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-may-anh-may-quay-khac",
+                        "url_path": "phu-kien-may-anh-may-quay-khac/c8054",
+                        "product_count": 202,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/29/04/34/578a6033a5d0af925ab1d89dbae22d37.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 20262,
+                        "text": "Miếng Dán Bảo Vệ Màn Hình Máy Ảnh",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "mieng-dan-bao-ve-man-hinh-may-anh",
+                        "url_path": "mieng-dan-bao-ve-man-hinh-may-anh/c20262",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/12/4e/c9/6863c5dba0b9f2d0370b09ed9c2c8a70.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1841,
+                        "text": "Kính Lọc - Filter",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "kinh-loc-filter",
+                        "url_path": "kinh-loc-filter/c1841",
+                        "product_count": 85,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/b7/24/0be72f56ae07305bd2041da883b69197.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28758,
+                        "text": "Điều Khiển Từ Xa",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dieu-khien-tu-xa",
+                        "url_path": "dieu-khien-tu-xa/c28758",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0a/c1/dd/71e461f031c3b037cd33b26c48ef8557.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 20264,
+                        "text": "Adapter - Ngàm Chuyển",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "adapter-ngam-chuyen",
+                        "url_path": "adapter-ngam-chuyen/c20264",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c7/d9/b2/5b016a1f879f01b8457e22ac66f103ba.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 20266,
+                        "text": "Lens Hood",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "lens-hood",
+                        "url_path": "lens-hood/c20266",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e7/b9/28/479badca89f26f5d2ef0f16f77ca3ef6.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28760,
+                        "text": "Gimbal",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "gimbal",
+                        "url_path": "gimbal/c28760",
+                        "product_count": 41,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/59/d4/7d/08f472daa1824be9f9176d228780e025.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28762,
+                        "text": "Nắp Ống Kính",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "nap-ong-kinh",
+                        "url_path": "nap-ong-kinh/c28762",
+                        "product_count": 6,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f5/0a/b1/c5723559c03d665bdbe506b3c19dd510.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28766,
+                        "text": "Túi Hút Ẩm Cho Máy Ảnh, Máy Quay",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-hut-am-cho-may-anh-may-quay",
+                        "url_path": "tui-hut-am-cho-may-anh-may-quay/c28766",
+                        "product_count": 75,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bc/f6/08/f82c91e871ee467de612bef1dd78ae98.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28768,
+                        "text": "Hộp Chụp Ảnh Sản Phẩm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "hop-chup-anh-san-pham",
+                        "url_path": "hop-chup-anh-san-pham/c28768",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b4/02/f2/829bc992591f33cdf16cfb80991f8af6.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 2678,
+                        "text": "Chân Máy Ảnh, Monopod, Tripod",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67123,
+                                "text": "Tripod",
+                                "url_key": "tripod",
+                                "full_url_key": "phu-kien-may-anh-may-quay/chan-may-anh-monopod-tripod/tripod",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67124,
+                                "text": "Monopod",
+                                "url_key": "monopod",
+                                "full_url_key": "phu-kien-may-anh-may-quay/chan-may-anh-monopod-tripod/monopod",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "chan-may-anh-monopod-tripod",
+                        "url_path": "chan-may-anh-monopod-tripod/c2678",
+                        "product_count": 146,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ee/9e/1e/1c89224cd32dc9409bba3f05c91c557d.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1839,
+                        "text": "Thẻ Nhớ Máy Ảnh",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 2681,
+                                "text": "Thẻ Nhớ SD",
+                                "url_key": "the-nho-sd",
+                                "full_url_key": "phu-kien-may-anh-may-quay/the-nho-may-anh/the-nho-sd",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2682,
+                                "text": "Thẻ Nhớ CF",
+                                "url_key": "the-nho-cf",
+                                "full_url_key": "phu-kien-may-anh-may-quay/the-nho-may-anh/the-nho-cf",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28770,
+                                "text": "Thẻ Nhớ Máy Ảnh Khác",
+                                "url_key": "the-nho-may-anh-khac",
+                                "full_url_key": "phu-kien-may-anh-may-quay/the-nho-may-anh/the-nho-may-anh-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "the-nho-may-anh",
+                        "url_path": "the-nho-may-anh/c1839",
+                        "product_count": 119,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cb/46/1e/06051349a415f041884e5b823bc88efb.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 28774,
+                        "text": "Film Máy Ảnh",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "film-may-anh",
+                        "url_path": "film-may-anh/c28774",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/27/79/79/39bd54e89a515361f90fe5e6aaf4ae10.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28776,
+                        "text": "Thiết Bị Phòng Tối",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-phong-toi",
+                        "url_path": "thiet-bi-phong-toi/c28776",
+                        "product_count": 9,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 1840,
+                "parent_id": 1801,
+                "text": "Balo - Túi Đựng - Bao Da",
+                "type": null,
+                "url_key": "balo-tui-dung-bao-da",
+                "url_path": "balo-tui-dung-bao-da/c1840",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 131,
+                "is_leaf": false,
+                "meta_title": "Balo - Túi Đựng - Bao Da",
+                "meta_description": "Balo - Túi Đựng - Bao Da",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/63/28/49/72c8b894e209939a1445339863781102.jpg",
+                "children": [
+                    {
+                        "id": 1843,
+                        "text": "Hộp Đựng - Tủ Chống Ẩm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "hop-dung-tu-chong-am",
+                        "url_path": "hop-dung-tu-chong-am/c1843",
+                        "product_count": 31,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/63/28/49/72c8b894e209939a1445339863781102.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 20270,
+                        "text": "Bao Đựng Chống Sốc, Chống Nước",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bao-dung-chong-soc-chong-nuoc",
+                        "url_path": "bao-dung-chong-soc-chong-nuoc/c20270",
+                        "product_count": 11,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f3/a9/94/5efcd3b71ed771440c0d10269039020c.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28780,
+                        "text": "Dây Đeo Máy Ảnh, Máy Quay, Ống Nhòm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "day-deo-may-anh-may-quay-ong-nhom",
+                        "url_path": "day-deo-may-anh-may-quay-ong-nhom/c28780",
+                        "product_count": 11,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7b/cf/aa/3a23347fd42bf15f83a7365d80227100.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28778,
+                        "text": "Túi Đựng Máy Ảnh",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-dung-may-anh",
+                        "url_path": "tui-dung-may-anh/c28778",
+                        "product_count": 22,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7e/33/af/24f7f09e98a4ba1a3f5b1e867936977a.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28784,
+                        "text": "Túi và Hộp Đựng Máy Ảnh",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-va-hop-dung-may-anh",
+                        "url_path": "tui-va-hop-dung-may-anh/c28784",
+                        "product_count": 57,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/2b/2c/3c/a09f177442f547047dc5a9f42d9c0d31.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 28794,
+                "parent_id": 1801,
+                "text": "Ống Kính - Ống Ngắm",
+                "type": null,
+                "url_key": "ong-kinh-ong-ngam",
+                "url_path": "ong-kinh-ong-ngam/c28794",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 190,
+                "is_leaf": false,
+                "meta_title": "Ống Kính - Ống Ngắm",
+                "meta_description": "Ống Kính - Ống Ngắm",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/0a/e7/351d583ad9a18727c9d537968357bde5.jpg",
+                "children": [
+                    {
+                        "id": 20268,
+                        "text": "Ống Nhòm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ong-nhom",
+                        "url_path": "ong-nhom/c20268",
+                        "product_count": 104,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/0a/e7/351d583ad9a18727c9d537968357bde5.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28798,
+                        "text": "Kính Hiển Vi",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "kinh-hien-vi",
+                        "url_path": "kinh-hien-vi/c28798",
+                        "product_count": 72,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/5c/33/97/0bf858a529c717e466187610e2e506ee.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28802,
+                        "text": "Kính Viễn Vọng - Kính Thiên Văn",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "kinh-vien-vong-kinh-thien-van",
+                        "url_path": "kinh-vien-vong-kinh-thien-van/c28802",
+                        "product_count": 9,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/84/87/4f/b627dd8ff5289eeee5fcf6479fbac896.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28804,
+                        "text": "Phụ Kiện Ống Kính, Ống Ngắm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-ong-kinh-ong-ngam",
+                        "url_path": "phu-kien-ong-kinh-ong-ngam/c28804",
+                        "product_count": 6,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8c/e5/50/9dd5fb408f999cdcdcd08f3cfa34968e.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 2757,
+                "parent_id": 1801,
+                "text": "Ống Kính (Lens)",
+                "type": null,
+                "url_key": "ong-kinh-lens",
+                "url_path": "ong-kinh-lens/c2757",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 35,
+                "is_leaf": false,
+                "meta_title": "Ống Kính (Lens)",
+                "meta_description": "Ống Kính (Lens)",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/a2/f4/42/24a0a9538941e3ebe63432210378fa9b.png",
+                "children": [
+                    {
+                        "id": 28812,
+                        "text": "Ống Kính Máy Ảnh",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67119,
+                                "text": "SLR Lens",
+                                "url_key": "slr-lens",
+                                "full_url_key": "ong-kinh-lens/ong-kinh-may-anh/slr-lens",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ong-kinh-may-anh",
+                        "url_path": "ong-kinh-may-anh/c28812",
+                        "product_count": 35,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/58/06/b9/693619f1fdfd5f20757ccede0b376de1.png",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 28814,
+                "parent_id": 1801,
+                "text": "Thiết Bị Ánh Sáng",
+                "type": null,
+                "url_key": "thiet-bi-anh-sang",
+                "url_path": "thiet-bi-anh-sang/c28814",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 134,
+                "is_leaf": false,
+                "meta_title": "Thiết Bị Ánh Sáng",
+                "meta_description": "Thiết Bị Ánh Sáng",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/79/f7/a6/1bdcda55b62861d59bf1d21ab85ff570.png",
+                "children": [
+                    {
+                        "id": 28816,
+                        "text": "Đèn Chiếu Sáng Studio",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "den-chieu-sang-studio",
+                        "url_path": "den-chieu-sang-studio/c28816",
+                        "product_count": 52,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/aa/65/b8/063b54ddc0e19ecb6545cba26a87999d.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28818,
+                        "text": "Máy Đo Sáng và Phụ Kiện",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-do-sang-va-phu-kien",
+                        "url_path": "may-do-sang-va-phu-kien/c28818",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1e/ab/01/b62cd5501a30763d16d045188ca39fdb.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 4075,
+                        "text": "Đèn Flash và Phụ Kiện",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "den-flash-va-phu-kien",
+                        "url_path": "den-flash-va-phu-kien/c4075",
+                        "product_count": 71,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5e/c5/bd/a8f24d30bff601c457218bb3544d5f6b.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28820,
+                        "text": "Thiết Bị Phản Sáng và Phụ Kiện",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-phan-sang-va-phu-kien",
+                        "url_path": "thiet-bi-phan-sang-va-phu-kien/c28820",
+                        "product_count": 11,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/45/a2/10/37d5a0afdc3389e7671b5b5e5e667fb3.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 28822,
+                "parent_id": 1801,
+                "text": "Thiết Bị Quay Phim",
+                "type": null,
+                "url_key": "thiet-bi-quay-phim",
+                "url_path": "thiet-bi-quay-phim/c28822",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 32,
+                "is_leaf": false,
+                "meta_title": "Thiết Bị Quay Phim",
+                "meta_description": "Thiết Bị Quay Phim",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/e1/ee/99/9e5c230060473d0002c5354ec80869f8.png",
+                "children": [
+                    {
+                        "id": 4074,
+                        "text": "Máy Quay Phim",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-quay-phim",
+                        "url_path": "may-quay-phim/c4074",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/85/41/59/555ca2e8061ce123dc2815618f78b1ee.jpeg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28826,
+                        "text": "Micro Cho Máy Quay",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "micro-cho-may-quay",
+                        "url_path": "micro-cho-may-quay/c28826",
+                        "product_count": 16,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bd/a3/e7/5b73d2d307f2738a2c12d12757651e46.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28828,
+                        "text": "Phụ Kiện Máy Quay Khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-may-quay-khac",
+                        "url_path": "phu-kien-may-quay-khac/c28828",
+                        "product_count": 14,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7c/53/8b/8e0f78fc4f4b57c1c34e1963c16ee090.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 4077,
+                "parent_id": 1801,
+                "text": "Camera Giám Sát",
+                "type": null,
+                "url_key": "camera-giam-sat",
+                "url_path": "camera-giam-sat/c4077",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1789,
+                "is_leaf": false,
+                "meta_title": "Camera Giám Sát",
+                "meta_description": "Camera Giám Sát",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/a2/8b/b4/847b4bcd8c4d841fdf6b47ec64c3ddc8.png",
+                "children": [
+                    {
+                        "id": 5121,
+                        "text": "Camera IP",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "camera-ip",
+                        "url_path": "camera-ip/c5121",
+                        "product_count": 1392,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/a7/4d/a5/6399a66af0b2f848ce10f940b0d6c56d.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5123,
+                        "text": "Camera Quan Sát Analog",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "camera-quan-sat-analog",
+                        "url_path": "camera-quan-sat-analog/c5123",
+                        "product_count": 104,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/80/c9/cc/622302a0813529233afe16a2b4116b0b.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5124,
+                        "text": "Đầu Ghi Hình Camera",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dau-ghi-hinh-camera",
+                        "url_path": "dau-ghi-hinh-camera/c5124",
+                        "product_count": 185,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/10/03/19/ff3171a04846e19fa0f251895f60ba66.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28832,
+                        "text": "Hệ Thống Camera Giám Sát",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "he-thong-camera-giam-sat",
+                        "url_path": "he-thong-camera-giam-sat/c28832",
+                        "product_count": 71,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b5/3d/82/cf2273db1c167315e71ccea9cf97dfc7.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 7912,
+                        "text": "Phụ Kiện Camera Giám Sát",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-camera-giam-sat",
+                        "url_path": "phu-kien-camera-giam-sat/c7912",
+                        "product_count": 58,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/94/0a/fc/f51ac827f0cb1b84f79813d584a95162.jpeg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 8047,
+                "parent_id": 1801,
+                "text": "Máy Bay Camera và Phụ Kiện",
+                "type": null,
+                "url_key": "may-bay-camera-va-phu-kien",
+                "url_path": "may-bay-camera-va-phu-kien/c8047",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 11,
+                "is_leaf": false,
+                "meta_title": "Máy Bay Camera và Phụ Kiện",
+                "meta_description": "Máy Bay Camera và Phụ Kiện",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/cd/48/5e/3772ad401277032ac345c8880e826433.png",
+                "children": [
+                    {
+                        "id": 8048,
+                        "text": "Máy Bay Camera - Drone",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-bay-camera-drone",
+                        "url_path": "may-bay-camera-drone/c8048",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/8e/ea/c7/0db2de1f111f589edf7f233baae48646.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8049,
+                        "text": "Phụ Kiện Máy Bay Camera - Drone",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-may-bay-camera-drone",
+                        "url_path": "phu-kien-may-bay-camera-drone/c8049",
+                        "product_count": 6,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/04/3b/66/f1b47f10a85ee0e0e6de5cbb0106ca99.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 28834,
+                "parent_id": 1801,
+                "text": "Camera Hành Trình - Action Camera và Phụ Kiện",
+                "type": null,
+                "url_key": "camera-hanh-trinh-action-camera-va-phu-kien",
+                "url_path": "camera-hanh-trinh-action-camera-va-phu-kien/c28834",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 118,
+                "is_leaf": false,
+                "meta_title": "Camera Hành Trình - Action Camera và Phụ Kiện",
+                "meta_description": "Camera Hành Trình - Action Camera và Phụ Kiện",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/76/ff/c0/67548e63fc309254c355a8fe4ebbfd14.png",
+                "children": [
+                    {
+                        "id": 4879,
+                        "text": "Action Camera",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "action-camera",
+                        "url_path": "action-camera/c4879",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28836,
+                        "text": "Phụ Kiện Camera Hành Trình",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-camera-hanh-trinh",
+                        "url_path": "phu-kien-camera-hanh-trinh/c28836",
+                        "product_count": 22,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/77/3c/10/337eb81e44c7bad0ca9bbb803ad89e8d.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 4079,
+                        "text": "Camera Hành Trình Ô Tô, Xe Máy",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "camera-hanh-trinh-o-to-xe-may",
+                        "url_path": "camera-hanh-trinh-o-to-xe-may/c4079",
+                        "product_count": 94,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d3/0b/97/5690b1d01919b57ddafd087dd5ac90f3.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            }
+        ]
+    }
+]

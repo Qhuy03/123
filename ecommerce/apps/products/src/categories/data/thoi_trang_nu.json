@@ -1,0 +1,1526 @@
+[
+    {
+        "text": "Thời trang nữ",
+        "icon_url": "https://salt.tikicdn.com/ts/category/55/5b/80/48cbaafe144c25d5065786ecace86d38.png",
+        "children": [
+            {
+                "id": 941,
+                "parent_id": 931,
+                "text": "Đầm nữ",
+                "type": null,
+                "url_key": "dam-vay-lien",
+                "url_path": "dam-vay-lien/c941",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 2794,
+                "is_leaf": false,
+                "meta_title": "Đầm Nữ, Váy Liền - Các kiểu áo đầm nữ, váy liền đẹp thời trang » Tiki.vn",
+                "meta_description": "Tìm mua online các mẫu đầm đẹp, các kiểu váy liền, đầm ren, váy đầm thời trang tại  Tiki.vn:  ✓ Hàng Hiệu ✓ Giá rẻ hơn  ✓ Giao hàng FREE. ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/76/0e/c0/1107391154220a78694cfd129ab58d02.png",
+                "children": [
+                    {
+                        "id": 27582,
+                        "text": "Đầm Dáng Xòe",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-dang-xoe",
+                        "url_path": "dam-dang-xoe/c27582",
+                        "product_count": 883,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/54/e5/67/9035131a79017741ba963db6a60e0b53.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 27580,
+                        "text": "Đầm dáng ôm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-dang-om",
+                        "url_path": "dam-dang-om/c27580",
+                        "product_count": 335,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ed/2c/cf/d651d68a02fdd83955bc2a183f403c0f.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 27584,
+                        "text": "Đầm suông",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-suong",
+                        "url_path": "dam-suong/c27584",
+                        "product_count": 1221,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/05/f9/9e/cc57f8ee842a8efd59a5d9c567f72bd0.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5344,
+                        "text": "Đầm công sở",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-cong-so-nu",
+                        "url_path": "dam-cong-so-nu/c5344",
+                        "product_count": 99,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/1d/68/ea/887fd29c67e592d63d1b0368eb00ad65.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5346,
+                        "text": "Đầm dự tiệc",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-du-tiec",
+                        "url_path": "dam-du-tiec/c5346",
+                        "product_count": 101,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/4a/cc/d8/8f4cd161612bb36ac1ccf21487a27949.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5345,
+                        "text": "Đầm maxi",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-maxi",
+                        "url_path": "dam-maxi/c5345",
+                        "product_count": 125,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/f7/6d/a7/c895dd570d06c27eea7a00a295d299c5.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67211,
+                        "text": "Đầm Jumpsuit",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-jumpsuit",
+                        "url_path": "dam-jumpsuit/c67211",
+                        "product_count": 7,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67213,
+                        "text": "Đầm hai dây",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-hai-day",
+                        "url_path": "dam-hai-day/c67213",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/1d/a1/9b/f31ab0ba8312d9fca228a6d552eda33f.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67214,
+                        "text": "Đầm chữ A",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-chu-a",
+                        "url_path": "dam-chu-a/c67214",
+                        "product_count": 18,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/dd/18/c2/7d68590741729076766714e3ea31a625.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67216,
+                        "text": "Đầm yếm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-yem",
+                        "url_path": "dam-yem/c67216",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b0/4f/29/d1fb6438fd46e2fb2d3ed579f1120bad.jpeg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67217,
+                        "text": "Đầm Baby Doll",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-baby-doll",
+                        "url_path": "dam-baby-doll/c67217",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/f8/10/61/02d756fa3528682f4fc97f18582d8dd5.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67218,
+                        "text": "Đầm trễ vai",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-tre-vai",
+                        "url_path": "dam-tre-vai/c67218",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/59/5c/24/56179bf3ad1d01401eed061987ca95ec.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 5404,
+                "parent_id": 931,
+                "text": "Chân váy",
+                "type": null,
+                "url_key": "chan-vay-nu",
+                "url_path": "chan-vay-nu/c5404",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 479,
+                "is_leaf": false,
+                "meta_title": "Chân váy nữ thời trang, mẫu mã đa dạng | tiki.vn",
+                "meta_description": "Chân váy nữ đẹp tại Tiki.vn",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/58/fb/33/0889ae735cd31390f76db3342f0aa1bf.png",
+                "children": [
+                    {
+                        "id": 5407,
+                        "text": "Chân váy dài",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "chan-vay-dai",
+                        "url_path": "chan-vay-dai/c5407",
+                        "product_count": 266,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/32/5d/db/aba810ab8bfd6010e4e283469c060ff3.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5406,
+                        "text": "Chân váy ngắn",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "chan-vay-ngan-nu",
+                        "url_path": "chan-vay-ngan-nu/c5406",
+                        "product_count": 147,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/46/c1/0c/83528a6669ca7d2e8bf50ac538be0211.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5408,
+                        "text": "Chân váy xếp li",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "chan-vay-xep-li",
+                        "url_path": "chan-vay-xep-li/c5408",
+                        "product_count": 24,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/85/de/58/9de8857174724198d40b766754bab317.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49288,
+                        "text": "Chân váy bút chì",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "chan-vay-but-chi",
+                        "url_path": "chan-vay-but-chi/c49288",
+                        "product_count": 12,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/95/25/35/6742dc9bd8cd072f685ca6eb85da5eab.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49290,
+                        "text": "Chân váy chữ A",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "chan-vay-chu-a",
+                        "url_path": "chan-vay-chu-a/c49290",
+                        "product_count": 31,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7f/fd/62/af861fecf6fd5aa61465a30e03e93894.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5405,
+                        "text": "Chân váy công sở",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "chan-vay-cong-so-nu",
+                        "url_path": "chan-vay-cong-so-nu/c5405",
+                        "product_count": 7,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7c/45/6f/1440ec2d2b2927d015772d7643168322.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 27600,
+                "parent_id": 931,
+                "text": "Quần nữ",
+                "type": null,
+                "url_key": "quan-nu",
+                "url_path": "quan-nu/c27600",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1125,
+                "is_leaf": false,
+                "meta_title": "Quần nữ",
+                "meta_description": "Quần nữ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/f7/b3/99/d825b40e07cb570abfa99be100c20826.png",
+                "children": [
+                    {
+                        "id": 1701,
+                        "text": "Quần jean nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "quan-jean-nu",
+                        "url_path": "quan-jean-nu/c1701",
+                        "product_count": 123,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a8/1d/7c/abe6c1b3a5f994d061c50bcc02f162a4.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 939,
+                        "text": "Quần shorts nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "quan-sooc",
+                        "url_path": "quan-sooc/c939",
+                        "product_count": 223,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/55/3f/71/8618bb7a0fa8d6cf7a453312386a0267.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 938,
+                        "text": "Quần tây nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thoi-trang-nu-quan-dai",
+                        "url_path": "thoi-trang-nu-quan-dai/c938",
+                        "product_count": 314,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5f/a3/65/94c03d5f623b13a42587157e562eeb96.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49346,
+                        "text": "Quần ống rộng nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "quan-ong-rong-nu",
+                        "url_path": "quan-ong-rong-nu/c49346",
+                        "product_count": 214,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/89/f3/2e/32187def53852f7f736fc66123ba22c8.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49348,
+                        "text": "Quần baggy nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "quan-baggy-nu",
+                        "url_path": "quan-baggy-nu/c49348",
+                        "product_count": 105,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/06/94/a6/df325be28482a73579523f2c84edb556.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1716,
+                        "text": "Quần legging - tregging nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "quan-legging-tregging-nu",
+                        "url_path": "quan-legging-tregging-nu/c1716",
+                        "product_count": 155,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5d/98/87/78b612e91e03a7edfe2baec985fe307b.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49350,
+                        "text": "Quần yếm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "quan-yem",
+                        "url_path": "quan-yem/c49350",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 936,
+                "parent_id": 931,
+                "text": "Áo vest - Áo khoác nữ",
+                "type": null,
+                "url_key": "ao-vest-ao-khoac-nu",
+                "url_path": "ao-vest-ao-khoac-nu/c936",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1441,
+                "is_leaf": false,
+                "meta_title": "Áo vest - Áo khoác nữ",
+                "meta_description": "Áo vest - Áo khoác nữ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/cd/98/33/a8ab70f7d57f1d3c13374784287d1ec6.png",
+                "children": [
+                    {
+                        "id": 27594,
+                        "text": "Áo cardigan nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-cardigan-nu",
+                        "url_path": "ao-cardigan-nu/c27594",
+                        "product_count": 121,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 27588,
+                        "text": "Áo vest, blazer nữ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67221,
+                                "text": "Bộ vest nữ",
+                                "url_key": "bo-vest-nu",
+                                "full_url_key": "ao-vest-ao-khoac-nu/ao-vest-blazer-nu/bo-vest-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67222,
+                                "text": "Áo vest, blazer nữ rời",
+                                "url_key": "ao-vest-blazer-nu-roi",
+                                "full_url_key": "ao-vest-ao-khoac-nu/ao-vest-blazer-nu/ao-vest-blazer-nu-roi",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ao-vest-blazer-nu",
+                        "url_path": "ao-vest-blazer-nu/c27588",
+                        "product_count": 296,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/43/10/3b/7d03d410360174728a39148624f9cd47.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 27598,
+                        "text": "Áo len - Áo khoác nỉ nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-len-ao-khoac-ni-nu",
+                        "url_path": "ao-len-ao-khoac-ni-nu/c27598",
+                        "product_count": 399,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/30/b7/48/861933453e818365ab6d5fa58afb0073.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49352,
+                        "text": "Áo khoác jeans nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-khoac-jeans-nu",
+                        "url_path": "ao-khoac-jeans-nu/c49352",
+                        "product_count": 87,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cf/74/3d/7422f6595b11ea589dd803f61abc3c20.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 27596,
+                        "text": "Áo khoác dạ nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-khoac-da-nu",
+                        "url_path": "ao-khoac-da-nu/c27596",
+                        "product_count": 61,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ae/4e/25/4b8ffa78f1476281aa494c5f422268d5.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49354,
+                        "text": "Áo khoác chống nắng nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-khoac-chong-nang-nu",
+                        "url_path": "ao-khoac-chong-nang-nu/c49354",
+                        "product_count": 242,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9b/5c/88/8a7310d0c849551acd08d6b15f057386.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49356,
+                        "text": "Áo khoác phao nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-khoac-phao-nu",
+                        "url_path": "ao-khoac-phao-nu/c49356",
+                        "product_count": 17,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f5/c0/60/e65b7637b66caf60e03f0f1bfa431fd9.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49358,
+                        "text": "Áo khoác da nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-khoac-da-nu",
+                        "url_path": "ao-khoac-da-nu/c49358",
+                        "product_count": 7,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/45/d7/52/d57458cfdfdbdaf7560a904e77dcdf8d.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49360,
+                        "text": "Áo khoác bomber jackets",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-khoac-bomber-jackets",
+                        "url_path": "ao-khoac-bomber-jackets/c49360",
+                        "product_count": 115,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2e/df/eb/5959ba7b8d72ef72812d2cbd15088eb0.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67225,
+                        "text": "Áo khoác gió nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-khoac-gio-nu",
+                        "url_path": "ao-khoac-gio-nu/c67225",
+                        "product_count": 43,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/28/24/b7/d511a9dae131dfd96e6147776ed09070.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67226,
+                        "text": "Áo hoodies nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-hoodies-nu",
+                        "url_path": "ao-hoodies-nu/c67226",
+                        "product_count": 59,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/69/f0/8c/f714375383c1b21c0f5806cdaa9f6b4c.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 1702,
+                "parent_id": 931,
+                "text": "Áo liền quần - Bộ trang phục",
+                "type": null,
+                "url_key": "ao-lien-quan-bo-trang-phuc",
+                "url_path": "ao-lien-quan-bo-trang-phuc/c1702",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1907,
+                "is_leaf": false,
+                "meta_title": "Áo liền quần - Bộ trang phục",
+                "meta_description": "Áo liền quần - Bộ trang phục",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/f3/97/10/b0cc5bd3c172463eabf22abf9f6d288b.png",
+                "children": [
+                    {
+                        "id": 49362,
+                        "text": "Áo liền quần",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-lien-quan",
+                        "url_path": "ao-lien-quan/c49362",
+                        "product_count": 409,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/f3/97/10/e5a16c48cb7ccfe417acb315edff0618.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49364,
+                        "text": "Bộ trang phục",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67147,
+                                "text": "Bộ trang phục ngành nghề cho nữ",
+                                "url_key": "bo-trang-phuc-nganh-nghe-cho-nu",
+                                "full_url_key": "ao-lien-quan-bo-trang-phuc/bo-trang-phuc/bo-trang-phuc-nganh-nghe-cho-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67148,
+                                "text": "Bộ trang phục truyền thống nữ",
+                                "url_key": "bo-trang-phuc-truyen-thong-nu",
+                                "full_url_key": "ao-lien-quan-bo-trang-phuc/bo-trang-phuc/bo-trang-phuc-truyen-thong-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67149,
+                                "text": "Đồ hóa trang nữ",
+                                "url_key": "do-hoa-trang-nu",
+                                "full_url_key": "ao-lien-quan-bo-trang-phuc/bo-trang-phuc/do-hoa-trang-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "bo-trang-phuc",
+                        "url_path": "bo-trang-phuc/c49364",
+                        "product_count": 1402,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/01/d2/8b/c80c7225326edb34665948a559900e0a.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 10385,
+                        "text": "Áo dài",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67168,
+                                "text": "Áo dài cách tân",
+                                "url_key": "ao-dai-cach-tan",
+                                "full_url_key": "ao-lien-quan-bo-trang-phuc/ao-dai/ao-dai-cach-tan",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67170,
+                                "text": "Áo dài truyền thống",
+                                "url_key": "ao-dai-truyen-thong",
+                                "full_url_key": "ao-lien-quan-bo-trang-phuc/ao-dai/ao-dai-truyen-thong",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ao-dai",
+                        "url_path": "ao-dai/c10385",
+                        "product_count": 109,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/92/2d/93/efd51cb4e8ba86853327aa6cf8e63d4d.png",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 4553,
+                "parent_id": 931,
+                "text": "Đồ đôi - Đồ gia đình",
+                "type": null,
+                "url_key": "do-doi-do-gia-dinh",
+                "url_path": "do-doi-do-gia-dinh/c4553",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 356,
+                "is_leaf": false,
+                "meta_title": "Đồ đôi - Đồ gia đình",
+                "meta_description": "Đồ đôi - Đồ gia đình",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/0c/86/f5/de1b4439b2c2c184aced2dbcfc645e80.png",
+                "children": [
+                    {
+                        "id": 49366,
+                        "text": "Đồ gia đình",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67205,
+                                "text": "Bộ đồ gia đình",
+                                "url_key": "bo-do-gia-dinh",
+                                "full_url_key": "do-doi-do-gia-dinh/do-gia-dinh/bo-do-gia-dinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67206,
+                                "text": "Quần gia đình",
+                                "url_key": "quan-gia-dinh",
+                                "full_url_key": "do-doi-do-gia-dinh/do-gia-dinh/quan-gia-dinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67207,
+                                "text": "Áo khoác gia đình",
+                                "url_key": "ao-khoac-gia-dinh",
+                                "full_url_key": "do-doi-do-gia-dinh/do-gia-dinh/ao-khoac-gia-dinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67208,
+                                "text": "Áo thun gia đình",
+                                "url_key": "ao-thun-gia-dinh",
+                                "full_url_key": "do-doi-do-gia-dinh/do-gia-dinh/ao-thun-gia-dinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "do-gia-dinh",
+                        "url_path": "do-gia-dinh/c49366",
+                        "product_count": 190,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/18/75/be/6acd2b8328fda283c5c5e4d3ab8cd819.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 49368,
+                        "text": "Áo đôi",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 49370,
+                                "text": "Quần đôi",
+                                "url_key": "quan-doi",
+                                "full_url_key": "do-doi-do-gia-dinh/ao-doi/quan-doi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67202,
+                                "text": "Bộ đồ đôi",
+                                "url_key": "bo-do-doi",
+                                "full_url_key": "do-doi-do-gia-dinh/ao-doi/bo-do-doi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67203,
+                                "text": "Áo khoác đôi",
+                                "url_key": "ao-khoac-doi",
+                                "full_url_key": "do-doi-do-gia-dinh/ao-doi/ao-khoac-doi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67204,
+                                "text": "Áo thun đôi",
+                                "url_key": "ao-thun-doi",
+                                "full_url_key": "do-doi-do-gia-dinh/ao-doi/ao-thun-doi",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ao-doi",
+                        "url_path": "ao-doi/c49368",
+                        "product_count": 166,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e2/41/16/ae0c0725d32be017baa54cec2d22f2c3.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 49372,
+                "parent_id": 931,
+                "text": "Thời trang bầu và sau sinh",
+                "type": null,
+                "url_key": "thoi-trang-bau-va-sau-sinh",
+                "url_path": "thoi-trang-bau-va-sau-sinh/c49372",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 280,
+                "is_leaf": false,
+                "meta_title": "Thời trang bầu và sau sinh",
+                "meta_description": "Thời trang bầu và sau sinh",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/2b/79/14/eb31dbbcc1f7feaede0bd7015d4eef94.png",
+                "children": [
+                    {
+                        "id": 49374,
+                        "text": "Đầm bầu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-bau",
+                        "url_path": "dam-bau/c49374",
+                        "product_count": 85,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3b/55/49/4d798fb8781d3632019c12deb619e697.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49376,
+                        "text": "Áo bầu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-bau",
+                        "url_path": "ao-bau/c49376",
+                        "product_count": 29,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8b/ae/3d/bffb47e9152e8e9edfd9591e48a7119b.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49378,
+                        "text": "Quần bầu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "quan-bau",
+                        "url_path": "quan-bau/c49378",
+                        "product_count": 65,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3c/50/bd/f36a99e26031055e6afbb132c6139c40.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49380,
+                        "text": "Bộ đồ bầu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-do-bau",
+                        "url_path": "bo-do-bau/c49380",
+                        "product_count": 94,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49382,
+                        "text": "Đồ lót bầu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "do-lot-bau",
+                        "url_path": "do-lot-bau/c49382",
+                        "product_count": 9,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b8/fa/6a/da109069bc870a3cbf92f7fa36cd482b.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 49384,
+                "parent_id": 931,
+                "text": "Thời trang nữ trung niên",
+                "type": null,
+                "url_key": "thoi-trang-nu-trung-nien",
+                "url_path": "thoi-trang-nu-trung-nien/c49384",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 143,
+                "is_leaf": false,
+                "meta_title": "Thời trang nữ trung niên",
+                "meta_description": "Thời trang nữ trung niên",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/40/b7/93/ffbda7319b9d1e4ccc176bd5f647cf6a.png",
+                "children": [
+                    {
+                        "id": 67150,
+                        "text": "Thời trang nữ trung niên khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thoi-trang-nu-trung-nien-khac",
+                        "url_path": "thoi-trang-nu-trung-nien-khac/c67150",
+                        "product_count": 55,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67152,
+                        "text": "Đầm nữ trung niên",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dam-nu-trung-nien",
+                        "url_path": "dam-nu-trung-nien/c67152",
+                        "product_count": 34,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b6/d2/47/1dedb4cfb979de1dab1637d27a608294.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67153,
+                        "text": "Quần nữ trung niên",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67157,
+                                "text": "Quần ngắn nữ trung niên",
+                                "url_key": "quan-ngan-nu-trung-nien",
+                                "full_url_key": "thoi-trang-nu-trung-nien/quan-nu-trung-nien/quan-ngan-nu-trung-nien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67158,
+                                "text": "Quần dài nữ trung niên",
+                                "url_key": "quan-dai-nu-trung-nien",
+                                "full_url_key": "thoi-trang-nu-trung-nien/quan-nu-trung-nien/quan-dai-nu-trung-nien",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "quan-nu-trung-nien",
+                        "url_path": "quan-nu-trung-nien/c67153",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 67154,
+                        "text": "Áo nữ trung niên",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67159,
+                                "text": "Áo kiểu nữ trung niên",
+                                "url_key": "ao-kieu-nu-trung-nien",
+                                "full_url_key": "thoi-trang-nu-trung-nien/ao-nu-trung-nien/ao-kieu-nu-trung-nien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67160,
+                                "text": "Áo khoác nữ trung niên",
+                                "url_key": "ao-khoac-nu-trung-nien",
+                                "full_url_key": "thoi-trang-nu-trung-nien/ao-nu-trung-nien/ao-khoac-nu-trung-nien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67161,
+                                "text": "Áo sơ mi nữ trung niên",
+                                "url_key": "ao-so-mi-nu-trung-nien",
+                                "full_url_key": "thoi-trang-nu-trung-nien/ao-nu-trung-nien/ao-so-mi-nu-trung-nien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67162,
+                                "text": "Áo thun nữ trung niên",
+                                "url_key": "ao-thun-nu-trung-nien",
+                                "full_url_key": "thoi-trang-nu-trung-nien/ao-nu-trung-nien/ao-thun-nu-trung-nien",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ao-nu-trung-nien",
+                        "url_path": "ao-nu-trung-nien/c67154",
+                        "product_count": 44,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/89/ae/11/9e2449b8cd27ac1a8552fa20b3111c1d.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 4554,
+                "parent_id": 931,
+                "text": "Đồ lót nữ",
+                "type": null,
+                "url_key": "do-lot-nu",
+                "url_path": "do-lot-nu/c4554",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 5175,
+                "is_leaf": false,
+                "meta_title": "Đồ lót nữ",
+                "meta_description": "Đồ lót nữ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/e5/d8/35/70d733b8a8a97f297eb1c09d7f31b03c.png",
+                "children": [
+                    {
+                        "id": 1509,
+                        "text": "Áo ngực",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 49412,
+                                "text": "Áo nâng ngực",
+                                "url_key": "ao-nang-nguc",
+                                "full_url_key": "do-lot-nu/ao-nguc/ao-nang-nguc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49418,
+                                "text": "Áo không đệm - Bralette",
+                                "url_key": "ao-khong-dem-bralette",
+                                "full_url_key": "do-lot-nu/ao-nguc/ao-khong-dem-bralette",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49420,
+                                "text": "Corset",
+                                "url_key": "corset",
+                                "full_url_key": "do-lot-nu/ao-nguc/corset",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ao-nguc",
+                        "url_path": "ao-nguc/c1509",
+                        "product_count": 1444,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/22/93/ac65d7b78ae0b4aa0554559660469bf7.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1510,
+                        "text": "Quần lót nữ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 49422,
+                                "text": "Quần ôm",
+                                "url_key": "quan-om",
+                                "full_url_key": "do-lot-nu/quan-lot/quan-om",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49424,
+                                "text": "Quần lọt khe",
+                                "url_key": "quan-lot-khe",
+                                "full_url_key": "do-lot-nu/quan-lot/quan-lot-khe",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49426,
+                                "text": "Quần lót không đường may",
+                                "url_key": "quan-lot-khong-duong-may",
+                                "full_url_key": "do-lot-nu/quan-lot/quan-lot-khong-duong-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8345,
+                                "text": "Đồ lót tạo dáng",
+                                "url_key": "do-lot-tao-dang",
+                                "full_url_key": "do-lot-nu/quan-lot/do-lot-tao-dang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67191,
+                                "text": "Quần lót định hình",
+                                "url_key": "quan-lot-dinh-hinh",
+                                "full_url_key": "do-lot-nu/quan-lot/quan-lot-dinh-hinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67192,
+                                "text": "Quần lót khác",
+                                "url_key": "quan-lot-khac",
+                                "full_url_key": "do-lot-nu/quan-lot/quan-lot-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67193,
+                                "text": "Quần lót hispter",
+                                "url_key": "quan-lot-hispter",
+                                "full_url_key": "do-lot-nu/quan-lot/quan-lot-hispter",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67195,
+                                "text": "Quần lót boxer",
+                                "url_key": "quan-lot-boxer",
+                                "full_url_key": "do-lot-nu/quan-lot/quan-lot-boxer",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67196,
+                                "text": "Quần lót kiểu brief",
+                                "url_key": "quan-lot-kieu-brief",
+                                "full_url_key": "do-lot-nu/quan-lot/quan-lot-kieu-brief",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "quan-lot",
+                        "url_path": "quan-lot/c1510",
+                        "product_count": 3400,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/17/96/bb/bc10700362d9a4fbb0d7f6179167926a.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8347,
+                        "text": "Nịt bụng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "nit-bung",
+                        "url_path": "nit-bung/c8347",
+                        "product_count": 32,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4a/53/c6/f22338e372401f9031550e5f071418e8.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8344,
+                        "text": "Bộ đồ lót nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-do-lot-nu",
+                        "url_path": "bo-do-lot-nu/c8344",
+                        "product_count": 334,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4f/a2/1b/d8728c74d950129aafccb3c707a75e64.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67197,
+                        "text": "Đồ lót giữ nhiệt nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "do-lot-giu-nhiet-nu",
+                        "url_path": "do-lot-giu-nhiet-nu/c67197",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 1508,
+                "parent_id": 931,
+                "text": "Đồ ngủ - Đồ mặc nhà nữ",
+                "type": null,
+                "url_key": "do-ngu-do-mac-nha-nu",
+                "url_path": "do-ngu-do-mac-nha-nu/c1508",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 2109,
+                "is_leaf": false,
+                "meta_title": "Đồ ngủ - Đồ mặc nhà nữ",
+                "meta_description": "Đồ ngủ - Đồ mặc nhà nữ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/96/60/42/3b8c7c62742761d1c50e1fccea2b4d31.png",
+                "children": [
+                    {
+                        "id": 8346,
+                        "text": "Đồ ngủ nữ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 49428,
+                                "text": "Đầm ngủ",
+                                "url_key": "dam-ngu",
+                                "full_url_key": "do-ngu-do-mac-nha-nu/do-ngu-nu/dam-ngu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49430,
+                                "text": "Bộ quần áo ngủ",
+                                "url_key": "bo-quan-ao-ngu",
+                                "full_url_key": "do-ngu-do-mac-nha-nu/do-ngu-nu/bo-quan-ao-ngu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 27574,
+                                "text": "Đồ ngủ cosplay, gợi cảm",
+                                "url_key": "do-ngu-cosplay-goi-cam",
+                                "full_url_key": "do-ngu-do-mac-nha-nu/do-ngu-nu/do-ngu-cosplay-goi-cam",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "do-ngu-nu",
+                        "url_path": "do-ngu-nu/c8346",
+                        "product_count": 1209,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2a/9f/a8/fd54d77d3f55fa563748be2f71d54cd4.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 49432,
+                        "text": "Đồ mặc nhà",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 49434,
+                                "text": "Đồ bộ ngắn",
+                                "url_key": "do-bo-ngan",
+                                "full_url_key": "do-ngu-do-mac-nha-nu/do-mac-nha/do-bo-ngan",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49436,
+                                "text": "Đồ bộ lửng",
+                                "url_key": "do-bo-lung",
+                                "full_url_key": "do-ngu-do-mac-nha-nu/do-mac-nha/do-bo-lung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 49438,
+                                "text": "Đồ bộ dài",
+                                "url_key": "do-bo-dai",
+                                "full_url_key": "do-ngu-do-mac-nha-nu/do-mac-nha/do-bo-dai",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "do-mac-nha",
+                        "url_path": "do-mac-nha/c49432",
+                        "product_count": 826,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8c/65/bc/7d109bc24a490188890b40b648a776cf.png",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 6179,
+                "parent_id": 931,
+                "text": "Trang phục bơi nữ",
+                "type": null,
+                "url_key": "trang-phuc-boi-nu",
+                "url_path": "trang-phuc-boi-nu/c6179",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 746,
+                "is_leaf": false,
+                "meta_title": "Mua online trang phục bơi nữ các loại , giá tốt  | Tiki.vn",
+                "meta_description": "Trang phục bơi nữ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/a1/47/af/0a8c876f15b5a954524804c4bddb9698.png",
+                "children": [
+                    {
+                        "id": 49442,
+                        "text": "Bikini",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bikini",
+                        "url_path": "bikini/c49442",
+                        "product_count": 65,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 27576,
+                        "text": "Đồ bơi một mảnh",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "do-boi-mot-manh",
+                        "url_path": "do-boi-mot-manh/c27576",
+                        "product_count": 233,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/15/b7/f4/df1f25207d0a11bafe01a4fa5b48c6e8.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 27578,
+                        "text": "Đồ bơi hai mảnh",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "do-boi-hai-manh",
+                        "url_path": "do-boi-hai-manh/c27578",
+                        "product_count": 450,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/41/78/c4/a4425d3a9679273ea7675c59a3264aba.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 934,
+                "parent_id": 931,
+                "text": "Áo sơ mi nữ",
+                "type": null,
+                "url_key": "ao-so-mi-nu",
+                "url_path": "ao-so-mi-nu/c934",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 872,
+                "is_leaf": false,
+                "meta_title": "Áo sơ mi nữ",
+                "meta_description": "Áo sơ mi nữ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/cd/c9/c8/30464d36bc19f1738ab7208762df4378.png",
+                "children": [
+                    {
+                        "id": 67181,
+                        "text": "Áo sơ mi nữ tay ngắn",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67179,
+                                "text": "Áo sơ mi nữ tay ngắn hoạ tiết",
+                                "url_key": "ao-so-mi-nu-tay-ngan-hoa-tiet",
+                                "full_url_key": "ao-so-mi-nu/ao-so-mi-nu-tay-ngan/ao-so-mi-nu-tay-ngan-hoa-tiet",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67180,
+                                "text": "Áo sơ mi nữ tay ngắn trơn",
+                                "url_key": "ao-so-mi-nu-tay-ngan-tron",
+                                "full_url_key": "ao-so-mi-nu/ao-so-mi-nu-tay-ngan/ao-so-mi-nu-tay-ngan-tron",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ao-so-mi-nu-tay-ngan",
+                        "url_path": "ao-so-mi-nu-tay-ngan/c67181",
+                        "product_count": 112,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4c/c0/4c/d5f4f956a152a812573cf6740b9724da.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 67182,
+                        "text": "Áo sơ mi nữ tay dài",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67183,
+                                "text": "Áo sơ mi nữ tay dài hoạ tiết",
+                                "url_key": "ao-so-mi-nu-tay-dai-hoa-tiet",
+                                "full_url_key": "ao-so-mi-nu/ao-so-mi-nu-tay-dai/ao-so-mi-nu-tay-dai-hoa-tiet",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67184,
+                                "text": "Áo sơ mi nữ tay dài trơn",
+                                "url_key": "ao-so-mi-nu-tay-dai-tron",
+                                "full_url_key": "ao-so-mi-nu/ao-so-mi-nu-tay-dai/ao-so-mi-nu-tay-dai-tron",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ao-so-mi-nu-tay-dai",
+                        "url_path": "ao-so-mi-nu-tay-dai/c67182",
+                        "product_count": 738,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/60/c7/af/b57e0cf41c2c829c756c09ab68ed9c18.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 935,
+                "parent_id": 931,
+                "text": "Áo kiểu nữ",
+                "type": null,
+                "url_key": "ao-kieu-nu",
+                "url_path": "ao-kieu-nu/c935",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 622,
+                "is_leaf": false,
+                "meta_title": "Áo kiểu nữ",
+                "meta_description": "Áo kiểu nữ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/d4/4a/0d/0ec98c6ac16ba9d713e2a853db87ad80.png",
+                "children": [
+                    {
+                        "id": 67173,
+                        "text": "Áo kiểu nữ khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-kieu-nu-khac",
+                        "url_path": "ao-kieu-nu-khac/c67173",
+                        "product_count": 521,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fb/31/d2/3e9bfd1a5d94a513ab8793c13b6c3944.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67174,
+                        "text": "Áo trễ vai",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-tre-vai",
+                        "url_path": "ao-tre-vai/c67174",
+                        "product_count": 27,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ef/3c/70/4d7b44ea111fdd1eaf6e771d0c1b6bdf.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67175,
+                        "text": "Áo cúp ngực",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-cup-nguc",
+                        "url_path": "ao-cup-nguc/c67175",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67176,
+                        "text": "Áo ống",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-ong",
+                        "url_path": "ao-ong/c67176",
+                        "product_count": 15,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cf/14/69/bb2d964a50bf76ca1d5cc44b32fb698a.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 10389,
+                "parent_id": 931,
+                "text": "Áo crop-top",
+                "type": null,
+                "url_key": "ao-crop-top",
+                "url_path": "ao-crop-top/c10389",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 151,
+                "is_leaf": false,
+                "meta_title": "Áo crop-top",
+                "meta_description": "Áo crop-top",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/56/12/26/2336e89265b7a79031f81d811ce9f9bf.png",
+                "children": [
+                    {
+                        "id": 67171,
+                        "text": "Áo crop-top tay dài",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-crop-top-tay-dai",
+                        "url_path": "ao-crop-top-tay-dai/c67171",
+                        "product_count": 23,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ea/4e/bb/ad596c2abee39074ba98ead39e2d389d.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67172,
+                        "text": "Áo crop-top tay ngắn",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-crop-top-tay-ngan",
+                        "url_path": "ao-crop-top-tay-ngan/c67172",
+                        "product_count": 121,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9d/2b/a8/3cf49ff80e89258935048c18f7481188.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 933,
+                "parent_id": 931,
+                "text": "Áo thun nữ",
+                "type": null,
+                "url_key": "ao-thun-nu",
+                "url_path": "ao-thun-nu/c933",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1413,
+                "is_leaf": false,
+                "meta_title": "Áo Thun Nữ Đẹp » Mua Áo Phông Nữ đẹp, dễ thương tại Tiki.vn",
+                "meta_description": "Tìm mua những kiểu áo thun nữ đẹp năm 2016. các mẫu áo thun dễ thương, sành điệu tại Tiki.vn Thời Trang: ✓ Hàng Hiệu ✓ Giá rẻ hơn  ✓ Giao hàng FREE. ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/67/f6/23/97d8d3655ab372547cdb7636b21b58b6.jpg",
+                "children": [
+                    {
+                        "id": 10388,
+                        "text": "Áo hai dây - Áo ba lỗ nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-hai-day-ao-ba-lo-nu",
+                        "url_path": "ao-hai-day-ao-ba-lo-nu/c10388",
+                        "product_count": 229,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/f2/16/5d/5af95ece913cd01155ac86a3d84e882e.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67185,
+                        "text": "Áo thun nữ dài tay có cổ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-thun-nu-dai-tay-co-co",
+                        "url_path": "ao-thun-nu-dai-tay-co-co/c67185",
+                        "product_count": 67,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67186,
+                        "text": "Áo thun nữ dài tay không cổ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-thun-nu-dai-tay-khong-co",
+                        "url_path": "ao-thun-nu-dai-tay-khong-co/c67186",
+                        "product_count": 32,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cd/f9/b6/9c624e4625d6cef306f49af4fb9bb352.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67187,
+                        "text": "Áo thun nữ ngắn tay có cổ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-thun-nu-ngan-tay-co-co",
+                        "url_path": "ao-thun-nu-ngan-tay-co-co/c67187",
+                        "product_count": 557,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/67/f6/23/97d8d3655ab372547cdb7636b21b58b6.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67188,
+                        "text": "Áo thun nữ ngắn tay không cổ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ao-thun-nu-ngan-tay-khong-co",
+                        "url_path": "ao-thun-nu-ngan-tay-khong-co/c67188",
+                        "product_count": 421,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    }
+                ]
+            }
+        ]
+    }
+]

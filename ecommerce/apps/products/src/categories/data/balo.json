@@ -1,0 +1,337 @@
+[
+    {
+        "text": "Balo và Vali",
+        "icon_url": "https://salt.tikicdn.com/ts/category/3e/c0/30/1110651bd36a3e0d9b962cf135c818ee.png",
+        "children": [
+            {
+                "id": 27608,
+                "parent_id": 6000,
+                "text": "Balo",
+                "type": null,
+                "url_key": "balo",
+                "url_path": "balo/c27608",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 2936,
+                "is_leaf": false,
+                "meta_title": "Balo",
+                "meta_description": "Balo",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/49/93/7e/685254827b45beefc789a9492b8a8a53.png",
+                "children": [
+                    {
+                        "id": 6522,
+                        "text": "Balo thời trang",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "balo-thoi-trang",
+                        "url_path": "balo-thoi-trang/c6522",
+                        "product_count": 1280,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/57/e7/9e/d30ea40873364f0f6913dbe92b6154f2.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 6521,
+                        "text": "Balo laptop",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "balo-laptop",
+                        "url_path": "balo-laptop/c6521",
+                        "product_count": 962,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/5e/e6/7b/0d266461d6a4dfe2a6f854b5edefe4ac.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 27610,
+                        "text": "Balo dây rút",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "balo-day-rut",
+                        "url_path": "balo-day-rut/c27610",
+                        "product_count": 57,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/13/44/0c/086bfbe389bd94002dfcb0f9c3d0f658.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 67134,
+                        "text": "Balo chống nước",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "balo-chong-nuoc",
+                        "url_path": "balo-chong-nuoc/c67134",
+                        "product_count": 72,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a0/82/a1/2a7822160be8322fc12f02d0ad29f371.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68147,
+                        "text": "Balo & túi chống sốc",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67798,
+                                "text": "Balo chống sốc",
+                                "url_key": "balo-chong-soc",
+                                "full_url_key": "balo/balo-tui-chong-soc/balo-chong-soc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 6525,
+                                "text": "Túi chống sốc",
+                                "url_key": "tui-chong-soc",
+                                "full_url_key": "balo/balo-tui-chong-soc/tui-chong-soc",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "balo-tui-chong-soc",
+                        "url_path": "balo-tui-chong-soc/c68147",
+                        "product_count": 592,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 27612,
+                "parent_id": 6000,
+                "text": "Balo, cặp, túi chống sốc laptop",
+                "type": null,
+                "url_key": "balo-cap-tui-chong-soc-laptop",
+                "url_path": "balo-cap-tui-chong-soc-laptop/c27612",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 355,
+                "is_leaf": false,
+                "meta_title": "Balo, cặp, túi chống sốc laptop",
+                "meta_description": "Balo, cặp, túi chống sốc laptop",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/e8/8c/40/5b18d03b223629e2d5cc83086e158a2d.png",
+                "children": [
+                    {
+                        "id": 6524,
+                        "text": "Cặp đựng laptop",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "cap-laptop",
+                        "url_path": "cap-laptop/c6524",
+                        "product_count": 355,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/aa/bb/15/b0ddf7d8c65d4c1501bed4abdd22ef6f.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 8387,
+                "parent_id": 6000,
+                "text": "Túi du lịch và phụ kiện",
+                "type": null,
+                "url_key": "tui-du-lich-va-phu-kien",
+                "url_path": "tui-du-lich-va-phu-kien/c8387",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1042,
+                "is_leaf": false,
+                "meta_title": "Túi du lịch và phụ kiện",
+                "meta_description": "Túi du lịch và phụ kiện",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/77/f8/18/bff51db508c33d217955946d312f2bc3.png",
+                "children": [
+                    {
+                        "id": 6523,
+                        "text": "Balo du lịch, phượt",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "balo-du-lich-phuot",
+                        "url_path": "balo-du-lich-phuot/c6523",
+                        "product_count": 375,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/95/2e/c2/0ca2083ea9d969631fa54d16c2b9f27d.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 7566,
+                        "text": "Túi trống",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-trong",
+                        "url_path": "tui-trong/c7566",
+                        "product_count": 631,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/24/7f/27/d2b41737162a525cd316bbeec914421d.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8388,
+                        "text": "Ví passport",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "vi-passport",
+                        "url_path": "vi-passport/c8388",
+                        "product_count": 21,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/35/c0/9d/4dcf04d604193662a99132ce4309d7e5.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 6526,
+                "parent_id": 6000,
+                "text": "Vali, phụ kiện vali ",
+                "type": null,
+                "url_key": "vali-phu-kien-vali",
+                "url_path": "vali-phu-kien-vali/c6526",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 690,
+                "is_leaf": false,
+                "meta_title": "Vali, phụ kiện vali ",
+                "meta_description": "Vali, phụ kiện vali ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/34/b2/b4/0a49c6a6e84e4ee7fb2cfebc7bdbf749.png",
+                "children": [
+                    {
+                        "id": 49656,
+                        "text": "Vali nhựa",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "vali-nhua",
+                        "url_path": "vali-nhua/c49656",
+                        "product_count": 409,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/a7/a9/84/cf19b819a7c78ac2436cd0f0aa02cd12.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49658,
+                        "text": "Vali vải",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "vali-vai",
+                        "url_path": "vali-vai/c49658",
+                        "product_count": 118,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/86/be/b1/a3ce72213ecb7a022a24db98ecbc9b8d.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49660,
+                        "text": "Vali trẻ em",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "vali-tre-em",
+                        "url_path": "vali-tre-em/c49660",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8390,
+                        "text": "Phụ kiện vali",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 27618,
+                                "text": "Phụ kiện vali khác",
+                                "url_key": "phu-kien-vali-khac",
+                                "full_url_key": "vali-phu-kien-vali/phu-kien-vali/phu-kien-vali-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 27620,
+                                "text": "Túi Bọc Bảo Vệ",
+                                "url_key": "tui-boc-bao-ve",
+                                "full_url_key": "vali-phu-kien-vali/phu-kien-vali/tui-boc-bao-ve",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8389,
+                                "text": "Ổ khóa vali",
+                                "url_key": "o-khoa-vali",
+                                "full_url_key": "vali-phu-kien-vali/phu-kien-vali/o-khoa-vali",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-vali",
+                        "url_path": "phu-kien-vali/c8390",
+                        "product_count": 158,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/70/e3/bc/f3173b73c99f27a1c38174253570b79a.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 68140,
+                "parent_id": 6000,
+                "text": "Phụ kiện du lịch",
+                "type": null,
+                "url_key": "phu-kien-du-lich",
+                "url_path": "phu-kien-du-lich/c68140",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 83,
+                "is_leaf": false,
+                "meta_title": "Phụ kiện du lịch",
+                "meta_description": "Phụ kiện du lịch",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bb/e5/2d/da765d02d482a31ff1db2b3c8ad77ebc.jpg",
+                "children": [
+                    {
+                        "id": 68143,
+                        "text": "Gối du lịch",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "goi-du-lich",
+                        "url_path": "goi-du-lich/c68143",
+                        "product_count": 9,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68146,
+                        "text": "Túi đựng mỹ phẩm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-dung-my-pham",
+                        "url_path": "tui-dung-my-pham/c68146",
+                        "product_count": 25,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bb/e5/2d/da765d02d482a31ff1db2b3c8ad77ebc.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8391,
+                        "text": "Phụ kiện du lịch khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-du-lich-khac",
+                        "url_path": "phu-kien-du-lich-khac/c8391",
+                        "product_count": 97,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/38/9b/20/5f33905b48553d26db572e12d762556c.png",
+                        "is_leaf": true
+                    }
+                ]
+            }
+        ]
+    }
+]

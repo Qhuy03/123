@@ -1,0 +1,266 @@
+[
+    {
+        "text": "Túi thời trang nữ",
+        "icon_url": "https://salt.tikicdn.com/ts/category/31/a7/94/6524d2ecbec216816d91b6066452e3f2.png",
+        "children": [
+            {
+                "id": 4559,
+                "parent_id": 976,
+                "text": "Túi tote nữ",
+                "type": null,
+                "url_key": "tui-deo-vai-nu",
+                "url_path": "tui-deo-vai-nu/c4559",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 239,
+                "is_leaf": false,
+                "meta_title": "Túi tote nữ",
+                "meta_description": "Túi đeo vai nữ\r\n",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/0b/e3/6a/fcf41ebd1ad0e3a04154378e1df9a2bc.png",
+                "children": [
+                    {
+                        "id": 49608,
+                        "text": "Túi tote có khóa",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-tote-co-khoa",
+                        "url_path": "tui-tote-co-khoa/c49608",
+                        "product_count": 142,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/a4/02/47/b0dc6d4ac08d5e6d6da4b8b7f221bb95.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49610,
+                        "text": "Túi tote không khóa",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-tote-khong-khoa",
+                        "url_path": "tui-tote-khong-khoa/c49610",
+                        "product_count": 98,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/87/93/c6/42d0c473c892e6444faedb29458a13e9.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 4558,
+                "parent_id": 976,
+                "text": "Túi đeo chéo, túi đeo vai nữ",
+                "type": null,
+                "url_key": "tui-deo-cheo-tui-deo-vai-nu",
+                "url_path": "tui-deo-cheo-tui-deo-vai-nu/c4558",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 824,
+                "is_leaf": false,
+                "meta_title": "Túi đeo chéo, túi đeo vai nữ",
+                "meta_description": "Túi đeo chéo, túi đeo vai nữ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/34/39/ca/cb103206bc1e676923ffd3658c2c2e18.jpg",
+                "children": [
+                    {
+                        "id": 49596,
+                        "text": "Túi đeo chéo công sở",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-deo-cheo-cong-so",
+                        "url_path": "tui-deo-cheo-cong-so/c49596",
+                        "product_count": 140,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/51/6a/b6/91e0d1f779f6a4bc2d3666e904600233.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49598,
+                        "text": "Túi đeo chéo dạo phố",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-deo-cheo-dao-pho",
+                        "url_path": "tui-deo-cheo-dao-pho/c49598",
+                        "product_count": 685,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/34/39/ca/cb103206bc1e676923ffd3658c2c2e18.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 4560,
+                "parent_id": 976,
+                "text": "Túi xách tay nữ",
+                "type": null,
+                "url_key": "tui-cam-tay-nu",
+                "url_path": "tui-cam-tay-nu/c4560",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 624,
+                "is_leaf": false,
+                "meta_title": "Túi xách tay nữ",
+                "meta_description": "Túi xách tay nữ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1e/82/21/9444df4fecea86d79c8640de918d7db1.jpg",
+                "children": [
+                    {
+                        "id": 49600,
+                        "text": "Túi xách to bản",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-xach-to-ban",
+                        "url_path": "tui-xach-to-ban/c49600",
+                        "product_count": 88,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1e/82/21/9444df4fecea86d79c8640de918d7db1.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49602,
+                        "text": "Túi xách vừa và nhỏ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-xach-vua-va-nho",
+                        "url_path": "tui-xach-vua-va-nho/c49602",
+                        "product_count": 539,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5d/87/c9/2311d5a42a7674a2740f28bd34161091.PNG",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 4561,
+                "parent_id": 976,
+                "text": "Ví nữ",
+                "type": null,
+                "url_key": "vi-bop-nu",
+                "url_path": "vi-bop-nu/c4561",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 927,
+                "is_leaf": false,
+                "meta_title": "Ví nữ",
+                "meta_description": "Ví bóp nữ\r\n",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/96/27/d5/ee01883b48af571eb802fc360ce61802.jpg",
+                "children": [
+                    {
+                        "id": 49604,
+                        "text": "Ví ngắn",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "vi-ngan",
+                        "url_path": "vi-ngan/c49604",
+                        "product_count": 252,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/96/27/d5/ee01883b48af571eb802fc360ce61802.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49606,
+                        "text": "Ví dài",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "vi-dai",
+                        "url_path": "vi-dai/c49606",
+                        "product_count": 676,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 8350,
+                "parent_id": 976,
+                "text": "Ví đi tiệc",
+                "type": null,
+                "url_key": "vi-di-tiec",
+                "url_path": "vi-di-tiec/c8350",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 68,
+                "is_leaf": false,
+                "meta_title": "Ví đi tiệc",
+                "meta_description": "Ví đi tiệc",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                "children": [
+                    {
+                        "id": 49612,
+                        "text": "Clutch ánh kim",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "clutch-anh-kim",
+                        "url_path": "clutch-anh-kim/c49612",
+                        "product_count": 15,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49614,
+                        "text": "Clutch da",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "clutch-da",
+                        "url_path": "clutch-da/c49614",
+                        "product_count": 54,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/94/f9/ef/3eb665c2ab9e2c887a3e834f6b6b4212.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 8352,
+                "parent_id": 976,
+                "text": "Phụ kiện túi",
+                "type": null,
+                "url_key": "phu-kien-tui",
+                "url_path": "phu-kien-tui/c8352",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 129,
+                "is_leaf": false,
+                "meta_title": "Phụ kiện túi",
+                "meta_description": "Phụ kiện túi",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                "children": [
+                    {
+                        "id": 49616,
+                        "text": "Dây, quai đeo túi",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "day-quai-deo-tui",
+                        "url_path": "day-quai-deo-tui/c49616",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 49618,
+                        "text": "Phụ kiện cài túi",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-cai-tui",
+                        "url_path": "phu-kien-cai-tui/c49618",
+                        "product_count": 126,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    }
+                ]
+            }
+        ]
+    }
+]

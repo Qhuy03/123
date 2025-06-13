@@ -1,0 +1,2158 @@
+[
+    {
+        "text": "Cross Border - Hàng Quốc Tế",
+        "icon_url": "https://salt.tikicdn.com/ts/category/3c/e4/99/eeee1801c838468d94af9997ec2bbe42.png",
+        "children": [
+            {
+                "id": 20824,
+                "parent_id": 17166,
+                "text": "Điện gia dụng",
+                "type": "global",
+                "url_key": "dien-gia-dung",
+                "url_path": "dien-gia-dung/c20824",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 12,
+                "is_leaf": false,
+                "meta_title": "Điện gia dụng",
+                "meta_description": "Điện gia dụng",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/86/6e/ef/cd9615a618aa1249ab12127eb4a484cf.jpg",
+                "children": [
+                    {
+                        "id": 20862,
+                        "text": "Thiết bị gia đình",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 20866,
+                                "text": "Bàn ủi, bàn là",
+                                "url_key": "ban-ui-ban-la",
+                                "full_url_key": "dien-gia-dung/thiet-bi-gia-dinh/ban-ui-ban-la",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20872,
+                                "text": "Máy hút bụi",
+                                "url_key": "may-hut-bui",
+                                "full_url_key": "dien-gia-dung/thiet-bi-gia-dinh/may-hut-bui",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20874,
+                                "text": "Máy lọc không khí & tạo ẩm",
+                                "url_key": "may-loc-khong-khi-tao-am",
+                                "full_url_key": "dien-gia-dung/thiet-bi-gia-dinh/may-loc-khong-khi-tao-am",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20886,
+                                "text": "Quạt điện",
+                                "url_key": "quat-dien",
+                                "full_url_key": "dien-gia-dung/thiet-bi-gia-dinh/quat-dien",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20890,
+                                "text": "Thiết bị gia đình khác",
+                                "url_key": "thiet-bi-gia-dinh-khac",
+                                "full_url_key": "dien-gia-dung/thiet-bi-gia-dinh/thiet-bi-gia-dinh-khac",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-gia-dinh",
+                        "url_path": "thiet-bi-gia-dinh/c20862",
+                        "product_count": 12,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/30/66/11/1683ab91d991807dd7286ac51fc2be9d.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 20908,
+                "parent_id": 17166,
+                "text": "Làm Đẹp - Sức Khỏe",
+                "type": "global",
+                "url_key": "lam-dep-suc-khoe",
+                "url_path": "lam-dep-suc-khoe/c20908",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 273,
+                "is_leaf": false,
+                "meta_title": "Làm Đẹp - Sức Khỏe",
+                "meta_description": "Làm Đẹp - Sức Khỏe",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/86/d3/48/41eab4d63ba351b05af70b6b5d54a7e7.jpg",
+                "children": [
+                    {
+                        "id": 20910,
+                        "text": "Chăm sóc cá nhân",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 20912,
+                                "text": "Băng keo cá nhân",
+                                "url_key": "bang-keo-ca-nhan",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-ca-nhan/bang-keo-ca-nhan",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20914,
+                                "text": "Chăm sóc mắt",
+                                "url_key": "cham-soc-mat",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-ca-nhan/cham-soc-mat",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20916,
+                                "text": "Chăm sóc răng miệng",
+                                "url_key": "cham-soc-rang-mieng",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-ca-nhan/cham-soc-rang-mieng",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20918,
+                                "text": "Dung dịch vệ sinh nam nữ",
+                                "url_key": "dung-dich-ve-sinh-nam-nu",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-ca-nhan/dung-dich-ve-sinh-nam-nu",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20920,
+                                "text": "Máy cạo râu",
+                                "url_key": "may-cao-rau",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-ca-nhan/may-cao-rau",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20922,
+                                "text": "Sản phẩm chăm sóc cá nhân khác",
+                                "url_key": "san-pham-cham-soc-ca-nhan-khac",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-ca-nhan/san-pham-cham-soc-ca-nhan-khac",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55622,
+                                "text": "Băng vệ sinh",
+                                "url_key": "bang-ve-sinh",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-ca-nhan/bang-ve-sinh",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55624,
+                                "text": "Bọt cạo râu",
+                                "url_key": "bot-cao-rau",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-ca-nhan/bot-cao-rau",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55626,
+                                "text": "Khăn giấy ướt",
+                                "url_key": "khan-giay-uot",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-ca-nhan/khan-giay-uot",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cham-soc-ca-nhan",
+                        "url_path": "cham-soc-ca-nhan/c20910",
+                        "product_count": 124,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8d/7b/9b/080999e816818d93c29a48fe3400f78d.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 20928,
+                        "text": "Chăm sóc cơ thể",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 20930,
+                                "text": "Chăm sóc ngực",
+                                "url_key": "cham-soc-nguc",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-co-the/cham-soc-nguc",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20932,
+                                "text": "Dưỡng thể",
+                                "url_key": "duong-the",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-co-the/duong-the",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20934,
+                                "text": "Kem tan mỡ",
+                                "url_key": "kem-tan-mo",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-co-the/kem-tan-mo",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20936,
+                                "text": "Sản phẩm chống nắng",
+                                "url_key": "san-pham-chong-nang",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-co-the/san-pham-chong-nang",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20938,
+                                "text": "Sản phẩm khử mùi",
+                                "url_key": "san-pham-khu-mui",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-co-the/san-pham-khu-mui",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20940,
+                                "text": "Sản phẩm tẩy lông",
+                                "url_key": "san-pham-tay-long",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-co-the/san-pham-tay-long",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20948,
+                                "text": "Sữa tắm, xà bông, muối tắm",
+                                "url_key": "sua-tam-xa-bong-muoi-tam",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-co-the/sua-tam-xa-bong-muoi-tam",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20950,
+                                "text": "Tẩy tế bào chết, massage",
+                                "url_key": "tay-te-bao-chet-massage",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-co-the/tay-te-bao-chet-massage",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20952,
+                                "text": "Trị rạn nứt da",
+                                "url_key": "tri-ran-nut-da",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-co-the/tri-ran-nut-da",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55674,
+                                "text": "Bộ chăm sóc cơ thể",
+                                "url_key": "bo-cham-soc-co-the",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-co-the/bo-cham-soc-co-the",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55676,
+                                "text": "Bộ chăm sóc tóc và da đầu",
+                                "url_key": "bo-cham-soc-toc-va-da-dau",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-co-the/bo-cham-soc-toc-va-da-dau",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55680,
+                                "text": "Sản phẩm dưỡng tay, chân",
+                                "url_key": "san-pham-duong-tay-chan",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-co-the/san-pham-duong-tay-chan",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cham-soc-co-the",
+                        "url_path": "cham-soc-co-the/c20928",
+                        "product_count": 8,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cc/0c/d7/c4339e38953de9b5a86622a6308da4ed.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 20962,
+                        "text": "Chăm sóc da mặt",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 20964,
+                                "text": "Chăm sóc vùng da mắt",
+                                "url_key": "cham-soc-vung-da-mat",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-da-mat/cham-soc-vung-da-mat",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20966,
+                                "text": "Làm sạch da mặt",
+                                "url_key": "lam-sach-da-mat",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-da-mat/lam-sach-da-mat",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20968,
+                                "text": "Mặt nạ",
+                                "url_key": "mat-na",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-da-mat/mat-na",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20970,
+                                "text": "Dụng cụ chăm sóc da mặt",
+                                "url_key": "dung-cu-cham-soc-da-mat",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-da-mat/dung-cu-cham-soc-da-mat",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20972,
+                                "text": "Nước hoa hồng, toner",
+                                "url_key": "nuoc-hoa-hong-toner",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-da-mat/nuoc-hoa-hong-toner",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20974,
+                                "text": "Sản phẩm chống nắng và phục hồi sau khi đi nắng",
+                                "url_key": "san-pham-chong-nang-va-phuc-hoi-sau-khi-di-nang",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-da-mat/san-pham-chong-nang-va-phuc-hoi-sau-khi-di-nang",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20976,
+                                "text": "Sản phẩm trị mụn",
+                                "url_key": "san-pham-tri-mun",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-da-mat/san-pham-tri-mun",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 20978,
+                                "text": "Xịt khoáng",
+                                "url_key": "xit-khoang",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-da-mat/xit-khoang",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 24988,
+                                "text": "Dưỡng da mặt",
+                                "url_key": "duong-da-mat",
+                                "full_url_key": "lam-dep-suc-khoe/cham-soc-da-mat/duong-da-mat",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cham-soc-da-mat",
+                        "url_path": "cham-soc-da-mat/c20962",
+                        "product_count": 13,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6d/a8/b7/71b91597266811b0c17b2313bad8eb92.jpeg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 21000,
+                        "text": "Thiết bị chăm sóc sức khỏe",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 21002,
+                                "text": "Cân sức khỏe",
+                                "url_key": "can-suc-khoe",
+                                "full_url_key": "lam-dep-suc-khoe/thiet-bi-cham-soc-suc-khoe/can-suc-khoe",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21004,
+                                "text": "Dụng cụ sơ cứu",
+                                "url_key": "dung-cu-so-cuu",
+                                "full_url_key": "lam-dep-suc-khoe/thiet-bi-cham-soc-suc-khoe/dung-cu-so-cuu",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21006,
+                                "text": "Dụng cụ theo dõi sức khỏe",
+                                "url_key": "dung-cu-theo-doi-suc-khoe",
+                                "full_url_key": "lam-dep-suc-khoe/thiet-bi-cham-soc-suc-khoe/dung-cu-theo-doi-suc-khoe",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21008,
+                                "text": "Máy massage",
+                                "url_key": "may-massage",
+                                "full_url_key": "lam-dep-suc-khoe/thiet-bi-cham-soc-suc-khoe/may-massage",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21010,
+                                "text": "Máy xông mũi họng",
+                                "url_key": "may-xong-mui-hong",
+                                "full_url_key": "lam-dep-suc-khoe/thiet-bi-cham-soc-suc-khoe/may-xong-mui-hong",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21012,
+                                "text": "Thiết bị khác",
+                                "url_key": "thiet-bi-khac",
+                                "full_url_key": "lam-dep-suc-khoe/thiet-bi-cham-soc-suc-khoe/thiet-bi-khac",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55748,
+                                "text": "Khẩu trang y tế",
+                                "url_key": "khau-trang-y-te",
+                                "full_url_key": "lam-dep-suc-khoe/thiet-bi-cham-soc-suc-khoe/khau-trang-y-te",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55750,
+                                "text": "Nhiệt kế",
+                                "url_key": "nhiet-ke",
+                                "full_url_key": "lam-dep-suc-khoe/thiet-bi-cham-soc-suc-khoe/nhiet-ke",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55752,
+                                "text": "Que thử thai",
+                                "url_key": "que-thu-thai",
+                                "full_url_key": "lam-dep-suc-khoe/thiet-bi-cham-soc-suc-khoe/que-thu-thai",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55756,
+                                "text": "Túi chườm",
+                                "url_key": "tui-chuom",
+                                "full_url_key": "lam-dep-suc-khoe/thiet-bi-cham-soc-suc-khoe/tui-chuom",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55758,
+                                "text": "Vớ ngăn giãn tĩnh mạch",
+                                "url_key": "vo-ngan-gian-tinh-mach",
+                                "full_url_key": "lam-dep-suc-khoe/thiet-bi-cham-soc-suc-khoe/vo-ngan-gian-tinh-mach",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-cham-soc-suc-khoe",
+                        "url_path": "thiet-bi-cham-soc-suc-khoe/c21000",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/71/0b/c5/0da59f94576dda1a635088f3f88fdead.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 21022,
+                        "text": "Thực phẩm chức năng",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 21024,
+                                "text": "Kiểm soát cân nặng",
+                                "url_key": "kiem-soat-can-nang",
+                                "full_url_key": "lam-dep-suc-khoe/thuc-pham-chuc-nang/kiem-soat-can-nang",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21026,
+                                "text": "Thực phẩm chức năng làm đẹp",
+                                "url_key": "thuc-pham-chuc-nang-lam-dep",
+                                "full_url_key": "lam-dep-suc-khoe/thuc-pham-chuc-nang/thuc-pham-chuc-nang-lam-dep",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21028,
+                                "text": "Thực phẩm chức năng sức khỏe",
+                                "url_key": "thuc-pham-chuc-nang-suc-khoe",
+                                "full_url_key": "lam-dep-suc-khoe/thuc-pham-chuc-nang/thuc-pham-chuc-nang-suc-khoe",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21030,
+                                "text": "Thực phẩm chức năng thiên nhiên",
+                                "url_key": "thuc-pham-chuc-nang-thien-nhien",
+                                "full_url_key": "lam-dep-suc-khoe/thuc-pham-chuc-nang/thuc-pham-chuc-nang-thien-nhien",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thuc-pham-chuc-nang",
+                        "url_path": "thuc-pham-chuc-nang/c21022",
+                        "product_count": 91,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e7/df/54/cb694bf3adbfd640e303f2fcd24956c2.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 21032,
+                        "text": "Trang điểm",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 21034,
+                                "text": "Chăm sóc móng",
+                                "url_key": "cham-soc-mong",
+                                "full_url_key": "lam-dep-suc-khoe/trang-diem/cham-soc-mong",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21036,
+                                "text": "Dụng cụ trang điểm",
+                                "url_key": "dung-cu-trang-diem",
+                                "full_url_key": "lam-dep-suc-khoe/trang-diem/dung-cu-trang-diem",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21038,
+                                "text": "Tẩy trang, khăn ướt",
+                                "url_key": "tay-trang-khan-uot",
+                                "full_url_key": "lam-dep-suc-khoe/trang-diem/tay-trang-khan-uot",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21040,
+                                "text": "Trang điểm mặt",
+                                "url_key": "trang-diem-mat",
+                                "full_url_key": "lam-dep-suc-khoe/trang-diem/trang-diem-mat",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21042,
+                                "text": "Trang điểm mắt",
+                                "url_key": "trang-diem-mat",
+                                "full_url_key": "lam-dep-suc-khoe/trang-diem/trang-diem-mat",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21044,
+                                "text": "Trang điểm môi",
+                                "url_key": "trang-diem-moi",
+                                "full_url_key": "lam-dep-suc-khoe/trang-diem/trang-diem-moi",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55872,
+                                "text": "Trang điểm khác",
+                                "url_key": "trang-diem-khac",
+                                "full_url_key": "lam-dep-suc-khoe/trang-diem/trang-diem-khac",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "trang-diem",
+                        "url_path": "trang-diem/c21032",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e4/55/8f/3adeb9d0c2d6aae1cff0e513040fc597.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 21054,
+                "parent_id": 17166,
+                "text": "Điện Thoại - Máy Tính Bảng",
+                "type": "global",
+                "url_key": "dien-thoai-may-tinh-bang",
+                "url_path": "dien-thoai-may-tinh-bang/c21054",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1,
+                "is_leaf": false,
+                "meta_title": "Điện Thoại - Máy Tính Bảng",
+                "meta_description": "Điện Thoại - Máy Tính Bảng",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/36/b7/4f/ab9dc7a78dedac952422b3340f567b63.jpg",
+                "children": [
+                    {
+                        "id": 21056,
+                        "text": "Điện Thoại Phổ Thông",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dien-thoai-pho-thong",
+                        "url_path": "dien-thoai-pho-thong/c21056",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/36/b7/4f/ab9dc7a78dedac952422b3340f567b63.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 21074,
+                "parent_id": 17166,
+                "text": "Laptop & Máy Vi Tính",
+                "type": "global",
+                "url_key": "laptop-may-vi-tinh",
+                "url_path": "laptop-may-vi-tinh/c21074",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 330,
+                "is_leaf": false,
+                "meta_title": "Laptop & Máy Vi Tính",
+                "meta_description": "Laptop & Máy Vi Tính",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/5f/c5/81/ae041aed26fbacd4b6091a567dd867de.jpg",
+                "children": [
+                    {
+                        "id": 21084,
+                        "text": "Linh kiện máy tính",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "linh-kien-may-tinh",
+                        "url_path": "linh-kien-may-tinh/c21084",
+                        "product_count": 270,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/68/bb/4d/a235d5c1de8415b3315716d403094ed2.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21110,
+                        "text": "Thiết bị lưu trữ",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 21114,
+                                "text": "USB",
+                                "url_key": "usb",
+                                "full_url_key": "laptop-may-vi-tinh/thiet-bi-luu-tru/usb",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21120,
+                                "text": "Thiết bị lưu trữ khác",
+                                "url_key": "thiet-bi-luu-tru-khac",
+                                "full_url_key": "laptop-may-vi-tinh/thiet-bi-luu-tru/thiet-bi-luu-tru-khac",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-luu-tru",
+                        "url_path": "thiet-bi-luu-tru/c21110",
+                        "product_count": 53,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/e4/f8/71/e1da66512922506bfa56847bb3e7372b.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 21132,
+                        "text": "Thiết bị mạng sử dung cho laptop & Máy vi tính",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-mang-su-dung-cho-laptop-may-vi-tinh",
+                        "url_path": "thiet-bi-mang-su-dung-cho-laptop-may-vi-tinh/c21132",
+                        "product_count": 7,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/bf/c3/4e/0685c947ea447af79b9b0439554abeb5.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 21134,
+                "parent_id": 17166,
+                "text": "Máy Ảnh - Máy Quay Phim",
+                "type": "global",
+                "url_key": "may-anh-may-quay-phim",
+                "url_path": "may-anh-may-quay-phim/c21134",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 107,
+                "is_leaf": false,
+                "meta_title": "Máy Ảnh - Máy Quay Phim",
+                "meta_description": "Máy Ảnh - Máy Quay Phim",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/73/89/bf/18a4684b8ac2128f21c1f0c9a75cce63.jpg",
+                "children": [
+                    {
+                        "id": 21144,
+                        "text": "Đồ chơi ngành ảnh",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "do-choi-nganh-anh",
+                        "url_path": "do-choi-nganh-anh/c21144",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d9/50/fa/c9cc7b3372c6987aafc715833c03a395.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21156,
+                        "text": "Ống kính (Lens)",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ong-kinh-lens",
+                        "url_path": "ong-kinh-lens/c21156",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/99/73/a7/a7847f7cb3d0f511d23ac30c4c970de0.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21162,
+                        "text": "Phụ kiện máy ảnh",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-may-anh",
+                        "url_path": "phu-kien-may-anh/c21162",
+                        "product_count": 75,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5f/ff/ef/3cd49e45af98094835c420cb604e4028.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21164,
+                        "text": "Webcam",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "webcam",
+                        "url_path": "webcam/c21164",
+                        "product_count": 30,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cf/ca/40/21c013e31fa7740510b147d3b04009d5.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 21166,
+                "parent_id": 17166,
+                "text": "Mẹ & Bé",
+                "type": "global",
+                "url_key": "me-be",
+                "url_path": "me-be/c21166",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 11,
+                "is_leaf": false,
+                "meta_title": "Mẹ & Bé",
+                "meta_description": "Mẹ & Bé",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/47/0d/1a/09e7eca04da86b1ece2461fdcac3d847.jpg",
+                "children": [
+                    {
+                        "id": 21172,
+                        "text": "Dinh dưỡng cho bé",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 55572,
+                                "text": "Bánh quy cho bé",
+                                "url_key": "banh-quy-cho-be",
+                                "full_url_key": "me-be/dinh-duong-cho-be/banh-quy-cho-be",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55574,
+                                "text": "Bột ăn dặm",
+                                "url_key": "bot-an-dam",
+                                "full_url_key": "me-be/dinh-duong-cho-be/bot-an-dam",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55588,
+                                "text": "Sữa công thức pha sẵn",
+                                "url_key": "sua-cong-thuc-pha-san",
+                                "full_url_key": "me-be/dinh-duong-cho-be/sua-cong-thuc-pha-san",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55590,
+                                "text": "Thực phẩm chế biến sẵn",
+                                "url_key": "thuc-pham-che-bien-san",
+                                "full_url_key": "me-be/dinh-duong-cho-be/thuc-pham-che-bien-san",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 69180,
+                                "text": "Gia vị cho bé",
+                                "url_key": "gia-vi-cho-be",
+                                "full_url_key": "me-be/dinh-duong-cho-be/gia-vi-cho-be",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55582,
+                                "text": "Sữa bột cho bé dưới 24 tháng",
+                                "url_key": "sua-bot-cho-be-duoi-24-thang",
+                                "full_url_key": "me-be/dinh-duong-cho-be/sua-bot-cho-be-duoi-24-thang",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 55584,
+                                "text": "Sữa bột cho bé trên 24 tháng",
+                                "url_key": "sua-bot-cho-be-tren-24-thang",
+                                "full_url_key": "me-be/dinh-duong-cho-be/sua-bot-cho-be-tren-24-thang",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dinh-duong-cho-be",
+                        "url_path": "dinh-duong-cho-be/c21172",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/1f/98/5e/3bc7bed9d8799410e14da8d768b9e680.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 21174,
+                        "text": "Dinh dưỡng cho người lớn",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 69181,
+                                "text": "Sữa bột chức năng cho người lớn",
+                                "url_key": "sua-bot-chuc-nang-cho-nguoi-lon",
+                                "full_url_key": "me-be/dinh-duong-cho-nguoi-lon/sua-bot-chuc-nang-cho-nguoi-lon",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 69182,
+                                "text": "Sữa nước chức năng cho người lớn",
+                                "url_key": "sua-nuoc-chuc-nang-cho-nguoi-lon",
+                                "full_url_key": "me-be/dinh-duong-cho-nguoi-lon/sua-nuoc-chuc-nang-cho-nguoi-lon",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 69183,
+                                "text": "Vitamins và thực phẩm chức năng",
+                                "url_key": "vitamins-va-thuc-pham-chuc-nang",
+                                "full_url_key": "me-be/dinh-duong-cho-nguoi-lon/vitamins-va-thuc-pham-chuc-nang",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dinh-duong-cho-nguoi-lon",
+                        "url_path": "dinh-duong-cho-nguoi-lon/c21174",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/o/r/originalnutritionshake-1.u2442.d20160617.t102751.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 21176,
+                        "text": "Đồ chơi",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "do-choi",
+                        "url_path": "do-choi/c21176",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a3/32/52/d62b0c3e1a39c4d30d127ff9e8b2814c.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21180,
+                        "text": "Đồ dùng cho bé",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 21234,
+                                "text": "Dụng cụ chăm sóc sức khỏe",
+                                "url_key": "dung-cu-cham-soc-suc-khoe",
+                                "full_url_key": "me-be/do-dung-cho-be/dung-cu-cham-soc-suc-khoe",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21236,
+                                "text": "Đồ dùng ăn uống cho bé",
+                                "url_key": "do-dung-an-uong-cho-be",
+                                "full_url_key": "me-be/do-dung-cho-be/do-dung-an-uong-cho-be",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21238,
+                                "text": "Đồ dùng bảo vệ bé",
+                                "url_key": "do-dung-bao-ve-be",
+                                "full_url_key": "me-be/do-dung-cho-be/do-dung-bao-ve-be",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21242,
+                                "text": "Đồ dùng phòng ngủ cho bé",
+                                "url_key": "do-dung-phong-ngu-cho-be",
+                                "full_url_key": "me-be/do-dung-cho-be/do-dung-phong-ngu-cho-be",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21244,
+                                "text": "Đồ dùng vệ sinh cho bé",
+                                "url_key": "do-dung-ve-sinh-cho-be",
+                                "full_url_key": "me-be/do-dung-cho-be/do-dung-ve-sinh-cho-be",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 24984,
+                                "text": "Sản phẩm chăm sóc bé",
+                                "url_key": "san-pham-cham-soc-be",
+                                "full_url_key": "me-be/do-dung-cho-be/san-pham-cham-soc-be",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "do-dung-cho-be",
+                        "url_path": "do-dung-cho-be/c21180",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/00/84/80/ed8cb5f8664ba0637931cb242c983edf.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 21248,
+                        "text": "Tã, Bỉm cho bé",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 69184,
+                                "text": "Tã bơi",
+                                "url_key": "ta-boi",
+                                "full_url_key": "me-be/ta-bim-cho-be/ta-boi",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ta-bim-cho-be",
+                        "url_path": "ta-bim-cho-be/c21248",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3b/05/cd/e66fb5d5671eb36843def16368f5095d.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 21268,
+                "parent_id": 17166,
+                "text": "Nhà Cửa - Đời Sống",
+                "type": "global",
+                "url_key": "nha-cua-doi-song",
+                "url_path": "nha-cua-doi-song/c21268",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 39,
+                "is_leaf": false,
+                "meta_title": "Nhà Cửa - Đời Sống",
+                "meta_description": "Nhà Cửa - Đời Sống",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/99/56/8f/d5683d3ad3cfb40477049c58bf9e2a95.jpg",
+                "children": [
+                    {
+                        "id": 21270,
+                        "text": "Dụng cụ phòng ăn & nhà bếp",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-phong-an-nha-bep",
+                        "url_path": "dung-cu-phong-an-nha-bep/c21270",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/15/9f/75/54b2e79ae40ada21e379a74aac5fa2b7.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21272,
+                        "text": "Đèn & thiết bị chiếu sáng",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "den-thiet-bi-chieu-sang",
+                        "url_path": "den-thiet-bi-chieu-sang/c21272",
+                        "product_count": 6,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/35/78/7d/c39cc145c28436f24c8b90f703bf60f4.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21274,
+                        "text": "Đồ dùng nhà tắm",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "do-dung-nha-tam",
+                        "url_path": "do-dung-nha-tam/c21274",
+                        "product_count": 11,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/66/87/47bc98f24f07a633eb6a67ac27389b57.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21280,
+                        "text": "Ngoài trời & sân vườn",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ngoai-troi-san-vuon",
+                        "url_path": "ngoai-troi-san-vuon/c21280",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/32/19/c7/f09e1405cd5b241c6f80befec4585653.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21282,
+                        "text": "Sửa chữa nhà cửa",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "sua-chua-nha-cua",
+                        "url_path": "sua-chua-nha-cua/c21282",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/63/85/1e/b4d2700515568bfebdbf5bb4f37eab25.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21286,
+                        "text": "Nội thất",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "noi-that",
+                        "url_path": "noi-that/c21286",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/49/a4/20/2dac4c8e6d47c6935e7dd8a14c880390.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21288,
+                        "text": "Trang trí nhà cửa",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "trang-tri-nha-cua",
+                        "url_path": "trang-tri-nha-cua/c21288",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/b8/d9/06/7115ffdfbb2bb57bd1fa4c3f3d741feb.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 24998,
+                        "text": "Sắp xếp nhà cửa",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "sap-xep-nha-cua",
+                        "url_path": "sap-xep-nha-cua/c24998",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d8/7a/7e/fbdec2c3b0f965a62c3df7f1f8edae17.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 25000,
+                        "text": "Thiết bị nhà cửa khác",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-nha-cua-khac",
+                        "url_path": "thiet-bi-nha-cua-khac/c25000",
+                        "product_count": 11,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/37/fc/b7/32e6913bfb6d774b2fcfbc4b67e8613c.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 21298,
+                "parent_id": 17166,
+                "text": "Sách, Văn phòng phẩm & Quà lưu niệm",
+                "type": "global",
+                "url_key": "sach-van-phong-pham-qua-luu-niem",
+                "url_path": "sach-van-phong-pham-qua-luu-niem/c21298",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 10000,
+                "is_leaf": false,
+                "meta_title": "Sách, Văn phòng phẩm & Quà lưu niệm",
+                "meta_description": "Sách, Văn phòng phẩm & Quà lưu niệm",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/df/da/d4/c769c575d5e64fbdb0b6cfa7f2287df2.jpg",
+                "children": [
+                    {
+                        "id": 21300,
+                        "text": "English Books",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 21302,
+                                "text": "Art & Photography",
+                                "url_key": "art-photography",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/art-photography",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21304,
+                                "text": "Biographies & Memoirs",
+                                "url_key": "biographies-memoirs",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/biographies-memoirs",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21306,
+                                "text": "Business & Economics",
+                                "url_key": "business-economics",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/business-economics",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21308,
+                                "text": "How-to - Self Help",
+                                "url_key": "how-to-self-help",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/how-to-self-help",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21310,
+                                "text": "Children's Books",
+                                "url_key": "childrens-books",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/childrens-books",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21312,
+                                "text": "Dictionary",
+                                "url_key": "dictionary",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/dictionary",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21314,
+                                "text": "Education - Teaching",
+                                "url_key": "education-teaching",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/education-teaching",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21316,
+                                "text": "Fiction - Literature",
+                                "url_key": "fiction-literature",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/fiction-literature",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21318,
+                                "text": "Magazines",
+                                "url_key": "magazines",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/magazines",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21320,
+                                "text": "Medical Books",
+                                "url_key": "medical-books",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/medical-books",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21322,
+                                "text": "Relationships",
+                                "url_key": "relationships",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/relationships",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21326,
+                                "text": "Science - Technology",
+                                "url_key": "science-technology",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/science-technology",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21328,
+                                "text": "Politics & Social Sciences",
+                                "url_key": "politics-social-sciences",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/politics-social-sciences",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21330,
+                                "text": "Travel",
+                                "url_key": "travel",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/travel",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21332,
+                                "text": "Cookbooks, Food & Wine",
+                                "url_key": "cookbooks-food-wine",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/cookbooks-food-wine",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 25002,
+                                "text": "Culture & Ancient",
+                                "url_key": "culture-ancient",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/culture-ancient",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 25004,
+                                "text": "Lifestyle - Fitness - Healthcare",
+                                "url_key": "lifestyle-fitness-healthcare",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/lifestyle-fitness-healthcare",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 25006,
+                                "text": "Home & Garden",
+                                "url_key": "home-garden",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/home-garden",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 25040,
+                                "text": "Manga",
+                                "url_key": "manga",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/manga",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 25042,
+                                "text": "Environment & Nature",
+                                "url_key": "environment-nature",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/environment-nature",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 25046,
+                                "text": "Maternal & Parenting",
+                                "url_key": "maternal-parenting",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/maternal-parenting",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 25048,
+                                "text": "Architecture",
+                                "url_key": "architecture",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/architecture",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 25050,
+                                "text": "History",
+                                "url_key": "history",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/history",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 25052,
+                                "text": "Psychology, Philosophy & Social Science",
+                                "url_key": "psychology-philosophy-social-science",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/english-books/psychology-philosophy-social-science",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "english-books",
+                        "url_path": "english-books/c21300",
+                        "product_count": 10000,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b0/80/ed/1d327d7f1826c9b04da27b85c36177d1.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 21334,
+                        "text": "Văn Phòng Phẩm",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 21336,
+                                "text": "Bút - Viết",
+                                "url_key": "but-viet",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/van-phong-pham/but-viet",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21338,
+                                "text": "Sổ tay",
+                                "url_key": "so-tay",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/van-phong-pham/so-tay",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21340,
+                                "text": "Máy tính",
+                                "url_key": "may-tinh",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/van-phong-pham/may-tinh",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21342,
+                                "text": "Art & Design",
+                                "url_key": "art-design",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/van-phong-pham/art-design",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21344,
+                                "text": "Văn Phòng Phẩm Khác",
+                                "url_key": "van-phong-pham-khac",
+                                "full_url_key": "sach-van-phong-pham-qua-luu-niem/van-phong-pham/van-phong-pham-khac",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "van-phong-pham",
+                        "url_path": "van-phong-pham/c21334",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1d/ae/89/403be07c428796c2c6bc9c8a287aff17.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 25008,
+                        "text": "Quà Tặng",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "qua-tang",
+                        "url_path": "qua-tang/c25008",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d7/4d/84/25f1e901e1b0f0697d230f4821c8e2be.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 21346,
+                "parent_id": 17166,
+                "text": "Ô tô, xe máy, xe đạp",
+                "type": "global",
+                "url_key": "o-to-xe-may-xe-dap",
+                "url_path": "o-to-xe-may-xe-dap/c21346",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 263,
+                "is_leaf": false,
+                "meta_title": "Ô tô, xe máy, xe đạp",
+                "meta_description": "Ô tô, xe máy, xe đạp",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/f8/cd/0c/40ca2d39d9a4af9cc4dcf9e86a65465a.jpg",
+                "children": [
+                    {
+                        "id": 21348,
+                        "text": "Phụ kiện ô tô",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-o-to",
+                        "url_path": "phu-kien-o-to/c21348",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f9/fb/c7/f35e8573506036fab6e3106619288251.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21350,
+                        "text": "Phụ kiện xe máy",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-xe-may",
+                        "url_path": "phu-kien-xe-may/c21350",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2e/10/09/80706773f3ef16d1de74748324ba8748.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21352,
+                        "text": "Phụ kiện xe đạp",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-xe-dap",
+                        "url_path": "phu-kien-xe-dap/c21352",
+                        "product_count": 277,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/97/b0/b5/00ebf8f29f5586bfc5d183cbab683bee.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 21356,
+                "parent_id": 17166,
+                "text": "Thể thao - Dã ngoại",
+                "type": "global",
+                "url_key": "the-thao-da-ngoai",
+                "url_path": "the-thao-da-ngoai/c21356",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 55,
+                "is_leaf": false,
+                "meta_title": "Thể thao - Dã ngoại",
+                "meta_description": "Thể thao - Dã ngoại",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/db/0c/87/d614069a2f9508ec0f18fbe7d635b86b.jpg",
+                "children": [
+                    {
+                        "id": 21362,
+                        "text": "Các môn thể dục và yoga",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "cac-mon-the-duc-va-yoga",
+                        "url_path": "cac-mon-the-duc-va-yoga/c21362",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a3/aa/f7/b6a000054c1bcdd6fe5f522863514c03.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21368,
+                        "text": "Hoạt động dã ngoại",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "hoat-dong-da-ngoai",
+                        "url_path": "hoat-dong-da-ngoai/c21368",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/53/24/f2/ccbf4223ea7af7cbf1baaf34e74ae834.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21370,
+                        "text": "Phụ kiện thể thao, dã ngoại",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-the-thao-da-ngoai",
+                        "url_path": "phu-kien-the-thao-da-ngoai/c21370",
+                        "product_count": 36,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6c/cf/4a/a8e37d5306a1f8e51c0dd3f2aa1bfc84.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21372,
+                        "text": "Thể thao dưới nước",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "the-thao-duoi-nuoc",
+                        "url_path": "the-thao-duoi-nuoc/c21372",
+                        "product_count": 10,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/60/0e/bb/0193f4d931802c61054f4300b3b03156.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21374,
+                        "text": "Thực phẩm bổ sung năng lượng",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thuc-pham-bo-sung-nang-luong",
+                        "url_path": "thuc-pham-bo-sung-nang-luong/c21374",
+                        "product_count": 9,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/69/a8/60/e413b19da55bb94e28762ef5adf0b68e.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 21382,
+                "parent_id": 17166,
+                "text": "Thiết Bị Số - Phụ Kiện Số",
+                "type": "global",
+                "url_key": "thiet-bi-so-phu-kien-so",
+                "url_path": "thiet-bi-so-phu-kien-so/c21382",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 920,
+                "is_leaf": false,
+                "meta_title": "Thiết Bị Số - Phụ Kiện Số",
+                "meta_description": "Thiết Bị Số - Phụ Kiện Số",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/e9/d1/1c/57a011d6163b0432f2e3e820a6571d91.jpg",
+                "children": [
+                    {
+                        "id": 21384,
+                        "text": "Bao da - Ốp lưng",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bao-da-op-lung",
+                        "url_path": "bao-da-op-lung/c21384",
+                        "product_count": 8,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9c/d0/0c/50ed2ce195557a8bc37f3ff9ea0646f8.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21388,
+                        "text": "Adapter - Củ sạc",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "adapter-cu-sac",
+                        "url_path": "adapter-cu-sac/c21388",
+                        "product_count": 28,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/eb/0d/32/7af636a172303e1e5a1c91ba2fa6e60c.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21390,
+                        "text": "Dây sạc, Dây cáp",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "day-sac-day-cap",
+                        "url_path": "day-sac-day-cap/c21390",
+                        "product_count": 83,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6d/0f/ab/9c6e97ce5da38049e87aa5adc406d9a9.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21392,
+                        "text": "Đầu đọc thẻ nhớ",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dau-doc-the-nho",
+                        "url_path": "dau-doc-the-nho/c21392",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5d/8a/4d/7914f5ea065f31f2df743bde7793c277.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21396,
+                        "text": "Đế Tản Nhiệt Laptop",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "de-tan-nhiet-laptop",
+                        "url_path": "de-tan-nhiet-laptop/c21396",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1c/0d/2b/a4331586e33deeac29c69d8aca53ae5d.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21400,
+                        "text": "Thiết bị Game",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-game",
+                        "url_path": "thiet-bi-game/c21400",
+                        "product_count": 11,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ba/b0/c8/ef61fe251ed0b78bffcf4b8a632231c1.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21402,
+                        "text": "Gậy tự sướng/ Selfie",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "gay-tu-suong-selfie",
+                        "url_path": "gay-tu-suong-selfie/c21402",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5c/0f/61/e237651b4319b88bd591a6da3e359210.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21404,
+                        "text": "Hub USB",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "hub-usb",
+                        "url_path": "hub-usb/c21404",
+                        "product_count": 20,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5c/19/b1/9a71f018c5d52c57df2c7b3382894c0e.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21406,
+                        "text": "Loa nghe nhạc",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "loa-nghe-nhac",
+                        "url_path": "loa-nghe-nhac/c21406",
+                        "product_count": 58,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8d/ba/b1/9292689d445c87b6254288e0af03cd25.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21410,
+                        "text": "Máy nghe nhạc",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-nghe-nhac",
+                        "url_path": "may-nghe-nhac/c21410",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/79/fe/6d/6f47f68ea7b360a36516e2996f09ab7f.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21412,
+                        "text": "Phụ kiện âm thanh",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-am-thanh",
+                        "url_path": "phu-kien-am-thanh/c21412",
+                        "product_count": 6,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/78/3d/fc/3d174917f1adda1d37169d410e1a0258.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21414,
+                        "text": "Pin sạc dự phòng",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "pin-sac-du-phong",
+                        "url_path": "pin-sac-du-phong/c21414",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/5d/2f/61/0ac9984c856392bbdbea091ddf5d9b41.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21418,
+                        "text": "Tai nghe",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tai-nghe",
+                        "url_path": "tai-nghe/c21418",
+                        "product_count": 206,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ba/97/79/56faa15db2cab0d93ded9610ce59039f.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21420,
+                        "text": "Thẻ nhớ điện thoại",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "the-nho-dien-thoai",
+                        "url_path": "the-nho-dien-thoai/c21420",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bc/fb/6c/9e6367bc99258382574f88354b7a326e.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21422,
+                        "text": "Thiết bị thông minh",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 21424,
+                                "text": "Đồng hồ thông minh",
+                                "url_key": "dong-ho-thong-minh",
+                                "full_url_key": "thiet-bi-so-phu-kien-so/thiet-bi-thong-minh/dong-ho-thong-minh",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21426,
+                                "text": "Thiết bị thông minh khác",
+                                "url_key": "thiet-bi-thong-minh-khac",
+                                "full_url_key": "thiet-bi-so-phu-kien-so/thiet-bi-thong-minh/thiet-bi-thong-minh-khac",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21428,
+                                "text": "Thiết bị thực tế ảo",
+                                "url_key": "thiet-bi-thuc-te-ao",
+                                "full_url_key": "thiet-bi-so-phu-kien-so/thiet-bi-thong-minh/thiet-bi-thuc-te-ao",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21430,
+                                "text": "Vòng theo dõi vận động",
+                                "url_key": "vong-theo-doi-van-dong",
+                                "full_url_key": "thiet-bi-so-phu-kien-so/thiet-bi-thong-minh/vong-theo-doi-van-dong",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21432,
+                                "text": "Thiết bị nhà thông minh",
+                                "url_key": "thiet-bi-nha-thong-minh",
+                                "full_url_key": "thiet-bi-so-phu-kien-so/thiet-bi-thong-minh/thiet-bi-nha-thong-minh",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-thong-minh",
+                        "url_path": "thiet-bi-thong-minh/c21422",
+                        "product_count": 41,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/51/8c/be/813fe7e680eb81df3ff563516bd7b980.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 21436,
+                        "text": "Thiết bị mạng",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-mang",
+                        "url_path": "thiet-bi-mang/c21436",
+                        "product_count": 208,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/72/9a/d4/509b0d3b145da8cdfb9f505db9a36969.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21440,
+                        "text": "Thiết bị số - Khác",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-so-khac",
+                        "url_path": "thiet-bi-so-khac/c21440",
+                        "product_count": 72,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b8/3a/1c/02ae4e430640123a60b24abab50e66a3.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 25024,
+                        "text": "Chuột",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "chuot",
+                        "url_path": "chuot/c25024",
+                        "product_count": 126,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e5/2a/6f/1f8b84f8e2ce1e98b3f78aae1f1c7169.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 25026,
+                        "text": "Bàn phím",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ban-phim",
+                        "url_path": "ban-phim/c25026",
+                        "product_count": 35,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3d/b2/44/0fa01ac184f83ebc6d9dca6856cd28be.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 25028,
+                        "text": "Linh kiện điện thoại",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "linh-kien-dien-thoai",
+                        "url_path": "linh-kien-dien-thoai/c25028",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/e1/37/33/2f0ec8911842b4ca49581e47d146b4da.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 21442,
+                "parent_id": 17166,
+                "text": "Thời Trang",
+                "type": "global",
+                "url_key": "thoi-trang",
+                "url_path": "thoi-trang/c21442",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 84,
+                "is_leaf": false,
+                "meta_title": "Thời Trang",
+                "meta_description": "Thời Trang",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/38/8b/ad/40ca351568a6d474c4ea3692ae22bda6.jpg",
+                "children": [
+                    {
+                        "id": 21444,
+                        "text": "Thời trang nam",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 21446,
+                                "text": "Giày nam",
+                                "url_key": "giay-nam",
+                                "full_url_key": "thoi-trang/thoi-trang-nam/giay-nam",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21448,
+                                "text": "Phụ kiện nam",
+                                "url_key": "phu-kien-nam",
+                                "full_url_key": "thoi-trang/thoi-trang-nam/phu-kien-nam",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21450,
+                                "text": "Trang phục nam",
+                                "url_key": "trang-phuc-nam",
+                                "full_url_key": "thoi-trang/thoi-trang-nam/trang-phuc-nam",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21452,
+                                "text": "Đồ ngủ, mặc nhà, đồ lót nam",
+                                "url_key": "do-ngu-mac-nha-do-lot-nam",
+                                "full_url_key": "thoi-trang/thoi-trang-nam/do-ngu-mac-nha-do-lot-nam",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21454,
+                                "text": "Trang phục bơi nam",
+                                "url_key": "trang-phuc-boi-nam",
+                                "full_url_key": "thoi-trang/thoi-trang-nam/trang-phuc-boi-nam",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21456,
+                                "text": "Túi xách, ví nam",
+                                "url_key": "tui-xach-vi-nam",
+                                "full_url_key": "thoi-trang/thoi-trang-nam/tui-xach-vi-nam",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21458,
+                                "text": "Đồng hồ nam",
+                                "url_key": "dong-ho-nam",
+                                "full_url_key": "thoi-trang/thoi-trang-nam/dong-ho-nam",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21460,
+                                "text": "Mắt kính",
+                                "url_key": "mat-kinh",
+                                "full_url_key": "thoi-trang/thoi-trang-nam/mat-kinh",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 25030,
+                                "text": "Tất Nam",
+                                "url_key": "tat-nam",
+                                "full_url_key": "thoi-trang/thoi-trang-nam/tat-nam",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thoi-trang-nam",
+                        "url_path": "thoi-trang-nam/c21444",
+                        "product_count": 43,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/2c/bc/00/00236a4bbffa0e52c7866fd2b449cc0f.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 21462,
+                        "text": "Thời trang nữ",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 21464,
+                                "text": "Đồ ngủ, đồ mặc nhà, nội y",
+                                "url_key": "do-ngu-do-mac-nha-noi-y",
+                                "full_url_key": "thoi-trang/thoi-trang-nu/do-ngu-do-mac-nha-noi-y",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21466,
+                                "text": "Giày dép nữ",
+                                "url_key": "giay-dep-nu",
+                                "full_url_key": "thoi-trang/thoi-trang-nu/giay-dep-nu",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21468,
+                                "text": "Trang phục nữ",
+                                "url_key": "trang-phuc-nu",
+                                "full_url_key": "thoi-trang/thoi-trang-nu/trang-phuc-nu",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21470,
+                                "text": "Trang phục bơi nữ",
+                                "url_key": "trang-phuc-boi-nu",
+                                "full_url_key": "thoi-trang/thoi-trang-nu/trang-phuc-boi-nu",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21472,
+                                "text": "Mắt kính nữ",
+                                "url_key": "mat-kinh-nu",
+                                "full_url_key": "thoi-trang/thoi-trang-nu/mat-kinh-nu",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21474,
+                                "text": "Đồng hồ nữ",
+                                "url_key": "dong-ho-nu",
+                                "full_url_key": "thoi-trang/thoi-trang-nu/dong-ho-nu",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21476,
+                                "text": "Túi thời trang nữ",
+                                "url_key": "tui-thoi-trang-nu",
+                                "full_url_key": "thoi-trang/thoi-trang-nu/tui-thoi-trang-nu",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 25032,
+                                "text": "Tất Nữ",
+                                "url_key": "tat-nu",
+                                "full_url_key": "thoi-trang/thoi-trang-nu/tat-nu",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thoi-trang-nu",
+                        "url_path": "thoi-trang-nu/c21462",
+                        "product_count": 6,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/f3/3b/b8/ca2f2402c59fe8385837ba049a0f9e2d.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 21488,
+                        "text": "Túi xách và Phụ kiện",
+                        "type": "global",
+                        "children": [
+                            {
+                                "id": 21490,
+                                "text": "Vali",
+                                "url_key": "vali",
+                                "full_url_key": "thoi-trang/tui-xach-va-phu-kien/vali",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21492,
+                                "text": "Túi xách & Balo",
+                                "url_key": "tui-xach-balo",
+                                "full_url_key": "thoi-trang/tui-xach-va-phu-kien/tui-xach-balo",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            },
+                            {
+                                "id": 21494,
+                                "text": "Phụ kiện",
+                                "url_key": "phu-kien",
+                                "full_url_key": "thoi-trang/tui-xach-va-phu-kien/phu-kien",
+                                "include_in_menu": "1",
+                                "type": "global"
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "tui-xach-va-phu-kien",
+                        "url_path": "tui-xach-va-phu-kien/c21488",
+                        "product_count": 30,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bf/1a/27/d584b71e315a35e05c6b9a00e9fa0972.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 21366,
+                        "text": "Giày & trang phục thể thao",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-trang-phuc-the-thao",
+                        "url_path": "giay-trang-phuc-the-thao/c21366",
+                        "product_count": 9,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6e/7f/2c/381f1c8ceb930221068036abc34a8057.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 21496,
+                "parent_id": 17166,
+                "text": "Tivi & Thiết Bị Nghe Nhìn",
+                "type": "global",
+                "url_key": "tivi-thiet-bi-nghe-nhin",
+                "url_path": "tivi-thiet-bi-nghe-nhin/c21496",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 51,
+                "is_leaf": false,
+                "meta_title": "Tivi & Thiết Bị Nghe Nhìn",
+                "meta_description": "Tivi & Thiết Bị Nghe Nhìn",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f9/30/77/1a6d63bc5ca26f327749381317ccf9ff.jpg",
+                "children": [
+                    {
+                        "id": 21504,
+                        "text": "Máy radio cassette",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-radio-cassette",
+                        "url_path": "may-radio-cassette/c21504",
+                        "product_count": 7,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f8/90/67/db3421a6e846e7a887fca0abfcea6c97.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21506,
+                        "text": "Micro",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "micro",
+                        "url_path": "micro/c21506",
+                        "product_count": 18,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f9/30/77/1a6d63bc5ca26f327749381317ccf9ff.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21508,
+                        "text": "Phụ kiện loa âm thanh",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-loa-am-thanh",
+                        "url_path": "phu-kien-loa-am-thanh/c21508",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/be/9d/69/945e2b84a641c058983995d22de7dd1c.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21510,
+                        "text": "Phụ kiện Tivi",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-tivi",
+                        "url_path": "phu-kien-tivi/c21510",
+                        "product_count": 20,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9a/97/2e/4d7242640c761e4e678aefee11595651.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 21514,
+                        "text": "Tivi box, Smart box",
+                        "type": "global",
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tivi-box-smart-box",
+                        "url_path": "tivi-box-smart-box/c21514",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/10/e6/5f/83b4dbd00400644960b57e1806e3d118.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 25036,
+                "parent_id": 17166,
+                "text": "Sản phẩm - thiết bị công nghiệp",
+                "type": "global",
+                "url_key": "san-pham-thiet-bi-cong-nghiep",
+                "url_path": "san-pham-thiet-bi-cong-nghiep/c25036",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1,
+                "is_leaf": true,
+                "meta_title": "Sản phẩm - thiết bị công nghiệp",
+                "meta_description": "Sản phẩm - thiết bị công nghiệp",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/69/71/b8/7e4a688c7934ecca72b48664012e00d0.jpg"
+            }
+        ]
+    }
+]

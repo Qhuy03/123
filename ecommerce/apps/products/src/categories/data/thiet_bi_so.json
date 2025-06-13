@@ -1,0 +1,1982 @@
+[
+    {
+        "text": "Thiết Bị Số - Phụ Kiện Số",
+        "icon_url": "https://salt.tikicdn.com/ts/category/75/34/29/78e428fdd90408587181005f5cc3de32.png",
+        "children": [
+            {
+                "id": 8215,
+                "parent_id": 1815,
+                "text": "Thiết Bị Âm Thanh và Phụ Kiện",
+                "type": null,
+                "url_key": "thiet-bi-am-thanh-va-phu-kien",
+                "url_path": "thiet-bi-am-thanh-va-phu-kien/c8215",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 5697,
+                "is_leaf": false,
+                "meta_title": "Thiết Bị Âm Thanh và Phụ Kiện",
+                "meta_description": "Thiết Bị Âm Thanh và Phụ Kiện",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/82/30/58/31c123cfb46f3e1c6b7a15af20da8670.png",
+                "children": [
+                    {
+                        "id": 1804,
+                        "text": "Tai Nghe Có Dây",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 4428,
+                                "text": "Tai Nghe Có Dây Nhét Tai",
+                                "url_key": "tai-nghe-co-day-nhet-tai",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/tai-nghe-co-day/tai-nghe-co-day-nhet-tai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28638,
+                                "text": "Tai Nghe Có Dây Chụp Tai (On-Ear)",
+                                "url_key": "tai-nghe-co-day-chup-tai-on-ear",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/tai-nghe-co-day/tai-nghe-co-day-chup-tai-on-ear",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2977,
+                                "text": "Tai Nghe Có Dây Chụp Tai (Over-Ear)",
+                                "url_key": "tai-nghe-co-day-chup-tai-over-ear",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/tai-nghe-co-day/tai-nghe-co-day-chup-tai-over-ear",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "tai-nghe-co-day",
+                        "url_path": "tai-nghe-co-day/c1804",
+                        "product_count": 565,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/4f/59/cc/8f28024717003fe76e670cd53cffb7b6.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1811,
+                        "text": "Tai Nghe Bluetooth",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 8400,
+                                "text": "Tai Nghe True Wireless",
+                                "url_key": "tai-nghe-true-wireless",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/tai-nghe-bluetooth/tai-nghe-true-wireless",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 12878,
+                                "text": "Tai Nghe Bluetooth Đàm Thoại",
+                                "url_key": "tai-nghe-bluetooth-dam-thoai",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/tai-nghe-bluetooth/tai-nghe-bluetooth-dam-thoai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5531,
+                                "text": "Tai Nghe Bluetooth Nhét Tai",
+                                "url_key": "tai-nghe-bluetooth-nhet-tai",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/tai-nghe-bluetooth/tai-nghe-bluetooth-nhet-tai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28640,
+                                "text": "Tai Nghe Bluetooth Chụp Tai On-Ear",
+                                "url_key": "tai-nghe-bluetooth-chup-tai-on-ear",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/tai-nghe-bluetooth/tai-nghe-bluetooth-chup-tai-on-ear",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 4429,
+                                "text": "Tai Nghe Bluetooth Chụp Tai Over-Ear",
+                                "url_key": "tai-nghe-bluetooth-chup-tai-over-ear",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/tai-nghe-bluetooth/tai-nghe-bluetooth-chup-tai-over-ear",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "tai-nghe-bluetooth",
+                        "url_path": "tai-nghe-bluetooth/c1811",
+                        "product_count": 760,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/54/a5/26/a75a3b4c6a8353d6f450db6f6b73ea34.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1805,
+                        "text": "Loa Nghe Nhạc",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 2324,
+                                "text": "Loa Bluetooth",
+                                "url_key": "loa-bluetooth",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/loa-nghe-nhac/loa-bluetooth",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 12882,
+                                "text": "Loa Bluetooth Vi Tính",
+                                "url_key": "loa-bluetooth-vi-tinh",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/loa-nghe-nhac/loa-bluetooth-vi-tinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1813,
+                                "text": "Loa Vi Tính",
+                                "url_key": "loa-vi-tinh",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/loa-nghe-nhac/loa-vi-tinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 6653,
+                                "text": "Loa Hi-Fi - Audiophiles",
+                                "url_key": "loa-hi-fi-audiophiles",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/loa-nghe-nhac/loa-hi-fi-audiophiles",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8066,
+                                "text": "Loa Kéo",
+                                "url_key": "loa-keo",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/loa-nghe-nhac/loa-keo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 20190,
+                                "text": "Loa Trợ Giảng",
+                                "url_key": "loa-tro-giang",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/loa-nghe-nhac/loa-tro-giang",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "loa-nghe-nhac",
+                        "url_path": "loa-nghe-nhac/c1805",
+                        "product_count": 1389,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/f1/42/bf/a954a9b206ca40f93b503da6d1579b8b.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 28642,
+                        "text": "Micro",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28644,
+                                "text": "Microphone Di Động",
+                                "url_key": "microphone-di-dong",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/micro/microphone-di-dong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28646,
+                                "text": "Microphone Vi Tính",
+                                "url_key": "microphone-vi-tinh",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/micro/microphone-vi-tinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 7081,
+                                "text": "Micro Karaoke Bluetooth",
+                                "url_key": "micro-karaoke-bluetooth",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/micro/micro-karaoke-bluetooth",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "micro",
+                        "url_path": "micro/c28642",
+                        "product_count": 415,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/8f/79/bd/d309d4c076d85657b2d18b1e418ee0ee.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 20170,
+                        "text": "DAC và Amplifier Di Động",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dac-va-amplifier-di-dong",
+                        "url_path": "dac-va-amplifier-di-dong/c20170",
+                        "product_count": 75,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/21/b5/d3/ec5045ca1ed570806fd49547cf1a4b9e.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28656,
+                        "text": "Máy Thu và Máy Phát Âm Thanh",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 20172,
+                                "text": "Máy Ghi Âm",
+                                "url_key": "may-ghi-am",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/may-thu-va-may-phat-am-thanh/may-ghi-am",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1803,
+                                "text": "Máy Nghe Nhạc",
+                                "url_key": "may-nghe-nhac",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/may-thu-va-may-phat-am-thanh/may-nghe-nhac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-thu-va-may-phat-am-thanh",
+                        "url_path": "may-thu-va-may-phat-am-thanh/c28656",
+                        "product_count": 179,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7f/17/08/a86d648d7bf5fe1ba3887d3cb45804a0.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 30374,
+                        "text": "Thiết Bị Âm Thanh",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 20174,
+                                "text": "Cáp Âm Thanh",
+                                "url_key": "cap-am-thanh",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/thiet-bi-am-thanh/cap-am-thanh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28658,
+                                "text": "Đệm và Nút Tai Nghe",
+                                "url_key": "dem-va-nut-tai-nghe",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/thiet-bi-am-thanh/dem-va-nut-tai-nghe",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 20182,
+                                "text": "Bộ Chuyển Đổi Không Dây",
+                                "url_key": "bo-chuyen-doi-khong-day",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/thiet-bi-am-thanh/bo-chuyen-doi-khong-day",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5566,
+                                "text": "Phụ Kiện Âm Thanh",
+                                "url_key": "phu-kien-am-thanh",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/thiet-bi-am-thanh/phu-kien-am-thanh",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-am-thanh",
+                        "url_path": "thiet-bi-am-thanh/c30374",
+                        "product_count": 1101,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d0/4d/cf/616ef51059a30c03a58e6851753c76ef.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 28858,
+                        "text": "Thiết bị phát Streaming",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-phat-streaming",
+                        "url_path": "thiet-bi-phat-streaming/c28858",
+                        "product_count": 57,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1e/2f/7b/4ec15d8cf77d9819374d1b9906638366.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 7078,
+                        "text": "Máy radio cassette",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-radio-cassette",
+                        "url_path": "may-radio-cassette/c7078",
+                        "product_count": 97,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 7079,
+                        "text": "Receivers, Amplifier, Mixer",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "receivers-amplifier-mixer",
+                        "url_path": "receivers-amplifier-mixer/c7079",
+                        "product_count": 200,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/2d/ce/99/556bd890970a5d3b72819cef3fa066ee.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 26652,
+                        "text": "Micro Karaoke - sân khấu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "micro-karaoke-san-khau",
+                        "url_path": "micro-karaoke-san-khau/c26652",
+                        "product_count": 288,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cb/73/8a/9a984da11f1bbf419a446d6b15610dba.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28872,
+                        "text": "Bộ giải mã âm thanh DAC",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-giai-ma-am-thanh-dac",
+                        "url_path": "bo-giai-ma-am-thanh-dac/c28872",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6d/4b/d5/5e50dc2124527b9026376ee075b10d4a.jpeg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8068,
+                        "text": "Phụ kiện âm thanh",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 8070,
+                                "text": "Giá treo loa",
+                                "url_key": "gia-treo-loa",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/phu-kien-am-thanh/gia-treo-loa",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 26658,
+                                "text": "Cáp loa, đầu chuyển",
+                                "url_key": "cap-loa-dau-chuyen",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/phu-kien-am-thanh/cap-loa-dau-chuyen",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8073,
+                                "text": "Phụ kiện âm thanh khác",
+                                "url_key": "phu-kien-am-thanh-khac",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/phu-kien-am-thanh/phu-kien-am-thanh-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-am-thanh",
+                        "url_path": "phu-kien-am-thanh/c8068",
+                        "product_count": 158,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/76/7e/50/ed5ccb6ce18f622181eb233855ee7ac1.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 7077,
+                        "text": "Đầu CD, DVD, karaoke, Blu-ray",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28874,
+                                "text": "Đầu ghi phát CD",
+                                "url_key": "dau-ghi-phat-cd",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/dau-cd-dvd-karaoke-blu-ray/dau-ghi-phat-cd",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28876,
+                                "text": "Đầu ghi phát DVD, Blu-ray",
+                                "url_key": "dau-ghi-phat-dvd-blu-ray",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/dau-cd-dvd-karaoke-blu-ray/dau-ghi-phat-dvd-blu-ray",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28878,
+                                "text": "Đầu phát karaoke",
+                                "url_key": "dau-phat-karaoke",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/dau-cd-dvd-karaoke-blu-ray/dau-phat-karaoke",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dau-cd-dvd-karaoke-blu-ray",
+                        "url_path": "dau-cd-dvd-karaoke-blu-ray/c7077",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/50/65/39/1225c533635e6dfed9c135c8b53a001d.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 4966,
+                        "text": "Dàn âm thanh ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28868,
+                                "text": "Dàn âm thanh giải trí tại gia",
+                                "url_key": "dan-am-thanh-giai-tri-tai-gia",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/dan-am-thanh/dan-am-thanh-giai-tri-tai-gia",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28870,
+                                "text": "Dàn Karaoke",
+                                "url_key": "dan-karaoke",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/dan-am-thanh/dan-karaoke",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dan-am-thanh",
+                        "url_path": "dan-am-thanh/c4966",
+                        "product_count": 17,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/34/3e/68/3cc94ec877a4f8de8164cd1a5d0610b7.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 7075,
+                        "text": "Loa",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 8064,
+                                "text": "Loa thùng, loa vệ tinh",
+                                "url_key": "loa-thung-loa-ve-tinh",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/loa/loa-thung-loa-ve-tinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8067,
+                                "text": "Loa thanh, Soundbar",
+                                "url_key": "loa-thanh-soundbar",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/loa/loa-thanh-soundbar",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11516,
+                                "text": "Loa karaoke",
+                                "url_key": "loa-karaoke",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/loa/loa-karaoke",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11518,
+                                "text": "Loa Bookshelf",
+                                "url_key": "loa-bookshelf",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/loa/loa-bookshelf",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28860,
+                                "text": "Loa Sub, siêu trầm",
+                                "url_key": "loa-sub-sieu-tram",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/loa/loa-sub-sieu-tram",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28862,
+                                "text": "Loa sân khấu, ngoài trời",
+                                "url_key": "loa-san-khau-ngoai-troi",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/loa/loa-san-khau-ngoai-troi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28866,
+                                "text": "Loa âm trần - âm tường",
+                                "url_key": "loa-am-tran-am-tuong",
+                                "full_url_key": "thiet-bi-am-thanh-va-phu-kien/loa/loa-am-tran-am-tuong",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "loa",
+                        "url_path": "loa/c7075",
+                        "product_count": 426,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/39/cd/ef/f16b366ceb94c7c390e66e94ab7d443c.png",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 2667,
+                "parent_id": 1815,
+                "text": "Thiết Bị Chơi Game và Phụ Kiện",
+                "type": null,
+                "url_key": "thiet-bi-choi-game-va-phu-kien",
+                "url_path": "thiet-bi-choi-game-va-phu-kien/c2667",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 409,
+                "is_leaf": false,
+                "meta_title": "Thiết Bị Chơi Game và Phụ Kiện",
+                "meta_description": "Thiết Bị Chơi Game và Phụ Kiện",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/a2/f4/ca/a408a504d25bae20629423fa3c67d3d1.png",
+                "children": [
+                    {
+                        "id": 12676,
+                        "text": "Đĩa Game",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dia-game",
+                        "url_path": "dia-game/c12676",
+                        "product_count": 222,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d9/a4/29/3aa0d30c6438f418854a75ea33a3cf7e.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 7273,
+                        "text": "Ghế Gaming",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ghe-gaming",
+                        "url_path": "ghe-gaming/c7273",
+                        "product_count": 24,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8251,
+                        "text": "Máy Chơi Game - Console",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28392,
+                                "text": "PlayStation",
+                                "url_key": "playstation",
+                                "full_url_key": "thiet-bi-choi-game-va-phu-kien/may-choi-game-console/playstation",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28394,
+                                "text": "Xbox",
+                                "url_key": "xbox",
+                                "full_url_key": "thiet-bi-choi-game-va-phu-kien/may-choi-game-console/xbox",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28396,
+                                "text": "Nintendo",
+                                "url_key": "nintendo",
+                                "full_url_key": "thiet-bi-choi-game-va-phu-kien/may-choi-game-console/nintendo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28398,
+                                "text": "Máy Chơi Game Khác",
+                                "url_key": "may-choi-game-khac",
+                                "full_url_key": "thiet-bi-choi-game-va-phu-kien/may-choi-game-console/may-choi-game-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-choi-game-console",
+                        "url_path": "may-choi-game-console/c8251",
+                        "product_count": 32,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/89/4c/2c/a84dc79014bf79941928c4bf423606a2.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 6742,
+                        "text": "Phụ Kiện Gaming",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-gaming",
+                        "url_path": "phu-kien-gaming/c6742",
+                        "product_count": 93,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/14/41/ee/4d43a0a54f2768ae84c77b26e68eca3e.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 9013,
+                        "text": "Tay Bấm Game - Thiết Bị Điều Khiển",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67167,
+                                "text": "Thiết bị điều khiển",
+                                "url_key": "thiet-bi-dieu-khien",
+                                "full_url_key": "thiet-bi-choi-game-va-phu-kien/tay-bam-game-thiet-bi-dieu-khien/thiet-bi-dieu-khien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67169,
+                                "text": "Tay bấm",
+                                "url_key": "tay-bam",
+                                "full_url_key": "thiet-bi-choi-game-va-phu-kien/tay-bam-game-thiet-bi-dieu-khien/tay-bam",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "tay-bam-game-thiet-bi-dieu-khien",
+                        "url_path": "tay-bam-game-thiet-bi-dieu-khien/c9013",
+                        "product_count": 65,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 8039,
+                "parent_id": 1815,
+                "text": "Thiết Bị Đeo Thông Minh và Phụ Kiện",
+                "type": null,
+                "url_key": "thiet-bi-deo-thong-minh-va-phu-kien",
+                "url_path": "thiet-bi-deo-thong-minh-va-phu-kien/c8039",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1103,
+                "is_leaf": false,
+                "meta_title": "Thiết Bị Đeo Thông Minh và Phụ Kiện",
+                "meta_description": "Thiết Bị Đeo Thông Minh và Phụ Kiện",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/87/2e/11/79d32ab8545636bb7bd293cb0c149135.png",
+                "children": [
+                    {
+                        "id": 8042,
+                        "text": "Thiết Bị Thực Tế Ảo VR",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67163,
+                                "text": "Phụ kiện VR",
+                                "url_key": "phu-kien-vr",
+                                "full_url_key": "thiet-bi-deo-thong-minh-va-phu-kien/thiet-bi-thuc-te-ao-vr/phu-kien-vr",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-thuc-te-ao-vr",
+                        "url_path": "thiet-bi-thuc-te-ao-vr/c8042",
+                        "product_count": 26,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9c/86/8d/c1571b8d4703a8adf95497c186738f91.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2657,
+                        "text": "Đồng Hồ Thông Minh",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dong-ho-thong-minh",
+                        "url_path": "dong-ho-thong-minh/c2657",
+                        "product_count": 175,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/87/ae/f8/467b2f45bb433f24ef8262a063feef87.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8043,
+                        "text": "Vòng Đeo Thông Minh - Vòng Theo Dõi Vận Động",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "vong-deo-thong-minh-vong-theo-doi-van-dong",
+                        "url_path": "vong-deo-thong-minh-vong-theo-doi-van-dong/c8043",
+                        "product_count": 22,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28420,
+                        "text": "Phụ Kiện Thiết Bị Đeo Thông Minh",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28426,
+                                "text": "Miếng dán màn hình thiết bị đeo thông minh",
+                                "url_key": "mieng-dan-man-hinh-thiet-bi-deo-thong-minh",
+                                "full_url_key": "thiet-bi-deo-thong-minh-va-phu-kien/phu-kien-thiet-bi-deo-thong-minh/mieng-dan-man-hinh-thiet-bi-deo-thong-minh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28428,
+                                "text": "Dây Đeo Thay Thế, Phụ Trợ - Phụ Kiện Khác",
+                                "url_key": "day-deo-thay-the-phu-tro-phu-kien-khac",
+                                "full_url_key": "thiet-bi-deo-thong-minh-va-phu-kien/phu-kien-thiet-bi-deo-thong-minh/day-deo-thay-the-phu-tro-phu-kien-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28430,
+                                "text": "Adapter Sạc - Cáp Sạc Cho Thiết Bị Đeo",
+                                "url_key": "adapter-sac-cap-sac-cho-thiet-bi-deo",
+                                "full_url_key": "thiet-bi-deo-thong-minh-va-phu-kien/phu-kien-thiet-bi-deo-thong-minh/adapter-sac-cap-sac-cho-thiet-bi-deo",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-thiet-bi-deo-thong-minh",
+                        "url_path": "phu-kien-thiet-bi-deo-thong-minh/c28420",
+                        "product_count": 880,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/12/61/d6/58326a59ecfb04ebab8a857f214e039e.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 28432,
+                "parent_id": 1815,
+                "text": "Thiết Bị Thông Minh và Linh Kiện Điện Tử",
+                "type": null,
+                "url_key": "thiet-bi-thong-minh-va-linh-kien-dien-tu",
+                "url_path": "thiet-bi-thong-minh-va-linh-kien-dien-tu/c28432",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1302,
+                "is_leaf": false,
+                "meta_title": "Thiết Bị Thông Minh và Linh Kiện Điện Tử",
+                "meta_description": "Thiết Bị Thông Minh và Linh Kiện Điện Tử",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/49/25/75/ed6dee27faddcf8b461bd7800472ca35.jpg",
+                "children": [
+                    {
+                        "id": 28436,
+                        "text": "Thiết Bị Số - Thiết Bị Thông Minh",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 8044,
+                                "text": "Máy Bộ Đàm",
+                                "url_key": "may-bo-dam",
+                                "full_url_key": "thiet-bi-thong-minh-va-linh-kien-dien-tu/thiet-bi-so-thiet-bi-thong-minh/may-bo-dam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 12864,
+                                "text": "Thiết Bị Nhà Thông Minh",
+                                "url_key": "thiet-bi-nha-thong-minh",
+                                "full_url_key": "thiet-bi-thong-minh-va-linh-kien-dien-tu/thiet-bi-so-thiet-bi-thong-minh/thiet-bi-nha-thong-minh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28444,
+                                "text": "Thiết Bị Định Vị GPS",
+                                "url_key": "thiet-bi-dinh-vi-gps",
+                                "full_url_key": "thiet-bi-thong-minh-va-linh-kien-dien-tu/thiet-bi-so-thiet-bi-thong-minh/thiet-bi-dinh-vi-gps",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28446,
+                                "text": "Kim Từ Điển và Các Loại Máy Thông Dịch",
+                                "url_key": "kim-tu-dien-va-cac-loai-may-thong-dich",
+                                "full_url_key": "thiet-bi-thong-minh-va-linh-kien-dien-tu/thiet-bi-so-thiet-bi-thong-minh/kim-tu-dien-va-cac-loai-may-thong-dich",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 10413,
+                                "text": "Đồ Chơi Công Nghệ - Thiết Bị Số và Phụ Kiện Số Khác",
+                                "url_key": "do-choi-cong-nghe-thiet-bi-so-va-phu-kien-so-khac",
+                                "full_url_key": "thiet-bi-thong-minh-va-linh-kien-dien-tu/thiet-bi-so-thiet-bi-thong-minh/do-choi-cong-nghe-thiet-bi-so-va-phu-kien-so-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-so-thiet-bi-thong-minh",
+                        "url_path": "thiet-bi-so-thiet-bi-thong-minh/c28436",
+                        "product_count": 876,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6f/d6/3d/e5eaca6868a05891f98e04cb5b99ca51.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 20246,
+                        "text": "Mạch Điện Lập Trình và Linh Kiện Điện Tử",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 20248,
+                                "text": "Máy Tính Nhúng - Kit Phát Triển",
+                                "url_key": "may-tinh-nhung-kit-phat-trien",
+                                "full_url_key": "thiet-bi-thong-minh-va-linh-kien-dien-tu/mach-dien-lap-trinh-va-linh-kien-dien-tu/may-tinh-nhung-kit-phat-trien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 20250,
+                                "text": "Các Module Tích Hợp",
+                                "url_key": "cac-module-tich-hop",
+                                "full_url_key": "thiet-bi-thong-minh-va-linh-kien-dien-tu/mach-dien-lap-trinh-va-linh-kien-dien-tu/cac-module-tich-hop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 20252,
+                                "text": "Cảm Biến",
+                                "url_key": "cam-bien",
+                                "full_url_key": "thiet-bi-thong-minh-va-linh-kien-dien-tu/mach-dien-lap-trinh-va-linh-kien-dien-tu/cam-bien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 20254,
+                                "text": "Linh Kiện và Các Phần Cứng Khác",
+                                "url_key": "linh-kien-va-cac-phan-cung-khac",
+                                "full_url_key": "thiet-bi-thong-minh-va-linh-kien-dien-tu/mach-dien-lap-trinh-va-linh-kien-dien-tu/linh-kien-va-cac-phan-cung-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 20256,
+                                "text": "Thiết Bị Robot",
+                                "url_key": "thiet-bi-robot",
+                                "full_url_key": "thiet-bi-thong-minh-va-linh-kien-dien-tu/mach-dien-lap-trinh-va-linh-kien-dien-tu/thiet-bi-robot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 20258,
+                                "text": "Phụ Kiện và Dụng Cụ Khác",
+                                "url_key": "phu-kien-va-dung-cu-khac",
+                                "full_url_key": "thiet-bi-thong-minh-va-linh-kien-dien-tu/mach-dien-lap-trinh-va-linh-kien-dien-tu/phu-kien-va-dung-cu-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28434,
+                                "text": "Dây, Cáp Nối và Adapter Nguồn",
+                                "url_key": "day-cap-noi-va-adapter-nguon",
+                                "full_url_key": "thiet-bi-thong-minh-va-linh-kien-dien-tu/mach-dien-lap-trinh-va-linh-kien-dien-tu/day-cap-noi-va-adapter-nguon",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "mach-dien-lap-trinh-va-linh-kien-dien-tu",
+                        "url_path": "mach-dien-lap-trinh-va-linh-kien-dien-tu/c20246",
+                        "product_count": 426,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/49/25/75/ed6dee27faddcf8b461bd7800472ca35.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 8214,
+                "parent_id": 1815,
+                "text": "Phụ Kiện Điện Thoại và Máy Tính Bảng",
+                "type": null,
+                "url_key": "phu-kien-dien-thoai-va-may-tinh-bang",
+                "url_path": "phu-kien-dien-thoai-va-may-tinh-bang/c8214",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 10000,
+                "is_leaf": false,
+                "meta_title": "Phụ Kiện Điện Thoại và Máy Tính Bảng",
+                "meta_description": "Phụ Kiện Điện Thoại và Máy Tính Bảng",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/84/dd/fe/87c6c9fcfac09ce59881fe6d8c40e29d.jpg",
+                "children": [
+                    {
+                        "id": 28448,
+                        "text": "Thẻ Nhớ và Bộ Nhớ Mở Rộng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 1820,
+                                "text": "Thẻ Nhớ Điện Thoại",
+                                "url_key": "the-nho-dien-thoai",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/the-nho-va-bo-nho-mo-rong/the-nho-dien-thoai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2173,
+                                "text": "USB OTG",
+                                "url_key": "usb-otg",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/the-nho-va-bo-nho-mo-rong/usb-otg",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "the-nho-va-bo-nho-mo-rong",
+                        "url_path": "the-nho-va-bo-nho-mo-rong/c28448",
+                        "product_count": 236,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/84/dd/fe/87c6c9fcfac09ce59881fe6d8c40e29d.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 10691,
+                        "text": "SIM Điện Thoại",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28450,
+                                "text": "SIM số",
+                                "url_key": "sim-so",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/sim-dien-thoai/sim-so",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28452,
+                                "text": "SIM Data - SIM 3G / 4G",
+                                "url_key": "sim-data-sim-3g-4g",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/sim-dien-thoai/sim-data-sim-3g-4g",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "sim-dien-thoai",
+                        "url_path": "sim-dien-thoai/c10691",
+                        "product_count": 256,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/40/f6/d6/e73b2e8ce437ccab57468614d1571e1a.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1821,
+                        "text": "Pin Sạc Dự Phòng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28454,
+                                "text": "Pin Sạc Dự Phòng Di Động",
+                                "url_key": "pin-sac-du-phong-di-dong",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/pin-sac-du-phong/pin-sac-du-phong-di-dong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28456,
+                                "text": "Pin Sạc Dự Phòng Ốp Lưng",
+                                "url_key": "pin-sac-du-phong-op-lung",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/pin-sac-du-phong/pin-sac-du-phong-op-lung",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "pin-sac-du-phong",
+                        "url_path": "pin-sac-du-phong/c1821",
+                        "product_count": 546,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/40/41/a0/9b62f5c6ce53169730b209572341bd01.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1823,
+                        "text": "Dây Sạc - Dây Cáp",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 5006,
+                                "text": "Dây Cáp Sạc iPhone, iPad",
+                                "url_key": "day-cap-sac-iphone-ipad",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/day-sac-day-cap/day-cap-sac-iphone-ipad",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5007,
+                                "text": "Dây Cáp Sạc Micro USB",
+                                "url_key": "day-cap-sac-micro-usb",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/day-sac-day-cap/day-cap-sac-micro-usb",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 12294,
+                                "text": "Dây Cáp Sạc USB Type-C",
+                                "url_key": "day-cap-sac-usb-type-c",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/day-sac-day-cap/day-cap-sac-usb-type-c",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28458,
+                                "text": "Dây Cáp Sạc Đa Năng",
+                                "url_key": "day-cap-sac-da-nang",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/day-sac-day-cap/day-cap-sac-da-nang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 3805,
+                                "text": "Các Loại Cáp Khác",
+                                "url_key": "cac-loai-cap-khac",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/day-sac-day-cap/cac-loai-cap-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "day-sac-day-cap",
+                        "url_path": "day-sac-day-cap/c1823",
+                        "product_count": 1486,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/57/88/36/ae9f84e670b5d5e45ff06a074c798ac2.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 3803,
+                        "text": "Adapter - Củ Sạc",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 12908,
+                                "text": "Adapter Sạc - Củ Sạc Thường",
+                                "url_key": "adapter-sac-cu-sac-thuong",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/adapter-cu-sac/adapter-sac-cu-sac-thuong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 12918,
+                                "text": "Adapter Sạc - Củ Sạc Xe Hơi",
+                                "url_key": "adapter-sac-cu-sac-xe-hoi",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/adapter-cu-sac/adapter-sac-cu-sac-xe-hoi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 12928,
+                                "text": "Đế Sạc Không Dây",
+                                "url_key": "de-sac-khong-day",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/adapter-cu-sac/de-sac-khong-day",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28460,
+                                "text": "Bộ Adapter Sạc Kèm Cáp Sạc",
+                                "url_key": "bo-adapter-sac-kem-cap-sac",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/adapter-cu-sac/bo-adapter-sac-kem-cap-sac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "adapter-cu-sac",
+                        "url_path": "adapter-cu-sac/c3803",
+                        "product_count": 1544,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/37/bb/903f9521c377c32546240b617410d728.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 20234,
+                        "text": "Linh Kiện Thay Thế",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28462,
+                                "text": "Màn Hình Thay Thế",
+                                "url_key": "man-hinh-thay-the",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/linh-kien-thay-the/man-hinh-thay-the",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28464,
+                                "text": "Pin Thay Thế",
+                                "url_key": "pin-thay-the",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/linh-kien-thay-the/pin-thay-the",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28466,
+                                "text": "Vỏ - Case Thay Thế",
+                                "url_key": "vo-case-thay-the",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/linh-kien-thay-the/vo-case-thay-the",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28468,
+                                "text": "Linh Kiện Thay Thế Khác",
+                                "url_key": "linh-kien-thay-the-khac",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/linh-kien-thay-the/linh-kien-thay-the-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "linh-kien-thay-the",
+                        "url_path": "linh-kien-thay-the/c20234",
+                        "product_count": 36,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/12/29/52/d3c0c45e76692925167a48867d23a11b.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 20242,
+                        "text": "Dụng Cụ Sửa Chữa và Vệ Sinh",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28470,
+                                "text": "Dụng cụ vệ sinh điện thoại và máy tính bảng",
+                                "url_key": "dung-cu-ve-sinh-dien-thoai-va-may-tinh-bang",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/dung-cu-sua-chua-va-ve-sinh/dung-cu-ve-sinh-dien-thoai-va-may-tinh-bang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28472,
+                                "text": "Dụng cụ sửa chữa điện thoại và máy tính bảng",
+                                "url_key": "dung-cu-sua-chua-dien-thoai-va-may-tinh-bang",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/dung-cu-sua-chua-va-ve-sinh/dung-cu-sua-chua-dien-thoai-va-may-tinh-bang",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-sua-chua-va-ve-sinh",
+                        "url_path": "dung-cu-sua-chua-va-ve-sinh/c20242",
+                        "product_count": 28,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b0/b5/ce/a9dd344f9356606e7ac22c730d46664a.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 20220,
+                        "text": "Giá Đỡ - Chân Đế - Móc Dán",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28478,
+                                "text": "Móc Dán Đỡ Điện Thoại",
+                                "url_key": "moc-dan-do-dien-thoai",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/gia-do-chan-de-moc-dan/moc-dan-do-dien-thoai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28480,
+                                "text": "Giá Đỡ - Chân Đế Thường",
+                                "url_key": "gia-do-chan-de-thuong",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/gia-do-chan-de-moc-dan/gia-do-chan-de-thuong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28482,
+                                "text": "Giá Đỡ - Chân Đế Gắn Ô Tô, Xe Máy",
+                                "url_key": "gia-do-chan-de-gan-o-to-xe-may",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/gia-do-chan-de-moc-dan/gia-do-chan-de-gan-o-to-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "gia-do-chan-de-moc-dan",
+                        "url_path": "gia-do-chan-de-moc-dan/c20220",
+                        "product_count": 903,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 20236,
+                        "text": "Túi Bảo Vệ - Túi Chống Nước",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-bao-ve-tui-chong-nuoc",
+                        "url_path": "tui-bao-ve-tui-chong-nuoc/c20236",
+                        "product_count": 59,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/53/0c/40/ff563dd2b3d49320d41e76f1878a05b9.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 20244,
+                        "text": "Hộp Đựng - Túi Đựng Phụ Kiện",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "hop-dung-tui-dung-phu-kien",
+                        "url_path": "hop-dung-tui-dung-phu-kien/c20244",
+                        "product_count": 698,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/88/56/75/980a5f2eccaaf9e2c46f3895ab694692.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 20240,
+                        "text": "Vòng Đeo - Đai Đeo",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "vong-deo-dai-deo",
+                        "url_path": "vong-deo-dai-deo/c20240",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/11/d1/b3/586d9bddfa80d4272d94743118f6a78d.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 20222,
+                        "text": "Dây Đeo và Phụ Kiện Trang Trí",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "day-deo-va-phu-kien-trang-tri",
+                        "url_path": "day-deo-va-phu-kien-trang-tri/c20222",
+                        "product_count": 44,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/88/4d/2e/74a24db6ba90e8e91b2ce722a4f1d4b4.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1824,
+                        "text": "Miếng dán màn hình",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28484,
+                                "text": "Miếng Dán Màn Hình Điện Thoại",
+                                "url_key": "mieng-dan-man-hinh-dien-thoai",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/mieng-dan-man-hinh/mieng-dan-man-hinh-dien-thoai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28486,
+                                "text": "Miếng Dán Thiết Bị Di Động Khác",
+                                "url_key": "mieng-dan-thiet-bi-di-dong-khac",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/mieng-dan-man-hinh/mieng-dan-thiet-bi-di-dong-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "mieng-dan-man-hinh",
+                        "url_path": "mieng-dan-man-hinh/c1824",
+                        "product_count": 2700,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/22/55/1a/0949881880c436b02242130850a22556.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1822,
+                        "text": "Bao Da - Ốp Lưng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28574,
+                                "text": "Bao Da - Ốp Lưng Điện Thoại iPhone",
+                                "url_key": "bao-da-op-lung-dien-thoai-iphone",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/bao-da-op-lung/bao-da-op-lung-dien-thoai-iphone",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28576,
+                                "text": "Bao Da - Ốp Lưng Điện Thoại Samsung",
+                                "url_key": "bao-da-op-lung-dien-thoai-samsung",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/bao-da-op-lung/bao-da-op-lung-dien-thoai-samsung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28578,
+                                "text": "Bao Da - Ốp Lưng Điện Thoại Xiaomi",
+                                "url_key": "bao-da-op-lung-dien-thoai-xiaomi",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/bao-da-op-lung/bao-da-op-lung-dien-thoai-xiaomi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28580,
+                                "text": "Bao Da - Ốp Lưng Điện Thoại Oppo",
+                                "url_key": "bao-da-op-lung-dien-thoai-oppo",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/bao-da-op-lung/bao-da-op-lung-dien-thoai-oppo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28582,
+                                "text": "Bao Da - Ốp Lưng Điện Thoại Asus",
+                                "url_key": "bao-da-op-lung-dien-thoai-asus",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/bao-da-op-lung/bao-da-op-lung-dien-thoai-asus",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28584,
+                                "text": "Bao Da - Ốp Lưng Điện Thoại Huawei",
+                                "url_key": "bao-da-op-lung-dien-thoai-huawei",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/bao-da-op-lung/bao-da-op-lung-dien-thoai-huawei",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28586,
+                                "text": "Bao Da - Ốp Lưng Điện Thoại Nokia",
+                                "url_key": "bao-da-op-lung-dien-thoai-nokia",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/bao-da-op-lung/bao-da-op-lung-dien-thoai-nokia",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28588,
+                                "text": "Bao Da - Ốp Lưng Điện Thoại Vivo",
+                                "url_key": "bao-da-op-lung-dien-thoai-vivo",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/bao-da-op-lung/bao-da-op-lung-dien-thoai-vivo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28590,
+                                "text": "Bao Da - Ốp Lưng Điện Thoại Honor",
+                                "url_key": "bao-da-op-lung-dien-thoai-honor",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/bao-da-op-lung/bao-da-op-lung-dien-thoai-honor",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28592,
+                                "text": "Bao Da - Ốp Lưng Điện Thoại Sony",
+                                "url_key": "bao-da-op-lung-dien-thoai-sony",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/bao-da-op-lung/bao-da-op-lung-dien-thoai-sony",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28594,
+                                "text": "Bao Da - Ốp Lưng Điện Thoại Khác",
+                                "url_key": "bao-da-op-lung-dien-thoai-khac",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/bao-da-op-lung/bao-da-op-lung-dien-thoai-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28596,
+                                "text": "Bao Da - Ốp Lưng iPad",
+                                "url_key": "bao-da-op-lung-ipad",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/bao-da-op-lung/bao-da-op-lung-ipad",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28598,
+                                "text": "Bao Da - Ốp Lưng Máy Tính Bảng Khác",
+                                "url_key": "bao-da-op-lung-may-tinh-bang-khac",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/bao-da-op-lung/bao-da-op-lung-may-tinh-bang-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "bao-da-op-lung",
+                        "url_path": "bao-da-op-lung/c1822",
+                        "product_count": 10000,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5c/2e/47/e82393743024ffb11c95874d786e1d20.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 20238,
+                        "text": "Bàn Phím Rời - Bút Cảm Ứng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28616,
+                                "text": "Bút Cảm Ứng",
+                                "url_key": "but-cam-ung",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/ban-phim-roi-but-cam-ung/but-cam-ung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28618,
+                                "text": "Bàn Phím Rời - Ốp Tích Hợp Bàn Phím",
+                                "url_key": "ban-phim-roi-op-tich-hop-ban-phim",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/ban-phim-roi-but-cam-ung/ban-phim-roi-op-tich-hop-ban-phim",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ban-phim-roi-but-cam-ung",
+                        "url_path": "ban-phim-roi-but-cam-ung/c20238",
+                        "product_count": 192,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fa/ac/98/d1a0754665bc908dd56d8e0006e0e576.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 28620,
+                        "text": "Phụ Kiện Chụp Hình",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 2659,
+                                "text": "Gậy Tự Sướng - Selfie",
+                                "url_key": "gay-tu-suong-selfie",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/phu-kien-chup-hinh/gay-tu-suong-selfie",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 20212,
+                                "text": "Lens Cho Điện Thoại",
+                                "url_key": "lens-cho-dien-thoai",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/phu-kien-chup-hinh/lens-cho-dien-thoai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28622,
+                                "text": "Đèn Flash Selfie - Flash Mini",
+                                "url_key": "den-flash-selfie-flash-mini",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/phu-kien-chup-hinh/den-flash-selfie-flash-mini",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-chup-hinh",
+                        "url_path": "phu-kien-chup-hinh/c28620",
+                        "product_count": 110,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/56/b4/8d/4c3d74e89e23c11512faae01092d84cc.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 28624,
+                        "text": "Phụ Kiện Chơi Game",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28626,
+                                "text": "Nút Bấm Chơi Game Điện Thoại",
+                                "url_key": "nut-bam-choi-game-dien-thoai",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/phu-kien-choi-game/nut-bam-choi-game-dien-thoai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28628,
+                                "text": "Tay Cầm Chơi Game Điện Thoại",
+                                "url_key": "tay-cam-choi-game-dien-thoai",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/phu-kien-choi-game/tay-cam-choi-game-dien-thoai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28630,
+                                "text": "Phụ Kiện Chơi Game Điện Thoại Khác",
+                                "url_key": "phu-kien-choi-game-dien-thoai-khac",
+                                "full_url_key": "phu-kien-dien-thoai-va-may-tinh-bang/phu-kien-choi-game/phu-kien-choi-game-dien-thoai-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-choi-game",
+                        "url_path": "phu-kien-choi-game/c28624",
+                        "product_count": 53,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/1/_/1.u3059.d20170910.t142924.887341.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1819,
+                        "text": "Phụ Kiện Di Động Khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-di-dong-khac",
+                        "url_path": "phu-kien-di-dong-khac/c1819",
+                        "product_count": 274,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d6/7b/58/f398af9635cedb926a9ba3fb0b257ccb.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 69243,
+                        "text": "Miếng dán màn hình điện thoại và máy tính bảng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "mieng-dan-man-hinh-dien-thoai-va-may-tinh-bang",
+                        "url_path": "mieng-dan-man-hinh-dien-thoai-va-may-tinh-bang/c69243",
+                        "product_count": 45,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bb/46/a4/90c7e26168e37abe0e337d4422d3f454.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 28670,
+                "parent_id": 1815,
+                "text": "Phụ kiện máy tính và Laptop",
+                "type": null,
+                "url_key": "phu-kien-may-tinh-va-laptop",
+                "url_path": "phu-kien-may-tinh-va-laptop/c28670",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 8027,
+                "is_leaf": false,
+                "meta_title": "Phụ kiện máy tính và Laptop",
+                "meta_description": "Phụ kiện máy tính và Laptop",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5f/39/ef/cfead09506816c8a869d96fc16c173a9.jpg",
+                "children": [
+                    {
+                        "id": 28672,
+                        "text": "Dụng Cụ Vệ Sinh và Sửa Chữa",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28674,
+                                "text": "Dụng cụ vệ sinh máy tính và laptop",
+                                "url_key": "dung-cu-ve-sinh-may-tinh-va-laptop",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/dung-cu-ve-sinh-va-sua-chua/dung-cu-ve-sinh-may-tinh-va-laptop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28676,
+                                "text": "Dụng cụ sửa chữa máy tính và laptop",
+                                "url_key": "dung-cu-sua-chua-may-tinh-va-laptop",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/dung-cu-ve-sinh-va-sua-chua/dung-cu-sua-chua-may-tinh-va-laptop",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-ve-sinh-va-sua-chua",
+                        "url_path": "dung-cu-ve-sinh-va-sua-chua/c28672",
+                        "product_count": 88,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4a/97/78/dc35242d0d79d1d94c28859131a90ade.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 7795,
+                        "text": "Phụ Kiện Laptop",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28678,
+                                "text": "Dây Chống Trộm Laptop",
+                                "url_key": "day-chong-trom-laptop",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-laptop/day-chong-trom-laptop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28680,
+                                "text": "Skin và Decal Dán Laptop",
+                                "url_key": "skin-va-decal-dan-laptop",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-laptop/skin-va-decal-dan-laptop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1832,
+                                "text": "Đế Tản Nhiệt Laptop",
+                                "url_key": "de-tan-nhiet-laptop",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-laptop/de-tan-nhiet-laptop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28682,
+                                "text": "Giá Đỡ Laptop",
+                                "url_key": "gia-do-laptop",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-laptop/gia-do-laptop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28684,
+                                "text": "Case - Vỏ Ốp Lưng Laptop",
+                                "url_key": "case-vo-op-lung-laptop",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-laptop/case-vo-op-lung-laptop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28686,
+                                "text": "Miếng Phủ Bàn Phím Laptop",
+                                "url_key": "mieng-phu-ban-phim-laptop",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-laptop/mieng-phu-ban-phim-laptop",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-laptop",
+                        "url_path": "phu-kien-laptop/c7795",
+                        "product_count": 355,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7b/76/0f/a04ccb5692385aa7da0e407888822c93.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 4880,
+                        "text": "Webcam Máy Tính",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "webcam-may-tinh",
+                        "url_path": "webcam-may-tinh/c4880",
+                        "product_count": 124,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5f/4c/16/2d788388dd101f43834c534fc616f2dc.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28688,
+                        "text": "Bút Trình Chiếu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "but-trinh-chieu",
+                        "url_path": "but-trinh-chieu/c28688",
+                        "product_count": 69,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6f/dc/7b/23673f0a649455ca93718d11b070a9b4.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1831,
+                        "text": "Bàn Di Chuột - Miếng Lót Chuột",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ban-di-chuot-mieng-lot-chuot",
+                        "url_path": "ban-di-chuot-mieng-lot-chuot/c1831",
+                        "product_count": 324,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5f/39/ef/cfead09506816c8a869d96fc16c173a9.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28690,
+                        "text": "Phụ Kiện Phím Chuột Văn Phòng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 1836,
+                                "text": "Bộ Phím Chuột Văn Phòng",
+                                "url_key": "bo-phim-chuot-van-phong",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-phim-chuot-van-phong/bo-phim-chuot-van-phong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1829,
+                                "text": "Chuột Văn Phòng",
+                                "url_key": "chuot-van-phong",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-phim-chuot-van-phong/chuot-van-phong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1830,
+                                "text": "Bàn Phím Văn Phòng",
+                                "url_key": "ban-phim-van-phong",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-phim-chuot-van-phong/ban-phim-van-phong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28694,
+                                "text": "Phụ Kiện Phím Chuột Văn Phòng Khác",
+                                "url_key": "phu-kien-phim-chuot-van-phong-khac",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-phim-chuot-van-phong/phu-kien-phim-chuot-van-phong-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-phim-chuot-van-phong",
+                        "url_path": "phu-kien-phim-chuot-van-phong/c28690",
+                        "product_count": 1161,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b3/c9/1e/0bd7f32d3d34e078fce6638c33fae4b9.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 28692,
+                        "text": "Phụ Kiện Phím Chuột Chơi Game",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28696,
+                                "text": "Bộ Phím Chuột Chơi Game",
+                                "url_key": "bo-phim-chuot-choi-game",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-phim-chuot-choi-game/bo-phim-chuot-choi-game",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5267,
+                                "text": "Bàn Phím Chơi Game",
+                                "url_key": "ban-phim-choi-game",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-phim-chuot-choi-game/ban-phim-choi-game",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 3428,
+                                "text": "Chuột Chơi Game",
+                                "url_key": "chuot-choi-game",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-phim-chuot-choi-game/chuot-choi-game",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28698,
+                                "text": "Phụ Kiện Phím Chuột Chơi Game Khác",
+                                "url_key": "phu-kien-phim-chuot-choi-game-khac",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/phu-kien-phim-chuot-choi-game/phu-kien-phim-chuot-choi-game-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-phim-chuot-choi-game",
+                        "url_path": "phu-kien-phim-chuot-choi-game/c28692",
+                        "product_count": 1011,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e2/4f/02/ac61c87c4547dc52df391aabe0456e4b.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 28702,
+                        "text": "Tai Nghe Máy Tính",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28704,
+                                "text": "Tai Nghe Văn Phòng - Headset",
+                                "url_key": "tai-nghe-van-phong-headset",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/tai-nghe-may-tinh/tai-nghe-van-phong-headset",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2971,
+                                "text": "Tai Nghe Chơi Game",
+                                "url_key": "tai-nghe-choi-game",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/tai-nghe-may-tinh/tai-nghe-choi-game",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "tai-nghe-may-tinh",
+                        "url_path": "tai-nghe-may-tinh/c28702",
+                        "product_count": 164,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ed/53/f7/d0738ec64ca949ccb230218a11ca7a80.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 28706,
+                        "text": "Công Cụ Đồ Họa - Thiết Bị Cảm Ứng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 12876,
+                                "text": "Bảng Vẽ Đồ Họa Cảm Ứng",
+                                "url_key": "bang-ve-do-hoa-cam-ung",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cong-cu-do-hoa-thiet-bi-cam-ung/bang-ve-do-hoa-cam-ung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28708,
+                                "text": "Bút Vẽ Đồ Họa Cảm Ứng",
+                                "url_key": "but-ve-do-hoa-cam-ung",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cong-cu-do-hoa-thiet-bi-cam-ung/but-ve-do-hoa-cam-ung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28710,
+                                "text": "Bàn Rê Touchpad Cảm Ứng",
+                                "url_key": "ban-re-touchpad-cam-ung",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cong-cu-do-hoa-thiet-bi-cam-ung/ban-re-touchpad-cam-ung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28712,
+                                "text": "Thiết Bị Cân Bằng Màu",
+                                "url_key": "thiet-bi-can-bang-mau",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cong-cu-do-hoa-thiet-bi-cam-ung/thiet-bi-can-bang-mau",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28714,
+                                "text": "Thiết Bị Đồ Họa và Công Cụ Khác",
+                                "url_key": "thiet-bi-do-hoa-va-cong-cu-khac",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cong-cu-do-hoa-thiet-bi-cam-ung/thiet-bi-do-hoa-va-cong-cu-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cong-cu-do-hoa-thiet-bi-cam-ung",
+                        "url_path": "cong-cu-do-hoa-thiet-bi-cam-ung/c28706",
+                        "product_count": 155,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1a/bd/ef/1d291b095620582b148340654edfa151.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 12296,
+                        "text": "Các Loại Cáp Chuyển Đổi",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28716,
+                                "text": "Dây Nguồn",
+                                "url_key": "day-nguon",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/day-nguon",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28718,
+                                "text": "Dây Cáp SATA",
+                                "url_key": "day-cap-sata",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/day-cap-sata",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28720,
+                                "text": "Dây Cáp Thunderbolt",
+                                "url_key": "day-cap-thunderbolt",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/day-cap-thunderbolt",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28722,
+                                "text": "Dây Cáp USB",
+                                "url_key": "day-cap-usb",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/day-cap-usb",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28724,
+                                "text": "Dây Cáp VGA-DVI",
+                                "url_key": "day-cap-vga-dvi",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/day-cap-vga-dvi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 3804,
+                                "text": "Cáp HDMI - Displayport",
+                                "url_key": "cap-hdmi-displayport",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/cap-hdmi-displayport",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28726,
+                                "text": "Dây Cáp Tín Hiệu Khác",
+                                "url_key": "day-cap-tin-hieu-khac",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/day-cap-tin-hieu-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28732,
+                                "text": "Đầu Đọc Thẻ Nhớ",
+                                "url_key": "dau-doc-the-nho",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/dau-doc-the-nho",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8519,
+                                "text": "Hub USB",
+                                "url_key": "hub-usb",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/hub-usb",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28734,
+                                "text": "Hub Chuyển Đổi USB-A",
+                                "url_key": "hub-chuyen-doi-usb-a",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/hub-chuyen-doi-usb-a",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 4593,
+                                "text": "Hub Chuyển Đổi USB Type-C",
+                                "url_key": "hub-chuyen-doi-usb-type-c",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/hub-chuyen-doi-usb-type-c",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28736,
+                                "text": "Bộ Chuyển Đổi Khác",
+                                "url_key": "bo-chuyen-doi-khac",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/bo-chuyen-doi-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28738,
+                                "text": "Bộ Chuyển Đổi Tín Hiệu HDMI/VGA/DVI/DP",
+                                "url_key": "bo-chuyen-doi-tin-hieu-hdmivgadvidp",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/bo-chuyen-doi-tin-hieu-hdmivgadvidp",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28740,
+                                "text": "Cáp Song Song - Cáp Máy In - Cáp Serial",
+                                "url_key": "cap-song-song-cap-may-in-cap-serial",
+                                "full_url_key": "phu-kien-may-tinh-va-laptop/cac-loai-cap-chuyen-doi/cap-song-song-cap-may-in-cap-serial",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cac-loai-cap-chuyen-doi",
+                        "url_path": "cac-loai-cap-chuyen-doi/c12296",
+                        "product_count": 4577,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f8/3d/67/0ab4ed6a1a2a2eef1fdae50961d9633f.png",
+                        "is_leaf": false
+                    }
+                ]
+            }
+        ]
+    }
+]

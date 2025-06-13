@@ -1,0 +1,1149 @@
+[
+    {
+        "text": "Ô Tô - Xe Máy - Xe Đạp",
+        "icon_url": "https://salt.tikicdn.com/ts/category/69/f5/36/c6cd9e2849854630ed74ff1678db8f19.png",
+        "children": [
+            {
+                "id": 8597,
+                "parent_id": 8594,
+                "text": "Xe máy",
+                "type": null,
+                "url_key": "xe-may",
+                "url_path": "xe-may/c8597",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 519,
+                "is_leaf": false,
+                "meta_title": "✅Xe máy Tiki ✅Chính Hãng ✅Trả góp 0% lãi suất ✅0% phí chuyển đổi",
+                "meta_description": "Hỗ trợ trả góp 0% lãi suất, 0% phí chuyển đổi tất các loại xe máy, xe tay ga, xe côn, xe máy điện chính hãng với các thương hiệu hàng đầu như Honda, Yamaha, SYM…",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/5a/ca/f3/6e35d36908616a9fe07586e728c19424.png",
+                "children": [
+                    {
+                        "id": 11878,
+                        "text": "Xe tay ga",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-tay-ga",
+                        "url_path": "xe-tay-ga/c11878",
+                        "product_count": 272,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/98/0c/c2/981c9304c37c9ec967aa0f84244084ec.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11882,
+                        "text": "Xe số",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-so",
+                        "url_path": "xe-so/c11882",
+                        "product_count": 86,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11884,
+                        "text": "Xe côn tay",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-con-tay",
+                        "url_path": "xe-con-tay/c11884",
+                        "product_count": 52,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/97/fb/36/e1a50e2e430137825f48ceece95df0ba.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11888,
+                        "text": "Xe mô tô",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 37592,
+                                "text": "Xe mô tô dưới 175cc",
+                                "url_key": "xe-mo-to-duoi-175cc",
+                                "full_url_key": "xe-may/xe-mo-to/xe-mo-to-duoi-175cc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 37594,
+                                "text": "Xe mô tô trên 175cc",
+                                "url_key": "xe-mo-to-tren-175cc",
+                                "full_url_key": "xe-may/xe-mo-to/xe-mo-to-tren-175cc",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "xe-mo-to",
+                        "url_path": "xe-mo-to/c11888",
+                        "product_count": 29,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/3e/11/23/de133f42cab4a05e0f4fe5eecebff39a.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 13100,
+                        "text": "Xe 50cc",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-50cc",
+                        "url_path": "xe-50cc/c13100",
+                        "product_count": 68,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/39/dc/24/7df5b7d400747e1a73ef823696722cd9.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 37596,
+                        "text": "Phiếu mua xe mô tô",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phieu-mua-xe-mo-to",
+                        "url_path": "phieu-mua-xe-mo-to/c37596",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/39/cf/fc/b262f126e4943b5b03c0fd7e27b5984d.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 37598,
+                        "text": "Phiếu mua xe máy",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phieu-mua-xe-may",
+                        "url_path": "phieu-mua-xe-may/c37598",
+                        "product_count": 11,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d1/1e/e2/902e7335d990311b2d6418cfaf7b0bd5.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 6070,
+                "parent_id": 8594,
+                "text": "Xe điện",
+                "type": null,
+                "url_key": "xe-dien",
+                "url_path": "xe-dien/c6070",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 150,
+                "is_leaf": false,
+                "meta_title": "Trả góp 0% Xe điện - Tiết Kiệm - An Toàn",
+                "meta_description": "Xe điện tiết kiệm hơn - Bảo vệ môi trường -  Hỗ trợ trả góp 0% lãi suất, Nhận xe nhanh chóng - Bảo hành bảo dưỡng chính hãng",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/61/17/cb/36cc4b09b0e37b501e7d641c0eee0eba.png",
+                "children": [
+                    {
+                        "id": 6072,
+                        "text": "Xe máy điện",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-may-dien",
+                        "url_path": "xe-may-dien/c6072",
+                        "product_count": 88,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/45/4d/31/9205fd95a6712b6f8379c9277ae08ab9.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 6071,
+                        "text": "Xe đạp điện",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67253,
+                                "text": "Xe đạp điện phổ thông",
+                                "url_key": "xe-dap-dien-pho-thong",
+                                "full_url_key": "xe-dien/xe-dap-dien/xe-dap-dien-pho-thong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67254,
+                                "text": "Xe đạp có trợ lực điện",
+                                "url_key": "xe-dap-co-tro-luc-dien",
+                                "full_url_key": "xe-dien/xe-dap-dien/xe-dap-co-tro-luc-dien",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "xe-dap-dien",
+                        "url_path": "xe-dap-dien/c6071",
+                        "product_count": 48,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/cf/2a/e2/f6b86b2d822ec86df86d6166853591f4.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11890,
+                        "text": "Xe điện thăng bằng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-dien-thang-bang",
+                        "url_path": "xe-dien-thang-bang/c11890",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 6073,
+                        "text": "Phụ kiện xe điện",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67258,
+                                "text": "Phụ kiện xe điện khác",
+                                "url_key": "phu-kien-xe-dien-khac",
+                                "full_url_key": "xe-dien/phu-kien-xe-dien/phu-kien-xe-dien-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67257,
+                                "text": "Pin xe điện",
+                                "url_key": "pin-xe-dien",
+                                "full_url_key": "xe-dien/phu-kien-xe-dien/pin-xe-dien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67256,
+                                "text": "Sạc xe điện",
+                                "url_key": "sac-xe-dien",
+                                "full_url_key": "xe-dien/phu-kien-xe-dien/sac-xe-dien",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-xe-dien",
+                        "url_path": "phu-kien-xe-dien/c6073",
+                        "product_count": 10,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/21/01/b6/2bb43104049cc9df73ca398f00f23a88.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8435,
+                        "text": "Xe Scooter điện",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-scooter-dien",
+                        "url_path": "xe-scooter-dien/c8435",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 8431,
+                "parent_id": 8594,
+                "text": "Xe đạp",
+                "type": null,
+                "url_key": "xe-dap",
+                "url_path": "xe-dap/c8431",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 484,
+                "is_leaf": false,
+                "meta_title": "Xe đạp chính hãng uy tín mới nhất - Trả góp 0% lãi suất",
+                "meta_description": "Xe đạp chính hãng - Trả góp 0% lãi suất - 0% Phí chuyển đổi - Giao hàng toàn quốc",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/e4/e4/cf/d0f95eeae8e4c31665c5f7b03a5bc0cf.png",
+                "children": [
+                    {
+                        "id": 11892,
+                        "text": "Xe đạp thể thao",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24370,
+                                "text": "Xe đạp leo núi",
+                                "url_key": "xe-dap-leo-nui",
+                                "full_url_key": "xe-dap/xe-dap-the-thao/xe-dap-leo-nui",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24374,
+                                "text": "Xe đạp cuộc",
+                                "url_key": "xe-dap-cuoc",
+                                "full_url_key": "xe-dap/xe-dap-the-thao/xe-dap-cuoc",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "xe-dap-the-thao",
+                        "url_path": "xe-dap-the-thao/c11892",
+                        "product_count": 6,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11894,
+                        "text": "Xe đạp thời trang, thông dụng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-dap-thoi-trang-thong-dung",
+                        "url_path": "xe-dap-thoi-trang-thong-dung/c11894",
+                        "product_count": 70,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ae/cd/55/a996979affaf3d8f26f424b29f5e4417.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11896,
+                        "text": "Xe đạp thể thao đường phố",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-dap-the-thao-duong-pho",
+                        "url_path": "xe-dap-the-thao-duong-pho/c11896",
+                        "product_count": 100,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/b4/e9/94/e7f36876ac415e24c5988117d827ec8b.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11898,
+                        "text": "Xe đạp đua",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-dap-dua",
+                        "url_path": "xe-dap-dua/c11898",
+                        "product_count": 33,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11900,
+                        "text": "Xe đạp gấp",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-dap-gap",
+                        "url_path": "xe-dap-gap/c11900",
+                        "product_count": 10,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11914,
+                        "text": "Xe đạp Fixed Gear",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-dap-fixed-gear",
+                        "url_path": "xe-dap-fixed-gear/c11914",
+                        "product_count": 7,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/da/c4/86/b178cca0523f65dea9025941d8c509fd.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11902,
+                        "text": "Xe đạp trẻ em",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-dap-tre-em",
+                        "url_path": "xe-dap-tre-em/c11902",
+                        "product_count": 136,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/a4/bc/d9/d83e7f451906654497510eaaf4b2fce5.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 24376,
+                        "text": "Xe đạp thể thao khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-dap-the-thao-khac",
+                        "url_path": "xe-dap-the-thao-khac/c24376",
+                        "product_count": 17,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 24372,
+                        "text": "Xe đạp địa hình",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-dap-dia-hinh",
+                        "url_path": "xe-dap-dia-hinh/c24372",
+                        "product_count": 104,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b6/ff/84/e99beecc30009d89b97f84645834efce.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68639,
+                        "text": "Xe đạp một bánh",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xe-dap-mot-banh",
+                        "url_path": "xe-dap-mot-banh/c68639",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3e/64/ac/51fe600c8cb06ec9243ae851f4c47851.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 8595,
+                "parent_id": 8594,
+                "text": "Ô tô",
+                "type": null,
+                "url_key": "o-to",
+                "url_path": "o-to/c8595",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 7,
+                "is_leaf": false,
+                "meta_title": "Ô tô",
+                "meta_description": "Ô tô",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/2e/60/07/20941d46be2924fc758511d9e8c3401e.png",
+                "children": [
+                    {
+                        "id": 37628,
+                        "text": "Phiếu đặt cọc xe ô tô",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phieu-dat-coc-xe-o-to",
+                        "url_path": "phieu-dat-coc-xe-o-to/c37628",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 37630,
+                        "text": "Phiếu mua xe ô tô từ 200 triệu trở lên",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phieu-mua-xe-o-to-tu-200-trieu-tro-len",
+                        "url_path": "phieu-mua-xe-o-to-tu-200-trieu-tro-len/c37630",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 37632,
+                        "text": "Phiếu mua xe ô tô dưới 200 triệu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phieu-mua-xe-o-to-duoi-200-trieu",
+                        "url_path": "phieu-mua-xe-o-to-duoi-200-trieu/c37632",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 54698,
+                        "text": "Ô tô điện",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67300,
+                                "text": "Xe điện nhiên liệu Hydro (FCEV)",
+                                "url_key": "xe-dien-nhien-lieu-hydro-fcev",
+                                "full_url_key": "o-to/o-to-dien/xe-dien-nhien-lieu-hydro-fcev",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67301,
+                                "text": "Xe Hybrid (HEV)",
+                                "url_key": "xe-hybrid-hev",
+                                "full_url_key": "o-to/o-to-dien/xe-hybrid-hev",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67302,
+                                "text": "Xe Hybrid có sạc (PHEV)",
+                                "url_key": "xe-hybrid-co-sac-phev",
+                                "full_url_key": "o-to/o-to-dien/xe-hybrid-co-sac-phev",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67303,
+                                "text": "Xe thuần điện (BEV)",
+                                "url_key": "xe-thuan-dien-bev",
+                                "full_url_key": "o-to/o-to-dien/xe-thuan-dien-bev",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "o-to-dien",
+                        "url_path": "o-to-dien/c54698",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/f9/0a/09/22aaf42f77fd6cf2e659d7366ab1ae4e.png",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 24832,
+                "parent_id": 8594,
+                "text": "Phụ kiện - Chăm sóc xe",
+                "type": null,
+                "url_key": "phu-kien-cham-soc-xe",
+                "url_path": "phu-kien-cham-soc-xe/c24832",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 10000,
+                "is_leaf": false,
+                "meta_title": "Phụ kiện - Chăm sóc xe | Chính Hãng Tại Tiki.vn",
+                "meta_description": "Phụ kiện - Chăm sóc xe | Chính Hãng Tại Tiki.vn | Giao Hàng Nhanh | Giá Rẻ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/76/27/3e/b6470771212060d6a1508b51d78e7bc6.png",
+                "children": [
+                    {
+                        "id": 11906,
+                        "text": "Mũ bảo hiểm",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11908,
+                                "text": "Mũ bảo hiểm xe máy",
+                                "url_key": "mu-bao-hiem-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/mu-bao-hiem/mu-bao-hiem-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11912,
+                                "text": "Mũ bảo hiểm trẻ em",
+                                "url_key": "mu-bao-hiem-tre-em",
+                                "full_url_key": "phu-kien-cham-soc-xe/mu-bao-hiem/mu-bao-hiem-tre-em",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11910,
+                                "text": "Mũ bảo hiểm xe đạp",
+                                "url_key": "mu-bao-hiem-xe-dap",
+                                "full_url_key": "phu-kien-cham-soc-xe/mu-bao-hiem/mu-bao-hiem-xe-dap",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "mu-bao-hiem",
+                        "url_path": "mu-bao-hiem/c11906",
+                        "product_count": 972,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4d/3f/19/50cbfb5d3ee1c21479dd3bfe3120cded.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 6061,
+                        "text": "Phụ kiện xe máy",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 6064,
+                                "text": "Decal trang trí xe máy",
+                                "url_key": "decal-trang-tri-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-xe-may/decal-trang-tri-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 6068,
+                                "text": "Khóa chống trộm xe máy",
+                                "url_key": "khoa-chong-trom-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-xe-may/khoa-chong-trom-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23114,
+                                "text": "Vỏ nhựa, dàn áo xe máy",
+                                "url_key": "vo-nhua-dan-ao-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-xe-may/vo-nhua-dan-ao-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45468,
+                                "text": "Ốc vít trang trí",
+                                "url_key": "oc-vit-trang-tri",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-xe-may/oc-vit-trang-tri",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45470,
+                                "text": "Baga",
+                                "url_key": "baga",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-xe-may/baga",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45472,
+                                "text": "Bạt trùm xe máy",
+                                "url_key": "bat-trum-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-xe-may/bat-trum-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45474,
+                                "text": "Yên xe",
+                                "url_key": "yen-xe",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-xe-may/yen-xe",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 6069,
+                                "text": "Phụ kiện xe máy khác",
+                                "url_key": "phu-kien-xe-may-khac",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-xe-may/phu-kien-xe-may-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-xe-may",
+                        "url_path": "phu-kien-xe-may/c6061",
+                        "product_count": 487,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cf/bb/b0/6f39533153acca1ac96db0f506140015.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 45476,
+                        "text": "Phụ tùng xe máy",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 45478,
+                                "text": "Phuộc - Giảm xóc",
+                                "url_key": "phuoc-giam-xoc",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-xe-may/phuoc-giam-xoc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45480,
+                                "text": "Gương chiếu hậu",
+                                "url_key": "guong-chieu-hau",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-xe-may/guong-chieu-hau",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45484,
+                                "text": "Đèn xe máy",
+                                "url_key": "den-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-xe-may/den-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45486,
+                                "text": "Còi xe máy",
+                                "url_key": "coi-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-xe-may/coi-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45488,
+                                "text": "Pô xe máy",
+                                "url_key": "po-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-xe-may/po-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45490,
+                                "text": "Lọc gió và nhiên liệu",
+                                "url_key": "loc-gio-va-nhien-lieu",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-xe-may/loc-gio-va-nhien-lieu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45492,
+                                "text": "Ắc quy xe máy",
+                                "url_key": "ac-quy-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-xe-may/ac-quy-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 50390,
+                                "text": "Vỏ, lốp xe máy",
+                                "url_key": "vo-lop-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-xe-may/vo-lop-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45494,
+                                "text": "Phụ tùng thay thế khác cho xe máy",
+                                "url_key": "phu-tung-thay-the-khac-cho-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-xe-may/phu-tung-thay-the-khac-cho-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 52174,
+                                "text": "Mâm xe máy",
+                                "url_key": "mam-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-xe-may/mam-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-tung-xe-may",
+                        "url_path": "phu-tung-xe-may/c45476",
+                        "product_count": 3105,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/30/5e/9f/6e1bbb84bf4e93db03c65c265e73b5c5.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 45498,
+                        "text": "Chăm sóc xe máy",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 6063,
+                                "text": "Dầu nhớt xe máy, mô tô",
+                                "url_key": "dau-nhot-xe-may-mo-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/cham-soc-xe-may/dau-nhot-xe-may-mo-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45510,
+                                "text": "Phụ gia xe máy, mô tô",
+                                "url_key": "phu-gia-xe-may-mo-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/cham-soc-xe-may/phu-gia-xe-may-mo-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cham-soc-xe-may",
+                        "url_path": "cham-soc-xe-may/c45498",
+                        "product_count": 770,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ee/86/65/3bd4f971af974868b15d185bcc999220.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 45522,
+                        "text": "Đồ bảo hộ đi xe",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 6067,
+                                "text": "Quần áo bảo hộ xe máy",
+                                "url_key": "quan-ao-bao-ho-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/do-bao-ho-di-xe/quan-ao-bao-ho-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 6066,
+                                "text": "Găng tay xe máy",
+                                "url_key": "gang-tay-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/do-bao-ho-di-xe/gang-tay-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45524,
+                                "text": "Giày đi xe máy",
+                                "url_key": "giay-di-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/do-bao-ho-di-xe/giay-di-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45526,
+                                "text": "Đồ bảo hộ khác",
+                                "url_key": "do-bao-ho-khac",
+                                "full_url_key": "phu-kien-cham-soc-xe/do-bao-ho-di-xe/do-bao-ho-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 52196,
+                                "text": "Dung dịch vệ sinh xe",
+                                "url_key": "dung-dich-ve-sinh-xe",
+                                "full_url_key": "phu-kien-cham-soc-xe/do-bao-ho-di-xe/dung-dich-ve-sinh-xe",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67296,
+                                "text": "Thùng đựng đồ xe máy",
+                                "url_key": "thung-dung-do-xe-may",
+                                "full_url_key": "phu-kien-cham-soc-xe/do-bao-ho-di-xe/thung-dung-do-xe-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "do-bao-ho-di-xe",
+                        "url_path": "do-bao-ho-di-xe/c45522",
+                        "product_count": 380,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/06/c2/c2/3c311303164c6bbf35686dbc9a3faadc.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11904,
+                        "text": "Phụ kiện - Đồ nghề xe đạp",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 45528,
+                                "text": "Đèn xe đạp",
+                                "url_key": "den-xe-dap",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-do-nghe-xe-dap/den-xe-dap",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45530,
+                                "text": "Bơm xe đạp",
+                                "url_key": "bom-xe-dap",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-do-nghe-xe-dap/bom-xe-dap",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45532,
+                                "text": "Khoá xe đạp",
+                                "url_key": "khoa-xe-dap",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-do-nghe-xe-dap/khoa-xe-dap",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45534,
+                                "text": "Săm - Vỏ xe đạp",
+                                "url_key": "sam-vo-xe-dap",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-do-nghe-xe-dap/sam-vo-xe-dap",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45536,
+                                "text": "Bộ dụng cụ sửa chữa xe đạp",
+                                "url_key": "bo-dung-cu-sua-chua-xe-dap",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-do-nghe-xe-dap/bo-dung-cu-sua-chua-xe-dap",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45538,
+                                "text": "Phụ tùng - Phụ kiện xe đạp khác",
+                                "url_key": "phu-tung-phu-kien-xe-dap-khac",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-do-nghe-xe-dap/phu-tung-phu-kien-xe-dap-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 52200,
+                                "text": "Yên xe đạp",
+                                "url_key": "yen-xe-dap",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-do-nghe-xe-dap/yen-xe-dap",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-do-nghe-xe-dap",
+                        "url_path": "phu-kien-do-nghe-xe-dap/c11904",
+                        "product_count": 814,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bf/ba/1c/753ef835939d060c14f86b6b5296481b.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 6045,
+                        "text": "Phụ kiện ô tô",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 45546,
+                                "text": "Phụ kiện nội thất ô tô",
+                                "url_key": "phu-kien-noi-that-o-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-o-to/phu-kien-noi-that-o-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45558,
+                                "text": "Phụ kiện ngoại thất ô tô",
+                                "url_key": "phu-kien-ngoai-that-o-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-kien-o-to/phu-kien-ngoai-that-o-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-o-to",
+                        "url_path": "phu-kien-o-to/c6045",
+                        "product_count": 10000,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a8/3d/ab/a22b73c37d8d20a23906a0b2c67de497.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 45606,
+                        "text": "Máy rửa xe",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 52242,
+                                "text": "Dụng cụ vệ sinh xe",
+                                "url_key": "dung-cu-ve-sinh-xe",
+                                "full_url_key": "phu-kien-cham-soc-xe/may-rua-xe/dung-cu-ve-sinh-xe",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 52244,
+                                "text": "Máy rửa xe và phụ tùng thay thế",
+                                "url_key": "may-rua-xe-va-phu-tung-thay-the",
+                                "full_url_key": "phu-kien-cham-soc-xe/may-rua-xe/may-rua-xe-va-phu-tung-thay-the",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-rua-xe",
+                        "url_path": "may-rua-xe/c45606",
+                        "product_count": 285,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/55/60/03/d011570b7ed66e7e578c0f13a7f3ab0c.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 6052,
+                        "text": "Phụ tùng ô tô",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24348,
+                                "text": "Đèn ô tô",
+                                "url_key": "den-o-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-o-to/den-o-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24346,
+                                "text": "Bình ắc quy ô tô",
+                                "url_key": "binh-ac-quy-o-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-o-to/binh-ac-quy-o-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24356,
+                                "text": "Mâm - Lốp xe",
+                                "url_key": "mam-lop-xe",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-o-to/mam-lop-xe",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24344,
+                                "text": "Dụng cụ, thiết bị sửa ô tô",
+                                "url_key": "dung-cu-thiet-bi-sua-o-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-o-to/dung-cu-thiet-bi-sua-o-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24350,
+                                "text": "Còi ô tô",
+                                "url_key": "coi-o-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-o-to/coi-o-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24352,
+                                "text": "Gạt mưa ô tô",
+                                "url_key": "gat-mua-o-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-o-to/gat-mua-o-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45572,
+                                "text": "Lọc gió và nhiên liệu",
+                                "url_key": "loc-gio-va-nhien-lieu",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-o-to/loc-gio-va-nhien-lieu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45574,
+                                "text": "Bugi ô tô",
+                                "url_key": "bugi-o-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-o-to/bugi-o-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45576,
+                                "text": "Phụ tùng thay thế khác cho ô tô",
+                                "url_key": "phu-tung-thay-the-khac-cho-o-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/phu-tung-o-to/phu-tung-thay-the-khac-cho-o-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-tung-o-to",
+                        "url_path": "phu-tung-o-to/c6052",
+                        "product_count": 3362,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d1/c5/e5/83b88188ece1cb6fe4ddb41d05b9f462.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 24362,
+                        "text": "Chăm sóc ô tô",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 6062,
+                                "text": "Dầu nhớt ô tô",
+                                "url_key": "dau-nhot-o-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/cham-soc-o-to/dau-nhot-o-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45588,
+                                "text": "Phụ gia ô tô",
+                                "url_key": "phu-gia-o-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/cham-soc-o-to/phu-gia-o-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24358,
+                                "text": "Nước hoa, sáp thơm ô tô",
+                                "url_key": "nuoc-hoa-sap-thom-o-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/cham-soc-o-to/nuoc-hoa-sap-thom-o-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45596,
+                                "text": "Vệ sinh, khử mùi nội thất",
+                                "url_key": "ve-sinh-khu-mui-noi-that",
+                                "full_url_key": "phu-kien-cham-soc-xe/cham-soc-o-to/ve-sinh-khu-mui-noi-that",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45598,
+                                "text": "Keo - Băng keo chuyên dụng",
+                                "url_key": "keo-bang-keo-chuyen-dung",
+                                "full_url_key": "phu-kien-cham-soc-xe/cham-soc-o-to/keo-bang-keo-chuyen-dung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45600,
+                                "text": "Sơn - Phủ gầm ô tô",
+                                "url_key": "son-phu-gam-o-to",
+                                "full_url_key": "phu-kien-cham-soc-xe/cham-soc-o-to/son-phu-gam-o-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45602,
+                                "text": "Vệ sinh lốp, thân vỏ",
+                                "url_key": "ve-sinh-lop-than-vo",
+                                "full_url_key": "phu-kien-cham-soc-xe/cham-soc-o-to/ve-sinh-lop-than-vo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45604,
+                                "text": "Nước rửa xe, rửa kính",
+                                "url_key": "nuoc-rua-xe-rua-kinh",
+                                "full_url_key": "phu-kien-cham-soc-xe/cham-soc-o-to/nuoc-rua-xe-rua-kinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 46206,
+                                "text": "Đánh bóng, xoá xước sơn",
+                                "url_key": "danh-bong-xoa-xuoc-son",
+                                "full_url_key": "phu-kien-cham-soc-xe/cham-soc-o-to/danh-bong-xoa-xuoc-son",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cham-soc-o-to",
+                        "url_path": "cham-soc-o-to/c24362",
+                        "product_count": 2832,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/af/83/9d/f83ddaa48033d75f871419fd25f36c4f.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 17208,
+                "parent_id": 8594,
+                "text": "Dịch vụ, lắp đặt",
+                "type": null,
+                "url_key": "dich-vu-lap-dat",
+                "url_path": "dich-vu-lap-dat/c17208",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 2,
+                "is_leaf": false,
+                "meta_title": "Dịch vụ, lắp đặt xe máy, ô tô",
+                "meta_description": "Dịch vụ, lắp đặt xe máy, ô tô",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                "children": [
+                    {
+                        "id": 23118,
+                        "text": "Dịch vụ bảo trì, sửa chữa",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dich-vu-bao-tri-sua-chua",
+                        "url_path": "dich-vu-bao-tri-sua-chua/c23118",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    }
+                ]
+            }
+        ]
+    }
+]

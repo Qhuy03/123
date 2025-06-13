@@ -1,0 +1,845 @@
+[
+    {
+        "text": "Đồ Chơi - Mẹ & Bé",
+        "icon_url": "https://salt.tikicdn.com/ts/category/13/64/43/226301adcc7660ffcf44a61bb6df99b7.png",
+        "children": [
+            {
+                "text": "Tã, Bỉm",
+                "icon_url": "https://salt.tikicdn.com/ts/category/42/bd/d2/9491e7291c6a76cf75f6aef21209976c.png",
+                "children": [
+                    {
+                        "text": "Miếng lót sơ sinh",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d9/2b/ab/5b57809935f68beaab083fe1883fc684.jpg"
+                    },
+                    {
+                        "text": "Tã dán",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/81/9d/11/8daf5135fca3e3e3adbcbc4cbffa6acc.png"
+                    },
+                    {
+                        "text": "Tã giấy",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ab/24/d1/7b2f236e057bd5030af2b6d37a36b285.png"
+                    },
+                    {
+                        "text": "Tã quần",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/03/9d/01/c0e19fe0d48cd5077ee56e1032325985.png"
+                    },
+                    {
+                        "text": "Tã vải",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/ab/98/e6/6cca9ac98c903d9c6101c5c8adc36276.png"
+                    },
+                    {
+                        "text": "Tã bỉm dành cho người lớn",
+                        "children": [
+                            {
+                                "text": "Miếng lót dành cho người lớn"
+                            },
+                            {
+                                "text": "Tã dán cho người lớn"
+                            },
+                            {
+                                "text": "Tã quần cho người lớn"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7f/48/c2/a567bd25adfb47f8fe3d7d80e796e683.jpg"
+                    },
+                    {
+                        "text": "Khăn giấy ướt cho bé",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/23/02/6c/06c04ac8ec649539e3bdad94c63e3936.jpg"
+                    }
+                ]
+            },
+            {
+                "text": "Dinh dưỡng cho bé",
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/53/d6/e8/22c04179bf2a7bf451ed54513e047bfa.png",
+                "children": [
+                    {
+                        "text": "Sữa bột cho bé",
+                        "children": [
+                            {
+                                "text": "Sữa cho bé dưới 24 tháng "
+                            },
+                            {
+                                "text": "Sữa cho bé trên 24 tháng"
+                            },
+                            {
+                                "text": "Sữa cho mẹ bầu và sau sinh"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/cc/88/ab/133f699c176aa97021a5a2807be4541f.png"
+                    },
+                    {
+                        "text": "Sữa công thức pha sẵn cho bé",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/dd/1b/fc/97c9223d8a1df2e13d953dbf2ba1f982.jpg"
+                    },
+                    {
+                        "text": "Bột ăn dặm",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/2c/57/c8/cbabfa4d64beddf47a162d0d4a2a6707.png"
+                    },
+                    {
+                        "text": "Vitamins",
+                        "children": [
+                            {
+                                "text": "Bổ sung sắt cho bé"
+                            },
+                            {
+                                "text": "Calcium"
+                            },
+                            {
+                                "text": "DHA Omega-3"
+                            },
+                            {
+                                "text": "Men vi sinh cho bé"
+                            },
+                            {
+                                "text": "Multi - vitamin"
+                            },
+                            {
+                                "text": "Thực phẩm chức năng tăng cân cho trẻ"
+                            },
+                            {
+                                "text": "Vitamin C cho bé"
+                            },
+                            {
+                                "text": "Vitamin D cho bé"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/2e/c9/2a/b758dca20439e1e26a111e298030a4bd.png"
+                    },
+                    {
+                        "text": "Nước trái cây cho bé",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/56/9a/73/990ee70cbf4df9847a35f5282e1f0633.png"
+                    },
+                    {
+                        "text": "Bánh ăn dặm",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/ac/7e/71/e47e4b0b7af7f4d7fa2223df0236a524.png"
+                    },
+                    {
+                        "text": "Thực phẩm chế biến sẵn cho bé",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/be/10/0e/697f854c05e8771a898bd8fcbe076a26.jpg"
+                    },
+                    {
+                        "text": "Dầu ăn cho bé",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/64/56/3e/c216c5f368ddae7ab647cc1daabae1f6.png"
+                    },
+                    {
+                        "text": "Trà và Thức uống cho bé",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/0a/c8/7d/63affdfaa8eb70b148dcaaf33b590ccb.png"
+                    },
+                    {
+                        "text": "Các sản phẩm dinh dưỡng cho bé khác",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/29/90/ff/f6e4b8472a9dc28ea70cc5dc7abf6086.jpeg"
+                    },
+                    {
+                        "text": "Gia vị cho bé",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a7/13/ef/8e31abe03e3454681ee82e12c85d02fd.jpg"
+                    },
+                    {
+                        "text": "Mì, nui ăn dặm",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1f/c0/e6/e6d36fc80df4f1db17594a87af37c738.JPG"
+                    }
+                ]
+            },
+            {
+                "text": "Thực phẩm ăn dặm",
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bc/c2/2b/e48176964d825bef6b344aacdff3e653.png"
+            },
+            {
+                "text": "Dinh dưỡng cho mẹ",
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5c/6c/2b/0589c78669025502a18ef748e9ace8a1.jpg",
+                "children": [
+                    {
+                        "text": "Ngũ cốc cho mẹ bầu",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/20/02/a8/fddf93dd6731aa303dc5a2ac7fa4a051.png"
+                    },
+                    {
+                        "text": "Sữa bột cho mẹ bầu",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b9/94/39/3ea4302c0b75a256a8c060e3b1d898c0.jpg"
+                    },
+                    {
+                        "text": "Sữa nước cho mẹ bầu",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0a/d3/dc/fb4d5dc87fb31721e5d4498c41904307.jpg"
+                    },
+                    {
+                        "text": "Thực phẩm lợi sữa",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8a/05/d8/2f99848bd64d58d5692b8605f4f41f10.jfif"
+                    },
+                    {
+                        "text": "Vitamins và thực phẩm chức năng cho mẹ bầu",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5c/6c/2b/0589c78669025502a18ef748e9ace8a1.jpg"
+                    }
+                ]
+            },
+            {
+                "text": "Dinh dưỡng cho người lớn",
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/19/27/db/98efeceb9b11546e34f99459bb16fa1f.jpg",
+                "children": [
+                    {
+                        "text": "Sữa bột chức năng cho người lớn",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/19/27/db/98efeceb9b11546e34f99459bb16fa1f.jpg"
+                    },
+                    {
+                        "text": "Sữa nước chức năng cho người lớn",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/04/b0/77/850076e24dc78d1c06a9da889de9874a.jpg"
+                    },
+                    {
+                        "text": "Thực phẩm chức năng từ thiên nhiên",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8c/6f/92/c98f3a29776d19aa9cf6d0a2eebce16c.png"
+                    },
+                    {
+                        "text": "Vitamins và thực phẩm chức năng",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/67/9f/45/07a8aa29b45947156e52668f896590dc.jpg"
+                    }
+                ]
+            },
+            {
+                "text": "Đồ dùng cho bé",
+                "icon_url": "https://salt.tikicdn.com/ts/category/8f/9f/a5/287b2ffb0c94e96d36de4227224fa39e.png",
+                "children": [
+                    {
+                        "text": "Đồ dùng ăn uống cho bé",
+                        "children": [
+                            {
+                                "text": "Bình sữa, Bình tập uống"
+                            },
+                            {
+                                "text": "Phụ kiện bình sữa"
+                            },
+                            {
+                                "text": "Núm ti"
+                            },
+                            {
+                                "text": "Ngậm nướu"
+                            },
+                            {
+                                "text": "Dụng cụ tập ăn"
+                            },
+                            {
+                                "text": "Máy tiệt trùng, hâm sữa"
+                            },
+                            {
+                                "text": "Hộp chia đồ ăn"
+                            },
+                            {
+                                "text": "Yếm, khăn cho bé"
+                            },
+                            {
+                                "text": "Bình tập uống, Ly uống nước"
+                            },
+                            {
+                                "text": "Dụng cụ chế biến thức ăn cho bé"
+                            },
+                            {
+                                "text": "Ghế ăn"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/1f/c0/53/66384cbfc2282b992f336cd13d307115.png"
+                    },
+                    {
+                        "text": "Đồ dùng vệ sinh cho bé",
+                        "children": [
+                            {
+                                "text": "Sữa tắm cho bé"
+                            },
+                            {
+                                "text": "Dầu gội cho bé"
+                            },
+                            {
+                                "text": "Phấn, Kem dưỡng, Nước hoa"
+                            },
+                            {
+                                "text": "Dụng cụ tắm cho bé"
+                            },
+                            {
+                                "text": "Vệ sinh răng miệng cho bé"
+                            },
+                            {
+                                "text": "Khăn tắm, Áo choàng"
+                            },
+                            {
+                                "text": "Nước rửa bình sữa"
+                            },
+                            {
+                                "text": "Giặt xả quần áo"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e8/83/af/d7e3fdbe8ec4f356b2e95c67fc89b801.jpeg"
+                    },
+                    {
+                        "text": "Đồ dùng phòng ngủ cho bé",
+                        "children": [
+                            {
+                                "text": "Nôi, Giường cũi, Võng "
+                            },
+                            {
+                                "text": "Chăn ga gối nệm, Mùng"
+                            },
+                            {
+                                "text": "Túi ngủ, Chăn cuốn cho bé"
+                            },
+                            {
+                                "text": "Đệm, Lót chống thấm cho bé"
+                            },
+                            {
+                                "text": "Đèn ngủ cho bé"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/dc/96/d3/02dd33607f7911e26eee0dd0e6ea1671.png"
+                    },
+                    {
+                        "text": "Đồ dùng bảo vệ bé",
+                        "children": [
+                            {
+                                "text": "Dụng cụ chặn & bịt góc"
+                            },
+                            {
+                                "text": "Bảo vệ an toàn điện"
+                            },
+                            {
+                                "text": "Thanh chắn cầu thang/cửa"
+                            },
+                            {
+                                "text": "Máy báo khóc"
+                            },
+                            {
+                                "text": "Mũ bảo vệ, Vớ chống trượt, tập đi"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg"
+                    },
+                    {
+                        "text": "Dụng cụ chăm sóc sức khỏe",
+                        "children": [
+                            {
+                                "text": "Chăm sóc móng tay cho bé"
+                            },
+                            {
+                                "text": "Dầu Tràm"
+                            },
+                            {
+                                "text": "Dụng cụ hút mũi cho bé"
+                            },
+                            {
+                                "text": "Chống nắng cho trẻ"
+                            },
+                            {
+                                "text": "Nhiệt kế cho bé"
+                            },
+                            {
+                                "text": "Dụng cụ uống thuốc cho bé"
+                            },
+                            {
+                                "text": "Cân đo sức khoẻ"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/08/66/f8/84030588f6b7bae654d694a4159f4443.jpg"
+                    },
+                    {
+                        "text": "Đồ dùng đi chơi",
+                        "children": [
+                            {
+                                "text": "Xe đẩy"
+                            },
+                            {
+                                "text": "Địu, Đai an toàn"
+                            },
+                            {
+                                "text": "Ghế ngồi ôtô, xe máy"
+                            },
+                            {
+                                "text": "Xe tập đi cho bé"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0f/02/5b/568818eeb688992402feff497858b790.png"
+                    },
+                    {
+                        "text": "Combo đi sinh và gói quà tặng",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg"
+                    }
+                ]
+            },
+            {
+                "text": "Đồ chơi",
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4d/9e/e5/bf091dd15a561bcf9c6301bcd6012f74.jpg",
+                "children": [
+                    {
+                        "text": "Lắp ghép, Xếp hình",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a6/6a/2f/6f9db42f65292b834db7bb5b510af6f2.jpg"
+                    },
+                    {
+                        "text": "Đồ chơi điều khiển",
+                        "children": [
+                            {
+                                "text": "Xe điều khiển và phụ kiện"
+                            },
+                            {
+                                "text": "Máy bay điều khiển và phụ kiện"
+                            },
+                            {
+                                "text": "Tàu điều khiển và phụ kiện"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2b/eb/de/75f412e6e07fe1b6bc3f934fbc0ebc3e.jpg"
+                    },
+                    {
+                        "text": "Búp bê, Thú bông",
+                        "children": [
+                            {
+                                "text": "Búp bê"
+                            },
+                            {
+                                "text": "Thú bông"
+                            },
+                            {
+                                "text": "Phụ kiện búp bê"
+                            },
+                            {
+                                "text": "Ngôi nhà búp bê"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/6d/2c/7f/45707be650fa05f85752e01e4dca7374.png"
+                    },
+                    {
+                        "text": "Đồ chơi gỗ",
+                        "children": [
+                            {
+                                "text": "Tranh ghép"
+                            },
+                            {
+                                "text": "Xếp khối"
+                            },
+                            {
+                                "text": "Lắp ráp"
+                            },
+                            {
+                                "text": "Mô hình"
+                            },
+                            {
+                                "text": "Nhạc cụ gỗ"
+                            },
+                            {
+                                "text": "Bập bênh"
+                            },
+                            {
+                                "text": "Bàn ghế"
+                            },
+                            {
+                                "text": "Đồ chơi gỗ - Khác"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/81/ce/da/bc999c0e7f94fc59891b7e16874f9b26.jpg"
+                    },
+                    {
+                        "text": "Đồ chơi mô hình",
+                        "children": [
+                            {
+                                "text": "Mô hình giấy"
+                            },
+                            {
+                                "text": "Mô hình 3D"
+                            },
+                            {
+                                "text": "Xe mô hình"
+                            },
+                            {
+                                "text": "Mô hình nhân vật "
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e2/13/0b/17a008851209f5321b383d6e6cf6fc26.jpg"
+                    },
+                    {
+                        "text": "Đồ chơi giáo dục",
+                        "children": [
+                            {
+                                "text": "Hướng nghiệp nhập vai"
+                            },
+                            {
+                                "text": "Bảng vẽ"
+                            },
+                            {
+                                "text": "Que tính"
+                            },
+                            {
+                                "text": "Bảng số"
+                            },
+                            {
+                                "text": "Thẻ flash card"
+                            },
+                            {
+                                "text": "Sách vải"
+                            },
+                            {
+                                "text": "Đồ chơi khoa học"
+                            },
+                            {
+                                "text": "Đồ chơi vật lý"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/54/e3/e2/22a3a982cb38f836732751517aa61aca.png"
+                    },
+                    {
+                        "text": "Đồ chơi thủ công",
+                        "children": [
+                            {
+                                "text": "Đồ chơi cát nghệ thuật"
+                            },
+                            {
+                                "text": "Đồ chơi đan len"
+                            },
+                            {
+                                "text": "Đồ chơi giấy thủ công"
+                            },
+                            {
+                                "text": "Đồ chơi may vá"
+                            },
+                            {
+                                "text": "Đồ chơi thủ công khác"
+                            },
+                            {
+                                "text": "Đồ chơi vẽ"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/2d/52/6d/1fe93d34645a13a56cb371dddf3feb0f.png"
+                    },
+                    {
+                        "text": "Đồ chơi vận động",
+                        "children": [
+                            {
+                                "text": "Xe đạp cho bé"
+                            },
+                            {
+                                "text": "Xe chòi chân"
+                            },
+                            {
+                                "text": "Xe scooter"
+                            },
+                            {
+                                "text": "Ván trượt, cầu trượt cho bé"
+                            },
+                            {
+                                "text": "Xe lắc"
+                            },
+                            {
+                                "text": "Thú nhún"
+                            },
+                            {
+                                "text": "Giày trượt patin"
+                            },
+                            {
+                                "text": "Đồ chơi vận động mô phỏng"
+                            },
+                            {
+                                "text": "Nhà banh và Phụ kiện"
+                            },
+                            {
+                                "text": "Diều"
+                            },
+                            {
+                                "text": "Chong chóng"
+                            },
+                            {
+                                "text": "Yoyo"
+                            },
+                            {
+                                "text": "Súng bắn nước"
+                            },
+                            {
+                                "text": "Spinner"
+                            },
+                            {
+                                "text": "Xe điện trẻ em"
+                            },
+                            {
+                                "text": "Phao tắm, đồ chơi nước, xúc cát"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fb/b4/48/dce647800dc25b7c5da902b05b8eecf7.jpg"
+                    },
+                    {
+                        "text": "Đồ chơi nhạc cụ",
+                        "children": [
+                            {
+                                "text": "Bộ trống và nhạc cụ gõ"
+                            },
+                            {
+                                "text": "Nhạc cụ đàn guitar"
+                            },
+                            {
+                                "text": "Nhạc cụ đàn Piano"
+                            },
+                            {
+                                "text": "Nhạc cụ sáo và kèn"
+                            },
+                            {
+                                "text": "Phụ kiện nhạc cụ"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b8/07/0d/360d6fe8094781299392d1c11eef22ca.jpg"
+                    },
+                    {
+                        "text": "Bột nặn, Cát nặn",
+                        "children": [
+                            {
+                                "text": "Bột nặn"
+                            },
+                            {
+                                "text": "Cát nặn"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6a/90/04/40e43e79ca9f1e74156b43b19376b64a.jpg"
+                    },
+                    {
+                        "text": "Boardgame",
+                        "children": [
+                            {
+                                "text": "Bộ boardgame"
+                            },
+                            {
+                                "text": "Đồ chơi thẻ bài"
+                            },
+                            {
+                                "text": "Tarrots"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/36/5d/b2/533e3b3349f080208b3114d06205e321.png"
+                    },
+                    {
+                        "text": "Cờ",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/70/d9/18/06a21ad68e48a0c4b794f1d99f80cf44.png"
+                    },
+                    {
+                        "text": "Lều thảm",
+                        "children": [
+                            {
+                                "text": "Lều ngoài trời"
+                            },
+                            {
+                                "text": "Lều trong nhà"
+                            },
+                            {
+                                "text": "Túi ngủ"
+                            },
+                            {
+                                "text": "Thảm nằm chơi"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/e4/14/56/8165b21f4631eddea93216ad18f1981c.png"
+                    },
+                    {
+                        "text": "Đồ chơi sơ sinh",
+                        "children": [
+                            {
+                                "text": "Kệ chữ A"
+                            },
+                            {
+                                "text": "Treo nôi, cũi"
+                            },
+                            {
+                                "text": "Bóp chíp xúc xắc"
+                            },
+                            {
+                                "text": "Lục lạc"
+                            },
+                            {
+                                "text": "Bóng cho bé sơ sinh"
+                            },
+                            {
+                                "text": "Đồ chơi ngậm mọc răng"
+                            },
+                            {
+                                "text": "Đồ chơi phát nhạc cho trẻ sơ sinh"
+                            },
+                            {
+                                "text": "Đồ chơi xúc xắc, lục lạc cho trẻ sơ sinh"
+                            },
+                            {
+                                "text": "Đồ chơi kích thích trí tuệ cho trẻ sơ sinh"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d4/ae/d3/ac39befe8aca367791f3a4d68802ed3d.jpg"
+                    },
+                    {
+                        "text": "Đồ chơi ảo thuật",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fb/1e/d1/f4c9af6cfa670c13c4781fb12e7bed73.png"
+                    },
+                    {
+                        "text": "Trò chơi dân gian",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg"
+                    },
+                    {
+                        "text": "Trò chơi trí tuệ",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/55/a9/87/a12a85fb71517d99bada5a52da66a574.jpg"
+                    },
+                    {
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/76/d9/0c/14452ff99219960f71df50f4f7fdf568.png"
+                    },
+                    {
+                        "text": "Đồ chơi khác",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg"
+                    },
+                    {
+                        "text": "Đồ chơi sở thích, sưu tầm và trưng bày",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c6/e0/09/94bffbf040cf2b8cd8721e2a49d79277.jpg"
+                    }
+                ]
+            },
+            {
+                "text": "Đồ dùng cho người già",
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/23/4f/fa/b47dd19a1a8722f5e3b36dd041248a5f.png",
+                "children": [
+                    {
+                        "text": "Chậu vệ sinh, ghế ngồi vệ sinh và nắp đậy",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bf/ff/f9/117008c154f229996764c8baf329607d.png"
+                    },
+                    {
+                        "text": "Dụng cụ hỗ trợ trong nhà tắm cho người già",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5c/46/8d/7af6d137e50e7308f5f315ef1bc95a76.jpg"
+                    },
+                    {
+                        "text": "Gậy chống",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/23/4f/fa/b47dd19a1a8722f5e3b36dd041248a5f.png"
+                    }
+                ]
+            },
+            {
+                "text": "Chăm sóc mẹ mang thai, sau sinh",
+                "icon_url": "https://salt.tikicdn.com/ts/category/07/5e/29/093c56d22ddbd24d6647f4e09e6c18ce.png",
+                "children": [
+                    {
+                        "text": "Máy hút sữa, Túi trữ sữa",
+                        "children": [
+                            {
+                                "text": "Máy hút sữa"
+                            },
+                            {
+                                "text": "Túi trữ sữa"
+                            },
+                            {
+                                "text": "Miếng lót thấm sữa"
+                            },
+                            {
+                                "text": "Dụng cụ vệ sinh máy hút sữa"
+                            },
+                            {
+                                "text": "Phụ kiện máy hút sữa"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8b/54/4e/86da930881ea10fde1fa052023b28ae1.jpg"
+                    },
+                    {
+                        "text": "Đai đỡ bụng bầu",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/24/06/ce/fd27749d122a1f9292590868da0d0f72.png"
+                    },
+                    {
+                        "text": "Đai nịt bụng, Quần tạo dáng sau sinh",
+                        "children": [],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/eb/cf/04/189eefeea9984e380e8465b37496a272.png"
+                    },
+                    {
+                        "text": "Dung dịch tắm gội, Chăm sóc da",
+                        "children": [
+                            {
+                                "text": "Sữa tắm, Dầu gội cho mẹ"
+                            },
+                            {
+                                "text": "Sữa tắm, Dầu gội khô"
+                            },
+                            {
+                                "text": "Mỹ phẩm chống rạn da"
+                            },
+                            {
+                                "text": "Mỹ phẩm, Chăm sóc da cho mẹ"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a6/61/4f/c31177d9dfbf4fb0bde9f3ae5ff6d8f2.jpg"
+                    },
+                    {
+                        "text": "Phương pháp dân gian",
+                        "children": [
+                            {
+                                "text": "Tinh bột nghệ"
+                            },
+                            {
+                                "text": "Lá xông"
+                            },
+                            {
+                                "text": "Túi chườm"
+                            },
+                            {
+                                "text": "Muối tắm theo phương pháp dân gian"
+                            },
+                            {
+                                "text": "Dung dịch tắm thảo dược"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg"
+                    },
+                    {
+                        "text": "Phụ kiện cho mẹ",
+                        "children": [
+                            {
+                                "text": "Máy tạo độ ẩm "
+                            },
+                            {
+                                "text": "Băng vệ sinh cho mẹ sau sinh"
+                            },
+                            {
+                                "text": "Đồ lót"
+                            },
+                            {
+                                "text": "Dụng cụ hỗ trợ mẹ sau sinh"
+                            },
+                            {
+                                "text": "Túi đựng đồ cho mẹ"
+                            },
+                            {
+                                "text": "Gối đa năng cho mẹ"
+                            },
+                            {
+                                "text": "Gối cho thai phụ"
+                            }
+                        ],
+                        "icon_url": "https://salt.tikicdn.com/ts/category/d9/eb/d9/d2fe416d8898b0e07b3130941fbf2d94.png"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,3170 @@
+[
+    {
+        "text": "Làm Đẹp - Sức Khỏe",
+        "icon_url": "https://salt.tikicdn.com/ts/category/73/0e/89/bf5095601d17f9971d7a08a1ffe98a42.png",
+        "children": [
+            {
+                "id": 1582,
+                "parent_id": 1520,
+                "text": "Chăm sóc da mặt",
+                "type": null,
+                "url_key": "cham-soc-da-mat",
+                "url_path": "cham-soc-da-mat/c1582",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 9782,
+                "is_leaf": false,
+                "meta_title": "Chăm sóc da mặt » Mua mỹ phẩm dưỡng da, trắng da tốt tại Tiki.vn",
+                "meta_description": "Các loại kem dưỡng da, sửa rửa mặt, mặt nạ, tẩy tế bào chết, trị mụn... tốt nhất. Mua hàng online tại Tiki.vn: ✓ Giá rẻ hơn ✓ Chính hãng ✓ Giao hàng FREE",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/b3/12/3a/fdaaabcb1bc842a1301c1ec7ddb05ec4.jpg",
+                "children": [
+                    {
+                        "id": 1601,
+                        "text": "Mặt nạ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11709,
+                                "text": "Mặt nạ đất sét",
+                                "url_key": "mat-na-dat-set",
+                                "full_url_key": "cham-soc-da-mat/mat-na-cac-loai/mat-na-dat-set",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8208,
+                                "text": "Mặt nạ giấy",
+                                "url_key": "mat-na-giay",
+                                "full_url_key": "cham-soc-da-mat/mat-na-cac-loai/mat-na-giay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11711,
+                                "text": "Mặt nạ ngủ",
+                                "url_key": "mat-na-ngu",
+                                "full_url_key": "cham-soc-da-mat/mat-na-cac-loai/mat-na-ngu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "mat-na-cac-loai",
+                        "url_path": "mat-na-cac-loai/c1601",
+                        "product_count": 1222,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 5872,
+                        "text": "Xịt khoáng ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xit-khoang",
+                        "url_path": "xit-khoang/c5872",
+                        "product_count": 187,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/26/ab/44/0bde20fa573c141f1a4f7538bd67ec1c.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 3424,
+                        "text": "Chăm sóc vùng da mắt",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 5894,
+                                "text": "Kem mắt",
+                                "url_key": "kem-mat",
+                                "full_url_key": "cham-soc-da-mat/cham-soc-vung-da-mat/kem-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68338,
+                                "text": "Mặt nạ mắt",
+                                "url_key": "mat-na-mat",
+                                "full_url_key": "cham-soc-da-mat/cham-soc-vung-da-mat/mat-na-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68339,
+                                "text": "Serum mắt",
+                                "url_key": "serum-mat",
+                                "full_url_key": "cham-soc-da-mat/cham-soc-vung-da-mat/serum-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cham-soc-vung-da-mat",
+                        "url_path": "cham-soc-vung-da-mat/c3424",
+                        "product_count": 178,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9c/a3/3a/b7f04030b5296cecea9b452ee1136308.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2347,
+                        "text": "Nước hoa hồng, toner",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68334,
+                                "text": "Toner cho da dầu",
+                                "url_key": "toner-cho-da-dau",
+                                "full_url_key": "cham-soc-da-mat/nuoc-hoa-hong-toner/toner-cho-da-dau",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68335,
+                                "text": "Toner cho da thường và khô",
+                                "url_key": "toner-cho-da-thuong-va-kho",
+                                "full_url_key": "cham-soc-da-mat/nuoc-hoa-hong-toner/toner-cho-da-thuong-va-kho",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "nuoc-hoa-hong-toner",
+                        "url_path": "nuoc-hoa-hong-toner/c2347",
+                        "product_count": 523,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d1/e6/29/ddc9cc22fb69fb34d1539f3e674f8b77.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 3422,
+                        "text": "Kem chống nắng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "kem-chong-nang",
+                        "url_path": "kem-chong-nang/c3422",
+                        "product_count": 966,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e4/20/b7/4c23c91a72ef6cecfe7b4d78985819ee.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 3426,
+                        "text": "Sản phẩm trị mụn và sẹo",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11683,
+                                "text": "Kem trị mụn",
+                                "url_key": "kem-tri-mun",
+                                "full_url_key": "cham-soc-da-mat/san-pham-tri-mun-va-seo/kem-tri-mun",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11685,
+                                "text": "Lột mụn",
+                                "url_key": "lot-mun",
+                                "full_url_key": "cham-soc-da-mat/san-pham-tri-mun-va-seo/lot-mun",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8306,
+                                "text": "Kem trị sẹo",
+                                "url_key": "kem-tri-seo",
+                                "full_url_key": "cham-soc-da-mat/san-pham-tri-mun-va-seo/kem-tri-seo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5891,
+                                "text": "Miếng dán mụn",
+                                "url_key": "mieng-dan-mun",
+                                "full_url_key": "cham-soc-da-mat/san-pham-tri-mun-va-seo/mieng-dan-mun",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "san-pham-tri-mun-va-seo",
+                        "url_path": "san-pham-tri-mun-va-seo/c3426",
+                        "product_count": 306,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/e0/ee/44/c7c127ba7183d7b60170838df046fcef.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 17170,
+                        "text": "Kem và sữa dưỡng da",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11675,
+                                "text": "Kem chống lão hóa",
+                                "url_key": "kem-chong-lao-hoa",
+                                "full_url_key": "cham-soc-da-mat/kem-va-sua-duong-da/kem-chong-lao-hoa",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11697,
+                                "text": "Kem dưỡng ẩm",
+                                "url_key": "kem-duong-am",
+                                "full_url_key": "cham-soc-da-mat/kem-va-sua-duong-da/kem-duong-am",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11669,
+                                "text": "Kem dưỡng trắng",
+                                "url_key": "kem-duong-trang",
+                                "full_url_key": "cham-soc-da-mat/kem-va-sua-duong-da/kem-duong-trang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68337,
+                                "text": "Kem dưỡng trị mụn và phục hồi",
+                                "url_key": "kem-duong-tri-mun-va-phuc-hoi",
+                                "full_url_key": "cham-soc-da-mat/kem-va-sua-duong-da/kem-duong-tri-mun-va-phuc-hoi",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "kem-va-sua-duong-da",
+                        "url_path": "kem-va-sua-duong-da/c17170",
+                        "product_count": 1983,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fe/eb/a8/07f18c5fbca2d81a44223122a34dbc0f.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 17174,
+                        "text": "Sản phẩm chăm sóc da mặt khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "san-pham-cham-soc-da-mat-khac",
+                        "url_path": "san-pham-cham-soc-da-mat-khac/c17174",
+                        "product_count": 34,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a7/f2/94/a4216b4951a5349c4127ec56e9db5239.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 53350,
+                        "text": "Serum",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11703,
+                                "text": "Serum trị mụn và phục hồi",
+                                "url_key": "serum-tri-mun-va-phuc-hoi",
+                                "full_url_key": "cham-soc-da-mat/serum/serum-tri-mun-va-phuc-hoi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11673,
+                                "text": "Serum chống lão hóa",
+                                "url_key": "serum-chong-lao-hoa",
+                                "full_url_key": "cham-soc-da-mat/serum/serum-chong-lao-hoa",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11695,
+                                "text": "Serum dưỡng ẩm",
+                                "url_key": "serum-duong-am",
+                                "full_url_key": "cham-soc-da-mat/serum/serum-duong-am",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11667,
+                                "text": "Serum dưỡng trắng",
+                                "url_key": "serum-duong-trang",
+                                "full_url_key": "cham-soc-da-mat/serum/serum-duong-trang",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "serum",
+                        "url_path": "serum/c53350",
+                        "product_count": 1586,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a8/bf/15/1fdda8ec4bf2673b32f3a2df7d1724d0.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8227,
+                        "text": "Bộ chăm sóc da mặt",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-cham-soc-da-mat",
+                        "url_path": "bo-cham-soc-da-mat/c8227",
+                        "product_count": 191,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/50/89/61/e8c9bdeb7918de0036b0e3baf8cbf6de.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1583,
+                        "text": "Sữa rửa mặt",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "sua-rua-mat",
+                        "url_path": "sua-rua-mat/c1583",
+                        "product_count": 1464,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/b0/f8/22/03bfb3ceccc1a96eba96492d762f0f20.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8206,
+                        "text": "Tẩy tế bào chết",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 45732,
+                                "text": "Tẩy tế bào chết vật lí",
+                                "url_key": "tay-te-bao-chet-vat-li",
+                                "full_url_key": "cham-soc-da-mat/tay-te-bao-chet/tay-te-bao-chet-vat-li",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 45740,
+                                "text": "Tẩy tế bào chết hóa học",
+                                "url_key": "tay-te-bao-chet-hoa-hoc",
+                                "full_url_key": "cham-soc-da-mat/tay-te-bao-chet/tay-te-bao-chet-hoa-hoc",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "tay-te-bao-chet",
+                        "url_path": "tay-te-bao-chet/c8206",
+                        "product_count": 309,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/af/09/bd/31b0ef3291bdd2aa0c53e52b00b60df4.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11605,
+                        "text": "Dung dịch tẩy trang",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dung-dich-tay-trang",
+                        "url_path": "dung-dich-tay-trang/c11605",
+                        "product_count": 568,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e2/58/2b/1b91f4ba4f0b2764cffc40b393d1f043.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5893,
+                        "text": "Chống lão hóa da",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "chong-lao-hoa-da",
+                        "url_path": "chong-lao-hoa-da/c5893",
+                        "product_count": 36,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bf/2b/95/a7d1680e912022821cbd81e62df80d5c.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5865,
+                        "text": "Bông tẩy trang",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bong-tay-trang",
+                        "url_path": "bong-tay-trang/c5865",
+                        "product_count": 182,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d6/92/1d/da4138e61923a57f55463b1619824007.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 1584,
+                "parent_id": 1520,
+                "text": "Trang điểm ",
+                "type": null,
+                "url_key": "trang-diem",
+                "url_path": "trang-diem/c1584",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 2234,
+                "is_leaf": false,
+                "meta_title": "Mỹ phẩm trang điểm  | Mua mỹ phẩm tốt, chính hãng tại Tiki.vn",
+                "meta_description": "Mỹ phẩm trang điểm cá nhân, bộ mỹ phẩm trang điểm chuyên nghiệp tốt nhất. Mua hàng online tại Tiki.vn: :✓Hàng chính hãng  ✓ Khuyến Mãi Lớn ✓ Giao hàng FREE ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/78/ee/32/8b5111133d4a58b73e7b71a412e8305e.jpg",
+                "children": [
+                    {
+                        "id": 1589,
+                        "text": "Dụng cụ trang điểm",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 8193,
+                                "text": "Cọ, dụng cụ trang điểm",
+                                "url_key": "co-dung-cu-trang-diem",
+                                "full_url_key": "trang-diem/dung-cu-trang-diem/co-dung-cu-trang-diem",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8194,
+                                "text": "Mút trang điểm",
+                                "url_key": "mut-trang-diem",
+                                "full_url_key": "trang-diem/dung-cu-trang-diem/mut-trang-diem",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8196,
+                                "text": "Bấm mi",
+                                "url_key": "bam-mi",
+                                "full_url_key": "trang-diem/dung-cu-trang-diem/bam-mi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8197,
+                                "text": "Nhíp, dao cạo",
+                                "url_key": "nhip-dao-cao",
+                                "full_url_key": "trang-diem/dung-cu-trang-diem/nhip-dao-cao",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8198,
+                                "text": "Gương trang điểm",
+                                "url_key": "guong-trang-diem",
+                                "full_url_key": "trang-diem/dung-cu-trang-diem/guong-trang-diem",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5863,
+                                "text": "Máy đánh kem, trang điểm",
+                                "url_key": "may-danh-kem-trang-diem",
+                                "full_url_key": "trang-diem/dung-cu-trang-diem/may-danh-kem-trang-diem",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8189,
+                                "text": "Lông mi giả",
+                                "url_key": "long-mi-gia",
+                                "full_url_key": "trang-diem/dung-cu-trang-diem/long-mi-gia",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8190,
+                                "text": "Miếng dán mi",
+                                "url_key": "mieng-dan-mi",
+                                "full_url_key": "trang-diem/dung-cu-trang-diem/mieng-dan-mi",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-trang-diem",
+                        "url_path": "dung-cu-trang-diem/c1589",
+                        "product_count": 799,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cb/52/cc/7897e072f88c6b2814d535d5aabb3b3c.JPG",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1585,
+                        "text": "Trang điểm mặt",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 1640,
+                                "text": "Phấn má",
+                                "url_key": "phan-ma",
+                                "full_url_key": "trang-diem/trang-diem-mat/phan-ma",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11759,
+                                "text": "BB cream",
+                                "url_key": "bb-cream",
+                                "full_url_key": "trang-diem/trang-diem-mat/bb-cream",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1600,
+                                "text": "CC cream",
+                                "url_key": "cc-cream",
+                                "full_url_key": "trang-diem/trang-diem-mat/cc-cream",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2346,
+                                "text": "Che khuyết điểm",
+                                "url_key": "che-khuyet-diem",
+                                "full_url_key": "trang-diem/trang-diem-mat/che-khuyet-diem",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1604,
+                                "text": "Kem lót",
+                                "url_key": "kem-lot",
+                                "full_url_key": "trang-diem/trang-diem-mat/kem-lot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8188,
+                                "text": "Highligh, tạo khối",
+                                "url_key": "highligh-tao-khoi",
+                                "full_url_key": "trang-diem/trang-diem-mat/highligh-tao-khoi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1596,
+                                "text": "Phấn nền, kem nền",
+                                "url_key": "phan-nen-kem-nen",
+                                "full_url_key": "trang-diem/trang-diem-mat/phan-nen-kem-nen",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11769,
+                                "text": "Phấn tạo khối",
+                                "url_key": "phan-tao-khoi",
+                                "full_url_key": "trang-diem/trang-diem-mat/phan-tao-khoi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11767,
+                                "text": "Phấn nước",
+                                "url_key": "phan-nuoc",
+                                "full_url_key": "trang-diem/trang-diem-mat/phan-nuoc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1597,
+                                "text": "Phấn phủ",
+                                "url_key": "phan-phu",
+                                "full_url_key": "trang-diem/trang-diem-mat/phan-phu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "trang-diem-mat",
+                        "url_path": "trang-diem-mat/c1585",
+                        "product_count": 505,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/47/e6/e1/9ff59ea79d044f7ecdfe98af57b05037.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1586,
+                        "text": "Trang điểm mắt",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 1605,
+                                "text": "Phấn mắt",
+                                "url_key": "phan-mat",
+                                "full_url_key": "trang-diem/trang-diem-mat/phan-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1607,
+                                "text": "Kẻ mắt",
+                                "url_key": "ke-mat",
+                                "full_url_key": "trang-diem/trang-diem-mat/ke-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1608,
+                                "text": "Kẻ chân mày",
+                                "url_key": "ke-chan-may",
+                                "full_url_key": "trang-diem/trang-diem-mat/ke-chan-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1641,
+                                "text": "Mascara",
+                                "url_key": "mascara",
+                                "full_url_key": "trang-diem/trang-diem-mat/mascara",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8191,
+                                "text": "Kem lót cho mắt",
+                                "url_key": "kem-lot-cho-mat",
+                                "full_url_key": "trang-diem/trang-diem-mat/kem-lot-cho-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11779,
+                                "text": "Sáp, bột nhũ mắt",
+                                "url_key": "sap-bot-nhu-mat",
+                                "full_url_key": "trang-diem/trang-diem-mat/sap-bot-nhu-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "trang-diem-mat",
+                        "url_path": "trang-diem-mat/c1586",
+                        "product_count": 405,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/54/83/b1/1e1045efc0dabf124e6fecee3f9fba38.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1587,
+                        "text": "Son & Trang điểm môi",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 1614,
+                                "text": "Chì kẻ viền môi",
+                                "url_key": "chi-ke-vien-moi",
+                                "full_url_key": "trang-diem/son-trang-diem-moi/chi-ke-vien-moi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1611,
+                                "text": "Son bóng",
+                                "url_key": "son-bong",
+                                "full_url_key": "trang-diem/son-trang-diem-moi/son-bong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11797,
+                                "text": "Son bút",
+                                "url_key": "son-but",
+                                "full_url_key": "trang-diem/son-trang-diem-moi/son-but",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8192,
+                                "text": "Son kem",
+                                "url_key": "son-kem",
+                                "full_url_key": "trang-diem/son-trang-diem-moi/son-kem",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11795,
+                                "text": "Son nền, che khuyết điểm môi",
+                                "url_key": "son-nen-che-khuyet-diem-moi",
+                                "full_url_key": "trang-diem/son-trang-diem-moi/son-nen-che-khuyet-diem-moi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1609,
+                                "text": "Son thỏi",
+                                "url_key": "son-thoi",
+                                "full_url_key": "trang-diem/son-trang-diem-moi/son-thoi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11799,
+                                "text": "Son tint",
+                                "url_key": "son-tint",
+                                "full_url_key": "trang-diem/son-trang-diem-moi/son-tint",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1612,
+                                "text": "Son dưỡng môi, trị thâm",
+                                "url_key": "son-duong-moi-tri-tham",
+                                "full_url_key": "trang-diem/son-trang-diem-moi/son-duong-moi-tri-tham",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 17184,
+                                "text": "Son dưỡng",
+                                "url_key": "son-duong",
+                                "full_url_key": "trang-diem/son-trang-diem-moi/son-duong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68186,
+                                "text": "Son gió",
+                                "url_key": "son-gio",
+                                "full_url_key": "trang-diem/son-trang-diem-moi/son-gio",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68187,
+                                "text": "Son lì",
+                                "url_key": "son-li",
+                                "full_url_key": "trang-diem/son-trang-diem-moi/son-li",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68188,
+                                "text": "Son nhũ",
+                                "url_key": "son-nhu",
+                                "full_url_key": "trang-diem/son-trang-diem-moi/son-nhu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "son-trang-diem-moi",
+                        "url_path": "son-trang-diem-moi/c1587",
+                        "product_count": 514,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/7f/51/db/6b3e46e7afd75af4a3d8b614bc5c56ea.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 53354,
+                        "text": "Trang điểm khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "trang-diem-khac",
+                        "url_path": "trang-diem-khac/c53354",
+                        "product_count": 8,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/60/37/0d/f3240ec856695d4c3641222ac9597bcd.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8228,
+                        "text": "Bộ trang điểm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-trang-diem",
+                        "url_path": "bo-trang-diem/c8228",
+                        "product_count": 3,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/85/b0/57/4832412fc61c4a7a7e671c783545985e.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 1594,
+                "parent_id": 1520,
+                "text": "Chăm sóc cá nhân",
+                "type": null,
+                "url_key": "cham-soc-ca-nhan",
+                "url_path": "cham-soc-ca-nhan/c1594",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 2585,
+                "is_leaf": false,
+                "meta_title": "Sản phẩm chăm sóc cá nhân » Mua hàng online giá rẻ hơn tại Tiki.vn .",
+                "meta_description": "Tìm mua các sản phẩm: kem đánh răng, bàn chải, băng vệ sinh, bao cao su... tại Tiki.vn : ✓ Hàng chính hãng  ✓ Giá rẻ hơn  ✓ Giao hàng tận nơi miễn phí.",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/29/c2/17/181c4a042032c5621d8248c157114fbd.jpg",
+                "children": [
+                    {
+                        "id": 1752,
+                        "text": "Dung dịch vệ sinh",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68166,
+                                "text": "Dung dịch vệ sinh nam",
+                                "url_key": "dung-dich-ve-sinh-nam",
+                                "full_url_key": "cham-soc-ca-nhan/dung-dich-ve-sinh/dung-dich-ve-sinh-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68167,
+                                "text": "Dung dịch vệ sinh phụ nữ",
+                                "url_key": "dung-dich-ve-sinh-phu-nu",
+                                "full_url_key": "cham-soc-ca-nhan/dung-dich-ve-sinh/dung-dich-ve-sinh-phu-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dung-dich-ve-sinh",
+                        "url_path": "dung-dich-ve-sinh/c1752",
+                        "product_count": 350,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9e/56/8a/bc1051c0ebf57aa97af66929d04e0b61.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 17186,
+                        "text": "Sản phẩm chăm sóc cá nhân khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "san-pham-cham-soc-ca-nhan-khac",
+                        "url_path": "san-pham-cham-soc-ca-nhan-khac/c17186",
+                        "product_count": 375,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4d/87/29/a15e70f11cec8bf0baefbccd3d81d20c.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8300,
+                        "text": "Băng vệ sinh, cốc nguyệt san",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68608,
+                                "text": "Băng vệ sinh quần",
+                                "url_key": "bang-ve-sinh-quan",
+                                "full_url_key": "cham-soc-ca-nhan/bang-ve-sinh-coc-nguyet-san/bang-ve-sinh-quan",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68610,
+                                "text": "Cốc nguyệt san",
+                                "url_key": "coc-nguyet-san",
+                                "full_url_key": "cham-soc-ca-nhan/bang-ve-sinh-coc-nguyet-san/coc-nguyet-san",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68611,
+                                "text": "Tampon",
+                                "url_key": "tampon",
+                                "full_url_key": "cham-soc-ca-nhan/bang-ve-sinh-coc-nguyet-san/tampon",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "bang-ve-sinh-coc-nguyet-san",
+                        "url_path": "bang-ve-sinh-coc-nguyet-san/c8300",
+                        "product_count": 436,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d3/e4/45/da7b9b5ca2126f99dfaa71bce92e59d9.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 4408,
+                        "text": "Khăn giấy ướt",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "khan-giay-uot",
+                        "url_path": "khan-giay-uot/c4408",
+                        "product_count": 81,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/90/b3/26/b696ff178e1df68151980f110d30267f.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 3449,
+                        "text": "Sản phẩm tẩy lông",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68540,
+                                "text": "Tẩy lông chân, tay",
+                                "url_key": "tay-long-chan-tay",
+                                "full_url_key": "cham-soc-ca-nhan/san-pham-tay-long/tay-long-chan-tay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68541,
+                                "text": "Tẩy lông mặt",
+                                "url_key": "tay-long-mat",
+                                "full_url_key": "cham-soc-ca-nhan/san-pham-tay-long/tay-long-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68542,
+                                "text": "Tẩy lông nách",
+                                "url_key": "tay-long-nach",
+                                "full_url_key": "cham-soc-ca-nhan/san-pham-tay-long/tay-long-nach",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68543,
+                                "text": "Tẩy lông vùng kín",
+                                "url_key": "tay-long-vung-kin",
+                                "full_url_key": "cham-soc-ca-nhan/san-pham-tay-long/tay-long-vung-kin",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "san-pham-tay-long",
+                        "url_path": "san-pham-tay-long/c3449",
+                        "product_count": 95,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/de/dd/5b/f1f0295d575a98c03418f1abb7af1aa3.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 17162,
+                        "text": "Lăn, xịt khử mùi",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11745,
+                                "text": "Khử mùi cho cả nam, nữ",
+                                "url_key": "khu-mui-cho-ca-nam-nu",
+                                "full_url_key": "cham-soc-ca-nhan/lan-xit-khu-mui/khu-mui-cho-ca-nam-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68587,
+                                "text": "Khử mùi cho nam",
+                                "url_key": "khu-mui-cho-nam",
+                                "full_url_key": "cham-soc-ca-nhan/lan-xit-khu-mui/khu-mui-cho-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68588,
+                                "text": "Khử mùi cho nữ",
+                                "url_key": "khu-mui-cho-nu",
+                                "full_url_key": "cham-soc-ca-nhan/lan-xit-khu-mui/khu-mui-cho-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "lan-xit-khu-mui",
+                        "url_path": "lan-xit-khu-mui/c17162",
+                        "product_count": 448,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/8b/0a/d8/69c63e970918417c63318c6f14fa2c6b.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2162,
+                        "text": "Chăm sóc mắt",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "cham-soc-mat",
+                        "url_path": "cham-soc-mat/c2162",
+                        "product_count": 22,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/97/b8/cb/266c6a511cc0bf06eff720f55cef6614.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 1592,
+                "parent_id": 1520,
+                "text": "Chăm sóc cơ thể",
+                "type": null,
+                "url_key": "cham-soc-co-the",
+                "url_path": "cham-soc-co-the/c1592",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 2349,
+                "is_leaf": false,
+                "meta_title": "Mua sản phẩm chăm sóc cơ thể an toàn & chất lượng | giá rẻ hơn tại Tiki.vn",
+                "meta_description": "Các sản phẩm chăm sóc cơ thể tốt nhất. Mua hàng online tại Tiki.vn: ✓ Hàng chính hãng  ✓ Giá rẻ hơn  ✓ Giao hàng tận nơi miễn phí.",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/ea/6b/52/3762c448e512e7ce406ba40af878d8aa.png",
+                "children": [
+                    {
+                        "id": 11757,
+                        "text": "Bộ chăm sóc toàn thân",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 10225,
+                                "text": "Bộ chăm sóc tóc và cơ thể",
+                                "url_key": "bo-cham-soc-toc-va-co-the",
+                                "full_url_key": "cham-soc-co-the/bo-cham-soc-toan-than/bo-cham-soc-toc-va-co-the",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 17460,
+                                "text": "Bộ sản phẩm chăm sóc cơ thể",
+                                "url_key": "bo-san-pham-cham-soc-co-the",
+                                "full_url_key": "cham-soc-co-the/bo-cham-soc-toan-than/bo-san-pham-cham-soc-co-the",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 10218,
+                                "text": "Bộ sản phẩm tiêu dùng cho nữ",
+                                "url_key": "bo-san-pham-tieu-dung-cho-nu",
+                                "full_url_key": "cham-soc-co-the/bo-cham-soc-toan-than/bo-san-pham-tieu-dung-cho-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 10220,
+                                "text": "Bộ chăm sóc toàn thân khác",
+                                "url_key": "bo-cham-soc-toan-than-khac",
+                                "full_url_key": "cham-soc-co-the/bo-cham-soc-toan-than/bo-cham-soc-toan-than-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "bo-cham-soc-toan-than",
+                        "url_path": "bo-cham-soc-toan-than/c11757",
+                        "product_count": 26,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/17/e2/50/13f442d365424cdc916a0324b497a4a8.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8218,
+                        "text": "Chăm sóc ngực",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11749,
+                                "text": "Sản phẩm làm hồng nhũ hoa",
+                                "url_key": "san-pham-lam-hong-nhu-hoa",
+                                "full_url_key": "cham-soc-co-the/cham-soc-nguc/san-pham-lam-hong-nhu-hoa",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11751,
+                                "text": "Kem nở và săn chắc ngực",
+                                "url_key": "kem-no-va-san-chac-nguc",
+                                "full_url_key": "cham-soc-co-the/cham-soc-nguc/kem-no-va-san-chac-nguc",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cham-soc-nguc",
+                        "url_path": "cham-soc-nguc/c8218",
+                        "product_count": 20,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1610,
+                        "text": "Dưỡng Thể",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 8216,
+                                "text": "Dưỡng ẩm",
+                                "url_key": "duong-am",
+                                "full_url_key": "cham-soc-co-the/duong-the/duong-am",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8217,
+                                "text": "Dưỡng trắng",
+                                "url_key": "duong-trang",
+                                "full_url_key": "cham-soc-co-the/duong-the/duong-trang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11731,
+                                "text": "Săn chắc da",
+                                "url_key": "san-chac-da",
+                                "full_url_key": "cham-soc-co-the/duong-the/san-chac-da",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 4413,
+                                "text": "Sữa dưỡng thể",
+                                "url_key": "sua-duong-the",
+                                "full_url_key": "cham-soc-co-the/duong-the/sua-duong-the",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68539,
+                                "text": "Dầu dưỡng thể",
+                                "url_key": "dau-duong-the",
+                                "full_url_key": "cham-soc-co-the/duong-the/dau-duong-the",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "duong-the",
+                        "url_path": "duong-the/c1610",
+                        "product_count": 525,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/57/33/55/13d986c9a4a20ffbaa34f0c7565cf1f6.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11755,
+                        "text": "Kem tan mỡ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "kem-tan-mo",
+                        "url_path": "kem-tan-mo/c11755",
+                        "product_count": 40,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/62/5b/a4/c805ad99da12b9977789d7c967662655.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11733,
+                        "text": "Massage toàn thân",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11735,
+                                "text": "Tinh dầu massage",
+                                "url_key": "tinh-dau-massage",
+                                "full_url_key": "cham-soc-co-the/massage-toan-than/tinh-dau-massage",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11737,
+                                "text": "Kem massage",
+                                "url_key": "kem-massage",
+                                "full_url_key": "cham-soc-co-the/massage-toan-than/kem-massage",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "massage-toan-than",
+                        "url_path": "massage-toan-than/c11733",
+                        "product_count": 101,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7f/a5/c7/047828da954de2009f39d63150655e28.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1617,
+                        "text": "Sản phẩm khử mùi",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11747,
+                                "text": "Xịt toàn thân",
+                                "url_key": "xit-toan-than",
+                                "full_url_key": "cham-soc-co-the/san-pham-khu-mui/xit-toan-than",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "san-pham-khu-mui",
+                        "url_path": "san-pham-khu-mui/c1617",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/36/46/56/3a1e39e78cb9bce95fbd76f6f6b970a1.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8212,
+                        "text": "Tắm và dụng cụ tắm",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 13878,
+                                "text": "Dụng cụ tắm",
+                                "url_key": "dung-cu-tam",
+                                "full_url_key": "cham-soc-co-the/tam-va-dung-cu-tam/dung-cu-tam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2348,
+                                "text": "Muối tắm",
+                                "url_key": "muoi-tam",
+                                "full_url_key": "cham-soc-co-the/tam-va-dung-cu-tam/muoi-tam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11729,
+                                "text": "Tinh dầu tắm",
+                                "url_key": "tinh-dau-tam",
+                                "full_url_key": "cham-soc-co-the/tam-va-dung-cu-tam/tinh-dau-tam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1598,
+                                "text": "Sữa tắm",
+                                "url_key": "sua-tam",
+                                "full_url_key": "cham-soc-co-the/tam-va-dung-cu-tam/sua-tam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1602,
+                                "text": "Xà phòng tắm",
+                                "url_key": "xa-phong-tam",
+                                "full_url_key": "cham-soc-co-the/tam-va-dung-cu-tam/xa-phong-tam",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "tam-va-dung-cu-tam",
+                        "url_path": "tam-va-dung-cu-tam/c8212",
+                        "product_count": 1227,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/ad/a7/1a734f6f2bb574293aabbf8aa4b70d83.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1615,
+                        "text": "Sản phẩm chống nắng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11739,
+                                "text": "Chống nắng dạng xịt",
+                                "url_key": "chong-nang-dang-xit",
+                                "full_url_key": "cham-soc-co-the/san-pham-chong-nang/chong-nang-dang-xit",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11741,
+                                "text": "Chống nắng dạng kem",
+                                "url_key": "chong-nang-dang-kem",
+                                "full_url_key": "cham-soc-co-the/san-pham-chong-nang/chong-nang-dang-kem",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11743,
+                                "text": "Chống nắng dạng lotion",
+                                "url_key": "chong-nang-dang-lotion",
+                                "full_url_key": "cham-soc-co-the/san-pham-chong-nang/chong-nang-dang-lotion",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 17160,
+                                "text": "Sản phẩm chống nắng khác",
+                                "url_key": "san-pham-chong-nang-khac",
+                                "full_url_key": "cham-soc-co-the/san-pham-chong-nang/san-pham-chong-nang-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "san-pham-chong-nang",
+                        "url_path": "san-pham-chong-nang/c1615",
+                        "product_count": 38,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/19/c8/b9/1ceaa0cc0f35bf5599c19fe5fe1936c5.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1619,
+                        "text": "Tẩy tế bào chết, massage",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 8221,
+                                "text": "Massage",
+                                "url_key": "massage",
+                                "full_url_key": "cham-soc-co-the/tay-te-bao-chet-massage/massage",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "tay-te-bao-chet-massage",
+                        "url_path": "tay-te-bao-chet-massage/c1619",
+                        "product_count": 11,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/54/5b/74/3125c85bfcb5c71f9245ed7a68122fc5.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11753,
+                        "text": "Trị rạn nứt da",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tri-ran-nut-da",
+                        "url_path": "tri-ran-nut-da/c11753",
+                        "product_count": 57,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0a/f7/56/e4d9eaa4805d3c7ff507e32f879cfb58.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8308,
+                        "text": "Sản phẩm sạch khuẩn",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "san-pham-sach-khuan",
+                        "url_path": "san-pham-sach-khuan/c8308",
+                        "product_count": 33,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d0/e6/e4/93aa3f3d3d7c4161cb7c7981f9a9c284.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8309,
+                        "text": "Sản phẩm chăm sóc cơ thể khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "san-pham-cham-soc-co-the-khac",
+                        "url_path": "san-pham-cham-soc-co-the-khac/c8309",
+                        "product_count": 71,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/54/e9/f6/46752e35e7f110d2814d734778f1aa19.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8226,
+                        "text": "Bộ chăm sóc cơ thể",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-cham-soc-co-the",
+                        "url_path": "bo-cham-soc-co-the/c8226",
+                        "product_count": 42,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/85/fb/43/e631976745c210203f2056a76dc5d4e6.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8229,
+                        "text": "Bộ chăm sóc tóc và da đầu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-cham-soc-toc-va-da-dau",
+                        "url_path": "bo-cham-soc-toc-va-da-dau/c8229",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/73/44/68/87db40e477c42bbcaf8fdf4c3d12e3c6.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8220,
+                        "text": "Tẩy tế bào chết cơ thể",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tay-te-bao-chet-co-the",
+                        "url_path": "tay-te-bao-chet-co-the/c8220",
+                        "product_count": 155,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/92/0b/4e/ebc3d4f3dce3eb2766c9b1ba910ee40a.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 5873,
+                "parent_id": 1520,
+                "text": "Sản phẩm thiên nhiên & Khác",
+                "type": null,
+                "url_key": "san-pham-thien-nhien-khac",
+                "url_path": "san-pham-thien-nhien-khac/c5873",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 2154,
+                "is_leaf": false,
+                "meta_title": "Sản phẩm thiên nhiên & Khác",
+                "meta_description": "Sản phẩm thiên nhiên & Khác",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/b3/f7/7b/3a5b36066dfd0b21dd00cd0a758a5786.png",
+                "children": [
+                    {
+                        "id": 8602,
+                        "text": "Tinh dầu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tinh-dau",
+                        "url_path": "tinh-dau/c8602",
+                        "product_count": 1675,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/59/44/5e/46b5850dca9f128789ef2308bb9d50c2.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8224,
+                        "text": "Nến thơm",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "nen-thom",
+                        "url_path": "nen-thom/c8224",
+                        "product_count": 138,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/ba/53/fc/475e6db8269e4160ed1b3b03c32f9966.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11868,
+                        "text": "Sản phẩm thiên nhiên làm đẹp",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "san-pham-thien-nhien-lam-dep",
+                        "url_path": "san-pham-thien-nhien-lam-dep/c11868",
+                        "product_count": 155,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/69/f2/b4/29b09b2a419d5c790caec80fe5db3734.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8225,
+                        "text": "Đèn xông",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "den-xong",
+                        "url_path": "den-xong/c8225",
+                        "product_count": 156,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d0/88/70/d09abc378736e1dbf97cf3e7c8633c44.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 1591,
+                "parent_id": 1520,
+                "text": "Chăm sóc tóc và da đầu",
+                "type": null,
+                "url_key": "cham-soc-toc-da-dau",
+                "url_path": "cham-soc-toc-da-dau/c1591",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 2233,
+                "is_leaf": false,
+                "meta_title": "Sản phẩm chăm sóc tóc và da đầu » Mua mỹ phẩm online tại Tiki.vn",
+                "meta_description": "Các sản phẩm dầu gội, dầu xả, dưỡng tóc, gel tạo kiểu tốt nhất, cho mọi loại da đầu. Mua hàng online tại Tiki.vn: ✓ Giá rẻ hơn ✓ Chính hãng ✓Giao hàng Free",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/cd/b0/24/3e54b98c5cd49a36002144e580fb72af.jpg",
+                "children": [
+                    {
+                        "id": 8222,
+                        "text": "Dầu gội, dầu xả",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 1613,
+                                "text": "Dầu Gội",
+                                "url_key": "dau-goi",
+                                "full_url_key": "cham-soc-toc-da-dau/dau-goi-dau-xa/dau-goi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1616,
+                                "text": "Dầu Xả",
+                                "url_key": "dau-xa",
+                                "full_url_key": "cham-soc-toc-da-dau/dau-goi-dau-xa/dau-xa",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8223,
+                                "text": "Bộ dầu gội, xả",
+                                "url_key": "bo-dau-goi-xa",
+                                "full_url_key": "cham-soc-toc-da-dau/dau-goi-dau-xa/bo-dau-goi-xa",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 5884,
+                                "text": "Gội xả 2in1",
+                                "url_key": "goi-xa-2in1",
+                                "full_url_key": "cham-soc-toc-da-dau/dau-goi-dau-xa/goi-xa-2in1",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68296,
+                                "text": "Dầu gội khô",
+                                "url_key": "dau-goi-kho",
+                                "full_url_key": "cham-soc-toc-da-dau/dau-goi-dau-xa/dau-goi-kho",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dau-goi-dau-xa",
+                        "url_path": "dau-goi-dau-xa/c8222",
+                        "product_count": 1323,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/99/e0/02/ef632ad248cbb0ed5057b05c5bee4e4c.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1620,
+                        "text": "Tạo kiểu tóc",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11827,
+                                "text": "Gel, sáp vuốt tóc",
+                                "url_key": "gel-sap-vuot-toc",
+                                "full_url_key": "cham-soc-toc-da-dau/tao-kieu-toc/gel-sap-vuot-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11829,
+                                "text": "Keo xịt tóc",
+                                "url_key": "keo-xit-toc",
+                                "full_url_key": "cham-soc-toc-da-dau/tao-kieu-toc/keo-xit-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 17180,
+                                "text": "Tạo kiểu tóc khác",
+                                "url_key": "tao-kieu-toc-khac",
+                                "full_url_key": "cham-soc-toc-da-dau/tao-kieu-toc/tao-kieu-toc-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11815,
+                                "text": "Thuốc duỗi, uốn",
+                                "url_key": "thuoc-duoi-uon",
+                                "full_url_key": "cham-soc-toc-da-dau/tao-kieu-toc/thuoc-duoi-uon",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "tao-kieu-toc",
+                        "url_path": "tao-kieu-toc/c1620",
+                        "product_count": 120,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1623,
+                        "text": "Thuốc nhuộm tóc",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68286,
+                                "text": "Nhuộm tóc lâu dài",
+                                "url_key": "nhuom-toc-lau-dai",
+                                "full_url_key": "cham-soc-toc-da-dau/thuoc-nhuom/nhuom-toc-lau-dai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68287,
+                                "text": "Nhuộm tóc tạm thời",
+                                "url_key": "nhuom-toc-tam-thoi",
+                                "full_url_key": "cham-soc-toc-da-dau/thuoc-nhuom/nhuom-toc-tam-thoi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68288,
+                                "text": "Rửa màu tóc nhuộm",
+                                "url_key": "rua-mau-toc-nhuom",
+                                "full_url_key": "cham-soc-toc-da-dau/thuoc-nhuom/rua-mau-toc-nhuom",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thuoc-nhuom",
+                        "url_path": "thuoc-nhuom/c1623",
+                        "product_count": 258,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c9/ba/a3/7503750a63340b641145e7b80e2f7bbd.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 7065,
+                        "text": "Dưỡng tóc, ủ tóc",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11817,
+                                "text": "Kem ủ tóc",
+                                "url_key": "kem-u-toc",
+                                "full_url_key": "cham-soc-toc-da-dau/duong-toc-u-toc/kem-u-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11819,
+                                "text": "Mặt nạ tóc",
+                                "url_key": "mat-na-toc",
+                                "full_url_key": "cham-soc-toc-da-dau/duong-toc-u-toc/mat-na-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11821,
+                                "text": "Serum, dầu dưỡng tóc",
+                                "url_key": "serum-dau-duong-toc",
+                                "full_url_key": "cham-soc-toc-da-dau/duong-toc-u-toc/serum-dau-duong-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11823,
+                                "text": "Dầu bóng tóc",
+                                "url_key": "dau-bong-toc",
+                                "full_url_key": "cham-soc-toc-da-dau/duong-toc-u-toc/dau-bong-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11825,
+                                "text": "Xịt dưỡng tóc",
+                                "url_key": "xit-duong-toc",
+                                "full_url_key": "cham-soc-toc-da-dau/duong-toc-u-toc/xit-duong-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 17176,
+                                "text": "Dưỡng tóc khác",
+                                "url_key": "duong-toc-khac",
+                                "full_url_key": "cham-soc-toc-da-dau/duong-toc-u-toc/duong-toc-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 17178,
+                                "text": "Kem ủ, dưỡng tóc khác",
+                                "url_key": "kem-u-duong-toc-khac",
+                                "full_url_key": "cham-soc-toc-da-dau/duong-toc-u-toc/kem-u-duong-toc-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 17182,
+                                "text": "Thuốc nhuộm, duỗi, uốn khác",
+                                "url_key": "thuoc-nhuom-duoi-uon-khac",
+                                "full_url_key": "cham-soc-toc-da-dau/duong-toc-u-toc/thuoc-nhuom-duoi-uon-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "duong-toc-u-toc",
+                        "url_path": "duong-toc-u-toc/c7065",
+                        "product_count": 462,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0a/26/46/fab4b9c3964f1f8f8171fa41f0247a10.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 7061,
+                        "text": "Bộ chăm sóc tóc",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-cham-soc-toc",
+                        "url_path": "bo-cham-soc-toc/c7061",
+                        "product_count": 68,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 1595,
+                "parent_id": 1520,
+                "text": "Nước hoa",
+                "type": null,
+                "url_key": "nuoc-hoa",
+                "url_path": "nuoc-hoa/c1595",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1107,
+                "is_leaf": false,
+                "meta_title": "Nước hoa » Mua sản phẩm nước hoa cao cấp chính hãng tại Tiki.vn",
+                "meta_description": "Tìm mua các loại nước hoa hàng hiệu tốt nhất tại gian hàng nước hoa Tiki.vn: ✓ Hàng chính hãng  ✓ Giá rẻ hơn  ✓ Giao hàng tận nơi miễn phí.  ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/71/10/5a/e166eaa5c28c608a553bda2d96f2d71b.jpg",
+                "children": [
+                    {
+                        "id": 1636,
+                        "text": "Nước hoa nữ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "nuoc-hoa-nu",
+                        "url_path": "nuoc-hoa-nu/c1636",
+                        "product_count": 689,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/52/8e/12/d2d65a461b294fcdeda4cf1a6864a428.jpeg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1637,
+                        "text": "Nước hoa nam",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "nuoc-hoa-nam",
+                        "url_path": "nuoc-hoa-nam/c1637",
+                        "product_count": 353,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f9/f8/26/cafea6713ebe3637f4a6f231f6c3a742.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68189,
+                        "text": "Nước hoa vùng kín",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "nuoc-hoa-vung-kin",
+                        "url_path": "nuoc-hoa-vung-kin/c68189",
+                        "product_count": 13,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/7f/88/2485daaf9d7e0713f0f264b1f4d8c79e.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68190,
+                        "text": "Xịt thơm cơ thể",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xit-thom-co-the",
+                        "url_path": "xit-thom-co-the/c68190",
+                        "product_count": 52,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/32/2e/08/4fc74030352671972eabf7da003fdfc2.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 2306,
+                "parent_id": 1520,
+                "text": "Dụng cụ làm đẹp",
+                "type": null,
+                "url_key": "dung-cu-lam-dep",
+                "url_path": "dung-cu-lam-dep/c2306",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 2531,
+                "is_leaf": false,
+                "meta_title": "Dụng cụ làm đẹp",
+                "meta_description": "Dụng cụ làm đẹp",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/e8/0f/32/070178b08494f334f77cb06c4e4015f8.jpg",
+                "children": [
+                    {
+                        "id": 8167,
+                        "text": "Dụng cụ làm đẹp khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-lam-dep-khac",
+                        "url_path": "dung-cu-lam-dep-khac/c8167",
+                        "product_count": 100,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8166,
+                        "text": "Dụng cụ tạo kiểu tóc",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11831,
+                                "text": "Lô quấn tóc",
+                                "url_key": "lo-quan-toc",
+                                "full_url_key": "dung-cu-lam-dep/dung-cu-tao-kieu-toc/lo-quan-toc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 7064,
+                                "text": "Lược, băng đô",
+                                "url_key": "luoc-bang-do",
+                                "full_url_key": "dung-cu-lam-dep/dung-cu-tao-kieu-toc/luoc-bang-do",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-tao-kieu-toc",
+                        "url_path": "dung-cu-tao-kieu-toc/c8166",
+                        "product_count": 351,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c4/19/02/6255fa745146f36946ead2752347076c.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8165,
+                        "text": "Dụng cụ tẩy lông",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-tay-long",
+                        "url_path": "dung-cu-tay-long/c8165",
+                        "product_count": 122,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8164,
+                        "text": "Massage thư giãn và làm đẹp",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11933,
+                                "text": "Làm thon gọn cơ thể",
+                                "url_key": "lam-thon-gon-co-the",
+                                "full_url_key": "dung-cu-lam-dep/massage-thu-gian-va-lam-dep/lam-thon-gon-co-the",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11935,
+                                "text": "Massage mặt",
+                                "url_key": "massage-mat",
+                                "full_url_key": "dung-cu-lam-dep/massage-thu-gian-va-lam-dep/massage-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "massage-thu-gian-va-lam-dep",
+                        "url_path": "massage-thu-gian-va-lam-dep/c8164",
+                        "product_count": 1051,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/18/c8/ec/0f645b0bf151347e067bee9122bc11f5.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11937,
+                        "text": "Máy xông da mặt",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-xong-da-mat",
+                        "url_path": "may-xong-da-mat/c11937",
+                        "product_count": 60,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1634,
+                        "text": "Dụng cụ cắt tóc",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-cat-toc",
+                        "url_path": "dung-cu-cat-toc/c1634",
+                        "product_count": 213,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1e/8e/e6/5c45a061070e9c5fdb92a65cb3731333.jpeg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5905,
+                        "text": "Máy & Dụng cụ rửa mặt ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11639,
+                                "text": "Máy rửa mặt",
+                                "url_key": "may-rua-mat",
+                                "full_url_key": "dung-cu-lam-dep/may-dung-cu-rua-mat/may-rua-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11641,
+                                "text": "Dụng cụ rửa mặt khác",
+                                "url_key": "dung-cu-rua-mat-khac",
+                                "full_url_key": "dung-cu-lam-dep/may-dung-cu-rua-mat/dung-cu-rua-mat-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68261,
+                                "text": "Bông rửa mặt",
+                                "url_key": "bong-rua-mat",
+                                "full_url_key": "dung-cu-lam-dep/may-dung-cu-rua-mat/bong-rua-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68262,
+                                "text": "Cọ rửa mặt",
+                                "url_key": "co-rua-mat",
+                                "full_url_key": "dung-cu-lam-dep/may-dung-cu-rua-mat/co-rua-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68264,
+                                "text": "Máy đẩy tinh chất",
+                                "url_key": "may-day-tinh-chat",
+                                "full_url_key": "dung-cu-lam-dep/may-dung-cu-rua-mat/may-day-tinh-chat",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-dung-cu-rua-mat",
+                        "url_path": "may-dung-cu-rua-mat/c5905",
+                        "product_count": 119,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8f/1e/45/ecb880c757a06ef5ed64523d3b8a2476.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11689,
+                        "text": "Máy hút mụn",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-hut-mun",
+                        "url_path": "may-hut-mun/c11689",
+                        "product_count": 23,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f4/fe/29/370b37dc27cf7c8677cd46c40580e4b2.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1590,
+                        "text": "Chăm sóc móng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11803,
+                                "text": "Bộ chăm sóc móng",
+                                "url_key": "bo-cham-soc-mong",
+                                "full_url_key": "dung-cu-lam-dep/cham-soc-mong/bo-cham-soc-mong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8205,
+                                "text": "Bộ dụng cụ, phụ kiện làm móng",
+                                "url_key": "bo-dung-cu-phu-kien-lam-mong",
+                                "full_url_key": "dung-cu-lam-dep/cham-soc-mong/bo-dung-cu-phu-kien-lam-mong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8204,
+                                "text": "Bộ màu sơn móng",
+                                "url_key": "bo-mau-son-mong",
+                                "full_url_key": "dung-cu-lam-dep/cham-soc-mong/bo-mau-son-mong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 1622,
+                                "text": "Dụng cụ làm móng",
+                                "url_key": "dung-cu-lam-mong",
+                                "full_url_key": "dung-cu-lam-dep/cham-soc-mong/dung-cu-lam-mong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8202,
+                                "text": "Miếng dán trang trí móng",
+                                "url_key": "mieng-dan-trang-tri-mong",
+                                "full_url_key": "dung-cu-lam-dep/cham-soc-mong/mieng-dan-trang-tri-mong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8199,
+                                "text": "Sơn móng",
+                                "url_key": "son-mong",
+                                "full_url_key": "dung-cu-lam-dep/cham-soc-mong/son-mong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8200,
+                                "text": "Nước tẩy sơn móng, dưỡng móng",
+                                "url_key": "nuoc-tay-son-mong-duong-mong",
+                                "full_url_key": "dung-cu-lam-dep/cham-soc-mong/nuoc-tay-son-mong-duong-mong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8201,
+                                "text": "Móng giả",
+                                "url_key": "mong-gia",
+                                "full_url_key": "dung-cu-lam-dep/cham-soc-mong/mong-gia",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cham-soc-mong",
+                        "url_path": "cham-soc-mong/c1590",
+                        "product_count": 445,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/56/f2/07/20f46d55afa7fc76a6a2178bd76da250.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 68283,
+                        "text": "Dụng cụ tỉa lông mũi",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-tia-long-mui",
+                        "url_path": "dung-cu-tia-long-mui/c68283",
+                        "product_count": 23,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/10/a1/02/bac587b04b04ee602e31814b0bfd39b4.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68285,
+                        "text": "Đai, nịt làm đẹp",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dai-nit-lam-dep",
+                        "url_path": "dai-nit-lam-dep/c68285",
+                        "product_count": 24,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 2307,
+                "parent_id": 1520,
+                "text": "Máy Massage & Thiết bị chăm sóc sức khỏe",
+                "type": null,
+                "url_key": "may-massage-thiet-bi-cham-soc-suc-khoe",
+                "url_path": "may-massage-thiet-bi-cham-soc-suc-khoe/c2307",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 4554,
+                "is_leaf": false,
+                "meta_title": "Máy Massage & Thiết bị chăm sóc sức khỏe",
+                "meta_description": "Máy Massage & Thiết bị chăm sóc sức khỏe",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/63/cf/48/a5f3d737c4121888cacab88f26ea1ce8.jpg",
+                "children": [
+                    {
+                        "id": 11903,
+                        "text": "Dụng cụ theo dõi sức khỏe",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 8168,
+                                "text": "Máy đo huyết áp",
+                                "url_key": "may-do-huyet-ap",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-theo-doi-suc-khoe/may-do-huyet-ap",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11905,
+                                "text": "Máy, que thử đường huyết",
+                                "url_key": "may-que-thu-duong-huyet",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-theo-doi-suc-khoe/may-que-thu-duong-huyet",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11907,
+                                "text": "Máy đo nồng độ oxy máu",
+                                "url_key": "may-do-nong-do-oxy-mau",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-theo-doi-suc-khoe/may-do-nong-do-oxy-mau",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11909,
+                                "text": "Máy đo cholesterol",
+                                "url_key": "may-do-cholesterol",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-theo-doi-suc-khoe/may-do-cholesterol",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11911,
+                                "text": "Đai lưng",
+                                "url_key": "dai-lung",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-theo-doi-suc-khoe/dai-lung",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11913,
+                                "text": "Máy soi ngực",
+                                "url_key": "may-soi-nguc",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-theo-doi-suc-khoe/may-soi-nguc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11915,
+                                "text": "Ống tai nghe",
+                                "url_key": "ong-tai-nghe",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-theo-doi-suc-khoe/ong-tai-nghe",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8171,
+                                "text": "Nhiệt kế",
+                                "url_key": "nhiet-ke",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-theo-doi-suc-khoe/nhiet-ke",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68231,
+                                "text": "Máy đo nhịp tim",
+                                "url_key": "may-do-nhip-tim",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-theo-doi-suc-khoe/may-do-nhip-tim",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8170,
+                                "text": "Cân sức khỏe",
+                                "url_key": "can-suc-khoe",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-theo-doi-suc-khoe/can-suc-khoe",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-theo-doi-suc-khoe",
+                        "url_path": "dung-cu-theo-doi-suc-khoe/c11903",
+                        "product_count": 1073,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7b/fc/c5/5aab9ff6ac1e3b1fa161c27aab3b8892.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11925,
+                        "text": "Máy xông mũi họng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-xong-mui-hong",
+                        "url_path": "may-xong-mui-hong/c11925",
+                        "product_count": 151,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/a9/73/580de3a458c5d39118a3cc8b1beece1b.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11921,
+                        "text": "Que thử thai, rụng trứng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "que-thu-thai-rung-trung",
+                        "url_path": "que-thu-thai-rung-trung/c11921",
+                        "product_count": 42,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9d/fa/c9/642f9c860f8f90bfa1d53f3afe131d92.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 2342,
+                        "text": "Thiết bị y tế chuyên dụng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-y-te-chuyen-dung",
+                        "url_path": "thiet-bi-y-te-chuyen-dung/c2342",
+                        "product_count": 390,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/57/13/41/30451754f56e9f046863ec76dffc8b7b.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8172,
+                        "text": "Thiết bị khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-khac",
+                        "url_path": "thiet-bi-khac/c8172",
+                        "product_count": 369,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0a/81/e3/947f9478912ea2be1cefdf3b38703088.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11923,
+                        "text": "Túi chườm",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68191,
+                                "text": "Chườm lạnh",
+                                "url_key": "chuom-lanh",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/tui-chuom/chuom-lanh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68192,
+                                "text": "Chườm nóng",
+                                "url_key": "chuom-nong",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/tui-chuom/chuom-nong",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "tui-chuom",
+                        "url_path": "tui-chuom/c11923",
+                        "product_count": 195,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8d/51/ca/08259185743fd9ae293134470da1fd78.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11929,
+                        "text": "Dụng cụ sơ cứu",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68233,
+                                "text": "Bộ sơ cứu thương",
+                                "url_key": "bo-so-cuu-thuong",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-so-cuu/bo-so-cuu-thuong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68235,
+                                "text": "Dụng cụ sơ cứu khác",
+                                "url_key": "dung-cu-so-cuu-khac",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-so-cuu/dung-cu-so-cuu-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68236,
+                                "text": "Găng tay y tế",
+                                "url_key": "gang-tay-y-te",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-so-cuu/gang-tay-y-te",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-so-cuu",
+                        "url_path": "dung-cu-so-cuu/c11929",
+                        "product_count": 107,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fe/da/c9/92fb5dfb2c831f81724b1d6b10d81317.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11931,
+                        "text": "Vớ y khoa",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "vo-y-khoa",
+                        "url_path": "vo-y-khoa/c11931",
+                        "product_count": 69,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/56/7a/b5/a388ffcc645105249ad7b29a9e297366.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1633,
+                        "text": "Băng keo cá nhân",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bang-keo-ca-nhan",
+                        "url_path": "bang-keo-ca-nhan/c1633",
+                        "product_count": 6,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/72/cb/b4/006f282ac224764319d8ceacdfbd3149.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8305,
+                        "text": "Khẩu trang y tế",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "khau-trang-y-te",
+                        "url_path": "khau-trang-y-te/c8305",
+                        "product_count": 558,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/58/cd/4b/08a135bfba8ef77c80238bb2bb9ef65e.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68211,
+                        "text": "Hỗ trợ giấc ngủ, giảm ngáy",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ho-tro-giac-ngu-giam-ngay",
+                        "url_path": "ho-tro-giac-ngu-giam-ngay/c68211",
+                        "product_count": 6,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/24/c9/97/933197b24acf9cce6be33e2c889fda54.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11939,
+                        "text": "Dụng cụ định hình",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68251,
+                                "text": "Định hình cánh tay, bàn tay, ngón tay",
+                                "url_key": "dinh-hinh-canh-tay-ban-tay-ngon-tay",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-dinh-hinh/dinh-hinh-canh-tay-ban-tay-ngon-tay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68252,
+                                "text": "Định hình đầu gối, chân, bàn chân",
+                                "url_key": "dinh-hinh-dau-goi-chan-ban-chan",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-dinh-hinh/dinh-hinh-dau-goi-chan-ban-chan",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68253,
+                                "text": "Định hình hông, eo",
+                                "url_key": "dinh-hinh-hong-eo",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-dinh-hinh/dinh-hinh-hong-eo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68254,
+                                "text": "Định hình lưng, vai, cổ",
+                                "url_key": "dinh-hinh-lung-vai-co",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-dinh-hinh/dinh-hinh-lung-vai-co",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68255,
+                                "text": "Hỗ trợ ngực",
+                                "url_key": "ho-tro-nguc",
+                                "full_url_key": "may-massage-thiet-bi-cham-soc-suc-khoe/dung-cu-dinh-hinh/ho-tro-nguc",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-dinh-hinh",
+                        "url_path": "dung-cu-dinh-hinh/c11939",
+                        "product_count": 222,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1b/7e/6b/c8ac9300c12b92693d525ba31f9c0c0d.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 2322,
+                "parent_id": 1520,
+                "text": "Thực phẩm chức năng",
+                "type": null,
+                "url_key": "thuc-pham-chuc-nang",
+                "url_path": "thuc-pham-chuc-nang/c2322",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 6990,
+                "is_leaf": false,
+                "meta_title": "Thực Phẩm Chức Năng, chất lượng cao | mua rẻ hơn tại Tiki.vn",
+                "meta_description": "Thực phẩm chức năng có tác dụng hỗ trợ (phục hồi, duy trì hoặc tăng cường) chức năng của các bộ phận trong cơ thể, có hoặc không tác dụng dinh dưỡng, tạo cho cơ thể tình trạng thoải mái, tăng sức đề kháng và giảm bớt nguy cơ bệnh tật.",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/4f/c2/fb/001c5598318372fc4acad9e39b6344ce.jpg",
+                "children": [
+                    {
+                        "id": 2826,
+                        "text": "Thực phẩm chức năng làm đẹp",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11851,
+                                "text": "Chăm sóc tóc và móng",
+                                "url_key": "cham-soc-toc-va-mong",
+                                "full_url_key": "thuc-pham-chuc-nang/thuc-pham-cho-sac-sep/cham-soc-toc-va-mong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11855,
+                                "text": "Tăng kích cỡ ngực",
+                                "url_key": "tang-kich-co-nguc",
+                                "full_url_key": "thuc-pham-chuc-nang/thuc-pham-cho-sac-sep/tang-kich-co-nguc",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56036,
+                                "text": "Collagen",
+                                "url_key": "collagen",
+                                "full_url_key": "thuc-pham-chuc-nang/thuc-pham-cho-sac-sep/collagen",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56037,
+                                "text": "Hỗ trợ chăm sóc da",
+                                "url_key": "ho-tro-cham-soc-da",
+                                "full_url_key": "thuc-pham-chuc-nang/thuc-pham-cho-sac-sep/ho-tro-cham-soc-da",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56038,
+                                "text": "Thơm cơ thể",
+                                "url_key": "thom-co-the",
+                                "full_url_key": "thuc-pham-chuc-nang/thuc-pham-cho-sac-sep/thom-co-the",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11891,
+                                "text": "Kiểm soát cân nặng",
+                                "url_key": "kiem-soat-can-nang",
+                                "full_url_key": "thuc-pham-chuc-nang/thuc-pham-cho-sac-sep/kiem-soat-can-nang",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thuc-pham-cho-sac-sep",
+                        "url_path": "thuc-pham-cho-sac-sep/c2826",
+                        "product_count": 1164,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/e7/cf/f37b18d371ad78fde867fd30a9b0e1d4.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2827,
+                        "text": "Thực phẩm chức năng thiên nhiên",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 11885,
+                                "text": "Nhân Sâm, Hồng Sâm",
+                                "url_key": "nhan-sam-hong-sam",
+                                "full_url_key": "thuc-pham-chuc-nang/san-pham-thao-moc-thuc-uong/nhan-sam-hong-sam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11887,
+                                "text": "Tỏi đen",
+                                "url_key": "toi-den",
+                                "full_url_key": "thuc-pham-chuc-nang/san-pham-thao-moc-thuc-uong/toi-den",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11889,
+                                "text": "Nghệ",
+                                "url_key": "nghe",
+                                "full_url_key": "thuc-pham-chuc-nang/san-pham-thao-moc-thuc-uong/nghe",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56040,
+                                "text": "Tảo",
+                                "url_key": "tao",
+                                "full_url_key": "thuc-pham-chuc-nang/san-pham-thao-moc-thuc-uong/tao",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56041,
+                                "text": "Sản phẩm từ ong",
+                                "url_key": "san-pham-tu-ong",
+                                "full_url_key": "thuc-pham-chuc-nang/san-pham-thao-moc-thuc-uong/san-pham-tu-ong",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "san-pham-thao-moc-thuc-uong",
+                        "url_path": "san-pham-thao-moc-thuc-uong/c2827",
+                        "product_count": 1042,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0c/af/89/46b0eed30b90df071620afca48e58522.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 55950,
+                        "text": "Vitamin và Khoáng chất",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 55951,
+                                "text": "Canxi",
+                                "url_key": "canxi",
+                                "full_url_key": "thuc-pham-chuc-nang/vitamin-va-khoang-chat/canxi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 55952,
+                                "text": "Kẽm",
+                                "url_key": "kem",
+                                "full_url_key": "thuc-pham-chuc-nang/vitamin-va-khoang-chat/kem",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 55953,
+                                "text": "Magie",
+                                "url_key": "magie",
+                                "full_url_key": "thuc-pham-chuc-nang/vitamin-va-khoang-chat/magie",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 55954,
+                                "text": "Sắt",
+                                "url_key": "sat",
+                                "full_url_key": "thuc-pham-chuc-nang/vitamin-va-khoang-chat/sat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 55955,
+                                "text": "Vitamin A",
+                                "url_key": "vitamin-a",
+                                "full_url_key": "thuc-pham-chuc-nang/vitamin-va-khoang-chat/vitamin-a",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 55956,
+                                "text": "Vitamin B",
+                                "url_key": "vitamin-b",
+                                "full_url_key": "thuc-pham-chuc-nang/vitamin-va-khoang-chat/vitamin-b",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 55957,
+                                "text": "Vitamin C",
+                                "url_key": "vitamin-c",
+                                "full_url_key": "thuc-pham-chuc-nang/vitamin-va-khoang-chat/vitamin-c",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 55958,
+                                "text": "Vitamin D",
+                                "url_key": "vitamin-d",
+                                "full_url_key": "thuc-pham-chuc-nang/vitamin-va-khoang-chat/vitamin-d",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 55959,
+                                "text": "Vitamin E",
+                                "url_key": "vitamin-e",
+                                "full_url_key": "thuc-pham-chuc-nang/vitamin-va-khoang-chat/vitamin-e",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11857,
+                                "text": "Vitamin tổng hợp",
+                                "url_key": "vitamin-tong-hop",
+                                "full_url_key": "thuc-pham-chuc-nang/vitamin-va-khoang-chat/vitamin-tong-hop",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "vitamin-va-khoang-chat",
+                        "url_path": "vitamin-va-khoang-chat/c55950",
+                        "product_count": 684,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d9/5b/af/2280b8108e42b7e97d08a5bd3ab5c633.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 56014,
+                        "text": "Cơ xương khớp",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 56015,
+                                "text": "Dầu xoa bóp",
+                                "url_key": "dau-xoa-bop",
+                                "full_url_key": "thuc-pham-chuc-nang/co-xuong-khop/dau-xoa-bop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56016,
+                                "text": "Tăng chiều cao",
+                                "url_key": "tang-chieu-cao",
+                                "full_url_key": "thuc-pham-chuc-nang/co-xuong-khop/tang-chieu-cao",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11859,
+                                "text": "Hỗ trợ xương khớp",
+                                "url_key": "ho-tro-xuong-khop",
+                                "full_url_key": "thuc-pham-chuc-nang/co-xuong-khop/ho-tro-xuong-khop",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "co-xuong-khop",
+                        "url_path": "co-xuong-khop/c56014",
+                        "product_count": 625,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7c/db/e8/8a714ad68c39054a206576e1b2e16f06.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11861,
+                        "text": "Hỗ trợ trí não",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 56017,
+                                "text": "Cải thiện trí nhớ",
+                                "url_key": "cai-thien-tri-nho",
+                                "full_url_key": "thuc-pham-chuc-nang/ho-tro-tri-nao/cai-thien-tri-nho",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56018,
+                                "text": "Hỗ trợ giấc ngủ",
+                                "url_key": "ho-tro-giac-ngu",
+                                "full_url_key": "thuc-pham-chuc-nang/ho-tro-tri-nao/ho-tro-giac-ngu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ho-tro-tri-nao",
+                        "url_path": "ho-tro-tri-nao/c11861",
+                        "product_count": 385,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ec/e1/25/3a80e31721dfb45cfb4936bcf7f264ff.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11869,
+                        "text": "Hỗ trợ tiêu hóa",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 56019,
+                                "text": "Men vi sinh",
+                                "url_key": "men-vi-sinh",
+                                "full_url_key": "thuc-pham-chuc-nang/ho-tro-tieu-hoa/men-vi-sinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56021,
+                                "text": "Hỗ trợ dạ dày",
+                                "url_key": "ho-tro-da-day",
+                                "full_url_key": "thuc-pham-chuc-nang/ho-tro-tieu-hoa/ho-tro-da-day",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56022,
+                                "text": "Hỗ trợ bệnh trĩ",
+                                "url_key": "ho-tro-benh-tri",
+                                "full_url_key": "thuc-pham-chuc-nang/ho-tro-tieu-hoa/ho-tro-benh-tri",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56024,
+                                "text": "Bổ sung chất xơ",
+                                "url_key": "bo-sung-chat-xo",
+                                "full_url_key": "thuc-pham-chuc-nang/ho-tro-tieu-hoa/bo-sung-chat-xo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56025,
+                                "text": "Hỗ trợ tiêu hóa khác",
+                                "url_key": "ho-tro-tieu-hoa-khac",
+                                "full_url_key": "thuc-pham-chuc-nang/ho-tro-tieu-hoa/ho-tro-tieu-hoa-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ho-tro-tieu-hoa",
+                        "url_path": "ho-tro-tieu-hoa/c11869",
+                        "product_count": 421,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b6/69/da/55ff8c8cb39496c39e6cbb513b7d92ff.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11867,
+                        "text": "Hỗ trợ mắt",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 56020,
+                                "text": "Bổ mắt",
+                                "url_key": "bo-mat",
+                                "full_url_key": "thuc-pham-chuc-nang/ho-tro-mat/bo-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56023,
+                                "text": "Dung dịch nhỏ mắt",
+                                "url_key": "dung-dich-nho-mat",
+                                "full_url_key": "thuc-pham-chuc-nang/ho-tro-mat/dung-dich-nho-mat",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ho-tro-mat",
+                        "url_path": "ho-tro-mat/c11867",
+                        "product_count": 160,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/05/75/4d/da4aa00f5ff6b279343b7ba59be775a3.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11871,
+                        "text": "Hỗ trợ tim mạch",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 56026,
+                                "text": "Giảm Cholesterol",
+                                "url_key": "giam-cholesterol",
+                                "full_url_key": "thuc-pham-chuc-nang/ho-tro-tim-mach/giam-cholesterol",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56027,
+                                "text": "Ổn định huyết áp",
+                                "url_key": "on-dinh-huyet-ap",
+                                "full_url_key": "thuc-pham-chuc-nang/ho-tro-tim-mach/on-dinh-huyet-ap",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56028,
+                                "text": "Hỗ trợ tai biến",
+                                "url_key": "ho-tro-tai-bien",
+                                "full_url_key": "thuc-pham-chuc-nang/ho-tro-tim-mach/ho-tro-tai-bien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56029,
+                                "text": "Hỗ trợ tim mạch khác",
+                                "url_key": "ho-tro-tim-mach-khac",
+                                "full_url_key": "thuc-pham-chuc-nang/ho-tro-tim-mach/ho-tro-tim-mach-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ho-tro-tim-mach",
+                        "url_path": "ho-tro-tim-mach/c11871",
+                        "product_count": 215,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/86/3a/58/49e3fcb1b93bc7838a3764f2b3afcd0f.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11873,
+                        "text": "Tăng cường hệ miễn dịch",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tang-cuong-he-mien-dich",
+                        "url_path": "tang-cuong-he-mien-dich/c11873",
+                        "product_count": 905,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c9/c7/e8/3023672a48b2c67c7d48a84fe145498b.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11863,
+                        "text": "Hỗ trợ tiểu đường",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ho-tro-tieu-duong",
+                        "url_path": "ho-tro-tieu-duong/c11863",
+                        "product_count": 76,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a6/75/f4/db5922315ff863fd1a301f49f3bf7848.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11875,
+                        "text": "Thải độc cơ thể",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 56031,
+                                "text": "Giải rượu",
+                                "url_key": "giai-ruou",
+                                "full_url_key": "thuc-pham-chuc-nang/thai-doc-co-the/giai-ruou",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56032,
+                                "text": "Thải độc gan",
+                                "url_key": "thai-doc-gan",
+                                "full_url_key": "thuc-pham-chuc-nang/thai-doc-co-the/thai-doc-gan",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56033,
+                                "text": "Thải độc cơ thể khác",
+                                "url_key": "thai-doc-co-the-khac",
+                                "full_url_key": "thuc-pham-chuc-nang/thai-doc-co-the/thai-doc-co-the-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thai-doc-co-the",
+                        "url_path": "thai-doc-co-the/c11875",
+                        "product_count": 351,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bc/cb/7f/473e1d9c8104331491f0189b1ca65f06.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 56030,
+                        "text": "Sinh lý - Nội tiết tố",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 56034,
+                                "text": "Tăng cường sinh lý",
+                                "url_key": "tang-cuong-sinh-ly",
+                                "full_url_key": "thuc-pham-chuc-nang/sinh-ly-noi-tiet-to/tang-cuong-sinh-ly",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11879,
+                                "text": "Sinh lý nam",
+                                "url_key": "sinh-ly-nam",
+                                "full_url_key": "thuc-pham-chuc-nang/sinh-ly-noi-tiet-to/sinh-ly-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 11881,
+                                "text": "Sinh lý nữ",
+                                "url_key": "sinh-ly-nu",
+                                "full_url_key": "thuc-pham-chuc-nang/sinh-ly-noi-tiet-to/sinh-ly-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 56035,
+                                "text": "Cân bằng nội tiết tố",
+                                "url_key": "can-bang-noi-tiet-to",
+                                "full_url_key": "thuc-pham-chuc-nang/sinh-ly-noi-tiet-to/can-bang-noi-tiet-to",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "sinh-ly-noi-tiet-to",
+                        "url_path": "sinh-ly-noi-tiet-to/c56030",
+                        "product_count": 568,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/51/f8/8e/b642bf81474dd6c879cd42279bc8fdef.png",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 8142,
+                "parent_id": 1520,
+                "text": "Hỗ trợ tình dục",
+                "type": null,
+                "url_key": "ho-tro-tinh-duc",
+                "url_path": "ho-tro-tinh-duc/c8142",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1116,
+                "is_leaf": false,
+                "meta_title": "Các sản phẩm hỗ trợ tình dục như bao cao su, gel bôi trơn | Tiki.vn",
+                "meta_description": "Các sản phẩm hỗ trợ tình dục như bao cao su, gel bôi trơn...",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/82/2b/0c/f511d99c797b378914578b85446a4935.jpg",
+                "confirm_over_age": {
+                    "type": "18+",
+                    "title": "Xác nhận thông tin",
+                    "content": "Vui lòng xác nhận bạn từ 18 tuổi trở lên để tiếp tục xem sản phẩm.",
+                    "button": {
+                        "btn_cancel": "Thoát",
+                        "btn_accept": "Xác Nhận"
+                    }
+                },
+                "children": [
+                    {
+                        "id": 1630,
+                        "text": "Bao cao su",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bao-cao-su",
+                        "url_path": "bao-cao-su/c1630",
+                        "product_count": 940,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0f/48/41/2016774a88bd4699df3c32d4d7eee641.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1631,
+                        "text": "Gel bôi trơn",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "gel-boi-tron",
+                        "url_path": "gel-boi-tron/c1631",
+                        "product_count": 176,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/38/0b/74/419f4972cbb1eb958ce8cb89f57d431c.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 1625,
+                "parent_id": 1520,
+                "text": "Chăm sóc răng miệng",
+                "type": null,
+                "url_key": "cham-soc-rang-mieng",
+                "url_path": "cham-soc-rang-mieng/c1625",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1337,
+                "is_leaf": false,
+                "meta_title": "Chăm sóc răng miệng",
+                "meta_description": "Chăm sóc răng miệng",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9f/10/0b/d5bf6624a5e6400b4bc61679b15b9ec2.jpg",
+                "children": [
+                    {
+                        "id": 1627,
+                        "text": "Nước súc miệng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "nuoc-suc-mieng",
+                        "url_path": "nuoc-suc-mieng/c1627",
+                        "product_count": 167,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9f/db/58/a57029c3533ccab771d05fddeefc66b3.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11833,
+                        "text": "Bàn chải đánh răng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68301,
+                                "text": "Bàn chải thường",
+                                "url_key": "ban-chai-thuong",
+                                "full_url_key": "cham-soc-rang-mieng/ban-chai-danh-rang/ban-chai-thuong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 53348,
+                                "text": "Bàn chải điện",
+                                "url_key": "ban-chai-dien",
+                                "full_url_key": "cham-soc-rang-mieng/ban-chai-danh-rang/ban-chai-dien",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ban-chai-danh-rang",
+                        "url_path": "ban-chai-danh-rang/c11833",
+                        "product_count": 440,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/32/6d/f4/d86b2f8774f70608a8f3b199a38da8a2.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11835,
+                        "text": "Kem đánh răng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68321,
+                                "text": "Kem đánh răng cho răng nhạy cảm",
+                                "url_key": "kem-danh-rang-cho-rang-nhay-cam",
+                                "full_url_key": "cham-soc-rang-mieng/kem-danh-rang/kem-danh-rang-cho-rang-nhay-cam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68322,
+                                "text": "Kem đánh răng ngừa sâu răng",
+                                "url_key": "kem-danh-rang-ngua-sau-rang",
+                                "full_url_key": "cham-soc-rang-mieng/kem-danh-rang/kem-danh-rang-ngua-sau-rang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68323,
+                                "text": "Kem đánh răng trắng răng",
+                                "url_key": "kem-danh-rang-trang-rang",
+                                "full_url_key": "cham-soc-rang-mieng/kem-danh-rang/kem-danh-rang-trang-rang",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "kem-danh-rang",
+                        "url_path": "kem-danh-rang/c11835",
+                        "product_count": 272,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/10/75/81/b2c0d12a4edc2289a558d13e67faaac1.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11837,
+                        "text": "Tẩy trắng răng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tay-trang-rang",
+                        "url_path": "tay-trang-rang/c11837",
+                        "product_count": 16,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/15/08/d4/c257fff4614d7fae901b727af7800f12.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 10228,
+                        "text": "Bộ sản phẩm chăm sóc răng miệng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-san-pham-cham-soc-rang-mieng",
+                        "url_path": "bo-san-pham-cham-soc-rang-mieng/c10228",
+                        "product_count": 132,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bd/20/a5/ebfadeb19e2633bd734b1f91b4c58636.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1626,
+                        "text": "Thiết bị chăm sóc răng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-cham-soc-rang",
+                        "url_path": "thiet-bi-cham-soc-rang/c1626",
+                        "product_count": 21,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68319,
+                        "text": "Chỉ, tăm nha khoa",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 1628,
+                                "text": "Chỉ nha khoa",
+                                "url_key": "chi-nha-khoa",
+                                "full_url_key": "cham-soc-rang-mieng/chi-tam-nha-khoa/chi-nha-khoa",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68320,
+                                "text": "Tăm nha khoa",
+                                "url_key": "tam-nha-khoa",
+                                "full_url_key": "cham-soc-rang-mieng/chi-tam-nha-khoa/tam-nha-khoa",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "chi-tam-nha-khoa",
+                        "url_path": "chi-tam-nha-khoa/c68319",
+                        "product_count": 105,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9f/10/0b/d5bf6624a5e6400b4bc61679b15b9ec2.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 68324,
+                        "text": "Máy tăm nước",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 68326,
+                                "text": "Đầu tăm thay thế",
+                                "url_key": "dau-tam-thay-the",
+                                "full_url_key": "cham-soc-rang-mieng/may-tam-nuoc/dau-tam-thay-the",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68327,
+                                "text": "Máy tăm nước cầm tay",
+                                "url_key": "may-tam-nuoc-cam-tay",
+                                "full_url_key": "cham-soc-rang-mieng/may-tam-nuoc/may-tam-nuoc-cam-tay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 68328,
+                                "text": "Máy tăm nước gia đình",
+                                "url_key": "may-tam-nuoc-gia-dinh",
+                                "full_url_key": "cham-soc-rang-mieng/may-tam-nuoc/may-tam-nuoc-gia-dinh",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-tam-nuoc",
+                        "url_path": "may-tam-nuoc/c68324",
+                        "product_count": 155,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d0/ce/2f/fe09f81f3b1b029748dab277762895b2.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 68329,
+                        "text": "Sản phẩm làm sạch lưỡi",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "san-pham-lam-sach-luoi",
+                        "url_path": "san-pham-lam-sach-luoi/c68329",
+                        "product_count": 9,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9c/c7/4f/a6b8108b3e41dcf05eafdbed9fbc3019.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 68330,
+                        "text": "Xịt, miếng ngậm thơm miệng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "xit-mieng-ngam-thom-mieng",
+                        "url_path": "xit-mieng-ngam-thom-mieng/c68330",
+                        "product_count": 20,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f7/7f/77/be08c1f87a2ddd29b00a2026719c9f5e.png",
+                        "is_leaf": true
+                    }
+                ]
+            }
+        ]
+    }
+]

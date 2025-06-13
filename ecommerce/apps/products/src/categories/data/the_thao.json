@@ -1,0 +1,2118 @@
+[
+    {
+        "text": "Thể Thao - Dã Ngoại",
+        "icon_url": "https://salt.tikicdn.com/ts/category/0b/5e/3d/00941c9eb338ea62a47d5b1e042843d8.png",
+        "children": [
+            {
+                "id": 8411,
+                "parent_id": 1975,
+                "text": "Các môn thể thao chơi vợt",
+                "type": null,
+                "url_key": "cac-mon-the-thao-choi-vot",
+                "url_path": "cac-mon-the-thao-choi-vot/c8411",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 711,
+                "is_leaf": false,
+                "meta_title": "Mua online các dụng cụ thể thao chơi vợt | Tiki.vn",
+                "meta_description": "Các môn thể thao chơi vợt",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/87/43/c5/70c966efeac2150d70bbc6e35971825c.png",
+                "children": [
+                    {
+                        "id": 1977,
+                        "text": "Bóng bàn",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 23884,
+                                "text": "Banh bóng bàn",
+                                "url_key": "banh-bong-ban",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/bong-ban/banh-bong-ban",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23886,
+                                "text": "Cốt vợt bóng bàn",
+                                "url_key": "cot-vot-bong-ban",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/bong-ban/cot-vot-bong-ban",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23888,
+                                "text": "Mặt vợt bóng bàn",
+                                "url_key": "mat-vot-bong-ban",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/bong-ban/mat-vot-bong-ban",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23890,
+                                "text": "Vợt bóng bàn",
+                                "url_key": "vot-bong-ban",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/bong-ban/vot-bong-ban",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23892,
+                                "text": "Bàn bóng bàn",
+                                "url_key": "ban-bong-ban",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/bong-ban/ban-bong-ban",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23894,
+                                "text": "Máy bắn bóng bàn",
+                                "url_key": "may-ban-bong-ban",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/bong-ban/may-ban-bong-ban",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23896,
+                                "text": "Phụ kiện bóng bàn",
+                                "url_key": "phu-kien-bong-ban",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/bong-ban/phu-kien-bong-ban",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "bong-ban",
+                        "url_path": "bong-ban/c1977",
+                        "product_count": 104,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d9/01/49/ec436bac610103980d656156516efb5f.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8438,
+                        "text": "Cầu lông",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 23898,
+                                "text": "Vợt cầu lông",
+                                "url_key": "vot-cau-long",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/cau-long/vot-cau-long",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23902,
+                                "text": "Phụ kiện cầu lông",
+                                "url_key": "phu-kien-cau-long",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/cau-long/phu-kien-cau-long",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23904,
+                                "text": "Trang thiết bị sân cầu lông",
+                                "url_key": "trang-thiet-bi-san-cau-long",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/cau-long/trang-thiet-bi-san-cau-long",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cau-long",
+                        "url_path": "cau-long/c8438",
+                        "product_count": 261,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/c2/d0/0f/abc08942fddcab560aa21c1692443aea.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8440,
+                        "text": "Tennis và Pickleball",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 23906,
+                                "text": "Vợt tennis",
+                                "url_key": "vot-tennis",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/tennis-va-pickleball/vot-tennis",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23910,
+                                "text": "Phụ kiện tennis",
+                                "url_key": "phu-kien-tennis",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/tennis-va-pickleball/phu-kien-tennis",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23912,
+                                "text": "Máy bắn bóng tennis",
+                                "url_key": "may-ban-bong-tennis",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/tennis-va-pickleball/may-ban-bong-tennis",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23914,
+                                "text": "Trang thiết bị sân tennis",
+                                "url_key": "trang-thiet-bi-san-tennis",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/tennis-va-pickleball/trang-thiet-bi-san-tennis",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67737,
+                                "text": "Banh pickleball",
+                                "url_key": "banh-pickleball",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/tennis-va-pickleball/banh-pickleball",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67743,
+                                "text": "Vợt pickleball",
+                                "url_key": "vot-pickleball",
+                                "full_url_key": "cac-mon-the-thao-choi-vot/tennis-va-pickleball/vot-pickleball",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "tennis-va-pickleball",
+                        "url_path": "tennis-va-pickleball/c8440",
+                        "product_count": 346,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/71/c8/5f/adc0cdf4d67329a72538da8aac926ea1.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 4227,
+                "parent_id": 1975,
+                "text": "Các môn thể thao đồng đội",
+                "type": null,
+                "url_key": "the-thao-dong-doi",
+                "url_path": "the-thao-dong-doi/c4227",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 316,
+                "is_leaf": false,
+                "meta_title": "Mua online dụng cụ thể Thao Đồng Đội | Tiki.vn",
+                "meta_description": "Các môn thể thao đồng đội, bóng đá, bóng chuyền, bóng rổ, bóng bàn, cầu lông , tennis, cầu mây. Hàng chính hãng giao hàng tận nơi, toàn quốc.",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e3/12/5d/f04bdadccf52b0b9dffb7834be77490f.jpg",
+                "children": [
+                    {
+                        "id": 8443,
+                        "text": "Bóng chày",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 23916,
+                                "text": "Gậy bóng chày",
+                                "url_key": "gay-bong-chay",
+                                "full_url_key": "the-thao-dong-doi/bong-chay/gay-bong-chay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23918,
+                                "text": "Quả bóng chày",
+                                "url_key": "qua-bong-chay",
+                                "full_url_key": "the-thao-dong-doi/bong-chay/qua-bong-chay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23920,
+                                "text": "Găng tay bóng chày",
+                                "url_key": "gang-tay-bong-chay",
+                                "full_url_key": "the-thao-dong-doi/bong-chay/gang-tay-bong-chay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23924,
+                                "text": "Giáp bóng chày",
+                                "url_key": "giap-bong-chay",
+                                "full_url_key": "the-thao-dong-doi/bong-chay/giap-bong-chay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67443,
+                                "text": "Trang thiết bị sân bóng chày",
+                                "url_key": "trang-thiet-bi-san-bong-chay",
+                                "full_url_key": "the-thao-dong-doi/bong-chay/trang-thiet-bi-san-bong-chay",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "bong-chay",
+                        "url_path": "bong-chay/c8443",
+                        "product_count": 15,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/7a/d2/a6/0535b7fa3ce36e9de95ea633885a9be2.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2980,
+                        "text": "Bóng rổ và dụng cụ bóng rổ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 23940,
+                                "text": "Bóng rổ",
+                                "url_key": "bong-ro",
+                                "full_url_key": "the-thao-dong-doi/bong-ro-va-dung-cu-bong-ro/bong-ro",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23942,
+                                "text": "Vành bóng rổ",
+                                "url_key": "vanh-bong-ro",
+                                "full_url_key": "the-thao-dong-doi/bong-ro-va-dung-cu-bong-ro/vanh-bong-ro",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23944,
+                                "text": "Trang thiết bị sân bóng rổ",
+                                "url_key": "trang-thiet-bi-san-bong-ro",
+                                "full_url_key": "the-thao-dong-doi/bong-ro-va-dung-cu-bong-ro/trang-thiet-bi-san-bong-ro",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23946,
+                                "text": "Phụ kiện bóng rổ",
+                                "url_key": "phu-kien-bong-ro",
+                                "full_url_key": "the-thao-dong-doi/bong-ro-va-dung-cu-bong-ro/phu-kien-bong-ro",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "bong-ro-va-dung-cu-bong-ro",
+                        "url_path": "bong-ro-va-dung-cu-bong-ro/c2980",
+                        "product_count": 105,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e3/12/5d/f04bdadccf52b0b9dffb7834be77490f.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2981,
+                        "text": "Bóng Đá",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 23934,
+                                "text": "Banh bóng đá",
+                                "url_key": "banh-bong-da",
+                                "full_url_key": "the-thao-dong-doi/bong-da/banh-bong-da",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23936,
+                                "text": "Phụ kiện bóng đá",
+                                "url_key": "phu-kien-bong-da",
+                                "full_url_key": "the-thao-dong-doi/bong-da/phu-kien-bong-da",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23938,
+                                "text": "Trang thiết bị sân bóng đá",
+                                "url_key": "trang-thiet-bi-san-bong-da",
+                                "full_url_key": "the-thao-dong-doi/bong-da/trang-thiet-bi-san-bong-da",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67448,
+                                "text": "Găng tay thủ môn",
+                                "url_key": "gang-tay-thu-mon",
+                                "full_url_key": "the-thao-dong-doi/bong-da/gang-tay-thu-mon",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "bong-da",
+                        "url_path": "bong-da/c2981",
+                        "product_count": 167,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/f7/cd/fe/2fa99bddb8f30c069fd325faf2fbab46.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2156,
+                        "text": "Cầu Đá - Cầu Mây",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67452,
+                                "text": "Cầu đá",
+                                "url_key": "cau-da",
+                                "full_url_key": "the-thao-dong-doi/cau-da-cau-may/cau-da",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67453,
+                                "text": "Cầu mây",
+                                "url_key": "cau-may",
+                                "full_url_key": "the-thao-dong-doi/cau-da-cau-may/cau-may",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cau-da-cau-may",
+                        "url_path": "cau-da-cau-may/c2156",
+                        "product_count": 7,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8444,
+                        "text": "Bóng chuyền",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 23926,
+                                "text": "Banh bóng chuyền trong nhà",
+                                "url_key": "banh-bong-chuyen-trong-nha",
+                                "full_url_key": "the-thao-dong-doi/bong-chuyen/banh-bong-chuyen-trong-nha",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23928,
+                                "text": "Banh bóng chuyền bãi biển",
+                                "url_key": "banh-bong-chuyen-bai-bien",
+                                "full_url_key": "the-thao-dong-doi/bong-chuyen/banh-bong-chuyen-bai-bien",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23930,
+                                "text": "Phụ kiện bóng chuyền",
+                                "url_key": "phu-kien-bong-chuyen",
+                                "full_url_key": "the-thao-dong-doi/bong-chuyen/phu-kien-bong-chuyen",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23932,
+                                "text": "Trang thiết bị sân bóng chuyền",
+                                "url_key": "trang-thiet-bi-san-bong-chuyen",
+                                "full_url_key": "the-thao-dong-doi/bong-chuyen/trang-thiet-bi-san-bong-chuyen",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67444,
+                                "text": "Lưới bóng chuyền",
+                                "url_key": "luoi-bong-chuyen",
+                                "full_url_key": "the-thao-dong-doi/bong-chuyen/luoi-bong-chuyen",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "bong-chuyen",
+                        "url_path": "bong-chuyen/c8444",
+                        "product_count": 22,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/97/2d/df/574288e0200c9f3644e2a55c97d82b06.png",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 23120,
+                "parent_id": 1975,
+                "text": "Các môn thể thao đối kháng ",
+                "type": null,
+                "url_key": "cac-mon-the-thao-doi-khang",
+                "url_path": "cac-mon-the-thao-doi-khang/c23120",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 220,
+                "is_leaf": false,
+                "meta_title": "Các môn thể thao đối kháng ",
+                "meta_description": "",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5c/fb/21/75cbd25d194047bdef858082aa41745b.jpg",
+                "children": [
+                    {
+                        "id": 67442,
+                        "text": "Võ phục",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 23948,
+                                "text": "Võ phục Boxing",
+                                "url_key": "vo-phuc-boxing",
+                                "full_url_key": "cac-mon-the-thao-doi-khang/vo-phuc/vo-phuc-boxing",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23950,
+                                "text": "Võ phục Kick Boxing",
+                                "url_key": "vo-phuc-kick-boxing",
+                                "full_url_key": "cac-mon-the-thao-doi-khang/vo-phuc/vo-phuc-kick-boxing",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23952,
+                                "text": "Võ phục Muay Thái",
+                                "url_key": "vo-phuc-muay-thai",
+                                "full_url_key": "cac-mon-the-thao-doi-khang/vo-phuc/vo-phuc-muay-thai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23954,
+                                "text": "Võ phục MMA",
+                                "url_key": "vo-phuc-mma",
+                                "full_url_key": "cac-mon-the-thao-doi-khang/vo-phuc/vo-phuc-mma",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23956,
+                                "text": "Võ phục Karatedo",
+                                "url_key": "vo-phuc-karatedo",
+                                "full_url_key": "cac-mon-the-thao-doi-khang/vo-phuc/vo-phuc-karatedo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23958,
+                                "text": "Võ phục Aikido",
+                                "url_key": "vo-phuc-aikido",
+                                "full_url_key": "cac-mon-the-thao-doi-khang/vo-phuc/vo-phuc-aikido",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23962,
+                                "text": "Võ phục Đấu vật",
+                                "url_key": "vo-phuc-dau-vat",
+                                "full_url_key": "cac-mon-the-thao-doi-khang/vo-phuc/vo-phuc-dau-vat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23966,
+                                "text": "Võ phục Taekwondo",
+                                "url_key": "vo-phuc-taekwondo",
+                                "full_url_key": "cac-mon-the-thao-doi-khang/vo-phuc/vo-phuc-taekwondo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23968,
+                                "text": "Võ phục Wushu",
+                                "url_key": "vo-phuc-wushu",
+                                "full_url_key": "cac-mon-the-thao-doi-khang/vo-phuc/vo-phuc-wushu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23970,
+                                "text": "Võ phục Judo",
+                                "url_key": "vo-phuc-judo",
+                                "full_url_key": "cac-mon-the-thao-doi-khang/vo-phuc/vo-phuc-judo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23972,
+                                "text": "Võ phục Vovinam",
+                                "url_key": "vo-phuc-vovinam",
+                                "full_url_key": "cac-mon-the-thao-doi-khang/vo-phuc/vo-phuc-vovinam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23974,
+                                "text": "Võ phục Võ cổ truyền",
+                                "url_key": "vo-phuc-vo-co-truyen",
+                                "full_url_key": "cac-mon-the-thao-doi-khang/vo-phuc/vo-phuc-vo-co-truyen",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 23976,
+                                "text": "Võ phục KungFu",
+                                "url_key": "vo-phuc-kungfu",
+                                "full_url_key": "cac-mon-the-thao-doi-khang/vo-phuc/vo-phuc-kungfu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "vo-phuc",
+                        "url_path": "vo-phuc/c67442",
+                        "product_count": 48,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 24002,
+                "parent_id": 1975,
+                "text": "Các môn thể thao khác",
+                "type": null,
+                "url_key": "cac-mon-the-thao-khac",
+                "url_path": "cac-mon-the-thao-khac/c24002",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 960,
+                "is_leaf": false,
+                "meta_title": "Các môn thể thao khác",
+                "meta_description": "",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/ca/33/83/cfcc5ce8cf5d65d4240bf1b8688fe1d2.png",
+                "children": [
+                    {
+                        "id": 8445,
+                        "text": "Thể dục dụng cụ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24028,
+                                "text": "Trang phục thể dục dụng cụ",
+                                "url_key": "trang-phuc-the-duc-dung-cu",
+                                "full_url_key": "cac-mon-the-thao-khac/the-duc-dung-cu/trang-phuc-the-duc-dung-cu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24030,
+                                "text": "Dụng cụ - thiết bị thể dục dụng cụ",
+                                "url_key": "dung-cu-thiet-bi-the-duc-dung-cu",
+                                "full_url_key": "cac-mon-the-thao-khac/the-duc-dung-cu/dung-cu-thiet-bi-the-duc-dung-cu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24032,
+                                "text": "Phụ kiện thể dục dụng cụ",
+                                "url_key": "phu-kien-the-duc-dung-cu",
+                                "full_url_key": "cac-mon-the-thao-khac/the-duc-dung-cu/phu-kien-the-duc-dung-cu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "the-duc-dung-cu",
+                        "url_path": "the-duc-dung-cu/c8445",
+                        "product_count": 14,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/13/f7/93/332532b37ba46ea95a62ef410eb14fa3.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 24052,
+                        "text": "Bida",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24078,
+                                "text": "Bàn bida",
+                                "url_key": "ban-bida",
+                                "full_url_key": "cac-mon-the-thao-khac/bida/ban-bida",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24080,
+                                "text": "Bi bida",
+                                "url_key": "bi-bida",
+                                "full_url_key": "cac-mon-the-thao-khac/bida/bi-bida",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24082,
+                                "text": "Cơ",
+                                "url_key": "co",
+                                "full_url_key": "cac-mon-the-thao-khac/bida/co",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24086,
+                                "text": "Phụ kiện bida khác",
+                                "url_key": "phu-kien-bida-khac",
+                                "full_url_key": "cac-mon-the-thao-khac/bida/phu-kien-bida-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67454,
+                                "text": "Phụ kiện bida",
+                                "url_key": "phu-kien-bida",
+                                "full_url_key": "cac-mon-the-thao-khac/bida/phu-kien-bida",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "bida",
+                        "url_path": "bida/c24052",
+                        "product_count": 8,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/e3/f6/e4/402fc50f6d511e00343b9c120d08c9b2.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 24058,
+                        "text": "Phóng phi tiêu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phong-phi-tieu",
+                        "url_path": "phong-phi-tieu/c24058",
+                        "product_count": 7,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/27/fd/30/62d1f98b59701b63a78b611f98626763.PNG",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 24068,
+                        "text": "Trượt patin",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24104,
+                                "text": "Giày patin",
+                                "url_key": "giay-patin",
+                                "full_url_key": "cac-mon-the-thao-khac/truot-patin/giay-patin",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24106,
+                                "text": "Phụ kiện giày patin",
+                                "url_key": "phu-kien-giay-patin",
+                                "full_url_key": "cac-mon-the-thao-khac/truot-patin/phu-kien-giay-patin",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24108,
+                                "text": "Dụng cụ bảo hộ trượt patin",
+                                "url_key": "dung-cu-bao-ho-truot-patin",
+                                "full_url_key": "cac-mon-the-thao-khac/truot-patin/dung-cu-bao-ho-truot-patin",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "truot-patin",
+                        "url_path": "truot-patin/c24068",
+                        "product_count": 77,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/5f/80/44/40bcdb41fabc603b82a2354a5e0c3e07.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 24074,
+                        "text": "Yoga & Pilates",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24122,
+                                "text": "Thảm yoga",
+                                "url_key": "tham-yoga",
+                                "full_url_key": "cac-mon-the-thao-khac/yoga-pilates/tham-yoga",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24124,
+                                "text": "Bóng tập yoga",
+                                "url_key": "bong-tap-yoga",
+                                "full_url_key": "cac-mon-the-thao-khac/yoga-pilates/bong-tap-yoga",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24126,
+                                "text": "Phụ kiện tập Yoga & Pilates khác",
+                                "url_key": "phu-kien-tap-yoga-pilates-khac",
+                                "full_url_key": "cac-mon-the-thao-khac/yoga-pilates/phu-kien-tap-yoga-pilates-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67483,
+                                "text": "Dây kháng lực Pilates",
+                                "url_key": "day-khang-luc-pilates",
+                                "full_url_key": "cac-mon-the-thao-khac/yoga-pilates/day-khang-luc-pilates",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67484,
+                                "text": "Vòng tập Pilates",
+                                "url_key": "vong-tap-pilates",
+                                "full_url_key": "cac-mon-the-thao-khac/yoga-pilates/vong-tap-pilates",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "yoga-pilates",
+                        "url_path": "yoga-pilates/c24074",
+                        "product_count": 628,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/cd/5d/64/c1ff3a780aab2ab60eb2bb7f1bf1438a.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8437,
+                        "text": "Trượt ván",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24110,
+                                "text": "Ván trượt",
+                                "url_key": "van-truot",
+                                "full_url_key": "cac-mon-the-thao-khac/truot-van/van-truot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24112,
+                                "text": "Phụ kiện ván trượt",
+                                "url_key": "phu-kien-van-truot",
+                                "full_url_key": "cac-mon-the-thao-khac/truot-van/phu-kien-van-truot",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24114,
+                                "text": "Dụng cụ bảo hộ trượt ván",
+                                "url_key": "dung-cu-bao-ho-truot-van",
+                                "full_url_key": "cac-mon-the-thao-khac/truot-van/dung-cu-bao-ho-truot-van",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "truot-van",
+                        "url_path": "truot-van/c8437",
+                        "product_count": 40,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/ce/9d/d2/6a83298a9a2a89a829d9be759106c5fe.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 69617,
+                        "text": "Đạp xe",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67605,
+                                "text": "Giày đạp xe nam",
+                                "url_key": "giay-dap-xe-nam",
+                                "full_url_key": "cac-mon-the-thao-khac/dap-xe/giay-dap-xe-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67620,
+                                "text": "Giày đạp xe nữ",
+                                "url_key": "giay-dap-xe-nu",
+                                "full_url_key": "cac-mon-the-thao-khac/dap-xe/giay-dap-xe-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67629,
+                                "text": "Găng tay xe đạp",
+                                "url_key": "gang-tay-xe-dap",
+                                "full_url_key": "cac-mon-the-thao-khac/dap-xe/gang-tay-xe-dap",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67650,
+                                "text": "Quần áo đạp xe Nam",
+                                "url_key": "quan-ao-dap-xe-nam",
+                                "full_url_key": "cac-mon-the-thao-khac/dap-xe/quan-ao-dap-xe-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67699,
+                                "text": "Quần áo đạp xe Nữ",
+                                "url_key": "quan-ao-dap-xe-nu",
+                                "full_url_key": "cac-mon-the-thao-khac/dap-xe/quan-ao-dap-xe-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dap-xe",
+                        "url_path": "dap-xe/c69617",
+                        "product_count": 28,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 24294,
+                        "text": "Câu cá",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24296,
+                                "text": "Cần câu",
+                                "url_key": "can-cau",
+                                "full_url_key": "cac-mon-the-thao-khac/cau-ca/can-cau",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24298,
+                                "text": "Lưỡi - Mồi - Phao",
+                                "url_key": "luoi-moi-phao",
+                                "full_url_key": "cac-mon-the-thao-khac/cau-ca/luoi-moi-phao",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24300,
+                                "text": "Dây câu",
+                                "url_key": "day-cau",
+                                "full_url_key": "cac-mon-the-thao-khac/cau-ca/day-cau",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24302,
+                                "text": "Máy câu",
+                                "url_key": "may-cau",
+                                "full_url_key": "cac-mon-the-thao-khac/cau-ca/may-cau",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24304,
+                                "text": "Dụng cụ câu cá khác",
+                                "url_key": "dung-cu-cau-ca-khac",
+                                "full_url_key": "cac-mon-the-thao-khac/cau-ca/dung-cu-cau-ca-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "cau-ca",
+                        "url_path": "cau-ca/c24294",
+                        "product_count": 156,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/45/f4/0d/b15488d98b1d80286be0b1969c06e5cd.png",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 6826,
+                "parent_id": 1975,
+                "text": "Giày thể thao nam",
+                "type": null,
+                "url_key": "giay-the-thao-nam",
+                "url_path": "giay-the-thao-nam/c6826",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1582,
+                "is_leaf": false,
+                "meta_title": "Mua giày thể thao nam mẫu mới 2017, chính hãng giá tốt | Tiki.vn",
+                "meta_description": "Giày thể thao nam",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/25/7d/22/20d83cfd075ca3948aeaff5dd739d323.png",
+                "children": [
+                    {
+                        "id": 24190,
+                        "text": "Giày đánh golf nam",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-danh-golf-nam",
+                        "url_path": "giay-danh-golf-nam/c24190",
+                        "product_count": 24,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/81/b5/6f/e3759303766e96d14b47d743a068f041.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 30964,
+                        "text": "Giày thể thao nam khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-the-thao-nam-khac",
+                        "url_path": "giay-the-thao-nam-khac/c30964",
+                        "product_count": 57,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/73/bd/f6/56ee2b5e6df4c6b466f7d8b593cb51ef.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 6827,
+                "parent_id": 1975,
+                "text": "Giày thể thao nữ",
+                "type": null,
+                "url_key": "giay-the-thao-nu",
+                "url_path": "giay-the-thao-nu/c6827",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 69,
+                "is_leaf": false,
+                "meta_title": "Giày thể thao nữ",
+                "meta_description": "Giày thể thao Nữ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/10/21/89/c5c62fc2e94297f64307e03dbba919ed.png",
+                "children": [
+                    {
+                        "id": 32874,
+                        "text": "Giày thể thao nữ khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "giay-the-thao-nu-khac",
+                        "url_path": "giay-the-thao-nu-khac/c32874",
+                        "product_count": 56,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/b6/e6/c2/6d95876e0ca55194f1a9d2979d49ff5a.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 24306,
+                "parent_id": 1975,
+                "text": "Phụ kiện thể thao",
+                "type": null,
+                "url_key": "phu-kien-the-thao",
+                "url_path": "phu-kien-the-thao/c24306",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1335,
+                "is_leaf": false,
+                "meta_title": "Phụ kiện thể thao mua tại | Tiki.vn | Rẻ hơn | Miễn phí vận chuyển | 100% chính hãng",
+                "meta_description": "Phụ kiện thể thao mua tại | Tiki.vn | Rẻ hơn | Miễn phí vận chuyển | 100% chính hãng",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f7/5b/8e/514b6bc1ebbe0e9ddb53e61b6208ce08.jpg",
+                "children": [
+                    {
+                        "id": 24318,
+                        "text": "Phụ kiện thể thao khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-the-thao-khac",
+                        "url_path": "phu-kien-the-thao-khac/c24318",
+                        "product_count": 1327,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f7/5b/8e/514b6bc1ebbe0e9ddb53e61b6208ce08.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 8413,
+                "parent_id": 1975,
+                "text": "Thể thao dưới nước",
+                "type": null,
+                "url_key": "the-thao-duoi-nuoc",
+                "url_path": "the-thao-duoi-nuoc/c8413",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 440,
+                "is_leaf": false,
+                "meta_title": "Mua online dụng cụ, phụ kiện thể thao dười nước| Tiki.vn",
+                "meta_description": "Thể thao dưới nước",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/99/e5/bc/de9275277970f7a1be3e3eb6303f965e.png",
+                "children": [
+                    {
+                        "id": 2157,
+                        "text": "Bơi lội",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24320,
+                                "text": "Kính bơi",
+                                "url_key": "kinh-boi",
+                                "full_url_key": "the-thao-duoi-nuoc/boi-loi/kinh-boi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24322,
+                                "text": "Nón bơi",
+                                "url_key": "non-boi",
+                                "full_url_key": "the-thao-duoi-nuoc/boi-loi/non-boi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24324,
+                                "text": "Phao bơi",
+                                "url_key": "phao-boi",
+                                "full_url_key": "the-thao-duoi-nuoc/boi-loi/phao-boi",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24326,
+                                "text": "Phụ kiện bơi lội",
+                                "url_key": "phu-kien-boi-loi",
+                                "full_url_key": "the-thao-duoi-nuoc/boi-loi/phu-kien-boi-loi",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "boi-loi",
+                        "url_path": "boi-loi/c2157",
+                        "product_count": 418,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3f/f1/0a/e4c837a4e0ab4cebd2e0925f2c59fb2b.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 8447,
+                        "text": "Lướt ván",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "luot-van",
+                        "url_path": "luot-van/c8447",
+                        "product_count": 6,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/52/2b/ec/7f4e84cd885abeec9ecc82962bd720bd.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 24328,
+                        "text": "Lặn biển",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24330,
+                                "text": "Kính lặn ống thở, mặt nạ lặn",
+                                "url_key": "kinh-lan-ong-tho-mat-na-lan",
+                                "full_url_key": "the-thao-duoi-nuoc/lan-bien/kinh-lan-ong-tho-mat-na-lan",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24332,
+                                "text": "Trang phục lặn",
+                                "url_key": "trang-phuc-lan",
+                                "full_url_key": "the-thao-duoi-nuoc/lan-bien/trang-phuc-lan",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24334,
+                                "text": "Chân nhái",
+                                "url_key": "chan-nhai",
+                                "full_url_key": "the-thao-duoi-nuoc/lan-bien/chan-nhai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24336,
+                                "text": "Phụ kiện lặn biển khác",
+                                "url_key": "phu-kien-lan-bien-khac",
+                                "full_url_key": "the-thao-duoi-nuoc/lan-bien/phu-kien-lan-bien-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "lan-bien",
+                        "url_path": "lan-bien/c24328",
+                        "product_count": 16,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/3a/33/c0/3293d8f628032053fab640f3c8491450.png",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 10803,
+                "parent_id": 1975,
+                "text": "Thực phẩm bổ sung năng lượng",
+                "type": null,
+                "url_key": "thuc-pham-bo-sung-nang-luong",
+                "url_path": "thuc-pham-bo-sung-nang-luong/c10803",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 418,
+                "is_leaf": false,
+                "meta_title": "Thực phẩm bổ sung năng lượng | Tiki.vn",
+                "meta_description": "Thực phẩm bổ sung năng lượng\r\n",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/0d/3b/be/1187011915b7c4786584357531d54a31.png",
+                "children": [
+                    {
+                        "id": 10804,
+                        "text": "Thực phẩm tăng cân",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67769,
+                                "text": "Thực phẩm tăng cân ít tăng mỡ",
+                                "url_key": "thuc-pham-tang-can-it-tang-mo",
+                                "full_url_key": "thuc-pham-bo-sung-nang-luong/thuc-pham-tang-can/thuc-pham-tang-can-it-tang-mo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67770,
+                                "text": "Thực phẩm tăng cân nhanh",
+                                "url_key": "thuc-pham-tang-can-nhanh",
+                                "full_url_key": "thuc-pham-bo-sung-nang-luong/thuc-pham-tang-can/thuc-pham-tang-can-nhanh",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thuc-pham-tang-can",
+                        "url_path": "thuc-pham-tang-can/c10804",
+                        "product_count": 33,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/2b/3a/1a/a5b07a22be8f287b37cd0355130c69f1.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 10805,
+                        "text": "Thực phẩm giảm cân",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67765,
+                                "text": "L-Carnitine",
+                                "url_key": "l-carnitine",
+                                "full_url_key": "thuc-pham-bo-sung-nang-luong/thuc-pham-giam-can/l-carnitine",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thuc-pham-giam-can",
+                        "url_path": "thuc-pham-giam-can/c10805",
+                        "product_count": 22,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 10806,
+                        "text": "Thực phẩm tăng cơ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thuc-pham-tang-co",
+                        "url_path": "thuc-pham-tang-co/c10806",
+                        "product_count": 143,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4a/e3/e9/69279b7e456977ebca10d67bcdfabd5f.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 10807,
+                        "text": "Tăng sức bền và bổ sung năng lượng",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67784,
+                                "text": "Bánh Protein",
+                                "url_key": "banh-protein",
+                                "full_url_key": "thuc-pham-bo-sung-nang-luong/tang-suc-ben-va-bo-sung-nang-luong/banh-protein",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67785,
+                                "text": "Bột & Sữa tăng sức bền",
+                                "url_key": "bot-sua-tang-suc-ben",
+                                "full_url_key": "thuc-pham-bo-sung-nang-luong/tang-suc-ben-va-bo-sung-nang-luong/bot-sua-tang-suc-ben",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67787,
+                                "text": "Gel năng lượng",
+                                "url_key": "gel-nang-luong",
+                                "full_url_key": "thuc-pham-bo-sung-nang-luong/tang-suc-ben-va-bo-sung-nang-luong/gel-nang-luong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67788,
+                                "text": "Thảo mộc bổ sung năng lượng",
+                                "url_key": "thao-moc-bo-sung-nang-luong",
+                                "full_url_key": "thuc-pham-bo-sung-nang-luong/tang-suc-ben-va-bo-sung-nang-luong/thao-moc-bo-sung-nang-luong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 10808,
+                                "text": "Bánh năng lượng, thanh năng lượng",
+                                "url_key": "banh-nang-luong-thanh-nang-luong",
+                                "full_url_key": "thuc-pham-bo-sung-nang-luong/tang-suc-ben-va-bo-sung-nang-luong/banh-nang-luong-thanh-nang-luong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24340,
+                                "text": "Điện giải",
+                                "url_key": "dien-giai",
+                                "full_url_key": "thuc-pham-bo-sung-nang-luong/tang-suc-ben-va-bo-sung-nang-luong/dien-giai",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "tang-suc-ben-va-bo-sung-nang-luong",
+                        "url_path": "tang-suc-ben-va-bo-sung-nang-luong/c10807",
+                        "product_count": 112,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/ed/ff/83/92d2ef44941c22165d8d99294b7cc622.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 67789,
+                        "text": "Trước luyện tập",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67783,
+                                "text": "Bột uống Pre-workout",
+                                "url_key": "bot-uong-pre-workout",
+                                "full_url_key": "thuc-pham-bo-sung-nang-luong/truoc-luyen-tap/bot-uong-pre-workout",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67790,
+                                "text": "Chất tăng cường Oxit Nitric",
+                                "url_key": "chat-tang-cuong-oxit-nitric",
+                                "full_url_key": "thuc-pham-bo-sung-nang-luong/truoc-luyen-tap/chat-tang-cuong-oxit-nitric",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "truoc-luyen-tap",
+                        "url_path": "truoc-luyen-tap/c67789",
+                        "product_count": 23,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 67485,
+                "parent_id": 1975,
+                "text": "Đồ dùng dã ngoại & Leo núi",
+                "type": null,
+                "url_key": "do-dung-da-ngoai-leo-nui",
+                "url_path": "do-dung-da-ngoai-leo-nui/c67485",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 3991,
+                "is_leaf": false,
+                "meta_title": "Đồ dùng dã ngoại & Leo núi",
+                "meta_description": "Đồ dùng dã ngoại & Leo núi",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/09/87/a0/4713cb857377cf0dbbc4e2f964146692.jpg",
+                "children": [
+                    {
+                        "id": 8428,
+                        "text": "Đồ dùng dã ngoại",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24278,
+                                "text": "Lều trại, mái che",
+                                "url_key": "leu-trai-mai-che",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/do-dung-da-ngoai/leu-trai-mai-che",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24280,
+                                "text": "Túi ngủ",
+                                "url_key": "tui-ngu",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/do-dung-da-ngoai/tui-ngu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24282,
+                                "text": "Thảm dã ngoại",
+                                "url_key": "tham-da-ngoai",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/do-dung-da-ngoai/tham-da-ngoai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24288,
+                                "text": "Bàn, ghế xếp dã ngoại",
+                                "url_key": "ban-ghe-xep-da-ngoai",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/do-dung-da-ngoai/ban-ghe-xep-da-ngoai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24290,
+                                "text": "Bếp & dụng cụ nấu ăn dã ngoại",
+                                "url_key": "bep-dung-cu-nau-an-da-ngoai",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/do-dung-da-ngoai/bep-dung-cu-nau-an-da-ngoai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24292,
+                                "text": "Đồ dùng dã ngoại khác",
+                                "url_key": "do-dung-da-ngoai-khac",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/do-dung-da-ngoai/do-dung-da-ngoai-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "do-dung-da-ngoai",
+                        "url_path": "do-dung-da-ngoai/c8428",
+                        "product_count": 1033,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/76/cb/73/34320a737feeb6a1679f65f6a919937c.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 24258,
+                        "text": "Dụng cụ leo núi",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24260,
+                                "text": "Gậy leo núi",
+                                "url_key": "gay-leo-nui",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/dung-cu-leo-nui/gay-leo-nui",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24262,
+                                "text": "Thiết bị hỗ trợ leo dây",
+                                "url_key": "thiet-bi-ho-tro-leo-day",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/dung-cu-leo-nui/thiet-bi-ho-tro-leo-day",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24264,
+                                "text": "Dụng cụ bảo hộ leo núi",
+                                "url_key": "dung-cu-bao-ho-leo-nui",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/dung-cu-leo-nui/dung-cu-bao-ho-leo-nui",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24268,
+                                "text": "Phụ kiện leo núi khác",
+                                "url_key": "phu-kien-leo-nui-khac",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/dung-cu-leo-nui/phu-kien-leo-nui-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67580,
+                                "text": "Máy sưởi dã ngoại",
+                                "url_key": "may-suoi-da-ngoai",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/dung-cu-leo-nui/may-suoi-da-ngoai",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-leo-nui",
+                        "url_path": "dung-cu-leo-nui/c24258",
+                        "product_count": 66,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/09/87/a0/4713cb857377cf0dbbc4e2f964146692.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 67655,
+                        "text": "Trang phục dã ngoại và leo núi",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67694,
+                                "text": "Áo khoác dã ngoại nam",
+                                "url_key": "ao-khoac-da-ngoai-nam",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/trang-phuc-da-ngoai-va-leo-nui/ao-khoac-da-ngoai-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67695,
+                                "text": "Áo leo núi nam",
+                                "url_key": "ao-leo-nui-nam",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/trang-phuc-da-ngoai-va-leo-nui/ao-leo-nui-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67696,
+                                "text": "Quần leo núi nam",
+                                "url_key": "quan-leo-nui-nam",
+                                "full_url_key": "do-dung-da-ngoai-leo-nui/trang-phuc-da-ngoai-va-leo-nui/quan-leo-nui-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "trang-phuc-da-ngoai-va-leo-nui",
+                        "url_path": "trang-phuc-da-ngoai-va-leo-nui/c67655",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/3c/bd/b4000e63445cff6e0e9f1a96e65a304d.png",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 67647,
+                "parent_id": 1975,
+                "text": "Trang phục thể thao",
+                "type": null,
+                "url_key": "trang-phuc-the-thao",
+                "url_path": "trang-phuc-the-thao/c67647",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 1318,
+                "is_leaf": false,
+                "meta_title": "Trang phục thể thao",
+                "meta_description": "Trang phục thể thao",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/27/ab/3a/87cea8284cf47a6dd8024fe31d9513e3.jpg",
+                "children": [
+                    {
+                        "id": 6140,
+                        "text": "Trang phục thể thao nam",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67656,
+                                "text": "Trang phục ba lê và khiêu vũ dành cho nam",
+                                "url_key": "trang-phuc-ba-le-va-khieu-vu-danh-cho-nam",
+                                "full_url_key": "trang-phuc-the-thao/trang-phuc-the-thao-nam/trang-phuc-ba-le-va-khieu-vu-danh-cho-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24204,
+                                "text": "Trang phục Golf nam",
+                                "url_key": "trang-phuc-golf-nam",
+                                "full_url_key": "trang-phuc-the-thao/trang-phuc-the-thao-nam/trang-phuc-golf-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "trang-phuc-the-thao-nam",
+                        "url_path": "trang-phuc-the-thao-nam/c6140",
+                        "product_count": 395,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/9c/1f/ff/5c9594046e6308c3617fcab326dc1eb1.png",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 6141,
+                        "text": "Trang phục thể thao nữ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67705,
+                                "text": "Trang phục ba lê và khiêu vũ dành cho nữ",
+                                "url_key": "trang-phuc-ba-le-va-khieu-vu-danh-cho-nu",
+                                "full_url_key": "trang-phuc-the-thao/trang-phuc-the-thao-nu/trang-phuc-ba-le-va-khieu-vu-danh-cho-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67706,
+                                "text": "Trang phục thể thao nữ khác",
+                                "url_key": "trang-phuc-the-thao-nu-khac",
+                                "full_url_key": "trang-phuc-the-thao/trang-phuc-the-thao-nu/trang-phuc-the-thao-nu-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24244,
+                                "text": "Trang phục Golf nữ",
+                                "url_key": "trang-phuc-golf-nu",
+                                "full_url_key": "trang-phuc-the-thao/trang-phuc-the-thao-nu/trang-phuc-golf-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "trang-phuc-the-thao-nu",
+                        "url_path": "trang-phuc-the-thao-nu/c6141",
+                        "product_count": 535,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cd/ed/b7/fa17a57a2a1fa1349add3f7707bca17d.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 67703,
+                "parent_id": 1975,
+                "text": "Chạy bộ và đi bộ",
+                "type": null,
+                "url_key": "chay-bo-va-di-bo",
+                "url_path": "chay-bo-va-di-bo/c67703",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 280,
+                "is_leaf": false,
+                "meta_title": "Chạy bộ và đi bộ",
+                "meta_description": "Chạy bộ và đi bộ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/59/79/2d/9165331f5e64aef668cf3fbb0443b8c6.JPG",
+                "children": [
+                    {
+                        "id": 67498,
+                        "text": "Phụ kiện chạy bộ và đi bộ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67756,
+                                "text": "Nón chạy bộ",
+                                "url_key": "non-chay-bo",
+                                "full_url_key": "chay-bo-va-di-bo/phu-kien-chay-bo-va-di-bo/non-chay-bo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67757,
+                                "text": "Vớ chạy bộ",
+                                "url_key": "vo-chay-bo",
+                                "full_url_key": "chay-bo-va-di-bo/phu-kien-chay-bo-va-di-bo/vo-chay-bo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67739,
+                                "text": "Phụ kiện khác",
+                                "url_key": "phu-kien-khac",
+                                "full_url_key": "chay-bo-va-di-bo/phu-kien-chay-bo-va-di-bo/phu-kien-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24314,
+                                "text": "Khăn đa năng, khăn thể thao",
+                                "url_key": "khan-da-nang-khan-the-thao",
+                                "full_url_key": "chay-bo-va-di-bo/phu-kien-chay-bo-va-di-bo/khan-da-nang-khan-the-thao",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-chay-bo-va-di-bo",
+                        "url_path": "phu-kien-chay-bo-va-di-bo/c67498",
+                        "product_count": 55,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7b/60/d2/e17ca955405bc8af1ec8fef32eda743f.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 67648,
+                        "text": "Quần áo chạy bộ và đi bộ",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67658,
+                                "text": "Áo chạy bộ và đi bộ Nam",
+                                "url_key": "ao-chay-bo-va-di-bo-nam",
+                                "full_url_key": "chay-bo-va-di-bo/quan-ao-chay-bo-va-di-bo/ao-chay-bo-va-di-bo-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67660,
+                                "text": "Quần bó chạy bộ và đi bộ Nam",
+                                "url_key": "quan-bo-chay-bo-va-di-bo-nam",
+                                "full_url_key": "chay-bo-va-di-bo/quan-ao-chay-bo-va-di-bo/quan-bo-chay-bo-va-di-bo-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67661,
+                                "text": "Quần short chạy bộ và đi bộ Nam",
+                                "url_key": "quan-short-chay-bo-va-di-bo-nam",
+                                "full_url_key": "chay-bo-va-di-bo/quan-ao-chay-bo-va-di-bo/quan-short-chay-bo-va-di-bo-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67662,
+                                "text": "Áo khoác chạy bộ và đi bộ Nam",
+                                "url_key": "ao-khoac-chay-bo-va-di-bo-nam",
+                                "full_url_key": "chay-bo-va-di-bo/quan-ao-chay-bo-va-di-bo/ao-khoac-chay-bo-va-di-bo-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67712,
+                                "text": "Áo chạy bộ tay dài nữ",
+                                "url_key": "ao-chay-bo-tay-dai-nu",
+                                "full_url_key": "chay-bo-va-di-bo/quan-ao-chay-bo-va-di-bo/ao-chay-bo-tay-dai-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67714,
+                                "text": "Áo khoác chạy bộ nữ",
+                                "url_key": "ao-khoac-chay-bo-nu",
+                                "full_url_key": "chay-bo-va-di-bo/quan-ao-chay-bo-va-di-bo/ao-khoac-chay-bo-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67715,
+                                "text": "Quần bó chạy bộ nữ",
+                                "url_key": "quan-bo-chay-bo-nu",
+                                "full_url_key": "chay-bo-va-di-bo/quan-ao-chay-bo-va-di-bo/quan-bo-chay-bo-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67716,
+                                "text": "Quần short chạy bộ nữ",
+                                "url_key": "quan-short-chay-bo-nu",
+                                "full_url_key": "chay-bo-va-di-bo/quan-ao-chay-bo-va-di-bo/quan-short-chay-bo-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "quan-ao-chay-bo-va-di-bo",
+                        "url_path": "quan-ao-chay-bo-va-di-bo/c67648",
+                        "product_count": 97,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/69/52/de/583bd5239e5eaabb32856d49614cbf8a.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 69498,
+                "parent_id": 1975,
+                "text": "Gym và Boxing",
+                "type": null,
+                "url_key": "gym-va-boxing",
+                "url_path": "gym-va-boxing/c69498",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 2373,
+                "is_leaf": false,
+                "meta_title": "Gym và Boxing",
+                "meta_description": "Gym và Boxing",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/aa/bc/0f/82dd6f7ae64b553be8a7f125b9db78b4.jpg",
+                "children": [
+                    {
+                        "id": 24128,
+                        "text": "Dụng cụ - thiết bị tập thể thao",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24136,
+                                "text": "Giàn tạ đa năng",
+                                "url_key": "gian-ta-da-nang",
+                                "full_url_key": "gym-va-boxing/dung-cu-thiet-bi-tap-the-thao/gian-ta-da-nang",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24138,
+                                "text": "Xà đơn",
+                                "url_key": "xa-don",
+                                "full_url_key": "gym-va-boxing/dung-cu-thiet-bi-tap-the-thao/xa-don",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24140,
+                                "text": "Xà kép",
+                                "url_key": "xa-kep",
+                                "full_url_key": "gym-va-boxing/dung-cu-thiet-bi-tap-the-thao/xa-kep",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24142,
+                                "text": "Dụng cụ - Thiết bị tập bụng, eo",
+                                "url_key": "dung-cu-thiet-bi-tap-bung-eo",
+                                "full_url_key": "gym-va-boxing/dung-cu-thiet-bi-tap-the-thao/dung-cu-thiet-bi-tap-bung-eo",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24152,
+                                "text": "Dây nhảy",
+                                "url_key": "day-nhay",
+                                "full_url_key": "gym-va-boxing/dung-cu-thiet-bi-tap-the-thao/day-nhay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 3323,
+                                "text": "Tạ tập",
+                                "url_key": "ta-tay-ta-mieng",
+                                "full_url_key": "gym-va-boxing/dung-cu-thiet-bi-tap-the-thao/ta-tay-ta-mieng",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24164,
+                                "text": "Dây đàn hồi tập gym",
+                                "url_key": "day-dan-hoi-tap-gym",
+                                "full_url_key": "gym-va-boxing/dung-cu-thiet-bi-tap-the-thao/day-dan-hoi-tap-gym",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24166,
+                                "text": "Dụng cụ tập cơ tay",
+                                "url_key": "dung-cu-tap-co-tay",
+                                "full_url_key": "gym-va-boxing/dung-cu-thiet-bi-tap-the-thao/dung-cu-tap-co-tay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24168,
+                                "text": "Dụng cụ hít đất",
+                                "url_key": "dung-cu-hit-dat",
+                                "full_url_key": "gym-va-boxing/dung-cu-thiet-bi-tap-the-thao/dung-cu-hit-dat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 24170,
+                                "text": "Dụng cụ tập thể thao khác",
+                                "url_key": "dung-cu-tap-the-thao-khac",
+                                "full_url_key": "gym-va-boxing/dung-cu-thiet-bi-tap-the-thao/dung-cu-tap-the-thao-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "dung-cu-thiet-bi-tap-the-thao",
+                        "url_path": "dung-cu-thiet-bi-tap-the-thao/c24128",
+                        "product_count": 1581,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/aa/bc/0f/82dd6f7ae64b553be8a7f125b9db78b4.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 69626,
+                        "text": "Phụ kiện Gym và Boxing",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 24316,
+                                "text": "Găng tay tập gym",
+                                "url_key": "gang-tay-tap-gym",
+                                "full_url_key": "gym-va-boxing/phu-kien-gym-va-boxing/gang-tay-tap-gym",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67632,
+                                "text": "Túi trống tập gym",
+                                "url_key": "tui-trong-tap-gym",
+                                "full_url_key": "gym-va-boxing/phu-kien-gym-va-boxing/tui-trong-tap-gym",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-gym-va-boxing",
+                        "url_path": "phu-kien-gym-va-boxing/c69626",
+                        "product_count": 143,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6a/d4/9e/96667ad70f1dee7db5fae5f5011c3604.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 69627,
+                        "text": "Trang phục tập Gym và Boxing",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67651,
+                                "text": "Trang phục Gym và Boxing Nam",
+                                "url_key": "trang-phuc-gym-va-boxing-nam",
+                                "full_url_key": "gym-va-boxing/trang-phuc-tap-gym-va-boxing/trang-phuc-gym-va-boxing-nam",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67700,
+                                "text": "Trang phục Gym và Boxing Nữ",
+                                "url_key": "trang-phuc-gym-va-boxing-nu",
+                                "full_url_key": "gym-va-boxing/trang-phuc-tap-gym-va-boxing/trang-phuc-gym-va-boxing-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "trang-phuc-tap-gym-va-boxing",
+                        "url_path": "trang-phuc-tap-gym-va-boxing/c69627",
+                        "product_count": 650,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/51/b2/c4/3a8e345d6932cd03b3e5198d327162ab.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            },
+            {
+                "id": 24064,
+                "parent_id": 1975,
+                "text": "Golf",
+                "type": null,
+                "url_key": "golf",
+                "url_path": "golf/c24064",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 478,
+                "is_leaf": false,
+                "meta_title": "Golf",
+                "meta_description": "",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/ts/category/3b/11/9b/37c6f738f6b848410ad58c249328c015.png",
+                "children": [
+                    {
+                        "id": 24092,
+                        "text": "Gậy Golf",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67464,
+                                "text": "Bộ gậy Golf",
+                                "url_key": "bo-gay-golf",
+                                "full_url_key": "golf/gay-golf/bo-gay-golf",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67465,
+                                "text": "Gậy Driver",
+                                "url_key": "gay-driver",
+                                "full_url_key": "golf/gay-golf/gay-driver",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67466,
+                                "text": "Gậy Golf khác",
+                                "url_key": "gay-golf-khac",
+                                "full_url_key": "golf/gay-golf/gay-golf-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67467,
+                                "text": "Gậy Golf trẻ em",
+                                "url_key": "gay-golf-tre-em",
+                                "full_url_key": "golf/gay-golf/gay-golf-tre-em",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67468,
+                                "text": "Gậy Putter",
+                                "url_key": "gay-putter",
+                                "full_url_key": "golf/gay-golf/gay-putter",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67469,
+                                "text": "Gậy Tập Kỹ Thuật",
+                                "url_key": "gay-tap-ky-thuat",
+                                "full_url_key": "golf/gay-golf/gay-tap-ky-thuat",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67470,
+                                "text": "Gậy Wedges",
+                                "url_key": "gay-wedges",
+                                "full_url_key": "golf/gay-golf/gay-wedges",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67471,
+                                "text": "Gậy Wood",
+                                "url_key": "gay-wood",
+                                "full_url_key": "golf/gay-golf/gay-wood",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "gay-golf",
+                        "url_path": "gay-golf/c24092",
+                        "product_count": 101,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/83/10/3b/3ef7247119f050dd1786704f96e21f46.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 24094,
+                        "text": "Túi Golf",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tui-golf",
+                        "url_path": "tui-golf/c24094",
+                        "product_count": 57,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/76/bf/e3/2bd0093757c3126c3acbb5fcc2a10ab8.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 24096,
+                        "text": "Banh Golf",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "banh-golf",
+                        "url_path": "banh-golf/c24096",
+                        "product_count": 20,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/63/8f/c1/73eaddb1c2b0004a44ded10548ff625e.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 24098,
+                        "text": "Găng tay Golf",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67461,
+                                "text": "Bộ găng tay",
+                                "url_key": "bo-gang-tay",
+                                "full_url_key": "golf/gang-tay-golf/bo-gang-tay",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67462,
+                                "text": "Găng tay phải",
+                                "url_key": "gang-tay-phai",
+                                "full_url_key": "golf/gang-tay-golf/gang-tay-phai",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67463,
+                                "text": "Găng tay trái",
+                                "url_key": "gang-tay-trai",
+                                "full_url_key": "golf/gang-tay-golf/gang-tay-trai",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "gang-tay-golf",
+                        "url_path": "gang-tay-golf/c24098",
+                        "product_count": 17,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0c/3d/57/0eab94133edc1b1b50ef22f726f6f8ad.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 24100,
+                        "text": "Thảm tập Golf",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "tham-tap-golf",
+                        "url_path": "tham-tap-golf/c24100",
+                        "product_count": 59,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d7/a1/48/048f7afb3d6d9c59efc7a31ba2837deb.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 24102,
+                        "text": "Phụ kiện Golf",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67472,
+                                "text": "Dụng cụ tập putting",
+                                "url_key": "dung-cu-tap-putting",
+                                "full_url_key": "golf/phu-kien-golf/dung-cu-tap-putting",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67473,
+                                "text": "Ống nhòm Golf",
+                                "url_key": "ong-nhom-golf",
+                                "full_url_key": "golf/phu-kien-golf/ong-nhom-golf",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 67474,
+                                "text": "Phụ kiện Golf khác",
+                                "url_key": "phu-kien-golf-khac",
+                                "full_url_key": "golf/phu-kien-golf/phu-kien-golf-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-golf",
+                        "url_path": "phu-kien-golf/c24102",
+                        "product_count": 222,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c8/61/c8/8dd21571d297936fd373a3623ebe71e3.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 69622,
+                        "text": "Giày Golf",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67619,
+                                "text": "Giày đánh golf nữ",
+                                "url_key": "giay-danh-golf-nu",
+                                "full_url_key": "golf/giay-golf/giay-danh-golf-nu",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "giay-golf",
+                        "url_path": "giay-golf/c69622",
+                        "product_count": 2,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    }
+                ]
+            }
+        ]
+    }
+]

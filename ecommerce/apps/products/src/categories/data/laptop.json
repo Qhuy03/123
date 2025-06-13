@@ -1,0 +1,1050 @@
+[
+    {
+        "text": "Laptop - Máy Vi Tính - Linh kiện",
+        "icon_url": "https://salt.tikicdn.com/ts/category/92/b5/c0/3ffdb7dbfafd5f8330783e1df20747f6.png",
+        "children": [
+            {
+                "id": 8095,
+                "parent_id": 1846,
+                "text": "Laptop",
+                "type": null,
+                "url_key": "laptop",
+                "url_path": "laptop/c8095",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 356,
+                "is_leaf": false,
+                "meta_title": "Laptop, Máy tính xách tay | Chính hãng, Giá rẻ, Trả góp 0% tại Tiki.vn",
+                "meta_description": "Mua Laptop, máy tính xách tay tại Tiki: ✅ Giá rẻ hơn ✅ Trả góp 0% ✅ Giao tận nơi toàn quốc ✅ Bảo hành tận nhà ✅ Chính hãng: DELL, HP, ASUS, ACER, MSI...",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/80/64/a3/63c650601239e7c9686dc52da7ef6b41.png",
+                "children": [
+                    {
+                        "id": 29010,
+                        "text": "Laptop Truyền Thống",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "laptop-truyen-thong",
+                        "url_path": "laptop-truyen-thong/c29010",
+                        "product_count": 289,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/17/dc/24/ba90c79cff30c301331533394a72d465.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 2458,
+                        "text": "Macbook",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "macbook-imac",
+                        "url_path": "macbook-imac/c2458",
+                        "product_count": 4,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/e6/25/1a/bcb8edaec5c820398091ed6ef33a8fd9.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5584,
+                        "text": "Laptop Gaming",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "laptop-gaming",
+                        "url_path": "laptop-gaming/c5584",
+                        "product_count": 51,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3b/c5/a3/390d6035c1b752425f693d431ca9a42e.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 29008,
+                        "text": "Laptop 2 trong 1",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "laptop-2-trong-1",
+                        "url_path": "laptop-2-trong-1/c29008",
+                        "product_count": 12,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 12884,
+                "parent_id": 1846,
+                "text": "Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi",
+                "type": null,
+                "url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi",
+                "url_path": "thiet-bi-van-phong-thiet-bi-ngoai-vi/c12884",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 5368,
+                "is_leaf": false,
+                "meta_title": "Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi",
+                "meta_description": "Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d7/dc/1e/25ac7d451b7c97b6d4fd44f649311014.png",
+                "children": [
+                    {
+                        "id": 2665,
+                        "text": "Màn Hình Máy Tính",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28932,
+                                "text": "Màn Hình Phổ Thông",
+                                "url_key": "man-hinh-pho-thong",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/man-hinh-may-tinh/man-hinh-pho-thong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 12672,
+                                "text": "Màn Hình Gaming",
+                                "url_key": "man-hinh-gaming",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/man-hinh-may-tinh/man-hinh-gaming",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28934,
+                                "text": "Màn Hình Di Động",
+                                "url_key": "man-hinh-di-dong",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/man-hinh-may-tinh/man-hinh-di-dong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28930,
+                                "text": "Màn Hình Đồ Họa",
+                                "url_key": "man-hinh-do-hoa",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/man-hinh-may-tinh/man-hinh-do-hoa",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "man-hinh-may-tinh",
+                        "url_path": "man-hinh-may-tinh/c2665",
+                        "product_count": 525,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a2/98/7f/d2ea0a3b54d9a62f8f06a1f4655f80b7.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2308,
+                        "text": "Máy In - Photocopy",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 6556,
+                                "text": "Máy In Laser",
+                                "url_key": "may-in-laser",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/may-in-photocopy/may-in-laser",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 6561,
+                                "text": "Máy In Phun",
+                                "url_key": "may-in-phun",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/may-in-photocopy/may-in-phun",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8089,
+                                "text": "Máy In Ảnh",
+                                "url_key": "may-in-anh",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/may-in-photocopy/may-in-anh",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28936,
+                                "text": "Máy In Nhãn, Hóa Đơn",
+                                "url_key": "may-in-nhan-hoa-don",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/may-in-photocopy/may-in-nhan-hoa-don",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28938,
+                                "text": "Máy In Kim",
+                                "url_key": "may-in-kim",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/may-in-photocopy/may-in-kim",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 8087,
+                                "text": "Máy Photocopy",
+                                "url_key": "may-photocopy",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/may-in-photocopy/may-photocopy",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28940,
+                                "text": "Linh Kiện và Phụ Kiện Máy In",
+                                "url_key": "linh-kien-va-phu-kien-may-in",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/may-in-photocopy/linh-kien-va-phu-kien-may-in",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-in-photocopy",
+                        "url_path": "may-in-photocopy/c2308",
+                        "product_count": 706,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b0/83/60/4ab0c01305795398c12cce62496bd927.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 6255,
+                        "text": "Phần Mềm Máy Tính",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phan-mem-may-tinh",
+                        "url_path": "phan-mem-may-tinh/c6255",
+                        "product_count": 119,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d7/dc/1e/25ac7d451b7c97b6d4fd44f649311014.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 4532,
+                        "text": "Mực In và Toner",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28942,
+                                "text": "Mực In Màu",
+                                "url_key": "muc-in-mau",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/muc-in-va-toner/muc-in-mau",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28944,
+                                "text": "Drums và Toner Cho Máy In Laser",
+                                "url_key": "drums-va-toner-cho-may-in-laser",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/muc-in-va-toner/drums-va-toner-cho-may-in-laser",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "muc-in-va-toner",
+                        "url_path": "muc-in-va-toner/c4532",
+                        "product_count": 2124,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3b/36/38/5989083d61b9d809e898f35c77013326.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 4542,
+                        "text": "Máy Scan Tài Liệu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-scan-tai-lieu",
+                        "url_path": "may-scan-tai-lieu/c4542",
+                        "product_count": 41,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/54/85/cc/c8a9c722a31601eb552cc9b7c63923e7.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8086,
+                        "text": "Giấy In",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28946,
+                                "text": "Nhãn In",
+                                "url_key": "nhan-in",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/giay-in/nhan-in",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28948,
+                                "text": "Giấy In Hóa Đơn - Giấy In Tem",
+                                "url_key": "giay-in-hoa-don-giay-in-tem",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/giay-in/giay-in-hoa-don-giay-in-tem",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28950,
+                                "text": "Giấy In Ảnh",
+                                "url_key": "giay-in-anh",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/giay-in/giay-in-anh",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "giay-in",
+                        "url_path": "giay-in/c8086",
+                        "product_count": 672,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d7/d6/0f/cfc7a6bb9af5e4c68d42b2f22381375a.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 2664,
+                        "text": "Máy Chiếu và Phụ Kiện Máy Chiếu",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28952,
+                                "text": "Máy chiếu",
+                                "url_key": "may-chieu",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/may-chieu-va-phu-kien-may-chieu/may-chieu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28960,
+                                "text": "Phụ kiện máy chiếu",
+                                "url_key": "phu-kien-may-chieu",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/may-chieu-va-phu-kien-may-chieu/phu-kien-may-chieu",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 29002,
+                                "text": "Màn hình ghép - Màn hình LED",
+                                "url_key": "man-hinh-ghep-man-hinh-led",
+                                "full_url_key": "thiet-bi-van-phong-thiet-bi-ngoai-vi/may-chieu-va-phu-kien-may-chieu/man-hinh-ghep-man-hinh-led",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-chieu-va-phu-kien-may-chieu",
+                        "url_path": "may-chieu-va-phu-kien-may-chieu/c2664",
+                        "product_count": 235,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cc/42/69/a3b27efb6b35f40b934da1bae33db095.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 30020,
+                        "text": "Máy Scan Mã Vạch",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-scan-ma-vach",
+                        "url_path": "may-scan-ma-vach/c30020",
+                        "product_count": 235,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/da/88/63/c334b775c3e4c284ef3eff18cb692314.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 10089,
+                        "text": "Máy Hủy Tài Liệu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-huy-tai-lieu",
+                        "url_path": "may-huy-tai-lieu/c10089",
+                        "product_count": 31,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 12886,
+                        "text": "Máy Chấm Công",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-cham-cong",
+                        "url_path": "may-cham-cong/c12886",
+                        "product_count": 605,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7e/00/64/08c638ed8cecc12622b0cbb600728344.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 8088,
+                        "text": "Máy Fax",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-fax",
+                        "url_path": "may-fax/c8088",
+                        "product_count": 1,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2c/90/2e/bd048edb6f494f19340d8635a946244e.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 29006,
+                        "text": "Máy Đếm Tiền",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-dem-tien",
+                        "url_path": "may-dem-tien/c29006",
+                        "product_count": 39,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/44/1c/dd/b6fc0008601723bdfa4ebbddad998e9f.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 12890,
+                        "text": "Thiết Bị Truyền Thông Hội Nghị",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-truyen-thong-hoi-nghi",
+                        "url_path": "thiet-bi-truyen-thong-hoi-nghi/c12890",
+                        "product_count": 37,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c8/b1/aa/3c9113d9558e629962425834d78f93e9.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 8060,
+                "parent_id": 1846,
+                "text": "Thiết Bị Lưu Trữ",
+                "type": null,
+                "url_key": "thiet-bi-luu-tru",
+                "url_path": "thiet-bi-luu-tru/c8060",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 867,
+                "is_leaf": false,
+                "meta_title": "Thiết Bị Lưu Trữ",
+                "meta_description": "Thiết Bị Lưu Trữ",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/06/d0/00/9df3937c390fcc0b66161f4dbe783757.jpg",
+                "children": [
+                    {
+                        "id": 28844,
+                        "text": "Ổ Cứng Gắn Trong",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 4051,
+                                "text": "Ổ Cứng HDD",
+                                "url_key": "o-cung-hdd",
+                                "full_url_key": "thiet-bi-luu-tru/o-cung-gan-trong/o-cung-hdd",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 2146,
+                                "text": "Ổ Cứng SSD",
+                                "url_key": "o-cung-ssd",
+                                "full_url_key": "thiet-bi-luu-tru/o-cung-gan-trong/o-cung-ssd",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "o-cung-gan-trong",
+                        "url_path": "o-cung-gan-trong/c28844",
+                        "product_count": 356,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/06/d0/00/9df3937c390fcc0b66161f4dbe783757.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 1827,
+                        "text": "Ổ Cứng Di Động",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28840,
+                                "text": "Ổ Cứng SSD Di Động",
+                                "url_key": "o-cung-ssd-di-dong",
+                                "full_url_key": "thiet-bi-luu-tru/o-cung-di-dong/o-cung-ssd-di-dong",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28842,
+                                "text": "Ổ Cứng HDD Di Động",
+                                "url_key": "o-cung-hdd-di-dong",
+                                "full_url_key": "thiet-bi-luu-tru/o-cung-di-dong/o-cung-hdd-di-dong",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "o-cung-di-dong",
+                        "url_path": "o-cung-di-dong/c1827",
+                        "product_count": 137,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d6/9f/b3/01bf187f1fdd5cb0d4fcc3c7f2854c5b.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 5350,
+                        "text": "Case Ổ Cứng- Hộp Đựng HDD Box - Dock Ổ Cứng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "case-o-cung-hop-dung-hdd-box-dock-o-cung",
+                        "url_path": "case-o-cung-hop-dung-hdd-box-dock-o-cung/c5350",
+                        "product_count": 141,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5f/82/9b/4d0c5695e7fcfe9a715f29c4c02c5304.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5349,
+                        "text": "Thiết Bị Lưu Trữ Qua Mạng NAS",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-luu-tru-qua-mang-nas",
+                        "url_path": "thiet-bi-luu-tru-qua-mang-nas/c5349",
+                        "product_count": 98,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ef/da/9e/11c9448fd104101837dd96a508c30c6b.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 1828,
+                        "text": "USB",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "usb-luu-tru",
+                        "url_path": "usb-luu-tru/c1828",
+                        "product_count": 127,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ac/38/ee/243087b0ff98b6461e82a9e21683bd13.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28838,
+                        "text": "Đĩa Trắng - Băng Cuộn",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "dia-trang-bang-cuon",
+                        "url_path": "dia-trang-bang-cuon/c28838",
+                        "product_count": 8,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/12/2c/2e/819b89ccf21f7d683474dc4c64fc5eec.png",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 2663,
+                "parent_id": 1846,
+                "text": "Thiết Bị Mạng",
+                "type": null,
+                "url_key": "thiet-bi-mang",
+                "url_path": "thiet-bi-mang/c2663",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 2101,
+                "is_leaf": false,
+                "meta_title": "Thiết Bị Mạng",
+                "meta_description": "Thiết Bị Mạng",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/00/20/fc/268770e25b8ff373891a6b188db0c438.jpg",
+                "children": [
+                    {
+                        "id": 13150,
+                        "text": "Thiết Bị Phát Sóng Wifi",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 4316,
+                                "text": "Access Point - Điểm Truy Cập",
+                                "url_key": "access-point-diem-truy-cap",
+                                "full_url_key": "thiet-bi-mang/thiet-bi-phat-song-wifi/access-point-diem-truy-cap",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 4293,
+                                "text": "Router Wifi",
+                                "url_key": "router-khong-day",
+                                "full_url_key": "thiet-bi-mang/thiet-bi-phat-song-wifi/router-khong-day",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 4294,
+                                "text": "USB Wifi",
+                                "url_key": "usb-wifi",
+                                "full_url_key": "thiet-bi-mang/thiet-bi-phat-song-wifi/usb-wifi",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-phat-song-wifi",
+                        "url_path": "thiet-bi-phat-song-wifi/c13150",
+                        "product_count": 536,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/00/20/fc/268770e25b8ff373891a6b188db0c438.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 4343,
+                        "text": "Bộ Kích Sóng Wifi",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-kich-song-wifi",
+                        "url_path": "bo-kich-song-wifi/c4343",
+                        "product_count": 82,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ac/e1/0b/60e99360b872eedbbf281f866da4480b.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 4345,
+                        "text": "Bộ Phát Wifi Di Động 3G/4G - Mifi",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-phat-wifi-di-dong-3g4g-mifi",
+                        "url_path": "bo-phat-wifi-di-dong-3g4g-mifi/c4345",
+                        "product_count": 143,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/28/68/ad/2099249633fc81f51a39c3aff64417b0.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 4454,
+                        "text": "Bộ Chia Mạng - Switch",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-chia-mang-switch",
+                        "url_path": "bo-chia-mang-switch/c4454",
+                        "product_count": 260,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1b/b9/05/6b2de11c6e257623334f9a1e2680e542.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 4642,
+                        "text": "Phụ Kiện Thiết Bị Mạng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "phu-kien-thiet-bi-mang",
+                        "url_path": "phu-kien-thiet-bi-mang/c4642",
+                        "product_count": 900,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28894,
+                        "text": "Bộ Chuyển Đổi - Transceivers",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-chuyen-doi-transceivers",
+                        "url_path": "bo-chuyen-doi-transceivers/c28894",
+                        "product_count": 116,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cc/d2/40/286b3ae16926f5ceeaa55cf48fb85b0f.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 4346,
+                        "text": "Mở Rộng Mạng Qua Đường Điện - Powerline Ethernet",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "mo-rong-mang-qua-duong-dien-powerline-ethernet",
+                        "url_path": "mo-rong-mang-qua-duong-dien-powerline-ethernet/c4346",
+                        "product_count": 5,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/33/e8/1a/f1a6e8e8495de19978d632f29b759eec.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 7361,
+                        "text": "Card Mạng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "card-mang",
+                        "url_path": "card-mang/c7361",
+                        "product_count": 52,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1a/9c/4e/3de2041b04806d4fa93cde1738c41ef3.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28896,
+                        "text": "Ăng-Ten Mạng",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "ang-ten-mang",
+                        "url_path": "ang-ten-mang/c28896",
+                        "product_count": 7,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/t/l/tl-wr841hp.u579.d20161024.t134910.266509.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 4585,
+                        "text": "Modem ADSL",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "modem-adsl",
+                        "url_path": "modem-adsl/c4585",
+                        "product_count": 8,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/47/e7/c7/680614076b12bdc205766e2fa6b5ec66.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 8093,
+                "parent_id": 1846,
+                "text": "PC - Máy Tính Bộ",
+                "type": null,
+                "url_key": "pc-may-tinh-bo",
+                "url_path": "pc-may-tinh-bo/c8093",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 142,
+                "is_leaf": false,
+                "meta_title": "PC - Máy Tính Bộ | Chính hãng, Giá rẻ, Trả góp 0% tại Tiki.vn",
+                "meta_description": "PC - Máy Tính Bộ tại Tiki: ✅ Giá rẻ hơn ✅ Trả góp 0% ✅ Giao tận nơi toàn quốc ✅ Bảo hành tận nhà ✅ Chính hãng: DELL, HP, ASUS, ACER, MSI...",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                "children": [
+                    {
+                        "id": 8094,
+                        "text": "Máy Tính All in one",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-tinh-all-in-one",
+                        "url_path": "may-tinh-all-in-one/c8094",
+                        "product_count": 10,
+                        "icon_url": "https://salt.tikicdn.com/ts/category/95/31/5f/0b6f9e48eaf0096ec169d1e3fc8f49b1.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 7369,
+                        "text": "Mini PC",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "mini-pc",
+                        "url_path": "mini-pc/c7369",
+                        "product_count": 22,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 5172,
+                        "text": "Máy Tính Để Bàn Lắp Ráp",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 67081,
+                                "text": "PC Gaming",
+                                "url_key": "pc-gaming",
+                                "full_url_key": "pc-may-tinh-bo/may-tinh-de-ban-lap-rap/pc-gaming",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "may-tinh-de-ban-lap-rap",
+                        "url_path": "may-tinh-de-ban-lap-rap/c5172",
+                        "product_count": 9,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 29014,
+                        "text": "Towers - Máy Chủ - Server",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "towers-may-chu-server",
+                        "url_path": "towers-may-chu-server/c29014",
+                        "product_count": 13,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5f/ee/34/11d7d607cb7f4bd8c8bcc69f614d6330.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 29016,
+                        "text": "Máy Tính Bộ Thương Hiệu",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "may-tinh-bo-thuong-hieu",
+                        "url_path": "may-tinh-bo-thuong-hieu/c29016",
+                        "product_count": 88,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e2/ea/5a/e93c2e5ef3aebeb34add221641bba1b9.jpg",
+                        "is_leaf": true
+                    }
+                ]
+            },
+            {
+                "id": 8129,
+                "parent_id": 1846,
+                "text": "Linh Kiện Máy Tính - Phụ Kiện Máy Tính",
+                "type": null,
+                "url_key": "linh-kien-may-tinh-phu-kien-may-tinh",
+                "url_path": "linh-kien-may-tinh-phu-kien-may-tinh/c8129",
+                "level": 3,
+                "status": "active",
+                "include_in_menu": true,
+                "product_count": 10000,
+                "is_leaf": false,
+                "meta_title": "Linh Kiện Máy Tính - Phụ Kiện Máy Tính",
+                "meta_description": "Linh Kiện Máy Tính - Phụ Kiện Máy Tính",
+                "meta_keywords": null,
+                "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/57/04/fc/8dc25d4eb6ffa75b2b6df2aa0a21be04.jpg",
+                "children": [
+                    {
+                        "id": 28900,
+                        "text": "Nguồn Máy Tính",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "nguon-may-tinh",
+                        "url_path": "nguon-may-tinh/c28900",
+                        "product_count": 246,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11964,
+                        "text": "Bộ Lưu Điện - UPS",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-luu-dien-ups",
+                        "url_path": "bo-luu-dien-ups/c11964",
+                        "product_count": 109,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2a/fc/51/47a7c02cea29d785a74fefa88097b388.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11956,
+                        "text": "Mainboard - Board Mạch Chủ",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "mainboard-board-mach-chu",
+                        "url_path": "mainboard-board-mach-chu/c11956",
+                        "product_count": 307,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0e/5c/1f/44c4389f87bfb1264d25c1c14e2778ae.png",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11962,
+                        "text": "Bộ Vi Xử Lý CPU",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "bo-vi-xu-ly-cpu",
+                        "url_path": "bo-vi-xu-ly-cpu/c11962",
+                        "product_count": 147,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/42/8d/13/500e010dce0004c27af9a06eeaed7483.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11960,
+                        "text": "Vỏ Case - Thùng Máy",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "vo-case-thung-may",
+                        "url_path": "vo-case-thung-may/c11960",
+                        "product_count": 123,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28902,
+                        "text": "Hệ Thống Tản Nhiệt",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28904,
+                                "text": "Quạt Tản Nhiệt",
+                                "url_key": "quat-tan-nhiet",
+                                "full_url_key": "linh-kien-may-tinh-phu-kien-may-tinh/he-thong-tan-nhiet/quat-tan-nhiet",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28906,
+                                "text": "Keo - Pad Tản Nhiệt",
+                                "url_key": "keo-pad-tan-nhiet",
+                                "full_url_key": "linh-kien-may-tinh-phu-kien-may-tinh/he-thong-tan-nhiet/keo-pad-tan-nhiet",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "he-thong-tan-nhiet",
+                        "url_path": "he-thong-tan-nhiet/c28902",
+                        "product_count": 145,
+                        "icon_url": "https://salt.tikicdn.com/assets/img/image.svg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 11958,
+                        "text": "Card Màn Hình - VGA",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "card-man-hinh-vga",
+                        "url_path": "card-man-hinh-vga/c11958",
+                        "product_count": 122,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/51/9b/7a/13dc6af1d3f5d254f1ccaa0d2e20ca50.PNG",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11966,
+                        "text": "Sound Card - Card Âm Thanh",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "sound-card-card-am-thanh",
+                        "url_path": "sound-card-card-am-thanh/c11966",
+                        "product_count": 69,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/40/3a/64/f4019e5f643e0d137bb93e42cadcb45c.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 2680,
+                        "text": "RAM Máy Tính",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 2679,
+                                "text": "RAM Laptop",
+                                "url_key": "ram-laptop",
+                                "full_url_key": "linh-kien-may-tinh-phu-kien-may-tinh/ram-may-tinh/ram-laptop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 12298,
+                                "text": "RAM Desktop",
+                                "url_key": "ram-desktop",
+                                "full_url_key": "linh-kien-may-tinh-phu-kien-may-tinh/ram-may-tinh/ram-desktop",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "ram-may-tinh",
+                        "url_path": "ram-may-tinh/c2680",
+                        "product_count": 195,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/57/04/fc/8dc25d4eb6ffa75b2b6df2aa0a21be04.jpg",
+                        "is_leaf": false
+                    },
+                    {
+                        "id": 28908,
+                        "text": "Ổ Đĩa Quang",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "o-dia-quang",
+                        "url_path": "o-dia-quang/c28908",
+                        "product_count": 10,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7e/a8/f2/642a534dfa5f05717d02b8abcfc9ea4d.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28910,
+                        "text": "I/O Port Cards",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "io-port-cards",
+                        "url_path": "io-port-cards/c28910",
+                        "product_count": 8,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2f/11/80/3cacb24ee6fc7a9718bf7abcedc3a59d.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28914,
+                        "text": "Thiết Bị Streaming và Capture Cards",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "thiet-bi-streaming-va-capture-cards",
+                        "url_path": "thiet-bi-streaming-va-capture-cards/c28914",
+                        "product_count": 16,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f4/02/85/5912b604d15fe5dbb11364c0253b9ae6.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28916,
+                        "text": "KVM Switches - Switch HDMI",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "kvm-switches-switch-hdmi",
+                        "url_path": "kvm-switches-switch-hdmi/c28916",
+                        "product_count": 25,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1d/11/e3/05d951775dd252647e58218967d2dc01.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 11968,
+                        "text": "Linh Kiện Máy Tính Khác",
+                        "type": null,
+                        "children": [],
+                        "include_in_menu": true,
+                        "url_key": "linh-kien-may-tinh-khac",
+                        "url_path": "linh-kien-may-tinh-khac/c11968",
+                        "product_count": 145,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/54/4a/a0/c2aa35cf906a775c994cc244960f6451.jpg",
+                        "is_leaf": true
+                    },
+                    {
+                        "id": 28918,
+                        "text": "Linh Kiện Thay Thế Cho Laptop",
+                        "type": null,
+                        "children": [
+                            {
+                                "id": 28920,
+                                "text": "Adapter Sạc Laptop",
+                                "url_key": "adapter-sac-laptop",
+                                "full_url_key": "linh-kien-may-tinh-phu-kien-may-tinh/linh-kien-thay-the-cho-laptop/adapter-sac-laptop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28922,
+                                "text": "Bàn Phím Thay Thế Laptop",
+                                "url_key": "ban-phim-thay-the-laptop",
+                                "full_url_key": "linh-kien-may-tinh-phu-kien-may-tinh/linh-kien-thay-the-cho-laptop/ban-phim-thay-the-laptop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28924,
+                                "text": "Pin Thay Thế Laptop",
+                                "url_key": "pin-thay-the-laptop",
+                                "full_url_key": "linh-kien-may-tinh-phu-kien-may-tinh/linh-kien-thay-the-cho-laptop/pin-thay-the-laptop",
+                                "include_in_menu": "1",
+                                "type": null
+                            },
+                            {
+                                "id": 28926,
+                                "text": "Linh Kiện Thay Thế Laptop Khác",
+                                "url_key": "linh-kien-thay-the-laptop-khac",
+                                "full_url_key": "linh-kien-may-tinh-phu-kien-may-tinh/linh-kien-thay-the-cho-laptop/linh-kien-thay-the-laptop-khac",
+                                "include_in_menu": "1",
+                                "type": null
+                            }
+                        ],
+                        "include_in_menu": true,
+                        "url_key": "linh-kien-thay-the-cho-laptop",
+                        "url_path": "linh-kien-thay-the-cho-laptop/c28918",
+                        "product_count": 10000,
+                        "icon_url": "https://salt.tikicdn.com/cache/280x280/ts/product/84/8a/aa/2b0be0d29b3c031f8e2216ef241840b7.jpg",
+                        "is_leaf": false
+                    }
+                ]
+            }
+        ]
+    }
+]
